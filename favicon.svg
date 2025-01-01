@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+    <path fill="#000" d="M16 2l12 7v14l-12 7-12-7V9z"/>
+    <text x="16" y="20" fill="white" font-family="Arial" font-size="11" text-anchor="middle" font-weight="bold">JES</text>
+</svg>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>St. Isid. UP - About</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="alternate icon" href="favicon.ico">
+    <link rel="stylesheet" href="components.css">
+</head>
+<body>
+    <div id="header-placeholder"></div>
+
+    <main class="container">
+        <p>St. Isidore University Press, formally <b>Jsidoris Euniversitatis Scriptorium</b> ("JES" for short), is a project of the faculty of St. Isidore University, located in far northern California, although not to be found on most maps. The editorial board of JES includes the following:</p>
+        <ul>
+            <li>Ludovico Ambrosius is professor of bee-keeping and board game design.</li>
+            <li>Jørgen Agosto Comgall is professor of the philosophy of the history of philosophy of history.</li>
+            <li>E. Lawrence Hayward is professor of regularity.</li>
+            <li>Lyzander Keretzky is professor of noneuclidean architecture.</li>
+            <li>Porphyry Pteropsichore is professor of order.</li>
+            <li>Hugo Purcell is professor of psychometry and physiology.</li>
+            <li>Eugene Swinton is professor of pigkeeping and population dynamics.</li>
+            <li>Tom G. Turner is professor of dialects and dialectics.</li>
+        </ul>
+	<p>The pseudonym of the chief clerk of JES is Salvator R. Tarnmoor. He sporadically checks <a href="mailto:s_r_tarnmoor@protonmail.com">his email address</a>, but a more reliable point of contact would be <a href="https://x.com/s_r_tarnmoor">@s_r_tarnmoor on X</a>.</p>
+    </main>
+
+    <div id="footer-placeholder"></div>
+
+    <script>
+        // Load header and footer
+        async function loadComponents() {
+            const response = await fetch('components.html');
+            const text = await response.text();
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(text, 'text/html');
+            
+            // Load header
+            const headerTemplate = doc.getElementById('site-header');
+            document.getElementById('header-placeholder').innerHTML = headerTemplate.innerHTML;
+            
+            // Load footer
+            const footerTemplate = doc.getElementById('site-footer');
+            document.getElementById('footer-placeholder').innerHTML = footerTemplate.innerHTML;
+        }
+
+        loadComponents();
+    </script>
+</body>
+</html>

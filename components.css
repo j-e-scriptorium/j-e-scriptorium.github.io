@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+:root {
+    --library-green: #5C7A63;
+    --text-color: #333;
+    --background-color: #f9f9f9;
+}
+
+/* Base Styles */
+body {
+    font-family: "FreeSerif", "Libre Baskerville", Georgia, serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: var(--background-color);
+    color: var(--text-color);
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+}
+
+/* Header & Navigation Styles */
+header {
+    background: white;
+    color: black;
+    padding: 0.5rem 0;
+    position: relative;
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+.header-content h1 {
+    margin: 0;
+}
+
+nav {
+    background: var(--library-green);
+    padding: 0.5rem 0;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    font-weight: 500;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Book Grid Styles */
+.book-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    padding: 2rem 0;
+}
+
+.book-card {
+    background: white;
+    border-radius: 8px;
+    padding: 1.5rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
+}
+
+.book-card:hover {
+    transform: translateY(-5px);
+}
+
+.book-cover {
+    width: 100%;
+    height: 400px;
+    margin-bottom: 1rem;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.book-cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.2s;
+}
+
+.book-links {
+    margin-top: 1rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem;
+}
+
+.book-links a {
+    color: var(--library-green);
+    text-decoration: none;
+    font-size: 0.9em;
+    padding: 0.25rem 0;
+}
+
+.book-links a:hover {
+    text-decoration: underline;
+}
+
+/* Footer Styles */
+footer {
+    background: white;
+    color: black;
+    padding: 2rem 0;
+    margin-top: 4rem;
+    border-top: 1px solid black;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.footer-content .logo {
+    width: 48px;
+    height: 48px;
+}
+
+.footer-content .logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
