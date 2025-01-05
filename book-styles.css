@@ -1,6 +1,6 @@
 /* Book-specific styles */
 .book-content {
-    max-width: 800px;
+    max-width: 550px;
     margin: 0 auto;
     padding: 2rem;
 }
@@ -81,6 +81,12 @@
     padding-left: 2rem;
 }
 
+.toc-centered {
+    text-align: center;
+    font-style: italic;
+}
+
+
 .author-bio {
     margin: 3rem 0;
     text-align: center;
@@ -98,4 +104,19 @@ blockquote {
     padding-left: 2rem;
     border-left: 3px solid var(--library-green);
     font-style: italic;
+}
+
+.monospace {
+    font-family: "FreeMono", mono;
+    font-style: normal;
+}
+
+.whaling-prose {
+    text-align: right;
+    font-family: "FreeSans", sans-serif;
+    font-style: normal;
+}
+
+.small-caps {
+    font-variant: small-caps;
 }
