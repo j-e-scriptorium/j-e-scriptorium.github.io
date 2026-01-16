@@ -113,9 +113,17 @@ nav a:hover {
 }
 
 .book-details .author {
-    margin: 0 0 1rem;
+    margin: 0 0 0.75rem;
     font-size: 0.95rem;
     color: #555;
+}
+
+.book-blurb {
+    margin: 0 0 1rem;
+    font-size: 0.85rem;
+    font-style: italic;
+    color: #666;
+    line-height: 1.5;
 }
 
 .book-links {
