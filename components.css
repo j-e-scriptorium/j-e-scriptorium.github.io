@@ -2,6 +2,7 @@
 
 :root {
     --library-green: #5C7A63;
+    --chalk-white: #F5F5F0;
     --text-color: #333;
     --background-color: #FFFEF5;
     --rule-color: #999;
@@ -25,8 +26,8 @@ body {
 
 /* Header Styles */
 header {
-    background: var(--background-color);
-    padding: 1.25rem 0 0.75rem;
+    background: var(--library-green);
+    padding: 1rem 0;
 }
 
 .header-inner {
@@ -46,6 +47,7 @@ header {
 .header-lockup img {
     width: 32px;
     height: 32px;
+    filter: brightness(0) invert(1);
 }
 
 .header-lockup .site-title {
@@ -53,7 +55,8 @@ header {
     font-variant: small-caps;
     letter-spacing: 0.05em;
     margin: 0;
-    font-weight: normal;
+    font-weight: bold;
+    color: var(--chalk-white);
 }
 
 nav ul {
@@ -65,19 +68,14 @@ nav ul {
 }
 
 nav a {
-    color: var(--library-green);
+    color: var(--chalk-white);
     text-decoration: none;
     font-size: 0.95rem;
+    font-weight: bold;
 }
 
 nav a:hover {
     text-decoration: underline;
-}
-
-.header-rule {
-    border: none;
-    border-top: 1px solid var(--rule-color);
-    margin: 0;
 }
 
 /* Book Catalog Styles */
@@ -138,11 +136,10 @@ nav a:hover {
 
 /* Footer Styles */
 footer {
-    background: var(--background-color);
-    color: var(--text-color);
+    background: var(--library-green);
+    color: var(--chalk-white);
     padding: 2rem 0;
     margin-top: 2rem;
-    border-top: 1px solid var(--rule-color);
     text-align: center;
 }
 
@@ -162,12 +159,13 @@ footer {
     width: 100%;
     height: 100%;
     object-fit: contain;
+    filter: brightness(0) invert(1);
 }
 
 .footer-content p {
     margin: 0;
     font-size: 0.85rem;
-    color: #666;
+    color: var(--chalk-white);
 }
 
 /* Utility classes */
