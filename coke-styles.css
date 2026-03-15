@@ -6,11 +6,6 @@ html {
     scroll-padding-top: 2rem;
 }
 
-/* Override book-content max-width for this wider-format book */
-.book-content.coke-reports {
-    max-width: 680px;
-}
-
 /* ---- SIDEBAR NAV ---- */
 nav.parts-nav {
     position: fixed;
@@ -78,117 +73,7 @@ nav.parts-nav .nav-extra a {
     margin-left: 160px;
 }
 
-/* ---- EDITION HEADER ---- */
-.edition-header {
-    text-align: center;
-    margin-bottom: 2rem;
-    padding-bottom: 1.5rem;
-    border-bottom: 1px solid var(--rule-color);
-}
-.edition-header h1 {
-    font-weight: normal;
-    font-size: 1.6rem;
-    margin-bottom: 0.3rem;
-    line-height: 1.35;
-}
-.edition-header .edition-sub {
-    font-style: italic;
-    font-size: 0.95rem;
-    color: #555;
-}
-
-/* ---- EDITOR'S INTRO ---- */
-.editors-intro {
-    margin-bottom: 2.5rem;
-    padding-bottom: 1.5rem;
-    border-bottom: 1px solid var(--rule-color);
-}
-.editors-intro h2 {
-    border-bottom: none;
-    padding-bottom: 0;
-    margin-bottom: 0.75rem;
-}
-.editors-intro p {
-    text-indent: 1.5em;
-    margin-bottom: 0.3em;
-}
-.editors-intro p:first-of-type {
-    text-indent: 0;
-}
-.editors-intro p:first-of-type::first-letter {
-    font-size: 2.4em;
-    float: left;
-    line-height: 0.85;
-    margin-right: 0.08em;
-    margin-top: 0.05em;
-    font-weight: 500;
-    color: var(--library-green);
-}
-
-/* ---- TITLE BLOCK ---- */
-header.title-block {
-    text-align: center;
-    margin-bottom: 3rem;
-    padding-bottom: 2rem;
-    border-bottom: 1px solid var(--rule-color);
-}
-header.title-block h2 {
-    font-variant: small-caps;
-    font-size: 1.5rem;
-    font-weight: bold;
-    letter-spacing: 0.05em;
-    margin-bottom: 0.5rem;
-    line-height: 1.3;
-    border-bottom: none;
-    padding-bottom: 0;
-    text-transform: none;
-}
-header.title-block .subtitle {
-    font-style: italic;
-    font-size: 0.95rem;
-    color: #555;
-    max-width: 28em;
-    margin: 0 auto;
-}
-header.title-block .imprint {
-    margin-top: 1.5rem;
-    font-size: 0.82rem;
-    color: #555;
-    font-variant-numeric: oldstyle-nums;
-}
-
-/* ---- SECTION HEADINGS (h2 within book) ---- */
-.coke-reports h2 {
-    font-variant: small-caps;
-    font-size: 1.1rem;
-    font-weight: bold;
-    letter-spacing: 0.08em;
-    color: #555;
-    margin: 3rem 0 1.25rem;
-    padding-bottom: 0.4rem;
-    border-bottom: 1px solid var(--rule-color);
-}
-
-/* ---- PREFACE ---- */
-section.preface {
-    margin-bottom: 2.5rem;
-}
-section.preface p {
-    text-indent: 1.5em;
-    margin-bottom: 0.3em;
-}
-section.preface p:first-child {
-    text-indent: 0;
-}
-section.preface p:first-child::first-letter {
-    font-size: 2.4em;
-    float: left;
-    line-height: 0.85;
-    margin-right: 0.08em;
-    margin-top: 0.05em;
-    font-weight: 500;
-    color: var(--library-green);
-}
+/* ---- PREFACE SIGNATURE ---- */
 .preface-sig {
     text-align: right;
     margin-top: 1.25rem;
@@ -198,9 +83,6 @@ section.preface p:first-child::first-letter {
 }
 
 /* ---- CASE TABLE ---- */
-.table-wrap {
-    margin-bottom: 2.5rem;
-}
 .table-filter,
 .subject-filter {
     margin-bottom: 0.75rem;
