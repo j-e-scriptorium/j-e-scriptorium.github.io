@@ -1,0 +1,430 @@
+/* Coke's Reports in Verse — book-specific styles */
+/* Depends on components.css and book-styles.css being loaded first */
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 2rem;
+}
+
+/* Override book-content max-width for this wider-format book */
+.book-content.coke-reports {
+    max-width: 680px;
+}
+
+/* ---- SIDEBAR NAV ---- */
+nav.parts-nav {
+    position: fixed;
+    top: 0; left: 0;
+    width: 160px;
+    height: 100vh;
+    padding: 2rem 0.75rem 2rem 1rem;
+    background: var(--background-color);
+    border-right: 1px solid var(--rule-color);
+    overflow-y: auto;
+    z-index: 100;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+}
+
+nav.parts-nav .nav-title {
+    font-variant: small-caps;
+    font-size: 0.8rem;
+    font-weight: bold;
+    letter-spacing: 0.08em;
+    color: var(--text-color);
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--rule-color);
+}
+
+nav.parts-nav a {
+    display: block;
+    font-variant: small-caps;
+    font-size: 0.85rem;
+    font-weight: normal;
+    color: var(--text-color);
+    text-decoration: none;
+    padding: 0.2rem 0.4rem;
+    border-radius: 3px;
+    transition: background 0.15s, color 0.15s;
+}
+nav.parts-nav a:hover {
+    background: rgba(92, 122, 99, 0.12);
+    color: var(--library-green);
+}
+
+nav.parts-nav .nav-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+}
+nav.parts-nav .nav-extra {
+    margin-top: auto;
+    padding-top: 0.75rem;
+    border-top: 1px solid var(--rule-color);
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+}
+nav.parts-nav .nav-extra a {
+    font-variant: normal;
+    font-size: 0.8rem;
+    font-style: italic;
+}
+
+/* Offset main content for sidebar */
+.coke-reports-wrapper {
+    margin-left: 160px;
+}
+
+/* ---- EDITION HEADER ---- */
+.edition-header {
+    text-align: center;
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--rule-color);
+}
+.edition-header h1 {
+    font-weight: normal;
+    font-size: 1.6rem;
+    margin-bottom: 0.3rem;
+    line-height: 1.35;
+}
+.edition-header .edition-sub {
+    font-style: italic;
+    font-size: 0.95rem;
+    color: #555;
+}
+
+/* ---- EDITOR'S INTRO ---- */
+.editors-intro {
+    margin-bottom: 2.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--rule-color);
+}
+.editors-intro h2 {
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 0.75rem;
+}
+.editors-intro p {
+    text-indent: 1.5em;
+    margin-bottom: 0.3em;
+}
+.editors-intro p:first-of-type {
+    text-indent: 0;
+}
+.editors-intro p:first-of-type::first-letter {
+    font-size: 2.4em;
+    float: left;
+    line-height: 0.85;
+    margin-right: 0.08em;
+    margin-top: 0.05em;
+    font-weight: 500;
+    color: var(--library-green);
+}
+
+/* ---- TITLE BLOCK ---- */
+header.title-block {
+    text-align: center;
+    margin-bottom: 3rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--rule-color);
+}
+header.title-block h2 {
+    font-variant: small-caps;
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.5rem;
+    line-height: 1.3;
+    border-bottom: none;
+    padding-bottom: 0;
+    text-transform: none;
+}
+header.title-block .subtitle {
+    font-style: italic;
+    font-size: 0.95rem;
+    color: #555;
+    max-width: 28em;
+    margin: 0 auto;
+}
+header.title-block .imprint {
+    margin-top: 1.5rem;
+    font-size: 0.82rem;
+    color: #555;
+    font-variant-numeric: oldstyle-nums;
+}
+
+/* ---- SECTION HEADINGS (h2 within book) ---- */
+.coke-reports h2 {
+    font-variant: small-caps;
+    font-size: 1.1rem;
+    font-weight: bold;
+    letter-spacing: 0.08em;
+    color: #555;
+    margin: 3rem 0 1.25rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--rule-color);
+}
+
+/* ---- PREFACE ---- */
+section.preface {
+    margin-bottom: 2.5rem;
+}
+section.preface p {
+    text-indent: 1.5em;
+    margin-bottom: 0.3em;
+}
+section.preface p:first-child {
+    text-indent: 0;
+}
+section.preface p:first-child::first-letter {
+    font-size: 2.4em;
+    float: left;
+    line-height: 0.85;
+    margin-right: 0.08em;
+    margin-top: 0.05em;
+    font-weight: 500;
+    color: var(--library-green);
+}
+.preface-sig {
+    text-align: right;
+    margin-top: 1.25rem;
+    font-style: italic;
+    font-size: 0.9rem;
+    color: #555;
+}
+
+/* ---- CASE TABLE ---- */
+.table-wrap {
+    margin-bottom: 2.5rem;
+}
+.table-filter,
+.subject-filter {
+    margin-bottom: 0.75rem;
+}
+.table-filter input,
+.subject-filter input {
+    font-family: inherit;
+    font-size: 0.9rem;
+    padding: 0.35rem 0.6rem;
+    border: 1px solid var(--rule-color);
+    border-radius: 3px;
+    background: #fff;
+    color: var(--text-color);
+    width: 16rem;
+}
+.table-filter input::placeholder,
+.subject-filter input::placeholder {
+    color: var(--rule-color);
+    font-style: italic;
+}
+table.case-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.88rem;
+    line-height: 1.4;
+}
+table.case-table th {
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 0.8rem;
+    letter-spacing: 0.05em;
+    text-align: left;
+    padding: 0.3rem 0.5rem;
+    border-bottom: 2px solid #555;
+    color: #555;
+}
+table.case-table td {
+    padding: 0.15rem 0.5rem;
+    border-bottom: 1px solid #eee;
+    vertical-align: top;
+}
+table.case-table td a {
+    color: var(--text-color);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule-color);
+    transition: color 0.15s, border-color 0.15s;
+}
+table.case-table td a:hover {
+    color: var(--library-green);
+    border-color: var(--library-green);
+}
+table.case-table td.num {
+    text-align: center;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+}
+table.case-table tr:hover td {
+    background: rgba(92, 122, 99, 0.05);
+}
+
+/* ---- PARTS & CASES ---- */
+section.part {
+    margin-bottom: 3rem;
+}
+section.part > h3 {
+    font-variant: small-caps;
+    font-size: 1.3rem;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    color: var(--library-green);
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 2px solid var(--library-green);
+    position: sticky;
+    top: 0;
+    background: var(--background-color);
+    z-index: 10;
+    padding-top: 0.5rem;
+}
+
+.case {
+    margin-bottom: 1.5rem;
+}
+.case h4 {
+    font-variant: small-caps;
+    font-size: 0.9rem;
+    font-weight: normal;
+    color: #555;
+    margin-bottom: 0.4rem;
+    letter-spacing: 0.04em;
+}
+.case h4 .case-num {
+    font-weight: bold;
+}
+.case h4 .folio {
+    font-variant: normal;
+    font-weight: 400;
+    font-size: 0.85rem;
+    color: var(--rule-color);
+}
+.case h4 .case-subtitle {
+    font-style: italic;
+    font-variant: normal;
+    font-weight: 400;
+}
+
+.verse-block {
+    margin-bottom: 0.9rem;
+    padding-left: 1.25rem;
+    border-left: 2px solid #eee;
+    position: relative;
+}
+.verse-block .entry-folio {
+    position: absolute;
+    left: -2.8rem;
+    top: 0.15rem;
+    font-size: 0.75rem;
+    color: var(--rule-color);
+    font-variant-numeric: tabular-nums;
+    width: 2.2rem;
+    text-align: right;
+}
+.verse-line {
+    display: block;
+    font-size: 0.98rem;
+    line-height: 1.55;
+}
+.case-name {
+    font-variant: small-caps;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+}
+
+/* ---- SUBJECT INDEX ---- */
+.subject-index dl {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0.15rem 1rem;
+    font-size: 0.88rem;
+    line-height: 1.5;
+}
+.subject-index dt {
+    font-style: italic;
+    font-weight: 500;
+    color: var(--text-color);
+    white-space: nowrap;
+}
+.subject-index dd {
+    margin: 0;
+    color: #555;
+    font-variant-numeric: tabular-nums;
+}
+.subject-index dd a {
+    color: #555;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: color 0.15s, border-color 0.15s;
+}
+.subject-index dd a:hover {
+    color: var(--library-green);
+    border-bottom-color: var(--library-green);
+}
+
+/* ---- BOOK FOOTER (original imprint line) ---- */
+.coke-reports .book-footer {
+    margin-top: 4rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--rule-color);
+    font-size: 0.8rem;
+    color: #555;
+    text-align: center;
+    font-style: italic;
+}
+
+/* ---- RESPONSIVE ---- */
+@media (max-width: 800px) {
+    nav.parts-nav {
+        position: static;
+        width: 100%;
+        height: auto;
+        flex-direction: row;
+        flex-wrap: wrap;
+        padding: 0.75rem 1rem;
+        gap: 0.25rem;
+        border-right: none;
+        border-bottom: 1px solid var(--rule-color);
+    }
+    nav.parts-nav .nav-title {
+        width: 100%;
+        margin-bottom: 0.25rem;
+        padding-bottom: 0.25rem;
+    }
+    nav.parts-nav .nav-links {
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 0.15rem;
+    }
+    nav.parts-nav .nav-extra {
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin-top: 0.25rem;
+        padding-top: 0.25rem;
+        width: 100%;
+    }
+    .coke-reports-wrapper {
+        margin-left: 0;
+    }
+    .book-content.coke-reports {
+        padding: 1.5rem 1.25rem 4rem;
+    }
+    section.part > h3 {
+        position: static;
+    }
+    .verse-block .entry-folio {
+        position: static;
+        display: block;
+        margin-bottom: 0.15rem;
+        text-align: left;
+    }
+}
+
+/* ---- PRINT ---- */
+@media print {
+    nav.parts-nav { display: none; }
+    .coke-reports-wrapper { margin-left: 0; }
+    section.part > h3 { position: static; }
+}
