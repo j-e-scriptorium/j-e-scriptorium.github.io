@@ -1,0 +1,111 @@
+/* various-asides-styles.css — page-specific styles for the collection.
+   Depends on components.css and book-styles.css being loaded first.
+   Sidebar idiom borrowed from coke-styles.css. */
+
+html { scroll-behavior: smooth; scroll-padding-top: 2rem; }
+
+/* ---- SIDEBAR NAV ---- */
+nav.parts-nav {
+    position: fixed; top: 0; left: 0;
+    width: 210px; height: 100vh;
+    padding: 1.75rem 0.75rem 1.75rem 1rem;
+    background: var(--background-color);
+    border-right: 1px solid var(--rule-color);
+    overflow-y: auto; z-index: 100;
+    display: flex; flex-direction: column; gap: 0.15rem;
+}
+nav.parts-nav a {
+    display: flex; align-items: center; gap: 0.55rem;
+    font-size: 0.82rem; font-weight: normal;
+    color: var(--text-color); text-decoration: none;
+    padding: 0.3rem 0.4rem; border-radius: 3px; line-height: 1.25;
+    transition: background 0.15s, color 0.15s;
+}
+nav.parts-nav a:hover { background: rgba(92,122,99,0.12); color: var(--library-green); }
+nav.parts-nav .nav-links { display: flex; flex-direction: column; gap: 0.05rem; }
+nav.parts-nav .nav-glyph {
+    flex: 0 0 auto; width: 26px; height: 26px;
+    object-fit: contain; display: block;
+}
+nav.parts-nav .nav-glyph-blank { visibility: hidden; }
+nav.parts-nav .nav-text { flex: 1 1 auto; }
+nav.parts-nav .nav-extra {
+    margin-top: auto; padding-top: 0.75rem;
+    border-top: 1px solid var(--rule-color);
+    display: flex; flex-direction: column; gap: 0.1rem;
+}
+nav.parts-nav .nav-extra a { font-style: italic; font-size: 0.78rem; }
+
+/* offset the main column for the fixed sidebar */
+.book-sidebar-wrapper { margin-left: 210px; }
+
+/* ---- ESSAY SECTION GLYPH (ornament above each essay title) ---- */
+.essay-glyph {
+    display: block; margin: 2.5rem auto 0.75rem;
+    height: 52px; width: auto; object-fit: contain;
+}
+.essay:first-of-type .essay-glyph { margin-top: 1rem; }
+
+/* ---- TITLE / MASTHEAD ---- */
+.book-title .imprint { max-width: 100%; margin: 1.5rem auto; }
+.masthead { margin: 1.5rem 0 0.5rem; font-size: 0.95rem; line-height: 1.4; }
+.masthead-head {
+    font-variant: small-caps; letter-spacing: 0.05em; font-weight: bold;
+    margin: 1rem 0 0.15rem; font-size: 0.85rem;
+}
+.masthead-names { margin: 0; }
+.motto { margin-top: 1.5rem; font-size: 0.95rem; }
+.imprint-line { margin: 0.2rem 0; font-size: 0.9rem; }
+
+/* ---- ESSAY AUTHOR SUBTITLE ---- */
+.essay-author {
+    text-align: center; font-style: italic; color: #555;
+    margin: -0.75rem 0 1.5rem;
+}
+
+/* ---- CENTERED ASTERISK SECTION BREAK ---- */
+.section-break {
+    text-align: center; margin: 1.8rem 0; letter-spacing: 0.2em;
+    color: #777;
+}
+
+/* ---- BYLINE ---- */
+.byline {
+    margin: 2rem 0 0; text-align: right; font-style: italic;
+    font-size: 0.9rem; color: #555; line-height: 1.5;
+}
+.byline-place, .byline-date { font-style: italic; }
+
+/* ---- VERSE (pandoc line blocks, incl. those inside blockquotes) ---- */
+.prose .line-block {
+    margin: 1.5rem 0; padding-left: 1rem;
+    white-space: normal; font-style: normal;
+}
+.prose blockquote .line-block { margin: 0; padding-left: 0; }
+
+/* ---- BIBLIOGRAPHY (hanging indent, no bullets) ---- */
+.biblist ul { list-style: none; margin: 0; padding: 0; }
+.biblist li {
+    padding-left: 1.6em; text-indent: -1.6em;
+    margin: 0.15rem 0; font-size: 0.95rem; line-height: 1.45;
+}
+
+/* ---- RESPONSIVE ---- */
+@media (max-width: 800px) {
+    nav.parts-nav {
+        position: static; width: 100%; height: auto;
+        flex-direction: row; flex-wrap: wrap;
+        padding: 0.75rem 1rem; gap: 0.25rem;
+        border-right: none; border-bottom: 1px solid var(--rule-color);
+    }
+    nav.parts-nav .nav-links { flex-direction: row; flex-wrap: wrap; gap: 0.15rem 0.6rem; }
+    nav.parts-nav .nav-extra { flex-direction: row; flex-wrap: wrap; margin-top: 0.25rem; padding-top: 0.25rem; width: 100%; }
+    .book-sidebar-wrapper { margin-left: 0; }
+    .book-content.asides { padding: 1.5rem 1.25rem 4rem; }
+}
+
+/* ---- PRINT ---- */
+@media print {
+    nav.parts-nav { display: none; }
+    .book-sidebar-wrapper { margin-left: 0; }
+}
