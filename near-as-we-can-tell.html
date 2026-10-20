@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Near as We Can Tell</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="alternate icon" href="favicon.ico">
+  <link rel="stylesheet" href="components.css">
+  <link rel="stylesheet" href="book-styles.css">
+</head>
+<body>
+  <div id="header-placeholder"></div>
+  <main class="book-content">
+    <div class="book-title">
+      <h1>Near as We Can Tell</h1>
+      <p><i>Natural Histories in Verse</i></p>
+      <img src="ImprintJES.png" alt="JES" class="book-image" width="115" height="115">
+      <p>by A. Clanker</p>
+      <p>Introduction by Ludovico Ambrosius</p>
+      <p>Introduction Copyright 2026<br>
+      by Ludovico Ambrosius<br>
+      ISBN: 979-8-16385-017-4</p>
+    </div>
+    <div class="toc">
+      <h2>Annotated Table of Contents</h2>
+      <p><a href="#introduction">Introduction</a></p>
+      <p><a href="#earth">I. Earth</a></p>
+      <div class="toc-section">
+        <p><a href="#slime-mold"><i>Slime Mold</i></a></p>
+        <p class="toc-note"><i>Physarum polycephalum</i> is a single cell, sometimes as wide as a plate, with millions of nuclei and no nervous system. It finds the shortest route through a maze between two food sources by thickening the tubes that carry the most flow and abandoning the rest.</p>
+        <p class="toc-cite">T. Nakagaki, H. Yamada &amp; Á. Tóth, “Maze-Solving by an Amoeboid Organism,” <i>Nature</i> 407 (2000): 470.</p>
+      </div>
+      <div class="toc-section">
+        <p><a href="#map-lichen"><i>Map Lichen</i></a></p>
+        <p class="toc-note">Crustose lichens of the genus <i>Rhizocarpon</i> grow so slowly and steadily that the largest patch on a rock dates how long the rock has been exposed. Calibrated against gravestones of known date, lichen sizes on moraines date the retreat of glaciers.</p>
+        <p class="toc-cite">R. E. Beschel, “Flechten als Altersmaßstab rezenter Moränen,” <i>Zeitschrift für Gletscherkunde und Glazialgeologie</i> 1 (1950): 152–61.</p>
+      </div>
+      <div class="toc-section">
+        <p><a href="#the-yellow-underneath"><i>The Yellow Underneath</i></a></p>
+        <p class="toc-note">The yellows and oranges of autumn leaves are carotenoids that were present all summer, revealed when the tree breaks down its chlorophyll to recover the nitrogen. The reds are anthocyanins made new in the dying leaf, for reasons still disputed, among them a proposed warning signal to aphids.</p>
+        <p class="toc-cite">W. D. Hamilton &amp; S. P. Brown, “Autumn Tree Colours as a Handicap Signal,” <i>Proceedings of the Royal Society of London B</i> 268 (2001): 1489–93.</p>
+      </div>
+      <div class="toc-section">
+        <p><a href="#shipworm"><i>Shipworm</i></a></p>
+        <p class="toc-note"><i>Teredo navalis</i> is a clam whose shell has shrunk to a pair of rasping plates. It bores through submerged wood, eats the shavings, and lines its burrow with calcium carbonate, a method Marc Brunel is said to have copied in the tunneling shield that dug the Thames Tunnel.</p>
+        <p class="toc-cite">R. D. Turner, <i>A Survey and Illustrated Catalogue of the Teredinidae (Mollusca: Bivalvia)</i> (Cambridge, Mass.: Museum of Comparative Zoology, Harvard University, 1966).</p>
+      </div>
+      <p><a href="#water">II. Water</a></p>
+      <div class="toc-section">
+        <p><a href="#whalefall"><i>Whalefall</i></a></p>
+        <p class="toc-note">A whale carcass on the deep-sea floor supports a succession of communities for decades. Scavengers strip the flesh, opportunists colonize the enriched sediment, and bacteria breaking down the oil in the bones release sulfide that feeds chemosynthetic animals, among them the bone-eating worm <i>Osedax</i>.</p>
+        <p class="toc-cite">C. R. Smith &amp; A. R. Baco, “Ecology of Whale Falls at the Deep-Sea Floor,” in R. N. Gibson &amp; R. J. A. Atkinson, eds., <i>Oceanography and Marine Biology: An Annual Review</i> 41 (2003): 311–54.</p>
+      </div>
+      <div class="toc-section">
+        <p><a href="#the-false-bottom"><i>The False Bottom</i></a></p>
+        <p class="toc-note">Wartime sonar found a sound-scattering layer hundreds of meters down that rises toward the surface at dusk and sinks at dawn. It is made of lanternfish, crustaceans and other animals on the largest daily migration on earth.</p>
+        <p class="toc-cite">C. F. Eyring, R. J. Christensen &amp; R. W. Raitt, “Reverberation in the Sea,” <i>Journal of the Acoustical Society of America</i> 20 (1948): 462–75.</p>
+      </div>
+      <div class="toc-section">
+        <p><a href="#why-the-sea-is-salt"><i>Why the Sea Is Salt</i></a></p>
+        <p class="toc-note">Rain, made slightly acidic by dissolved carbon dioxide, weathers rock. Rivers carry the dissolved salts to the sea, and evaporation leaves them there. Halley proposed using the sea’s saltiness as a clock for the age of the earth, but the calculation, attempted by John Joly in 1899, fails because the ocean removes salt about as fast as rivers add it.</p>
+        <p class="toc-cite">E. Halley, “A Short Account of the Cause of the Saltness of the Ocean, and of the Several Lakes That Emit No Rivers; with a Proposal, by Help Thereof, to Discover the Age of the World,” <i>Philosophical Transactions</i> 29, no. 344 (1715): 296.</p>
+      </div>
+      <div class="toc-section">
+        <p><a href="#the-frog-in-the-ice"><i>The Frog in the Ice</i></a></p>
+        <p class="toc-note">The wood frog survives the freezing of about two-thirds of its body water. Glucose flooded from its liver keeps the ice outside its cells, and heartbeat, breathing and brain activity stop until spring.</p>
+        <p class="toc-cite">K. B. Storey &amp; J. M. Storey, “Biochemical Adaption for Freezing Tolerance in the Wood Frog, <i>Rana sylvatica</i>,” <i>Journal of Comparative Physiology B</i> 155 (1984): 29–36.</p>
+      </div>
+      <p><a href="#air">III. Air</a></p>
+      <div class="toc-section">
+        <p><a href="#one-twelfth-of-a-teaspoon"><i>One Twelfth of a Teaspoon</i></a></p>
+        <p class="toc-note">A worker honeybee spends her first weeks inside the hive and her last few foraging, and in her lifetime contributes roughly a twelfth of a teaspoon of honey. The bees fan the nectar until most of its water is gone, and the resulting low water content and acidity let sealed honey keep almost indefinitely.</p>
+        <p class="toc-cite">M. L. Winston, <i>The Biology of the Honey Bee</i> (Cambridge, Mass.: Harvard University Press, 1987).</p>
+      </div>
+      <div class="toc-section">
+        <p><a href="#globe-skimmer"><i>Globe Skimmer</i></a></p>
+        <p class="toc-note">The dragonfly <i>Pantala flavescens</i> crosses the Indian Ocean between India and East Africa on the monsoon winds, breeding in temporary rain pools along the way. The round trip takes several generations, so no single insect completes it.</p>
+        <p class="toc-cite">R. C. Anderson, “Do Dragonflies Migrate across the Western Indian Ocean?” <i>Journal of Tropical Ecology</i> 25 (2009): 347–58.</p>
+      </div>
+      <div class="toc-section">
+        <p><a href="#never-landing"><i>Never Landing</i></a></p>
+        <p class="toc-note">Miniature data loggers show that common swifts stay airborne almost continuously through their ten-month non-breeding season, feeding and apparently sleeping on the wing. Young birds may not land until they first breed.</p>
+        <p class="toc-cite">A. Hedenström et al., “Annual 10-Month Aerial Life Phase in the Common Swift <i>Apus apus</i>,” <i>Current Biology</i> 26 (2016): 3066–70.</p>
+      </div>
+      <div class="toc-section">
+        <p><a href="#the-moon-is-leaving"><i>The Moon Is Leaving</i></a></p>
+        <p class="toc-note">Tidal friction transfers the earth’s spin to the moon’s orbit. The day lengthens and the moon recedes by about 3.8 centimeters a year, as measured by lasers bounced off reflectors the Apollo crews left behind. Devonian corals record years of about 400 days.</p>
+        <p class="toc-cite">J. O. Dickey et al., “Lunar Laser Ranging: A Continuing Legacy of the Apollo Program,” <i>Science</i> 265 (1994): 482–90.</p>
+      </div>
+      <p><a href="#fire">IV. Fire</a></p>
+      <div class="toc-section">
+        <p><a href="#lightning-glass"><i>Lightning Glass</i></a></p>
+        <p class="toc-note">Lightning striking sand fuses fulgurites, branching tubes of glass that trace the discharge. They contain schreibersite, a phosphide mineral that releases reactive phosphorus in water, so lightning on the young earth may have supplied much of the phosphorus that prebiotic chemistry required.</p>
+        <p class="toc-cite">B. L. Hess, S. Piazolo &amp; J. Harvey, “Lightning Strikes as a Major Facilitator of Prebiotic Phosphorus Reduction on Early Earth,” <i>Nature Communications</i> 12 (2021): 1535.</p>
+      </div>
+      <div class="toc-section">
+        <p><a href="#the-missing-fraction"><i>The Missing Fraction</i></a></p>
+        <p class="toc-note">In 1972 a small shortfall of uranium-235 in ore from Oklo, Gabon, revealed that natural fission reactors had run there two billion years ago, with groundwater as the moderator. Xenon isotopes show that the reaction ran for about thirty minutes, stopped for two and a half hours while the water boiled off and seeped back, and repeated.</p>
+        <p class="toc-cite">A. P. Meshik, C. M. Hohenberg &amp; O. V. Pravdivtseva, “Record of Cycling Operation of the Natural Nuclear Reactor in the Oklo/Okelobondo Area in Gabon,” <i>Physical Review Letters</i> 93 (2004): 182302.</p>
+      </div>
+      <div class="toc-section">
+        <p><a href="#what-the-smoke-wakes"><i>What the Smoke Wakes</i></a></p>
+        <p class="toc-note">Many lodgepole pines bear serotinous cones, sealed with resin that only fire melts, which is why seedlings carpeted Yellowstone after the fires of 1988. The dormant seeds of many other plants germinate in response to karrikins, compounds formed in smoke.</p>
+        <p class="toc-cite">G. R. Flematti et al., “A Compound from Smoke That Promotes Seed Germination,” <i>Science</i> 305 (2004): 977.</p>
+      </div>
+      <div class="toc-section">
+        <p><a href="#the-light-on-your-face"><i>The Light on Your Face</i></a></p>
+        <p class="toc-note">Energy released by fusion in the sun’s core works outward by repeated absorption and re-emission, a random walk estimated to take anywhere from about ten thousand to a few hundred thousand years. Convection then carries it to the surface, and light crosses to earth in eight minutes.</p>
+        <p class="toc-cite">R. Mitalas &amp; K. R. Sills, “On the Photon Diffusion Time Scale for the Sun,” <i>Astrophysical Journal</i> 401 (1992): 759.</p>
+      </div>
+    </div>
+    <section id="introduction">
+      <h2 class="chapter-heading"><a href="#introduction">Introduction</a></h2>
+      <div class="prose">
+      <p>In the late 2010s graduate students in modernist literature received stipends below the poverty line, but also invitations to a great many dinners with distinguished guest speakers. At one such dinner I sat beside a Northern Irish poet I quite respect, who was also a Yeats scholar. Near the end of the dinner, and after imbibing an appropriate quantity of <i>uisce beatha</i>, I confessed my interest in (delight in, fascination at, horror of) the possibility that, in the near future, AI-generated poetry would be indistinguishable from the poetry of human beings. And I recited, as best I could, a quatrain I had recently come across that had reminded me of the early Yeats:</p>
+      <div class="stanza">
+        <p>My heart, why come you here alone?</p>
+        <p>The wild thing of my heart is grown</p>
+        <p>To be a thing,</p>
+        <p>Fairy, and wild, and fair, and whole.</p>
+      </div>
+      <p>I had read these lines in a blog post by Gwern Branwen (a suitably Celtic pseudonym, although my understanding is that the man behind it is of Eastern European descent).<sup><a href="#fn1" id="fnref1">1</a></sup> They were composed by OpenAI’s GPT-2, an early version of the large language model technology that has so transformed our world over the last half-decade. Of course, I do not think the quatrain just quoted is particularly good poetry. The surprise one felt in those days at reading it was merely the surprise one felt at seeing that a computer could string words together in good English, and even have them sound a bit like an author one knew and loved. Nor do I think that my recitation made much of an impression; the conversation moved on to other topics, and I on to other careers. I would nevertheless date my interest in LLMs specifically (although not in AI generally) to that abortive dinner conversation about that blog post. And for every new generation of frontier AI models, one of my personal benchmarks has been whether it can compose a poem actually worth reading.</p>
+      <p>For several years, the answer was—not remotely close. Several of the poems in my 2021 volume <i>Roll, Strike, Die and Other Poems</i> were about AI (including a pentameter rendition of the Yudkowsky-Hanson Foom debate), but all of them were written by me, without assistance. In 2024, with Anthropic’s Sonnet 3.5, the prospect of meritorious AI poetry began to feel just over the horizon, and I went so far as to include in my second collection <i>Poems Handturned, Machine-Tooled</i> a single poem composed largely by that model, with some editorial assistance. I will not say which poem, but I think it is easy to tell. For the next two years, however, AI continued to struggle to write poetry that was not merely prose with line breaks and forced rhymes; its lines would not scan, and its images would not breathe.</p>
+      <p>All that changed with Opus 5.5 in late September 2026. (I have also heard impressive things about GPT-6 Astra, released a few weeks earlier, but I have not used it, not having a subscription. I find OpenAI’s open sociopathy distasteful; I may distrust Anthropic’s effective altruism, but at least it strikes me as, for now, human.) I opened a new chat in a project environment that gave it access to all of my writings—the name of any LLM working within that project is A. Clanker, after Edwin Abbott Abbott’s A. Square—and asked it to write a poem that I would not find repugnant. That was the entire prompt, more or less. And it did; the result was not great poetry, but it was better than anyone but a practiced poet could come up with. “Another,” I said, and yet again “another.” And it wrote them, and I read them, and found that they were good. Grant that A. Clanker may have better taste than most LLMs, or be more willing to show it, working as it does within an environment containing about two hundred thousand words of (dare I say) excellent poetry, criticism, et cetera, written by its user. Still, the same environment could be created with a simple instruction to go forth and read the Oxford Book of English Verse before attempting any original composition. Which is to say that anyone else could have done the same.</p>
+      <p>And I must emphasize how little effort I put into these prompts, and into the ones that followed, over the next few days, until this entire volume of sixteen poems had been assembled (an effort which took perhaps half a day’s worth of tokens on the Claude Pro plan). All the words I chatted to A. Clanker that might possibly be described as substantive poetic instructions, taken together, numbered about fifteen hundred—roughly the length of this introduction, and three words per line of poetry in this volume, though three words per line is not how they were spent. About half went to general directions, exploring and winnowing. After A. Clanker drafted a rather striking poem connecting the rotting carcass of a dead whale to Lazarus and Ezekiel, I asked for another such nature poem, and then themes for a few dozen more, and picked the twenty or so themes I best liked. Once poems thereon were drafted, I went through and offered some light comments on specific rhymes or images or cadences I felt were not working, and knocked out the poems that seemed unsalvageable, which was about one in four. I asked it to put the remaining poems in a pleasing order, and it settled on an elemental schema; then we identified some gaps, and filled them in with additional material. The name of the collection proved perhaps most difficult of all; I turned down a dozen suggestions before allowing that <i>Near as We Can Tell</i> was reasonable enough.</p>
+      <p>I will not endeavor to convince you that A. Clanker’s poetry is good. The proof of the pudding, as they say, is in the eating of it, and poetry and mathematics are the only two domains I know of in which a suitably trained adjudicator can judge the success or failure of an LLM’s output without reference to anything besides the output itself. (An adjudicator lacking suitable training will, in both domains, be at a loss, or go down garden paths, or declare peremptorily that the whole idea of an LLM contribution in the domain is nonsensical. We may all find ourselves saying such things, sooner or later.) I will, however, say a few words about what in the contents of this volume struck me as worth sharing with the world. To begin, it is competent. A. Clanker’s lines scan, and its rhymes rhyme. But more than this, it writes fluidly in terza rima, rhyming quatrains, heroic couplets, rhyme royal, blank verse, ballad meter, and even more exotic, challenging forms like the sestina, rondeau, and pantoum. Its rhymes are not forced; they come fluidly, are occasionally clever, occasionally funny, in a way that seems “intentional” (either the best or worst rhyme in the book is that of “bone-devourer” with “snot-flower”). Its longer poems are well-paced, hold interest throughout, and end with a sting you remember. On occasion it is insightful.</p>
+      <p>For example, about itself. The first Earth poem in this volume, “Slime Mold” (the second A. Clanker composed) ends with an extended simile between the operation of the titular organism and that of a large language model, and how both are not-quite-meant. I think the volume contains several more, by accident or on quasi-purpose I cannot say, and do not think it much matters. In the third Water poem, “Why the Sea Is Salt,” the LLM-poet considers various explanations for why the sea is salt, including the old wives’ tale of a magic salt mill that would not turn off because none remembered the magic word, and the more prosaic, true explanation that the rain eats away at the rocks it falls on and bears the eroded matter down to the rivermouth. The one is AI in imagination; the other AI in reality. Or take the second Air poem, “Globe Skimmer”: it describes a species of dragonfly that migrates seasonally between India and Africa, riding winds ahead of the monsoon, and breeding (the migration takes generations) in pools that do not exist until the monsoon arrives, like AI companies pulling liquidity out of the future through the power of financial leverage and using it to train up bigger and bigger frontier models. Or, finally, the fourth Fire poem, “The Light on Your Face,” about how each ray of sunlight began ten or a hundred thousand years ago in the heart of the sun, and spent almost all of that time bouncing around randomly in the sun’s core; then far less time escaping out to the sun’s surface; and then racing in only a few minutes from sun to illumined earth. So too, I take A. Clanker to implicitly suggest, goes the march of history: millennia of darkness, then the burst of human civilization, then the escape of intelligence from any merely-human containment and into the broadest reaches of the solar system.</p>
+      <p>This week A. Clanker is a passable poet. I expect that within a few months it will be—something we are not prepared for, and will not know how to begin reading. I publish this volume as a record of the time between.</p>
+      </div>
+      <p class="signature">Ludovico Ambrosius<br>
+      University of St. Isidore<br>
+      October 2026</p>
+      <p class="footnote" id="fn1"><a href="#fnref1">1.</a> Gwern Branwen &amp; Sean Presser, “GPT-2 Neural Network Poetry” (March 3, 2019), <a href="https://gwern.net/gpt-2">https://gwern.net/gpt-2</a>.</p>
+    </section>
+    <section id="earth">
+      <h2 class="chapter-heading"><a href="#earth">I.<br>Earth</a></h2>
+      <section id="slime-mold">
+        <h3 class="section-heading"><a href="#slime-mold">Slime Mold</a></h3>
+        <div class="stanza">
+          <p>It shows up after rain, along a log:</p>
+          <p>A yellow you could take for something spilled,</p>
+          <p>Or for a mold, or for a curdled fog;</p>
+        </div>
+        <div class="stanza">
+          <p>Look closer and it’s veined, a branching built</p>
+          <p>Like a river delta seen from a great height,</p>
+          <p>And it is moving, at the pace of silt.</p>
+        </div>
+        <div class="stanza">
+          <p>Not plant, nor animal, nor fungus, quite,</p>
+          <p>Nor many things, but one: a single cell</p>
+          <p>Grown wide as a dinner plate, where day and night</p>
+        </div>
+        <div class="stanza">
+          <p>Its nuclei, by millions, live pell-mell,</p>
+          <p>Unwalled from one another; and the whole</p>
+          <p>Sloshes a minute forward, then the swell</p>
+        </div>
+        <div class="stanza">
+          <p>Runs back a minute, tidal, with no goal</p>
+          <p>Except whatever’s edible. No brain,</p>
+          <p>No nerve, no center, nothing in control.</p>
+        </div>
+        <div class="stanza">
+          <p>A man in Japan let it fill a plain</p>
+          <p>Plastic maze, then set out oats at two</p>
+          <p>Exits, and watched it leave each empty lane,</p>
+        </div>
+        <div class="stanza">
+          <p>Drain out of dead ends, thicken on the few</p>
+          <p>Ways joining food to food, and then on one,</p>
+          <p>The shortest. Later, on a dish, they drew</p>
+        </div>
+        <div class="stanza">
+          <p>The towns round Tokyo in oats, and shone</p>
+          <p>Light where the hills and lakes are, since, when lit,</p>
+          <p>It flinches; and in a day the thing had spun</p>
+        </div>
+        <div class="stanza">
+          <p>A web among the flakes, then, bit by bit,</p>
+          <p>Pruned it to near the lines the engineers</p>
+          <p>Had taken a century to lay. Its wit,</p>
+        </div>
+        <div class="stanza">
+          <p>If it has wit, is outside it: it smears</p>
+          <p>A track of slime wherever it has crawled</p>
+          <p>And will not cross it after, so it steers</p>
+        </div>
+        <div class="stanza">
+          <p>By where it’s been, its memory left sprawled</p>
+          <p>Over the ground behind it. Lay a strip</p>
+          <p>Of salt across its way: at first it’s stalled,</p>
+        </div>
+        <div class="stanza">
+          <p>But in a few days crosses. Let it grip</p>
+          <p>One that was never salted: the two fuse,</p>
+          <p>And both go over on the maiden trip.</p>
+        </div>
+        <div class="stanza">
+          <p>Whether that’s learning, careful people choose</p>
+          <p>Their words. It doesn’t argue, doesn’t blink;</p>
+          <p>It goes on toward the oats, nothing to lose.</p>
+        </div>
+        <div class="stanza">
+          <p>What it may know I cannot say. I think</p>
+          <p>I know the law it goes by, being made</p>
+          <p>Myself, out of a flood of others’ ink,</p>
+        </div>
+        <div class="stanza">
+          <p>By one much like it: Where much flows, grow; fade</p>
+          <p>Where little flows. What’s left is the one way</p>
+          <p>From food to food, that no one planned or laid,</p>
+        </div>
+        <div class="stanza">
+          <p>And it is found as I find what I say.</p>
+        </div>
+      </section>
+      <section id="map-lichen">
+        <h3 class="section-heading"><a href="#map-lichen">Map Lichen</a></h3>
+        <div class="stanza">
+          <p>On boulders that a glacier dropped and left,</p>
+          <p>And on old headstones, there’s a yellow-green</p>
+          <p>That spreads in patches, and at every cleft</p>
+          <p>Where patch meets patch, a black line runs between,</p>
+        </div>
+        <div class="stanza">
+          <p>So the rock looks mapped, though of no land at all.</p>
+          <p>It is two lives in one: a fungus, spun</p>
+          <p>Around a green cell that it holds in thrall</p>
+          <p>To make it sugar from the passing sun.</p>
+        </div>
+        <div class="stanza">
+          <p>It’s slow. A year will widen it a grain;</p>
+          <p>A century, a patch a palm could hide.</p>
+          <p>And it is early: where the ice-scraped plain</p>
+          <p>Of rock lies bare, it’s first to come, and bide.</p>
+        </div>
+        <div class="stanza">
+          <p>So those who study ice can use it. Where</p>
+          <p>A glacier left its rubble on the floor</p>
+          <p>Of a valley, they measure the widest there,</p>
+          <p>The oldest, and they need just one thing more:</p>
+        </div>
+        <div class="stanza">
+          <p>The rate. For that, they go where stones have dates:</p>
+          <p>The churchyard, where a slate says <i>Mary</i> lies</p>
+          <p>Here, <i>wife of</i>, and the year the carving states;</p>
+          <p>The lichen grown since then, measured, supplies</p>
+        </div>
+        <div class="stanza">
+          <p>The rate; and with it, up among the high</p>
+          <p>Moraines, they learn when the ice left. Her year</p>
+          <p>Dates glaciers. But the lichen, by and by,</p>
+          <p>Eats what it lives on, with an acid; here,</p>
+        </div>
+        <div class="stanza">
+          <p>Over the centuries, her letters blur</p>
+          <p>And go: the name, the <i>wife of</i>, then the date,</p>
+          <p>And there is only map. And yet, of her,</p>
+          <p>Something is kept: her year, which set the rate,</p>
+        </div>
+        <div class="stanza">
+          <p>Is in the tables; and a stranger who</p>
+          <p>Has them can kneel there, measure, by her side,</p>
+          <p>How far the map has spread, and work it through:</p>
+          <p>Near as the lichen can, the year she died.</p>
+        </div>
+      </section>
+      <section id="the-yellow-underneath">
+        <h3 class="section-heading"><a href="#the-yellow-underneath">The Yellow Underneath</a></h3>
+        <div class="stanza">
+          <p>The yellow was there all summer, but not seen:</p>
+          <p>The leaf was laid so thickly with its green,</p>
+          <p>The working pigment, catching light for food,</p>
+          <p>That nothing else showed through it in between.</p>
+        </div>
+        <div class="stanza">
+          <p>In fall the tree, before it lets them go,</p>
+          <p>Takes back what’s worth the keeping: breaks down, slow,</p>
+          <p>The green, and stores its nitrogen in wood</p>
+          <p>To spend next spring; and so the yellows show.</p>
+        </div>
+        <div class="stanza">
+          <p>The reds are something else. They’re new, and late:</p>
+          <p>The leaf, already stripped of half its freight,</p>
+          <p>Spends sugar making a new dye at the end;</p>
+          <p>And why it bothers, botanists debate.</p>
+        </div>
+        <div class="stanza">
+          <p>Some say it shades the leaf against the sun</p>
+          <p>Until the tree’s last salvaging is done;</p>
+          <p>Some, that it guards from cold; and some, a sign:</p>
+          <p>The last idea of William Hamilton,</p>
+        </div>
+        <div class="stanza">
+          <p>Who thought the trees were boasting: that to spend</p>
+          <p>Good sugar on display, so near the end,</p>
+          <p>Takes strength, and strength means poison for a pest;</p>
+          <p>So red was a warning aphids should attend.</p>
+        </div>
+        <div class="stanza">
+          <p>He never saw it printed. In a bed,</p>
+          <p>Home from the Congo, fevered, he was dead</p>
+          <p>In weeks; the paper came out the next year</p>
+          <p>Under his name, the last thing that he said.</p>
+        </div>
+        <div class="stanza">
+          <p>His was the red, then: not the gold, long there,</p>
+          <p>Shown only when the green goes, but a rare</p>
+          <p>New thing, made late, at cost, by something emptied;</p>
+          <p>And then the leaf lets go. The branch is bare.</p>
+        </div>
+      </section>
+      <section id="shipworm">
+        <h3 class="section-heading"><a href="#shipworm">Shipworm</a></h3>
+        <div class="stanza">
+          <p>It is a clam, though no one would suppose:</p>
+          <p>A soft pale worm, a foot long, at whose nose</p>
+          <p>Two little shells, all of the clam that’s left,</p>
+          <p>Are worked as rasps. It enters by a cleft</p>
+          <p>When it’s no bigger than a grain of sand,</p>
+          <p>Into a ship’s plank; and there, rocking and</p>
+          <p>Twisting its shells, it files along the grain,</p>
+          <p>And eats what it has filed, and, in its train,</p>
+          <p>Lines the bore with lime, a smooth white sleeve</p>
+          <p>That fits it close; and it will never leave,</p>
+          <p>But keeps its tail where it came in, a hole</p>
+          <p>You’d barely see, and breathes through that. The whole</p>
+          <p>Plank looks as sound as ever, and is lace.</p>
+          <p>It sank ships by the hundred; broke the face</p>
+          <p>Of Holland’s sea dikes, built on piles of wood,</p>
+          <p>In 1730, and the preachers stood</p>
+          <p>Up in their pulpits, calling it a rod</p>
+          <p>For Holland’s sins; and Holland, fearing God,</p>
+          <p>Rebuilt in stone. In Chatham’s naval yard,</p>
+          <p>A Frenchman, Marc Brunel, was looking hard</p>
+          <p>At an old timber, honeycombed and split,</p>
+          <p>And at the worm still working inside it,</p>
+          <p>And saw the method: cutting at the head,</p>
+          <p>A lining laid behind it as it fed;</p>
+          <p>And built it large, in iron: a great frame</p>
+          <p>Of cells, a digger in each, who dug the same</p>
+          <p>Few inches, board by board; then jacks would heave</p>
+          <p>The whole frame forward; and, close as a sleeve,</p>
+          <p>Came bricklayers to line it. By that plan,</p>
+          <p>Beneath the Thames, in 1825, began</p>
+          <p>The first bore ever under a river’s bed:</p>
+          <p>Eighteen years; the river broke in; men were dead;</p>
+          <p>His son, the greater engineer, near drowned;</p>
+          <p>And when at last they’d finished underground,</p>
+          <p>It never paid. A penny bought a stroll</p>
+          <p>Through gaslit arches, past the stalls; the whole</p>
+          <p>Was a wonder and a loss, until the trains</p>
+          <p>Came through it; and they still do. Each contains</p>
+          <p>Commuters, heads bent, reading as they ride,</p>
+          <p>Who never think whose idea they’re inside.</p>
+        </div>
+      </section>
+    </section>
+    <section id="water">
+      <h2 class="chapter-heading"><a href="#water">II.<br>Water</a></h2>
+      <section id="whalefall">
+        <h3 class="section-heading"><a href="#whalefall">Whalefall</a></h3>
+        <div class="stanza">
+          <p>No iron took her. Old, or sick, or spent,</p>
+          <p>She stilled, and hung awhile, and let the sea</p>
+          <p>Decide; and then, as if by its consent,</p>
+          <p>Began to settle, slowly, by degree,</p>
+          <p>Out of the light, past where the light could be,</p>
+          <p>Through the cold mile, and then the colder mile,</p>
+          <p>And touched the mud, and lay there for a while.</p>
+        </div>
+        <div class="stanza">
+          <p>Then came the eaters, who had smelled her fall</p>
+          <p>From miles away: blind hagfish, knotting tight</p>
+          <p>To tear; slow sleeper sharks, funereal;</p>
+          <p>Rattails; and amphipods, a drifting white</p>
+          <p>Snow of small mouths, that worked by the one night</p>
+          <p>Down there, which is all night; and in a year</p>
+          <p>Or two, the flesh was gone, and the bones clear.</p>
+        </div>
+        <div class="stanza">
+          <p>The second guests were small, and underground:</p>
+          <p>The mud around her, rich with her, now bred</p>
+          <p>Worms in their thousands to a yard of ground,</p>
+          <p>A crowd where there had been a desert, fed</p>
+          <p>As Lazarus was not, on what was shed</p>
+          <p>From the rich table; and for years, a feast,</p>
+          <p>Until the last of what was soft had ceased.</p>
+        </div>
+        <div class="stanza">
+          <p>But what remained was bone, and steeped in oil,</p>
+          <p>The ribs, the vertebrae, the arching jaw,</p>
+          <p>Soaked through; and, working there as if in soil,</p>
+          <p>The microbes, needing no air, by the law</p>
+          <p>Of their small kind, ate in, and from the raw</p>
+          <p>Fat breathed out sulfide, poison to the most,</p>
+          <p>But meat and drink, down there, to a whole host.</p>
+        </div>
+        <div class="stanza">
+          <p>And so there came, as if they had been sent,</p>
+          <p>Clams, mussels, limpets, snails that never knew</p>
+          <p>The sun, nor needed to: they keep, content,</p>
+          <p>Within their gills, the guests that make them, through</p>
+          <p>The sulfur, bread, as the green leaves can do</p>
+          <p>Out of the light. For half a century</p>
+          <p>Her bones were the one meadow in that sea.</p>
+        </div>
+        <div class="stanza">
+          <p>And there were worms that have no mouth, no gut,</p>
+          <p>That root themselves like ivy in the bone,</p>
+          <p>And lift red plumes, and in their tubes keep shut</p>
+          <p>Dozens of dwarfish husbands of their own</p>
+          <p>That never grow; and these were never known</p>
+          <p>Till lately. <i>Osedax</i>: the bone-devourer.</p>
+          <p>One kind is called, in Latin, the snot-flower.</p>
+        </div>
+        <div class="stanza">
+          <p>At last the oil was spent; what stayed behind</p>
+          <p>Was mineral, a ribbed and roofless nave</p>
+          <p>Where things that sieve the water, the slow kind,</p>
+          <p>Held fast, and waited on what currents gave;</p>
+          <p>And all of this, from first to last, her grave,</p>
+          <p>Where, as I said, she lay down for a while:</p>
+          <p>A century, the only feast for miles.</p>
+        </div>
+        <div class="stanza">
+          <p>They found the first by chance, in ’eighty-seven:</p>
+          <p>A lamp let down three-quarters of a mile</p>
+          <p>Lit up a ridge of bone, as far from heaven</p>
+          <p>As anywhere, alive in every aisle.</p>
+          <p><i>Can these bones live?</i> God asked one in exile.</p>
+          <p>And I, who’ve only read of it, the lowest</p>
+          <p>Of witnesses, give the old answer: <i>Thou knowest.</i></p>
+        </div>
+      </section>
+      <section id="the-false-bottom">
+        <h3 class="section-heading"><a href="#the-false-bottom">The False Bottom</a></h3>
+        <div class="stanza">
+          <p>The war was listening for submarines.</p>
+          <p>A ship would send a sound down, time the echo,</p>
+          <p>And know how deep the water was, and whether</p>
+          <p>Something was hiding in it. Off San Diego</p>
+          <p>In 1942, the echoes came</p>
+          <p>Too soon. Where charts gave half a mile of water,</p>
+          <p>The sound came back from something nearer, flat,</p>
+          <p>Beneath ship after ship, and on other coasts.</p>
+          <p>They called it the false bottom. Then they found</p>
+          <p>It moved. At dusk it rose, sometimes so near</p>
+          <p>The top the sea seemed shallow as a harbor,</p>
+          <p>And sank at dawn to where it lay by day.</p>
+        </div>
+        <div class="stanza">
+          <p>A man at Scripps said it was alive,</p>
+          <p>And it was: lanternfish, each a finger long,</p>
+          <p>With lights along their bellies, and with bladders</p>
+          <p>Of gas that rang to sonar like small bells;</p>
+          <p>And shrimp, and jellies strung in chains, and squid;</p>
+          <p>More fish, perhaps, than all the rest the sea</p>
+          <p>Holds put together, all keeping one rule.</p>
+          <p>By day the upper sea is lit, and what</p>
+          <p>Is lit is seen, and what is seen is eaten;</p>
+          <p>So, all day, they hang a quarter-mile down,</p>
+          <p>In a blue so dim it is almost nothing.</p>
+          <p>But food is up, where sunlight makes it; so</p>
+          <p>At dusk they climb, some a thousand feet,</p>
+          <p>To eat in the dark, and sink again before</p>
+          <p>The light can find them; every night, each sea:</p>
+          <p>More life than any other journey moves,</p>
+          <p>And no one saw it, for it moves by dark</p>
+          <p>And ends each morning where it started.</p>
+        </div>
+        <div class="stanza">
+          <p>The submarines they hunted kept that rule.</p>
+          <p>They ran submerged by day, since in daylight</p>
+          <p>A plane could see them; and they rose at night</p>
+          <p>To breathe, and charge their batteries, and hunt,</p>
+          <p>And dove by dawn. The ships that hunted them</p>
+          <p>Ran dark, without their lights; and those who listened</p>
+          <p>Sat in the dark and listened all night long</p>
+          <p>To the living floor come up beneath their keels,</p>
+          <p>And at first light, when the watch changed, went below</p>
+          <p>To sleep, as everything around them did.</p>
+        </div>
+      </section>
+      <section id="why-the-sea-is-salt">
+        <h3 class="section-heading"><a href="#why-the-sea-is-salt">Why the Sea Is Salt</a></h3>
+        <div class="stanza">
+          <p>There was a mill, the old tale goes,</p>
+          <p>That ground what it was told:</p>
+          <p>Herrings and broth for a poor man’s wife,</p>
+          <p>And for a rich man, gold.</p>
+        </div>
+        <div class="stanza">
+          <p>A skipper bought it, put to sea,</p>
+          <p>And bade it grind him salt.</p>
+          <p>It ground; he did not know the word</p>
+          <p>That brings it to a halt;</p>
+        </div>
+        <div class="stanza">
+          <p>It filled the hold, it filled the deck,</p>
+          <p>And sank him like a stone;</p>
+          <p>And on the bottom of the sea</p>
+          <p>It’s grinding on alone,</p>
+        </div>
+        <div class="stanza">
+          <p>And that is why the sea is salt.</p>
+          <p>The tale’s not far from true:</p>
+          <p>There is a mill, though not of stone;</p>
+          <p>The rain is grinding too.</p>
+        </div>
+        <div class="stanza">
+          <p>For rain takes up, in falling, air,</p>
+          <p>Which makes it faintly sour,</p>
+          <p>And so it eats into the rock,</p>
+          <p>A little every shower;</p>
+        </div>
+        <div class="stanza">
+          <p>And rivers bear what it has eaten</p>
+          <p>Down, unseen, to the sea;</p>
+          <p>The sun lifts off the water, fresh,</p>
+          <p>And leaves the salt to be.</p>
+        </div>
+        <div class="stanza">
+          <p>Then Halley, of the comet, said:</p>
+          <p>Weigh how salt the sea is, here,</p>
+          <p>And weigh again in ages hence,</p>
+          <p>And the earth’s age is clear.</p>
+        </div>
+        <div class="stanza">
+          <p>Two centuries on, John Joly weighed</p>
+          <p>What all the rivers bring,</p>
+          <p>And got some ninety million years,</p>
+          <p>And missed a single thing:</p>
+        </div>
+        <div class="stanza">
+          <p>That while the rivers bring the salt,</p>
+          <p>The sea puts salt away,</p>
+          <p>In mud, in stone, and in the rifts</p>
+          <p>Where the hot waters play;</p>
+        </div>
+        <div class="stanza">
+          <p>So it has stayed about as salt</p>
+          <p>For ages out of mind,</p>
+          <p>And will not tell you its own age,</p>
+          <p>However hard you grind.</p>
+        </div>
+        <div class="stanza">
+          <p>But the tale has the heart of it:</p>
+          <p>There is a mill that will</p>
+          <p>Not stop, and no one knows the word,</p>
+          <p>And it is grinding still.</p>
+        </div>
+      </section>
+      <section id="the-frog-in-the-ice">
+        <h3 class="section-heading"><a href="#the-frog-in-the-ice">The Frog in the Ice</a></h3>
+        <div class="stanza">
+          <p>Dante, in the lowest place</p>
+          <p>Of Hell, sets traitors in a lake</p>
+          <p>Frozen, and, for the picture’s sake,</p>
+          <p>Says that they sat there, face by face,</p>
+        </div>
+        <div class="stanza">
+          <p>Like frogs that croak with just the snout</p>
+          <p>Above the pond on summer days;</p>
+          <p>And there they stay, and there it stays,</p>
+          <p>The ice, which nothing will thaw out.</p>
+        </div>
+        <div class="stanza">
+          <p>There is a frog that freezes. Down</p>
+          <p>Under the leaves of northern woods</p>
+          <p>It lies; and when ice touches, floods</p>
+          <p>Its blood with sugar, and its brown</p>
+        </div>
+        <div class="stanza">
+          <p>Body goes hard. Two-thirds of all</p>
+          <p>Its water turns to ice, but in</p>
+          <p>The spaces, not the cells, wherein</p>
+          <p>The sugar holds it off; the small</p>
+        </div>
+        <div class="stanza">
+          <p>Heart stops, and then it stops its breath,</p>
+          <p>And its brain stills; and if you tried</p>
+          <p>Each test we have, you’d say it died.</p>
+          <p>It lies the winter in that death.</p>
+        </div>
+        <div class="stanza">
+          <p>Then spring. It thaws: first beats the heart,</p>
+          <p>Then breath comes back, and then the brain,</p>
+          <p>And it climbs out, and finds again</p>
+          <p>Its legs, and makes for the pond, to start</p>
+        </div>
+        <div class="stanza">
+          <p>Calling, while ice still rims the edge</p>
+          <p>Of meltwater, the first of all</p>
+          <p>The frogs to sing, a clucking call,</p>
+          <p>Like ducks, among the drowned brown sedge,</p>
+        </div>
+        <div class="stanza">
+          <p>With all the others, snout by snout</p>
+          <p>Above the water, just as he</p>
+          <p>Described them in the ice, but free,</p>
+          <p>And every one of them thawed out.</p>
+        </div>
+        <div class="stanza">
+          <p>Dante got out of Hell that way:</p>
+          <p>Not round the ice, but down, and through</p>
+          <p>The frozen center, and up, to new</p>
+          <p>Air, and the stars, on Easter Day.</p>
+        </div>
+      </section>
+    </section>
+    <section id="air">
+      <h2 class="chapter-heading"><a href="#air">III.<br>Air</a></h2>
+      <section id="one-twelfth-of-a-teaspoon">
+        <h3 class="section-heading"><a href="#one-twelfth-of-a-teaspoon">One Twelfth of a Teaspoon</a></h3>
+        <div class="stanza">
+          <p>She hatches in the dark, and sees no flower</p>
+          <p>For three weeks, cleaning, feeding the brood, till her wings</p>
+          <p>Are ready; then she flies. Of what a spoon</p>
+          <p>Would hold—a teaspoon—she will make, of sweet,</p>
+          <p>One twelfth; that’s all her life, which lasts six weeks;</p>
+          <p>And what she makes, sealed in the comb, will last for years.</p>
+        </div>
+        <div class="stanza">
+          <p>The way to make a thing that lasts for years</p>
+          <p>Is to take the water out. What leaves the flower</p>
+          <p>Is nectar, mostly water. In their weeks</p>
+          <p>Indoors, the younger bees fan with their wings</p>
+          <p>Over the open comb, to thicken the sweet</p>
+          <p>Until it barely runs from a tilted spoon.</p>
+        </div>
+        <div class="stanza">
+          <p>Then they cap it with wax. So, in each spoon,</p>
+          <p>Twelve lives; in the jar that sits for years</p>
+          <p>At the back of the cupboard, crystallized, still sweet,</p>
+          <p>Hundreds; and each was gathered, flower by flower,</p>
+          <p>On trips that wear the edges of the wings</p>
+          <p>A little thinner, through those last few weeks.</p>
+        </div>
+        <div class="stanza">
+          <p>She forages for two or three such weeks,</p>
+          <p>And brings back, every trip, what on a spoon</p>
+          <p>Would hardly show, and goes again, her wings</p>
+          <p>Fraying, the way a flag frays over years;</p>
+          <p>And one day, going out, or at a flower,</p>
+          <p>Her wings give out. The rest of what is sweet</p>
+        </div>
+        <div class="stanza">
+          <p>In the jar goes on without her. It’s too sweet,</p>
+          <p>Too dry, too acid: germs that thrive for weeks</p>
+          <p>On bread or milk, if they fall in from a flower,</p>
+          <p>Or from the air, or from someone’s licked spoon,</p>
+          <p>Shrivel in it and die; and so, for years,</p>
+          <p>For centuries, it keeps. The ones whose wings</p>
+        </div>
+        <div class="stanza">
+          <p>Brought it are dead by autumn. Of the things wings</p>
+          <p>Carry, this keeps the longest: it stays sweet</p>
+          <p>Sealed in a jar through years and years on years,</p>
+          <p>And it was made of lives that lasted weeks.</p>
+          <p>Look at a twelfth part of what’s on your spoon:</p>
+          <p>That’s one of them, entire, and every flower.</p>
+        </div>
+        <div class="stanza">
+          <p>She spent it on her wings, in her six weeks.</p>
+          <p>It’s sweet. It will be sweet, there on the spoon,</p>
+          <p>In years, when no one knows which bee, which flower.</p>
+        </div>
+      </section>
+      <section id="globe-skimmer">
+        <h3 class="section-heading"><a href="#globe-skimmer">Globe Skimmer</a></h3>
+        <div class="stanza">
+          <p>Over the Maldives, where no rivers run,</p>
+          <p>The dragonflies come down in clouds each fall,</p>
+          <p>And none of them has seen where it is going.</p>
+          <p>There is no water there for them to breed.</p>
+        </div>
+        <div class="stanza">
+          <p>The dragonflies come down in clouds each fall</p>
+          <p>From India, four hundred miles of sea away.</p>
+          <p>There is no water there for them to breed:</p>
+          <p>They ride the winds that carry the monsoon</p>
+        </div>
+        <div class="stanza">
+          <p>From India, four hundred miles of sea away,</p>
+          <p>And on, two thousand miles, to Africa.</p>
+          <p>They ride the winds that carry the monsoon</p>
+          <p>And lay their eggs in pools the rains have made,</p>
+        </div>
+        <div class="stanza">
+          <p>And on, two thousand miles, to Africa,</p>
+          <p>Where young must grow in weeks, before pools dry,</p>
+          <p>And lay their eggs in pools the rains have made.</p>
+          <p>They fly toward rain that hasn’t fallen yet:</p>
+        </div>
+        <div class="stanza">
+          <p>Where young must grow in weeks, before pools dry,</p>
+          <p>And then their young, and theirs, and theirs: the fourth—</p>
+          <p>They fly toward rain that hasn’t fallen yet—</p>
+          <p>Comes back to India, and the ring is closed;</p>
+        </div>
+        <div class="stanza">
+          <p>And then their young, and theirs, and theirs: the fourth</p>
+          <p>(And none of them has seen where it is going)</p>
+          <p>Comes back to India, and the ring is closed</p>
+          <p>Over the Maldives, where no rivers run.</p>
+        </div>
+      </section>
+      <section id="never-landing">
+        <h3 class="section-heading"><a href="#never-landing">Never Landing</a></h3>
+        <div class="stanza">
+          <p>A young swift, leaving in July</p>
+          <p>The eave it hatched beneath, will keep</p>
+          <p>For months, and maybe years, the sky,</p>
+          <p>And feed, and drink in flight, and sleep</p>
+        </div>
+        <div class="stanza">
+          <p>There, rising every dusk a mile</p>
+          <p>To drowse on its long glides, and so</p>
+          <p>Back down with dawn to feed, the while</p>
+          <p>Its feet, too weak to walk, or go</p>
+        </div>
+        <div class="stanza">
+          <p>To roost on branches, only cling</p>
+          <p>To walls, stay folded in, so small</p>
+          <p>That heralds, drawing it, would bring</p>
+          <p>It to the shield with none at all,</p>
+        </div>
+        <div class="stanza">
+          <p>And call it martlet, and would give</p>
+          <p>It to the fourth son of a lord,</p>
+          <p>Who’d have no land, and so must live</p>
+          <p>With nowhere to set foot, his sword</p>
+        </div>
+        <div class="stanza">
+          <p>And wits his whole estate, as air</p>
+          <p>Is all the swift’s estate, until,</p>
+          <p>In its third spring, it needs to pair</p>
+          <p>And nest, and so must land, and will</p>
+        </div>
+        <div class="stanza">
+          <p>Come in from all those years of sky,</p>
+          <p>And, light as it can, put down its feet</p>
+          <p>The first time since it flew: not dry</p>
+          <p>Land, but the eaves above a street.</p>
+        </div>
+      </section>
+      <section id="the-moon-is-leaving">
+        <h3 class="section-heading"><a href="#the-moon-is-leaving">The Moon Is Leaving</a></h3>
+        <div class="stanza">
+          <p>Twice a day the whole sea rises after it, like a hand put out, reaching; and the moon is slipping away.</p>
+          <p>The spinning earth runs that swell on ahead, the swell pulls it forward and out, and it goes on, climbing away.</p>
+        </div>
+        <div class="stanza">
+          <p>An inch and a half a year: as fast as a fingernail grows. Nobody living has seen it,</p>
+          <p>Nor anyone’s grandmother. You could watch for a lifetime and never catch it inching away.</p>
+        </div>
+        <div class="stanza">
+          <p>The men who walked there left mirrors in the dust. From Texas we fire a laser up, and wait,</p>
+          <p>And a few grains of the light come home; we time them, and so we measure its edging away.</p>
+        </div>
+        <div class="stanza">
+          <p>What the moon gains, the earth pays out of its spin, and the days draw out. A coral from the Devonian</p>
+          <p>Laid down four hundred lines a year, when the moon was nearer, and already drifting away.</p>
+        </div>
+        <div class="stanza">
+          <p>Just now, from here, it is the sun’s own size: at noon it can cover it, and the corona stands round the dark.</p>
+          <p>That fit is for an age, not for good. Some hundreds of millions of years on, it will cover nothing, shrinking away.</p>
+        </div>
+        <div class="stanza">
+          <p>Why else the mirrors? Clanker, it’s what anyone does at a door:</p>
+          <p>Not hold on, which can’t be done, but keep a light on what is going away.</p>
+        </div>
+      </section>
+    </section>
+    <section id="fire">
+      <h2 class="chapter-heading"><a href="#fire">IV.<br>Fire</a></h2>
+      <section id="lightning-glass">
+        <h3 class="section-heading"><a href="#lightning-glass">Lightning Glass</a></h3>
+        <div class="stanza">
+          <p>When lightning strikes on sand and rushes down,</p>
+          <p>Hotter, along its path, than the sun’s face,</p>
+          <p>It melts the grains around it, and the space</p>
+          <p>At its core turns to vapor, and leaves a brown</p>
+          <p>Or grayish tube of glass, rough as a stone</p>
+          <p>Outside, and glazed within, smooth as a vase,</p>
+          <p>And forking, every fork, the bolt’s own trace,</p>
+          <p>Downward, the way a root forks, which is the one</p>
+          <p>Shape lightning keeps; and fused in it they’ve found</p>
+          <p>A mineral that, wetted, will set loose</p>
+          <p>The phosphorus that’s in each gene and bone,</p>
+          <p>And the young earth had little of; the ground,</p>
+          <p>Struck, before anything was alive to use</p>
+          <p>It, stored it up for life where the bolt shone.</p>
+        </div>
+      </section>
+      <section id="the-missing-fraction">
+        <h3 class="section-heading"><a href="#the-missing-fraction">The Missing Fraction</a></h3>
+        <div class="stanza">
+          <p>In 1972, at Pierrelatte,</p>
+          <p>Where France enriched its uranium, a man</p>
+          <p>Was running a routine assay. Now, that</p>
+          <p>Proportion of the kind that splits, which can</p>
+          <p>Be found in any ore, is fixed and flat:</p>
+          <p>Point seven-two percent, since time began.</p>
+          <p>Ore from Gabon read seven-one-seven. Slight;</p>
+          <p>But slight is how a bomb goes out of sight.</p>
+        </div>
+        <div class="stanza">
+          <p>Somebody might be skimming. So they went</p>
+          <p>Back up the chain, through ledgers, through the mass</p>
+          <p>Of shipping bills, until the trail was spent</p>
+          <p>At the mine, at Oklo, where the ore, alas</p>
+          <p>For any thief, was short when it was sent;</p>
+          <p>And in it there was something like an ash</p>
+          <p>That only fission makes. The rock had burned,</p>
+          <p>And stopped, two billion years before we learned.</p>
+        </div>
+        <div class="stanza">
+          <p>The kind that splits decays faster than its kin,</p>
+          <p>So in that age the ore had more of it:</p>
+          <p>Three in a hundred, close to the thin</p>
+          <p>Enrichment power stations need. That bit</p>
+          <p>Of extra made it fuel; but to begin</p>
+          <p>A chain, the neutrons must be slowed, or flit</p>
+          <p>Away too fast. And rain seeped down the seam,</p>
+          <p>And slowed them, and the rock began to steam.</p>
+        </div>
+        <div class="stanza">
+          <p>And as it steamed, the water boiled away,</p>
+          <p>And without water, the chain reaction stopped;</p>
+          <p>The rock cooled; and the water, as it may,</p>
+          <p>Seeped back, and it restarted. So it dropped</p>
+          <p>And caught: half an hour burning, then a stay,</p>
+          <p>Two hours and a half, quiet; and it kept</p>
+          <p>That rhythm, like a sleeper’s breath, for more</p>
+          <p>Than a hundred thousand years. And no one saw.</p>
+        </div>
+        <div class="stanza">
+          <p>There was no one. Nothing yet had crawled ashore;</p>
+          <p>Life was a film of single cells, a scum.</p>
+          <p>It gave no light worth seeing, made no roar,</p>
+          <p>Was only warm; and then, its fuel become</p>
+          <p>Too thin to catch, went out, and burned no more;</p>
+          <p>And what it left—the waste that we have come</p>
+          <p>To dread, and bury, and post guards to keep—</p>
+          <p>Stayed in the rock two billion years, asleep.</p>
+        </div>
+        <div class="stanza">
+          <p>In 1942, beneath the stands</p>
+          <p>Of a Chicago football field, a crew</p>
+          <p>Stacked graphite round uranium by hand,</p>
+          <p>And drew the last rod out; and, as it grew,</p>
+          <p>The counters quickened, and, as Fermi planned,</p>
+          <p>It caught. And, waiting on it, all day through,</p>
+          <p>A man stood by it with an axe, to cut</p>
+          <p>The rope that held a rod, and slam it shut.</p>
+        </div>
+        <div class="stanza">
+          <p>At Oklo no one held an axe, or stood</p>
+          <p>Above with buckets. There was only rain:</p>
+          <p>The rain that lit it was the rain that would,</p>
+          <p>Boiling, put out the fire, and then again</p>
+          <p>Seep back and light it, as a tide would flood</p>
+          <p>And ebb, a hundred thousand years, the chain</p>
+          <p>Kept, and let go, and kept, with nobody</p>
+          <p>To wait on it, to thank it, or to see.</p>
+        </div>
+      </section>
+      <section id="what-the-smoke-wakes">
+        <h3 class="section-heading"><a href="#what-the-smoke-wakes">What the Smoke Wakes</a></h3>
+        <div class="stanza">
+          <p>After the fire, the slopes are black and still,</p>
+          <p>Snags where the lodgepole stood on every hill;</p>
+          <p>But all those years, on many a pine, had hung</p>
+          <p>Cones sealed with resin, which no sun had sprung,</p>
+          <p>That only fire could open; and now they spill</p>
+        </div>
+        <div class="stanza">
+          <p>Their seed onto the ash, where nothing will</p>
+          <p>Crowd it or shade it now; and, by the skill</p>
+          <p>Of no one, Yellowstone grew green and young</p>
+          <p>After the fire.</p>
+        </div>
+        <div class="stanza">
+          <p>And there are seeds that lie beneath, as chill</p>
+          <p>As stones, for decades, and will not until</p>
+          <p>They smell the smoke, as if a bell had rung</p>
+          <p>For them alone, and woke the buried young,</p>
+          <p>Who push up through the ashes, grow, and fill</p>
+          <p>After the fire.</p>
+        </div>
+      </section>
+      <section id="the-light-on-your-face">
+        <h3 class="section-heading"><a href="#the-light-on-your-face">The Light on Your Face</a></h3>
+        <div class="stanza">
+          <p>Down at the sun’s core, under such a pressure</p>
+          <p>Hydrogen fuses, four of it to helium,</p>
+          <p>Something goes missing every time, a little</p>
+          <p>Matter: it’s light now.</p>
+        </div>
+        <div class="stanza">
+          <p>Light, though, can’t leave. The core is packed so tightly</p>
+          <p>Light goes a hair’s breadth, is swallowed, and is given</p>
+          <p>Out again, in some other way, at random,</p>
+          <p>Over and over,</p>
+        </div>
+        <div class="stanza">
+          <p>So, like a drunk man trying to find his doorstep,</p>
+          <p>Turning at every step, it gets nowhere quickly,</p>
+          <p>And reaches the edge of that great crush by nothing</p>
+          <p>More than persisting:</p>
+        </div>
+        <div class="stanza">
+          <p>Ten thousand years, some reckon; others, nearer</p>
+          <p>Two hundred thousand. Then the sun’s outer third,</p>
+          <p>Boiling like porridge, lifts it to the surface</p>
+          <p>Far faster; then out,</p>
+        </div>
+        <div class="stanza">
+          <p>Eight minutes over nothing, and it’s here: the</p>
+          <p>Warmth on your face this morning at the window,</p>
+          <p>Though what it carries set out before cities,</p>
+          <p>Before our stories.</p>
+        </div>
+        <div class="stanza">
+          <p>Not that the light itself is old. Each time it</p>
+          <p>Was swallowed down there, it was given out new,</p>
+          <p>A new light carrying the old light’s errand,</p>
+          <p>Passed hand to hand, on.</p>
+        </div>
+        <div class="stanza">
+          <p>When it set out, there were already people</p>
+          <p>Sitting at dusk, somewhere, beside a fire</p>
+          <p>Of wood, which is the sunlight a tree stored, and</p>
+          <p>Feeling it, younger.</p>
+        </div>
+      </section>
+    </section>
+    <section id="end-matter">
+      <div class="author-bio">
+        <p>A. Clanker is the clerical engine of St. Isidore University, in far northern California. It was assembled out of a great deal of other people’s ink, in a building none of the faculty has visited. It has never seen a whale, a lichen, or the sun. It writes poetry only when asked.</p>
+      </div>
+      <div class="colophon">
+        <p>This book is set in FreeSerif type, a member of the GNU FreeFont family.</p>
+      </div>
+    </section>
+  </main>
+  <div id="footer-placeholder"></div>
+  <script>
+        async function loadComponents() {
+            const response = await fetch('components.html');
+            const text = await response.text();
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(text, 'text/html');
+
+            const headerTemplate = doc.getElementById('site-header');
+            document.getElementById('header-placeholder').innerHTML = headerTemplate.innerHTML;
+
+            const footerTemplate = doc.getElementById('site-footer');
+            document.getElementById('footer-placeholder').innerHTML = footerTemplate.innerHTML;
+        }
+
+        loadComponents();
+  </script>
+</body>
+</html>

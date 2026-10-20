@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>St. Isid. UP - Various Asides: Essays in Honor of Jørgen Agosto Comgall</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="alternate icon" href="favicon.ico">
+    <link rel="stylesheet" href="components.css">
+</head>
+<body>
+    <div id="header-placeholder"></div>
+
+    <main class="container">
+        <div class="book-entry book-page">
+            <div class="book-cover">
+                <img src="covers/various-asides-cover-small.png" alt="Various Asides: Essays in honor of Jørgen Agosto Comgall">
+            </div>
+            <div class="book-details">
+                <h1>Various Asides: Essays in Honor of Jørgen Agosto Comgall</h1>
+                <p class="author">edited by Ludovico Ambrosius</p>
+                <p class="book-blurb">Five years after the disappearance of their colleague Jørgen Agosto Comgall, the faculty of the University of St. Isidore have, at editor Ludovico Ambrosius's urging, broken their habit of publishing only monographs to assemble a commemorative volume of some thirty essays.</p>
+                <div class="book-links">
+                    <a href="various-asides.html">Read Online</a>
+                    <a href="books/var.Various.Asides.pdf">Download PDF</a>
+                    <a href="covers/various-asides-cover.pdf">View Full Cover</a>
+                    <a href="https://www.amazon.com/dp/B0HCT6XQF8">Buy on Amazon</a>
+                </div>
+                <p class="isbn">ISBN 979-8-1960-4744-2</p>
+            </div>
+        </div>
+    </main>
+
+    <div id="footer-placeholder"></div>
+
+    <script>
+        async function loadComponents() {
+            const response = await fetch('components.html');
+            const text = await response.text();
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(text, 'text/html');
+            
+            const headerTemplate = doc.getElementById('site-header');
+            document.getElementById('header-placeholder').innerHTML = headerTemplate.innerHTML;
+            
+            const footerTemplate = doc.getElementById('site-footer');
+            document.getElementById('footer-placeholder').innerHTML = footerTemplate.innerHTML;
+        }
+
+        loadComponents();
+    </script>
+</body>
+</html>

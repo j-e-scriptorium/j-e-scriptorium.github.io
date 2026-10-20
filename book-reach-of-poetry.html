@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>St. Isid. UP - The Reach of Post-Romantic Poetry</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="alternate icon" href="favicon.ico">
+    <link rel="stylesheet" href="components.css">
+</head>
+<body>
+    <div id="header-placeholder"></div>
+
+    <main class="container">
+        <div class="book-entry book-page">
+            <div class="book-cover">
+                <img src="covers/reach-of-poetry-cover-small.png" alt="The Reach of Post-Romantic Poetry">
+            </div>
+            <div class="book-details">
+                <h1>The Reach of Post-Romantic Poetry</h1>
+                <p class="author">by Edkar Marenko</p>
+                <p class="book-blurb">From Coleridge's sacred river to Hill's pig-headed salmon, meandering through Hopkins (sunsets and priests), Yeats (visions and wars and visions), Eliot (catalysts and murders), Jones (sailors and soldiers), and Auden (stars and statues and clerihews).</p>
+                <div class="book-links">
+                    <a href="reach-of-poetry.html">Read Online</a>
+                    <a href="books/Marenko.E.The.Reach.of.Postromantic.Poetry.pdf">Download PDF</a>
+                    <a href="covers/reach-of-poetry-cover.pdf">View Full Cover</a>
+                    <a href="https://a.co/d/4OjxxB4">Buy on Amazon</a>
+                </div>
+                <p class="isbn">ISBN 979-82-94237-11-0</p>
+            </div>
+        </div>
+    </main>
+
+    <div id="footer-placeholder"></div>
+
+    <script>
+        async function loadComponents() {
+            const response = await fetch('components.html');
+            const text = await response.text();
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(text, 'text/html');
+            
+            const headerTemplate = doc.getElementById('site-header');
+            document.getElementById('header-placeholder').innerHTML = headerTemplate.innerHTML;
+            
+            const footerTemplate = doc.getElementById('site-footer');
+            document.getElementById('footer-placeholder').innerHTML = footerTemplate.innerHTML;
+        }
+
+        loadComponents();
+    </script>
+</body>
+</html>

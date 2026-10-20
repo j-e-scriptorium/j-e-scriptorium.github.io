@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>St. Isid. UP - The Reports of Sir Edward Coke, Kt., in Verse</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="alternate icon" href="favicon.ico">
+    <link rel="stylesheet" href="components.css">
+</head>
+<body>
+    <div id="header-placeholder"></div>
+
+    <main class="container">
+        <div class="book-entry book-page">
+            <div class="book-cover">
+                <img src="covers/coke-reports-cover-small.png" alt="The Reports of Sir Edward Coke, Kt., in Verse">
+            </div>
+            <div class="book-details">
+                <h1>The Reports of Sir Edward Coke, Kt., in Verse</h1>
+                <p class="author">by an anonymous 18th c. poet<br>edited by A. Clanker<br>as directed by E. Lawrence Hayward</p>
+                <p class="book-blurb">Two hundred cases from Coke's Reports, each compressed into a heroic couplet by an anonymous eighteenth-century versifier. New edition with introduction, tables, and marginal references.</p>
+                <div class="book-links">
+                    <a href="coke-reports-verse.html">Read Online</a>
+                    <a href="books/anon.Reports.Edward.Coke.Verse.pdf">Download PDF</a>
+                    <a href="covers/coke-reports-cover.pdf">View Full Cover</a>
+                    <a href="https://www.amazon.com/dp/B0GVY6BSZ4">Buy on Amazon</a>
+                </div>
+                <p class="isbn">ISBN 979-8-2525-2119-0</p>
+            </div>
+        </div>
+    </main>
+
+    <div id="footer-placeholder"></div>
+
+    <script>
+        async function loadComponents() {
+            const response = await fetch('components.html');
+            const text = await response.text();
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(text, 'text/html');
+            
+            const headerTemplate = doc.getElementById('site-header');
+            document.getElementById('header-placeholder').innerHTML = headerTemplate.innerHTML;
+            
+            const footerTemplate = doc.getElementById('site-footer');
+            document.getElementById('footer-placeholder').innerHTML = footerTemplate.innerHTML;
+        }
+
+        loadComponents();
+    </script>
+</body>
+</html>
