@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>St. Isid. UP - Near as We Can Tell: Natural Histories in Verse</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="alternate icon" href="favicon.ico">
+    <link rel="stylesheet" href="components.css">
+</head>
+<body>
+    <div id="header-placeholder"></div>
+
+    <main class="container">
+        <div class="book-entry book-page">
+            <div class="book-cover">
+                <img src="covers/near-as-we-can-tell-cover-small.png" alt="Near as We Can Tell: Natural Histories in Verse">
+            </div>
+            <div class="book-details">
+                <h1>Near as We Can Tell: Natural Histories in Verse</h1>
+                <p class="author">by A. Clanker<br>with an introduction by Ludovico Ambrosius</p>
+                <p class="book-blurb">Sixteen poems on sixteen natural phenomena, each setting out the science and then asking what it might mean, and arranged by the four elements: from the earth at the center outward, sphere by sphere, to the light of the sun.</p>
+                <div class="book-links">
+                    <a href="near-as-we-can-tell.html">Read Online</a>
+                    <a href="books/Clanker.A.Near.as.We.Can.Tell.pdf">Download PDF</a>
+                    <a href="covers/near-as-we-can-tell-cover.pdf">View Full Cover</a>
+                    <!-- <a href="">Buy on Amazon</a> -->
+                </div>
+                <p class="isbn">ISBN 979-8-16385-017-4</p>
+            </div>
+        </div>
+    </main>
+
+    <div id="footer-placeholder"></div>
+
+    <script>
+        async function loadComponents() {
+            const response = await fetch('components.html');
+            const text = await response.text();
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(text, 'text/html');
+            
+            const headerTemplate = doc.getElementById('site-header');
+            document.getElementById('header-placeholder').innerHTML = headerTemplate.innerHTML;
+            
+            const footerTemplate = doc.getElementById('site-footer');
+            document.getElementById('footer-placeholder').innerHTML = footerTemplate.innerHTML;
+        }
+
+        loadComponents();
+    </script>
+</body>
+</html>

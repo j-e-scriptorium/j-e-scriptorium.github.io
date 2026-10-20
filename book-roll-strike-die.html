@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>St. Isid. UP - Roll, Strike, Die, and Other Poems</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="alternate icon" href="favicon.ico">
+    <link rel="stylesheet" href="components.css">
+</head>
+<body>
+    <div id="header-placeholder"></div>
+
+    <main class="container">
+        <div class="book-entry book-page">
+            <div class="book-cover">
+                <img src="covers/roll-strike-die-cover-small.png" alt="Roll, Strike, Die, and Other Poems">
+            </div>
+            <div class="book-details">
+                <h1>Roll, Strike, Die, and Other Poems</h1>
+                <p class="author">by Ludovico Ambrosius</p>
+                <p class="book-blurb">"Lol very CATHOLIC" – Logo Daedalus · "Some unreal good poetry... surprisingly little droning." – Jane Cooper · "I don't claim to understand this, but I respect it." – Robin Hanson</p>
+                <div class="book-links">
+                    <a href="roll-strike-die.html">Read Online</a>
+                    <a href="books/Ambrosius.L.Roll.Strike.Die.and.Other.Poems.pdf">Download PDF</a>
+                    <a href="covers/roll-strike-die-cover.pdf">View Full Cover</a>
+                    <a href="https://a.co/d/8Dol7CX">Buy on Amazon</a>
+                </div>
+                <p class="isbn">ISBN 979-8-5454-9601-3</p>
+            </div>
+        </div>
+    </main>
+
+    <div id="footer-placeholder"></div>
+
+    <script>
+        async function loadComponents() {
+            const response = await fetch('components.html');
+            const text = await response.text();
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(text, 'text/html');
+            
+            const headerTemplate = doc.getElementById('site-header');
+            document.getElementById('header-placeholder').innerHTML = headerTemplate.innerHTML;
+            
+            const footerTemplate = doc.getElementById('site-footer');
+            document.getElementById('footer-placeholder').innerHTML = footerTemplate.innerHTML;
+        }
+
+        loadComponents();
+    </script>
+</body>
+</html>

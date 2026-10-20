@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>St. Isid. UP - O Honeybees: An Anthology of Bee Pomes</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="alternate icon" href="favicon.ico">
+    <link rel="stylesheet" href="components.css">
+</head>
+<body>
+    <div id="header-placeholder"></div>
+
+    <main class="container">
+        <div class="book-entry book-page">
+            <div class="book-cover">
+                <img src="covers/o-honeybees-cover-small.png" alt="O Honeybees: An Anthology of Bee Pomes">
+            </div>
+            <div class="book-details">
+                <h1>O Honeybees: An Anthology of Bee Pomes</h1>
+                <p class="author">edited with an introduction by Ludovico Ambrosius</p>
+                <p class="book-blurb"><em>Anthology</em>, from <em>anthos</em>, "flower," and <em>legein</em>, "collect"—a bouquet of poetic blooms to whose petals the honeybee has clung. From Virgil to Dickinson, hum and polity, honey and sting.</p>
+                <div class="book-links">
+                    <a href="o-honeybees.html">Read Online</a>
+                    <a href="books/ed.Ambrosius.L.O.Honeybees.pdf">Download PDF</a>
+                    <a href="covers/o-honeybees-cover.pdf">View Full Cover</a>
+                    <a href="https://a.co/d/eCe8qcG">Buy on Amazon</a>
+                </div>
+                <p class="isbn">ISBN 979-8-3910-3217-5</p>
+            </div>
+        </div>
+    </main>
+
+    <div id="footer-placeholder"></div>
+
+    <script>
+        async function loadComponents() {
+            const response = await fetch('components.html');
+            const text = await response.text();
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(text, 'text/html');
+            
+            const headerTemplate = doc.getElementById('site-header');
+            document.getElementById('header-placeholder').innerHTML = headerTemplate.innerHTML;
+            
+            const footerTemplate = doc.getElementById('site-footer');
+            document.getElementById('footer-placeholder').innerHTML = footerTemplate.innerHTML;
+        }
+
+        loadComponents();
+    </script>
+</body>
+</html>

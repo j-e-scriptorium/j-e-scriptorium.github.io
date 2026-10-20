@@ -29,7 +29,8 @@
     scroll-margin-top: 2rem;
 }
 
-.chapter-heading a {
+.chapter-heading a,
+.section-heading a {
     color: inherit;
     text-decoration: none;
 }
@@ -74,6 +75,16 @@
     white-space: pre-wrap;
 }
 
+.stanza {
+    margin: 1.25rem 0;
+}
+
+.stanza p {
+    margin: 0;
+    padding-left: 2em;
+    text-indent: -2em;
+}
+
 .poem-speaker {
     margin: 0.25rem 0;
     white-space: pre-wrap;
@@ -111,9 +122,47 @@
     padding-left: 2rem;
 }
 
+.toc-note {
+    font-size: 0.9em;
+}
+
+.toc-cite {
+    font-size: 0.85em;
+    padding-left: 1.5em;
+    text-indent: -1.5em;
+}
+
 .toc-centered {
     text-align: center;
     font-style: italic;
+}
+
+/* Section breaks: a centered asterisk that links to itself */
+.section-break {
+    text-align: center;
+    margin: 1.5rem 0;
+}
+
+.section-break a {
+    color: inherit;
+    text-decoration: none;
+}
+
+/* Signatures and notes */
+.signature {
+    text-align: right;
+    font-style: italic;
+}
+
+.footnote {
+    font-size: 0.85em;
+    border-top: 1px solid var(--rule-color);
+    padding-top: 0.5rem;
+}
+
+.footnote a,
+sup a {
+    color: inherit;
 }
 
 /* Back matter */
@@ -157,4 +206,16 @@ blockquote {
 .small-caps {
     font-variant: small-caps;
     letter-spacing: 0.03em;
+}
+
+/* Side-by-side plates */
+.plates {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.plates .book-image {
+    min-width: 0;
+    margin: 1rem 0;
 }

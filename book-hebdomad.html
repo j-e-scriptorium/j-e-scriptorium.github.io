@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>St. Isid. UP - Hebdomad: A World-Historical Shitpost</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="alternate icon" href="favicon.ico">
+    <link rel="stylesheet" href="components.css">
+</head>
+<body>
+    <div id="header-placeholder"></div>
+
+    <main class="container">
+        <div class="book-entry book-page">
+            <div class="book-cover">
+                <img src="covers/hebdomad-cover-small.png" alt="Hebdomad: A World-Historical Shitpost">
+            </div>
+            <div class="book-details">
+                <h1>Hebdomad: A World-Historical Shitpost</h1>
+                <p class="author">by Jørgen Agosto Comgall<br>edited by Ludovico Ambrosius</p>
+                <p class="book-blurb">Seven stages of a life; seven ages of mankind; seventy pages for seven bucks. An unfinished theory of everything, in verse. "Even today I do not profess to understand this theory's full significance." – Ludovico Ambrosius</p>
+                <div class="book-links">
+                    <a href="hebdomad.html">Read Online</a>
+                    <a href="books/Comgall.JA.Hebdomad.pdf">Download PDF</a>
+                    <a href="covers/hebdomad-cover.pdf">View Full Cover</a>
+                    <a href="https://a.co/d/3K7IQ8i">Buy on Amazon</a>
+                </div>
+                <p class="isbn">ISBN 979-8-8366-8980-3</p>
+            </div>
+        </div>
+    </main>
+
+    <div id="footer-placeholder"></div>
+
+    <script>
+        async function loadComponents() {
+            const response = await fetch('components.html');
+            const text = await response.text();
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(text, 'text/html');
+            
+            const headerTemplate = doc.getElementById('site-header');
+            document.getElementById('header-placeholder').innerHTML = headerTemplate.innerHTML;
+            
+            const footerTemplate = doc.getElementById('site-footer');
+            document.getElementById('footer-placeholder').innerHTML = footerTemplate.innerHTML;
+        }
+
+        loadComponents();
+    </script>
+</body>
+</html>

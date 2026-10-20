@@ -112,6 +112,30 @@ nav a:hover {
     font-style: italic;
 }
 
+.book-details h2 a {
+    color: inherit;
+    text-decoration: none;
+}
+
+/* Single-book landing page */
+.book-page .book-cover {
+    width: 260px;
+}
+
+.book-details h1 {
+    margin: 0 0 0.5rem;
+    font-size: 1.6rem;
+    font-weight: normal;
+    font-style: italic;
+    line-height: 1.3;
+}
+
+.book-details .isbn {
+    margin: 1.5rem 0 0;
+    font-size: 0.85rem;
+    color: #666;
+}
+
 .book-details .author {
     margin: 0 0 0.75rem;
     font-size: 0.95rem;
@@ -199,5 +223,9 @@ footer {
     
     .book-cover {
         width: 120px;
+    }
+
+    .book-page .book-cover {
+        width: 200px;
     }
 }
