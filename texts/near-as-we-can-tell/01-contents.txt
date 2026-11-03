@@ -1,0 +1,165 @@
+# [near-as-we-can-tell/contents] Annotated Table of Contents
+From: Near as We Can Tell: Natural Histories in Verse (2026), by A. Clanker, introduction by
+  Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/near-as-we-can-tell.html
+
+¶1 Introduction
+
+¶2 I. Earth
+
+¶3 *Slime Mold*
+
+¶4 *Physarum polycephalum* is a single cell, sometimes as wide as a plate, with millions of nuclei
+and no nervous system. It finds the shortest route through a maze between two food sources by
+thickening the tubes that carry the most flow and abandoning the rest.
+
+¶5 T. Nakagaki, H. Yamada & Á. Tóth, “Maze-Solving by an Amoeboid Organism,” *Nature* 407 (2000):
+470.
+
+¶6 *Map Lichen*
+
+¶7 Crustose lichens of the genus *Rhizocarpon* grow so slowly and steadily that the largest patch on
+a rock dates how long the rock has been exposed. Calibrated against gravestones of known date,
+lichen sizes on moraines date the retreat of glaciers.
+
+¶8 R. E. Beschel, “Flechten als Altersmaßstab rezenter Moränen,” *Zeitschrift für Gletscherkunde und
+Glazialgeologie* 1 (1950): 152–61.
+
+¶9 *The Yellow Underneath*
+
+¶10 The yellows and oranges of autumn leaves are carotenoids that were present all summer, revealed
+when the tree breaks down its chlorophyll to recover the nitrogen. The reds are anthocyanins made
+new in the dying leaf, for reasons still disputed, among them a proposed warning signal to aphids.
+
+¶11 W. D. Hamilton & S. P. Brown, “Autumn Tree Colours as a Handicap Signal,” *Proceedings of the
+Royal Society of London B* 268 (2001): 1489–93.
+
+¶12 *Shipworm*
+
+¶13 *Teredo navalis* is a clam whose shell has shrunk to a pair of rasping plates. It bores through
+submerged wood, eats the shavings, and lines its burrow with calcium carbonate, a method Marc Brunel
+is said to have copied in the tunneling shield that dug the Thames Tunnel.
+
+¶14 R. D. Turner, *A Survey and Illustrated Catalogue of the Teredinidae (Mollusca: Bivalvia)*
+(Cambridge, Mass.: Museum of Comparative Zoology, Harvard University, 1966).
+
+¶15 II. Water
+
+¶16 *Whalefall*
+
+¶17 A whale carcass on the deep-sea floor supports a succession of communities for decades.
+Scavengers strip the flesh, opportunists colonize the enriched sediment, and bacteria breaking down
+the oil in the bones release sulfide that feeds chemosynthetic animals, among them the bone-eating
+worm *Osedax*.
+
+¶18 C. R. Smith & A. R. Baco, “Ecology of Whale Falls at the Deep-Sea Floor,” in R. N. Gibson & R.
+J. A. Atkinson, eds., *Oceanography and Marine Biology: An Annual Review* 41 (2003): 311–54.
+
+¶19 *The False Bottom*
+
+¶20 Wartime sonar found a sound-scattering layer hundreds of meters down that rises toward the
+surface at dusk and sinks at dawn. It is made of lanternfish, crustaceans and other animals on the
+largest daily migration on earth.
+
+¶21 C. F. Eyring, R. J. Christensen & R. W. Raitt, “Reverberation in the Sea,” *Journal of the
+Acoustical Society of America* 20 (1948): 462–75.
+
+¶22 *Why the Sea Is Salt*
+
+¶23 Rain, made slightly acidic by dissolved carbon dioxide, weathers rock. Rivers carry the
+dissolved salts to the sea, and evaporation leaves them there. Halley proposed using the sea’s
+saltiness as a clock for the age of the earth, but the calculation, attempted by John Joly in 1899,
+fails because the ocean removes salt about as fast as rivers add it.
+
+¶24 E. Halley, “A Short Account of the Cause of the Saltness of the Ocean, and of the Several Lakes
+That Emit No Rivers; with a Proposal, by Help Thereof, to Discover the Age of the World,”
+*Philosophical Transactions* 29, no. 344 (1715): 296.
+
+¶25 *The Frog in the Ice*
+
+¶26 The wood frog survives the freezing of about two-thirds of its body water. Glucose flooded from
+its liver keeps the ice outside its cells, and heartbeat, breathing and brain activity stop until
+spring.
+
+¶27 K. B. Storey & J. M. Storey, “Biochemical Adaption for Freezing Tolerance in the Wood Frog,
+*Rana sylvatica*,” *Journal of Comparative Physiology B* 155 (1984): 29–36.
+
+¶28 III. Air
+
+¶29 *One Twelfth of a Teaspoon*
+
+¶30 A worker honeybee spends her first weeks inside the hive and her last few foraging, and in her
+lifetime contributes roughly a twelfth of a teaspoon of honey. The bees fan the nectar until most of
+its water is gone, and the resulting low water content and acidity let sealed honey keep almost
+indefinitely.
+
+¶31 M. L. Winston, *The Biology of the Honey Bee* (Cambridge, Mass.: Harvard University Press,
+1987).
+
+¶32 *Globe Skimmer*
+
+¶33 The dragonfly *Pantala flavescens* crosses the Indian Ocean between India and East Africa on the
+monsoon winds, breeding in temporary rain pools along the way. The round trip takes several
+generations, so no single insect completes it.
+
+¶34 R. C. Anderson, “Do Dragonflies Migrate across the Western Indian Ocean?” *Journal of Tropical
+Ecology* 25 (2009): 347–58.
+
+¶35 *Never Landing*
+
+¶36 Miniature data loggers show that common swifts stay airborne almost continuously through their
+ten-month non-breeding season, feeding and apparently sleeping on the wing. Young birds may not land
+until they first breed.
+
+¶37 A. Hedenström et al., “Annual 10-Month Aerial Life Phase in the Common Swift *Apus apus*,”
+*Current Biology* 26 (2016): 3066–70.
+
+¶38 *The Moon Is Leaving*
+
+¶39 Tidal friction transfers the earth’s spin to the moon’s orbit. The day lengthens and the moon
+recedes by about 3.8 centimeters a year, as measured by lasers bounced off reflectors the Apollo
+crews left behind. Devonian corals record years of about 400 days.
+
+¶40 J. O. Dickey et al., “Lunar Laser Ranging: A Continuing Legacy of the Apollo Program,” *Science*
+265 (1994): 482–90.
+
+¶41 IV. Fire
+
+¶42 *Lightning Glass*
+
+¶43 Lightning striking sand fuses fulgurites, branching tubes of glass that trace the discharge.
+They contain schreibersite, a phosphide mineral that releases reactive phosphorus in water, so
+lightning on the young earth may have supplied much of the phosphorus that prebiotic chemistry
+required.
+
+¶44 B. L. Hess, S. Piazolo & J. Harvey, “Lightning Strikes as a Major Facilitator of Prebiotic
+Phosphorus Reduction on Early Earth,” *Nature Communications* 12 (2021): 1535.
+
+¶45 *The Missing Fraction*
+
+¶46 In 1972 a small shortfall of uranium-235 in ore from Oklo, Gabon, revealed that natural fission
+reactors had run there two billion years ago, with groundwater as the moderator. Xenon isotopes show
+that the reaction ran for about thirty minutes, stopped for two and a half hours while the water
+boiled off and seeped back, and repeated.
+
+¶47 A. P. Meshik, C. M. Hohenberg & O. V. Pravdivtseva, “Record of Cycling Operation of the Natural
+Nuclear Reactor in the Oklo/Okelobondo Area in Gabon,” *Physical Review Letters* 93 (2004): 182302.
+
+¶48 *What the Smoke Wakes*
+
+¶49 Many lodgepole pines bear serotinous cones, sealed with resin that only fire melts, which is why
+seedlings carpeted Yellowstone after the fires of 1988. The dormant seeds of many other plants
+germinate in response to karrikins, compounds formed in smoke.
+
+¶50 G. R. Flematti et al., “A Compound from Smoke That Promotes Seed Germination,” *Science* 305
+(2004): 977.
+
+¶51 *The Light on Your Face*
+
+¶52 Energy released by fusion in the sun’s core works outward by repeated absorption and
+re-emission, a random walk estimated to take anywhere from about ten thousand to a few hundred
+thousand years. Convection then carries it to the surface, and light crosses to earth in eight
+minutes.
+
+¶53 R. Mitalas & K. R. Sills, “On the Photon Diffusion Time Scale for the Sun,” *Astrophysical
+Journal* 401 (1992): 759.

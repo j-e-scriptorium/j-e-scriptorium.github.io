@@ -1,0 +1,10 @@
+# [o-honeybees/end-matter] End Matter
+From: O Honeybees: An Illustrated Anthology of Bee Pomes (2023), edited with an introduction by
+  Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/o-honeybees.html
+
+¶1 Herr Doktor Ludovico Ambrosius is professor of bee-keeping and board game design at the
+University of St. Isidore in far northern California. He is the author of *Roll, Strike, Die, and
+Other Poems* (2021) and the editor of *Hebdomad: A World-Historical Shitpost* (2022).
+
+¶2 This book is set in Free*Serif* type, a member of the GNU FreeFont family.

@@ -1,0 +1,94 @@
+# [3.1] The Snort Came to a Stop
+Edkar Marenko — College of the Incarnation — February 2011
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-3-1
+Foreword gloss: rereads as an adult a P.D. Eastman philological parable
+
+¶1 Among my earliest memories is that of dragooning my chemistry-professor mother and
+kindergarten-attending older brother into serving as contestants in a game show I had drawn up,
+inspired, I imagine, by daytime TV episodes of *Jeopardy!* [1984-]. The event was memorable in that
+I had prepared the wrong answers for all of my questions. Having misunderstood the small cat in the
+hat on the back cover, I asked who wrote *Go, Dog. Go!* [1961], expecting to hear “Dr. Seuss”; when
+my brother said “P.D. Eastman,” I ran to the bookshelf to prove him wrong, and returned shamefaced.
+Then, having misunderstood an episode of *The Magic School Bus* [1994-1997], I asked what happens
+when you combine an acid and a base, expecting to hear “they explode”; my mother explained that they
+neutralize. At that point the memory ends, and so too, I imagine, did my career as a game show host.
+
+¶2 It struck me recently that the mistake I perpetrated at call-it-four-years-old in a way rhymes
+with the plot of another P.D. Eastman children’s book, *Are You My Mother?* [1960]. Which I take as
+evidence for Eastman’s superiority over Seuss—the latter is the more exuberant, but the former the
+more profound. *Are You My Mother?* follows a baby bird who leaves his nest to search for his absent
+mother, asking everyone he meets the titular question. Halfway through, he stops asking; instead he
+asserts, ever more implausibly, that the various beings he encounters are his mother. When his quest
+seems most hopeless, a literal *deus ex machina* returns him to his nest. Finally, his mother
+returns, and he tells her: “I know who you are.” As indeed he does. But where has this knowledge
+come from? It will take us about one and a half times as many words as the book itself to arrive at
+an answer, but there is nothing unusual in this; next to the poem, the picture book is the most
+compressed form of literature there is.
+
+¶3 We should begin by noting that what the baby bird must learn is not what a mother is, or that he
+has one. He knows both of these from the moment he emerges from his egg; it is the knowledge where
+she is that he lacks. He is not particularly concerned by her absence, and simply declares, “I will
+go and look for her.” Perhaps he overheard his mother’s announcement on the previous page that she
+has gone off to find food for her future nestling. The baby bird remains in a cheerful mood as he
+steps out of the nest, plummets to the ground, and realizes that he cannot fly. After all, the
+narrator explains to us, “he could walk.” He does walk—right past his mother, not seeing her,
+because “He did not know what his mother looked like.” His first encounter is with a kitten, to whom
+he asks the titular question, but who “did not say a thing.” A chicken then tells him “no.” The
+narrator goes over the evidence the bird has gathered thus far: “The kitten was not his mother. |
+The hen was not his mother. | So the baby bird went on.”
+
+¶4 By now the quest for the baby bird’s mother has become routine. But the baby bird has also begun
+to sense how large the world is, and how senseless it is to go by process of elimination. The first
+signs of anxiety appear. The baby bird retains his cheerful visage, but frets: “I have to find my
+mother! Where is she? Where could she be?” He climbs onto the head of a dog, which responds: “I am
+not your mother, I am a dog.” The dog’s implicit reasoning is that his doghood prevents him from
+being the baby bird’s mother because the baby bird’s mother must herself be a bird. But the baby
+bird does not pick up on the suggestion, and simply adds the dog to his list of non-mothers
+alongside the kitten and chicken. A cow’s incredulous response re-emphasizes the dog’s teaching:
+“How could I be your mother? I am a cow.” The narrator guides the baby bird over the list again:
+“The kitten and the hen were not his mother. | The dog and the cow were not his mother. | Did he
+have a mother?” He has ignored the teaching of the dog and cow, and instead drawn a reasonable but
+false inference from his limited experience of the world: if he has met four separate creatures and
+none is his mother, perhaps he does not have one. And if he does not have a mother, does he even
+exist? We see him shrink into the corner of an otherwise blank page, small, confused, and for the
+first time unsure of himself.
+
+¶5 Reason having failed, the baby bird turns to volition. He puffs up, taking up the entire page,
+and exclaims: “I did have a mother. I know I did. I have to find her. I will. I WILL!” Now he does
+not smile, he grimaces; he does not walk, he runs; and he no longer asks for his mother, but demands
+her. Unfortunately, the baby bird’s unreasoned will only leads him further away from home. The first
+thing he meets is a broken-down car. He silences his interrogative impulse: “Could that thing be his
+mother? No, it could not.” He does not stop to ask. The next thing—it is all things from here on
+out—is a boat; he cries out, “There she is,” but now it is the boat rather than the bird that does
+not stop. If the baby bird realizes that his exclamation was false, the narrator does not tell us.
+In a similarly fruitless encounter with a plane, the baby bird abandons descriptive statement for
+direct address: “Here I am, mother!” Like the boat, the plane does not stop. The narrator now drops
+the traditional catalog of non-mothers. The baby bird has no time for such recitals.
+
+¶6 “Just then, the baby bird saw a big thing.” For the first time, the narrator does not know the
+thing’s name either, although the illustrations reveal it to be a steam shovel. The baby bird cries
+out in excitement and rushes towards it, perching on its claw. But “the big thing just said
+‘Snort’.” The baby bird takes the onomatopoeia as both a warning and an announcement of the thing’s
+identity: “You are a Snort. I have to get out of here!” The narrator now adopts the baby bird’s
+invented nomenclature: “The Snort went up.” The Snort carries the baby bird far away, and when it
+stops, he cries out: “Where am I? I want to go home! I want my mother!” Like his announcement of his
+“WILL,” the baby bird’s cry of “want” takes up almost the entire page, only he is no longer
+determined; he has grown desperate. At this very moment, the Snort drops the baby bird back in its
+nest. The baby bird seems surprised, but happy. On the very next page his mother returns and asks,
+“Do you know who I am?” Now the catalog returns, but in the baby bird’s own words: “You are not a
+kitten,” or “a hen,” or “a dog,” or “a cow,” or “a boat, or a plane, or a Snort!” (Having never been
+taken in by the car, the baby bird omits it from the catalog, as he omits his initial failure even
+to see his mother when he first walked by her.) “You are a bird, and you are my mother.”
+
+¶7 The *deus ex machina* of the Snort has thus brought home to the baby bird what the dog tried to
+teach him: because genealogy depends on ontology, only a bird can be a baby bird’s mother. On both
+occasions the baby bird invited the teaching by physically climbing onto the teacher; it is as if
+direct contact does a better job communicating than mere interrogatories and exclamations. The dog
+had taught the baby bird the importance of words, how they are not just labels we attach to things
+but tools for expanding our knowledge. From the proposition that the dog is a dog, we can infer that
+it is not the baby bird’s mother. The Snort taught the baby bird a different truth about language:
+that it is a thing we make ourselves out of the things we encounter in the world, and only by making
+it ours can we feel at home with it. By giving the Snort its new name of “Snort,” the baby bird
+inspired it, through the poetic logic of a children’s book, to restore him to his mother’s nest,
+where he finally locates the proper recipient of the name he has so many times misapplied.

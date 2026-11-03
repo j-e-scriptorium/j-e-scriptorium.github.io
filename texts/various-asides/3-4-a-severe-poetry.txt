@@ -1,0 +1,279 @@
+# [3.4] A Severe Poetry
+Michael A. Seeley — College of the Incarnation — October 2014
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-3-4
+Foreword gloss: reads Vico’s New Science as a failed escape from the hermeneutic circle
+
+¶1 > These must be the bounds of human reason. And let him who would transgress them beware lest he
+> transgress all humanity. (¶360)
+
+¶2 The ultimate ambition of Giambattista Vico’s *The New Science* [1744] was to develop a
+philosophical philology, a rigorous method for grounding historical theories in linguistic evidence.
+Any such methodology would have to confront what later theorists called the hermeneutic circle: to
+learn anything about a historical event from a sample of language, one must already understand what
+the sample says, but to understand what it says, one must already understand the historical context
+it came from. As Erich Auerbach observed in his essay “Giambattista Vico and the Idea of Philology”
+[1936], Vico discovered an apparent escape route from this endless regress:
+
+¶3 > And he did so by means of a theory that very nearly represents a final, ingenious solution to
+> the core problem of hermeneutics. This new, critical art is based on the *senso comune*, the
+> common sense, of all people, and thus on that which all of humanity has in common. It is a
+> “judgment without reflection,” a natural predisposition for specific forms of life and
+> developmental paths … This is why the *lingua mentale comune* (common mental language) is one of
+> his favorite ideas. Here he assumes an inner language common to all human beings, such that the
+> different individual languages are merely so many different “aspects” of a common inner tongue.
+
+¶4 Auerbach’s perception here is keen; he has distilled here to its essence the Vicovian method’s
+strange amalgam of theory and art, common sense and common mental language. What follows begins by
+re-diluting Auerbach’s precis for human consumption. It then considers a potentially-fatal defect in
+Vico’s method, and thus, if Auerbach is right, in all humanistic inquiry.
+
+* * *
+
+¶5 *Genius and Erudition*. Vico himself understood his achievement to be more “theory” than “art,”
+and so, per the accepted intellectual conventions of the time, to require grounding in enumerated
+axioms and definitions set forth in the style of the geometers. He thus attempted to separate his
+project into its philosophical and its philological aspects, and believed that “The philological
+arguments must come last” (¶351); they can be understood only once the philosophical work has
+already been accomplished:
+
+¶6 > These philological proofs enable us to see in fact the institutions we have meditated in idea
+> as touching this world of nations, in accordance with Bacon’s method of philosophizing, which is
+> ‘think and see’ (*cogitare videre*). Thus it is that with the help of the preceding philosophical
+> proofs, the philological proofs both confirm their own authority by reason and at the same time
+> confirm reason by their authority. (¶359)
+
+¶7 Only in the second Book of *The New Science*, “Poetic Wisdom,” does he begin to put forward
+etymologies demonstrating his philological erudition. In the first, “Establishment of Principles,”
+he defends his project on philosophical grounds, defining his subject matter as the civil world of
+humanity, which materials outside the scholar’s own humanity cannot help him to understand: “for
+purposes of this inquiry, we must reckon as if there were no books in the world” (¶330). Vico
+describes his greatest discoveries as taking place entirely within himself:
+
+¶8 > But in the night of thick darkness enveloping the earliest antiquity, so remote from ourselves,
+> there shines the eternal and never failing light of a truth beyond all question: that the world of
+> civil society has certainly been made by men, and that its principles are therefore to be found
+> within the modifications of our own human mind. Whoever reflects on this cannot but marvel that
+> the philosophers should have bent all their energies to the study of the world of nature, which,
+> since God made it, He alone knows; and that they should have neglected the study of the world of
+> nations, or civil world, which, since men had made it, men could come to know. (¶331)
+
+¶9 If one accepts Vico’s distinction between philosophy and philology, one will align the former
+with “common sense” and the latter with “common mental language.” The *senso comune* makes “certain
+and determined” human choice “with respect to human needs or utilities” (¶141). That all human minds
+operate within “determined” bounds guarantees that examination of self can provide knowledge of
+others—pure reason can reveal the limits of humanity. The *lingua mentale comune* “uniformly grasps
+the substance of things feasible in human social life and expresses it with as many diverse
+modifications as these same things have diverse aspects” (¶161). That all languages capture
+“aspects” of the same thing guarantees that examination of what another has written can help one
+understand what one means by one’s own words—any language can be learned, and learning any language
+makes one’s own language richer. The former examination requires what one might call, given how Vico
+describes it in terms of inner illumination, “genius”; the latter requires, to use another of his
+favorite laudatory terms, “erudition.” Both are required of him who would gain historical knowledge,
+which for Vico means knowledge, not of self or other, but of the Platonic ideal of Humanity.
+
+¶10 It sounds, as Vico tells it, as if philosophical genius must come first, and philological
+erudition follow. Any reader of *The New Science* quickly realizes, however, that its distinction
+between philosophy and philology picks out, at best, different perspectives from which to view a
+single activity. The shift from Book One to Book Two does not feel like a move from ideas to
+history, but like a recapitulation of the same theory—a theory not quite ideal, not quite
+historical, but somehow both. Indeed, neither the 419 paragraphs of “Poetic Wisdom” nor the 318
+paragraphs of “Establishment of Principles” say much that is not at least alluded to in the 42
+paragraphs of the preliminary “Idea of the Work,” which makes no arguments at all, seeking only to
+explicate its allegorical frontispiece. Vico convinces his reader, not through a dialectic of
+philosophy and philology, but through endless recapitulation and embellishment. He tells and retells
+the founding myth of how “metaphysic … has enabled us finally to descend into the crude minds of the
+first founders of the gentile nations, all robust sense and vast imagination” (¶6). The story cannot
+be demonstrated, but it impresses through its ability to account both for the events of human
+history and for our ability to understand them.
+
+¶11 All genius, then, to be true genius, must be erudite, and all erudition ingenious; they grow
+together as self-scrutiny and historical research are carried out simultaneously. This is not an
+escape from the hermeneutic circle, but a solution to our sense that it poses a paradox. Vico’s
+theory is simply that I come to understand what someone else’s word means the same way I come to
+understand my own—gradually. Which is to say, history makes interpretation difficult, but there
+nevertheless exists a hermeneutic art. Calling this a “theory” is somewhat generous; the only proof
+it can have (which is all the proof it needs) is the fact that the art can indeed be learned.
+Valuing this art is, essentially, what Auerbach describes as historicism and attributes to both Vico
+and himself.
+
+* * *
+
+¶12 *Poetic Creation*. Auerbach is right to find Vico’s historicism attractive; yet its more
+startling implications must also be acknowledged. When Vico wrote that “we must reckon as if there
+were no books in the world,” he did speak in part out of physics-envy, but he did not misunderstand
+his own method. However much the new science sought to understand the language of other men, the new
+scientist had no one else with whom to speak. In his philological researches Vico borrows almost
+none of his insights from others’ intellectual efforts; indeed, though he values the practice of
+philosophy, he uses the term “philosopher” most often as a term of censure. He borrows Plato’s
+metaphysics, but heaps scorn on his political, historical, or linguistic theories. His favorite
+philosopher to cite is Varro, whom he values not for any arguments he makes, but for being “the most
+learned writer on Roman antiquities” (¶6) and penning many a “golden passage” (¶88), that is, many a
+passage whose supposed antiquity Vico believes to be authentic. One suspects that if Vico could have
+read Varro directly, rather than filtered through Augustine’s *City of God*, and so had confronted
+contested propositions rather than intriguing schemata underwritten by a venerable name, he might
+have found him less congenial. Books are not, for Vico, sources of insight into the mind of another
+person, into arguments someone else finds convincing even if he does not. Any idea worth considering
+must be *his* idea; he must be able to locate its truth within his own mind.
+
+¶13 So when it comes to books, Vico much prefers to the “esoteric wisdom of philosophers” the
+“vulgar wisdom of lawgivers” (¶254), and holds the latter to be much more ancient. “Vulgar” here
+means something like “common to all humanity.” Vico takes little interest in what particular
+thinkers have said; he cares about what *kinds of things* people said, especially in the most remote
+periods of history (after all, he already knows how civilized men think). He seeks to learn how he
+can bring *himself* to be able to say these things (even if he will have no reason to say them). The
+ancient law-books are valuable, not because they were written with any great insight, but precisely
+because they were *not*, and so tell us what humanity in its infancy could not help but think. All
+books, whether philosophical or poetic, are but mines from which to extract linguistic evidence, to
+be burned in the furnace of Vico’s own mind for the purpose of illuminating its dark corners. Poetry
+distinguishes itself only in that it offers the best fuel.
+
+¶14 Put differently: Vico was among the first scholars to pursue etymologies, not to establish the
+meaning of this or that word, but in order to understand linguistic development, which for Vico was
+the same as historical development writ large. Vico writes that “native etymologies are histories of
+institutions signified by the words in the natural order of ideas. First the woods, then cultivated
+fields and huts, next little houses and villages, thence cities, finally academies and philosophers:
+this is the order of all progress from the first origins” (¶22). In all of his linguistic analyses
+Vico traces the evolution of human consciousness from the lowest to the highest level. For example,
+opening Book Two of *The New Science* almost at random, one finds the following etymological account
+(quoted at length to capture the flavor of the philological enterprise, which Vico clearly enjoys):
+
+¶15 > The former [*comitia curiata*] were called *curiata* from *quir*, spear, whose genitive
+> *quiris* was later used as the nominative … just as from *cheir*, hand, which among all nations
+> meant power, must have been derived the Greek *kyria*, with the same meaning as the Latin *curia*.
+> Hence came the Curetes, who were priests armed with spears, for all the heroic people were
+> composed of priests and only the heroes had the right to bear arms … *Kyria* in its ancient sense
+> must have meant seigniory, just as aristocratic commonwealths are now called seigniories. From the
+> *kyria* of these heroic senates came *kyros* for authority, but this authority, as we have
+> observed above and will observe more closely, was that of ownership. From these origins came the
+> modern *kyrios* for ‘sir’ and *kyria* for ‘madam.’ And as the Greek Curetes came from *cheir*, so
+> we saw above that the Roman Quirites came from *quir*. (¶624)
+
+¶16 On display here is Vico’s ingenious erudition—his ability to pick up on linguistic patterns—and
+also his erudite genius—his ability to see, in these patterns, manifestations of the historical
+development whose ideal form he perceives within himself. He does not tell us the importance of
+these etymologies because *The New Science* aims to teach us to see it on our own. To understand
+Vico’s theory is to understand why he draws all and only the etymological connections he does. Once
+made explicit, this reasoning is seen both to emerge from and to support both aspects of Vico’s
+ideal history, its ideality (all languages are fundamentally the same) and its historicity (each
+language undergoes a process of gradual development).
+
+¶17 (a) The first aspect one sees in the similarity of Latin *quir*=spear to Greek *cheir*=hand.
+These subtly different sounds, Vico believes, capture subtly different aspects of the same
+root-concept, something along the lines of *kuir**=bodily force. When the human race was young, all
+aspects of the root-concept—hand, weapon, violence, power, etc.—could only be said all together.
+That one can sense the meaning of this root-concept (even if not express it in words) demonstrates
+the reality of the *lingua mentale comune*, and our knowledge of that language, however cloudy,
+makes it possible to recognize the truth of the *quir-cheir* connection.
+
+¶18 (b) Then the root-concept begins to fracture. In the progression *cheir*=hand →
+*kyria*=seigniory → *kyros*=authority → *kyrios=sir, kyria*=madam, one finds the second aspect of
+Vico’s theory, the development of language from the most primitive stages of culture to the most
+civilized. From its original wide scope, the word’s meaning narrowed to signify only the power of he
+who wielded it—in Vico’s political theory, the heroes, over the *famuli*. Then, it came to signify
+not power in the sense of force, which can be easily observed, but authority in the sense of
+ownership, which connects a person to a thing regardless of his visible disposition towards it.
+Then, in the last stage of civilization, it came to be used of all men and women, a pure abstraction
+based in the realization that all men and women share a spiritual equality, and so deserve to be
+respected, and so in a sense have spiritual authority. Through the differentiation of its words from
+one another, the Greek language gained ways of speaking about respect, about ownership, about parts
+of the body, and about brute force—but in the process, it lost the unutterable word that meant all
+of these *at the same time*.
+
+¶19 The fracturing and abstracting of language one sees in Vico’s etymologies is not exactly how
+Vico describes his own theory of the stages of linguistic development. Rather, he suggests that an
+original “mute language of signs and physical objects” develops into “heroic emblems, or
+similitudes, comparisons, images, metaphors, and natural descriptions,” and finally becomes “words
+agreed upon by the people, a language of which they are absolute lords” (¶32). These three stages
+should not, however, be taken too literally. Partly because it would be more charitable to suppose
+Vico did not really believe a nation could survive, even for a short time, without any means of
+communicating other than gesturing at various objects (did they carry around bags of props?). More
+importantly, because the three stages were for Vico ideal types, never perfectly instantiated on
+earth. While one always predominates, every time in every nation will be a mixture of all three
+stages. One would be better off understanding the three stages to indicate three different
+principles by which every language operates: call them proto-language, language, and meta-language.
+
+¶20 Vico says that “Men at first feel without perceiving, then they perceive with a troubled and
+agitated spirit, finally they reflect with a clear mind” (¶218). The mute signs correspond to
+feeling, that is, the intuitive proto-language common to all humanity, which, whether made up of
+sound or gesture, was entirely involuntary. Heroic emblems correspond to troubled perception, that
+is, the gradual recognition of connections between proto-words, connections which cannot be unseen
+once they are seen (saying “Achilles was not a lion” makes the same metaphorical connection as
+saying he was), and which begin to build up, out of the proto-language, a language capable of
+describing the world as it is. Finally, the agreed-upon words correspond to reflection, that is,
+meta-language, the acquired ability to negate, draw inferences, and in general reason about which
+words to use when, which is to reason about what the world is actually like, and whether what one
+has been saying corresponds to it. To the first of these Vico gives no name, but he might have
+called it mere consciousness. The last, in his terminology, is philosophical reasoning. The dynamic
+middle principle—the most important of the three, from the perspective of the philologist—is, in the
+Vicovian lexicon, poetic creation.
+
+* * *
+
+¶21 *A Community of One*. The greatest acts of poetic creation, in Vico’s eyes, were the epic poetry
+of Homer and the jurisprudence of Rome. Vico values the latter just as highly as the former, calling
+it “a serious poem” and “a severe poetry” (¶1037). Undoubtedly, both are etymological gold-mines,
+repositories of ancient wisdom. They preserved the language that primitive man had needed to create
+(he was not born with such words already present in him), but could not have created otherwise
+(unless the times and guises had been different, in which case his poetry would have been
+correspondingly different, and so, in Vico’s eyes, fundamentally the same). This explains
+“creation.” Vico easily could have used only that word, however, and left “poetic” to the side; he
+did not, which requires explanation.
+
+¶22 Vico does not mean that the great Greek and Roman poems were consciously wrought by an artist.
+An early adopter of Homeric skepticism, he argued that both the Greek epics and the Roman laws were
+produced by an entire nation, and shed light on how that nation had created itself and its language.
+Neither, however, does Vico use “poetry” as a mere synonym for the production of new words: that
+would be the monosemous usage of a philosopher. Rather, Vico’s use of the term is tied to his sense
+of both Homeric and jurisprudential *sublimity*. Poetry as Vico means it has a fundamental
+connection to bodily limitations:
+
+¶23 > They, in their robust ignorance, [created] by virtue of a wholly corporeal imagination. And
+> because it was quite corporeal, they did it with marvelous sublimity; a sublimity such and so
+> great that it excessively perturbed the very persons who by feigning did the creating, for which
+> they were called “poets,” which is Greek for “makers.” Now this is the threefold labor of great
+> poetry: (1) to invent sublime fables suited to the popular understanding, (2) to perturb to
+> excess, with a view to the end proposed: (3) to teach the vulgar to act virtuously … (¶376)
+
+¶24 Two aspects of this perturbation deserve comment.
+
+¶25 (a) Poetry perturbs in order to teach the vulgar virtue—for Vico this is among the first and
+deepest principles of ancient wisdom. Ancient poetry, one must remember, was not written for a
+nation by one person, but by the nation as a whole for itself. Thus, in Vico’s fable of the origin
+of virtue, “it was fear which created gods in the world; not fear awakened in men by other men, but
+by themselves” (¶382): through language humanity terrifies itself into submission to the moral law.
+People are naturally vicious, but when they begin to form linguistic communities, they are
+frightened into virtue, not by the words of some external speaker, but by their own poetic
+utterances, self-inflicted corporeal disturbances.
+
+¶26 (b) Poetry also, for Vico, means individual productions of the sort generally associated with
+the term. Vico believes that such modern productions are necessarily inferior to the ancient poems,
+due to their self-consciousness: “the arts of poetry and of criticism, have produced none equal or
+better [to Homer] and have even prevented its production” (¶384). The civilized man cannot feel for
+his thoughts; he cannot invent, for he sees too clearly. The sign of this inferiority, Vico implies,
+is the lack of sublime perturbation, which indicates the absence of creative access to the *senso
+comune*. Though its presence does not, of course, demonstrate that the common sense has been tapped
+into; perturbation can be falsified like anything else (so, one supposes, Vico would have made sense
+of phenomena like the faux-antique “Ossian”).
+
+¶27 The tension (not to say incoherence) in Vico’s use of the term poetry, stretched between
+communal and individual productions, comes to a head in the person of the philologist. To engage in
+philological research of erudite genius just is, for Vico, to probe deeply into primitive man’s
+poetic unconscious, as it can be found within the modifications of each of our minds. The
+philologist in his researches reenacts the original poetic creation. One might legitimately wonder,
+then: is it possible to write philological poetry? On the one hand, Vico wrote that poetry cannot be
+written in a civilized age. On the other, it seems likely—and many of his readers have felt—that he
+thought his own work to be such a poetic endeavor.
+
+¶28 Before endorsing such a speculation, however, one should avoid flattening it into mere
+self-aggrandizement. Poetry in the Vicovian sense is not just a pastime. For Vico to call himself a
+poet would have been for him to say that, like the ancient poems as he admired them, *The New
+Science* discovered a perturbing way of speaking that could not have been otherwise; and that, like
+those poems, its discovery founded a linguistic and ethical community. It may be right to say these
+things—on the understanding that, in Vico’s case, it was an isolated community of one. One sees here
+the true significance of his method’s refusal to trade arguments back and forth with other minds:
+for Vico there were no other minds. At least, none whom he could hope would understand him. Like all
+great poets, Vico said in *The New Science* everything that he could imagine being said, and his
+language and world lacked room for anything more. No outside voice could possibly break in: either
+Vico would find its words meaningless, or he would assimilate their etymologies into his own mind’s
+modifications.

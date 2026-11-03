@@ -1,0 +1,143 @@
+# [2.4] The Burden of Pursuit
+Hugo Purcell — University of St. Isidore — March 2026
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-2-4
+Foreword gloss: pursues some themes in The Winter’s Tale
+
+¶1 *Meandering one day in N— Park, the above-named author noticed a few sheets of looseleaf paper
+abandoned on a bench between the chess tables and the treeline. They turned out to be a computer
+printout of the following fragment of dramaturgical eisegesis, corrected in a few places with a red
+ink pen. The pen turned up a few dozen yards further down the path, snapped in two. I have silently
+accepted the handwritten emendations, except at a single point, noted below. I do not believe the
+unknown writer to have been an academic.*
+
+* * *
+
+¶2 *The Winter’s Tale* [c.1611] is numbered among Shakespeare’s “problem plays,” a way of saying
+that most readers find it unsatisfying. Leontes’s initial jealousy in Act I seems unmotivated, and
+his Act II insistence on imprisoning the now-pregnant Hermione seems sheer cruelty. His refusal in
+Act III to believe the Delphic oracle when it avows Hermione’s innocence amounts to madness—a
+madness drawn with all Shakespeare’s skill, but still almost impossible to understand—and the
+bear-involved death of Antigonus after he exposes the infant Perdita in the wilderness seems random,
+unmotivated, cheap. Time’s soliloquy and the pastoral idyll of Act IV are tolerable enough, and the
+Florizel-Perdita romance has much to commend it. But Act V’s eucatastrophe of Hermione’s stepping
+down from the pedestal back into life—however brilliant as a work of stagecraft—hardly resolves
+anything. At least, such is the conventional view.
+
+¶3 The problem with *The Winter’s Tale* is that the play has not been read properly. I do not insist
+that I am the first man to read it aright; Shakespeare is the most widely disseminated author in
+history besides God, and surely some discerning reader before me has found the truth and kept it
+well-hidden. I claim only the indignity of being the first to publicize this, the Bard’s most
+devious contrivance. I press onward only because I am weak; more like the second-greatest of English
+sonneteers than like the first, I feel that if I cease with my pen to glean my teeming brain, I
+shall cease to be. Perhaps I shall tear up these pages, or leave them locked in a desk drawer. I
+take consolation in the knowledge that few will ever read them.
+
+¶4 “Pen,” “pages,” “desk drawer”: metaphors of course. I write these words on a computer, with a
+keyboard, and they will in all likelihood be read (if anywhere) on an LCD monitor. We who live in a
+differently mediated age than Shakespeare are perhaps more attuned to the difference the medium
+makes. Too, I have read James Thurber [“The Macbeth Murder Mystery,” 1937], and Borges [“Theme of
+the Traitor and the Hero,” 1944], and Nabokov [*Pale Fire*, 1962], and *The Man-Leopard Murders*
+[Pratten, 2007]. So perhaps I really am the first. But no—I cannot believe it. However, enough of
+these preliminaries. I must tell you of my discovery.
+
+¶5 It began with that most famous of stage directions: “Exit, pursued by a bear” (III.iii). Some
+years having passed since my previous encounter with *The Winter’s Tale*, I recently attended a
+“dramatic reading” hosted by an English professor of my acquaintance. During the intermission,
+situated of course between Acts III and IV, I asked him what Shakespeare could possibly have meant
+by this line. He replied: probably nothing beyond a desire to add some excitement to the
+proceedings, as was common in early modern romances. For an English professor to say that! He then
+pointed out, as if the fact could have any relevance, that the Globe Theater was located near the
+area where Londoners would go to watch bear baiting. Wrapping up his ad libbed literature review, he
+noted without endorsement the absurd hypothesis that the King’s Men’s original performance used a
+real live trained bear.
+
+¶6 Throughout the play’s second half I found myself toying with ways to prove the professor wrong.
+Then I heard the narrator intone that other climactic direction: “HERMIONE comes down from the
+pedestal” (V.iii). And it struck me. When the audience sees the Hermione actress standing
+stone-still on a plinth, they assume that the actress is playing a statue, only to realize that she
+is really playing a queen playing a statue. Might we not be intended, upon re-reading (or
+re-watching) the play, to have the same moment of realization with the bear? The first time through,
+we assume it is an actor dressed in a bear costume. The second, we are equipped to see that the
+actor is dressed as a man dressed in a bear costume. The anthropological record is replete with
+murderers dressing up as predatory animals (berserkers, leopard societies, etc.); such disguises
+serve both to conceal the killer’s identity and to misdirect blame in a direction where no one will
+deny it.
+
+¶7 But who ordered Antigonus’s murder? Let us read the play a third time, and notice something
+further. It is in Act II, some months after Polixenes’s flight, that we first hear of Hermione’s
+putative pregnancy. Specifically, the first allusion to the queen’s “goodly bulk” comes immediately
+after the child Mamillius notes the feminine habit of making up one’s face “with a pen,” and is
+immediately followed by Mamillius telling his mother a fairy tale of “sprites and goblins” (II.i).
+Shakespeare asks us to see this pregnancy not as a verified fact, but as an invention of Hermione’s
+fecund imagination. Which is to say that he asks us to doubt whether it is really the queen who
+bears Perdita, just as we doubt that it is really a bear that pursues Antigonus, or really a statue
+that the pedestal bears upon it. The queen’s pregnancy is itself a costume, worn by an actress
+playing a queen playing at being with child.
+
+¶8 One more act of imaginative inference is required. If Perdita is not Hermione’s daughter, we may
+nevertheless rest assured that she is the child of Leontes, else the oracle would have spoken
+falsely. As for the mother, there is only one viable candidate: Paulina, wife of Antigonus. The only
+other women in Sicilia are Hermione’s various ladies in waiting, of whom only Emilia even has a
+name, and she appears only once, where she and Paulina rehearse a scene intended to convince the
+gaoler that Hermione has given birth (II.ii). In fact, we can infer, it is really Paulina who has
+done so, and Hermione who has agreed to present as her own the child of her husband’s mistress. With
+this terrible recognition we can now see clearly the plot of *The Winter’s Tale* as Mamillius must
+have whispered it in Hermione’s ear.
+
+¶9 *Act I*. Offstage, Leontes has abandoned Hermione’s bed for Paulina’s. Yet he remains jealous,
+perturbed by how Hermione engages in courteous banter with Polixenes when she should be pining for
+her absent husband. He suspects an affair, and commands Camillo to poison the Bohemian king. Camillo
+defies Leontes, warns Polixenes, and flees to Bohemia.
+
+¶10 *Act II*. Also offstage, Paulina finds herself pregnant by Leontes, confesses to Hermione, and
+requests her help. Hermione magnanimously agrees to feign a pregnancy and raise the child as
+royalty—after all, it is. By wearing bulky clothes Hermione not only makes herself appear pregnant,
+but also licenses Paulina to imitate the royal fashion and so disguise her own condition. Hermione
+intends the pretense also as a rebuke of Leontes, but the king refuses to see that Hermione is
+drawing the blanket over his own shame, and accuses her of adultery. When Perdita is born, he orders
+Paulina’s cuckold-husband Antigonus to expose the child in the wilderness.
+
+¶11 *Act III*. Leontes has sent to the oracle at Delphi, which answers him: “Hermione is chaste”
+(III.ii). The oracle speaks too truly: Hermione has not known a man for at least nine months.
+Leontes ought to infer that the child Perdita is not hers, but instead concludes that the oracle is
+lying. Mamillius dies of grief, and Hermione faints. Offstage, she and Paulina decide to feign her
+death as well, and then to smuggle her on board the ship bearing Antigonus and Perdita away from
+Sicilia. At night she sneaks into Antigonus’s cabin to play-act a ghost, telling Antigonus that he
+must abandon Perdita in Bohemia, and that even if he follows her instructions he will be killed. He
+does, and is. The infant Perdita is taken in by rustics.
+
+¶12 *Act IV*. By whom Antigonus was murdered, we soon learn. It was the peddler Autolycus, who all
+but confesses: “I can bear my part; you must know ’tis my occupation” (IV.iv). As for who hired him,
+it could only be Hermione, who alone had foreknowledge of Antigonus’s death. There follows the
+pastoral interlude with Florizel and Perdita. The long fourth scene of this act alone is as it
+appears.
+
+¶13 *Act V*. Back at the Sicilian court, Antigonus’s absence has allowed a strange ménage to take
+shape. For sixteen years Leontes has been half enamored of Paulina (vowing never to remarry without
+her consent), half wracked by guilt over Hermione (allowing Paulina to build of her an idol in
+words), and still entirely unwilling to recognize the truth of what has transpired. Only on seeing
+Perdita and Paulina beside one another does he admit it, in a cry onlookers are guaranteed to
+misinterpret: “O, thy mother, thy mother!” (V.ii). There follows the scene of the statue come to
+life, when Hermione must finally follow through on her pledge to recognize as her own Paulina’s
+daughter. And then, in the last lines of the play, Leontes brusquely pawns Paulina off on Camillo.
+
+¶14 Which is the secret of the murder, and what makes *The Winter’s Tale* so terrible. Leontes pairs
+Paulina and Camillo because he knows that if his reunion with Hermione is to have any chance of
+lasting, Paulina must belong to someone else. Hermione ordered Antigonus’s death for the same
+reason. Camillo will have no trouble mastering Paulina; after all, he has the strength to defy a
+king when necessary. But Antigonus was henpecked. Hermione knew that if he returned his weakness
+would drive Paulina back into the king’s arms; only his death could sufficiently touch her
+conscience to compel her into chastity.
+
+¶15 To see the truth of this play is to see the necessity of keeping it secret—not for Shakespeare’s
+sake, but for our own. We thought we had in Hermione and Paulina two of Shakespeare’s most saintly
+heroines; can we really allow the latter’s bedsheet to be soiled, the former’s white robes stained
+with blood? The critic who uncovers their crimes faces a test of strength. Has he the fortitude of
+Leontes? Can he set aside the ravening desire of the hermeneut to let interpretation be done though
+the heavens fall? Can he bear to keep silent?
+
+* * *
+
+¶16 *The fourth from last word of the final sentence has three red circles around it. A red slash
+strikes out from there across the entire last page.*

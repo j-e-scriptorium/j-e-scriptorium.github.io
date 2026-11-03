@@ -1,0 +1,407 @@
+# [5.5] Reading? No Such Thing!
+Lyzander Keretzky — College of the Incarnation — August 2014; University of St. Isidore — January
+  2026
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-5-5
+Foreword gloss: retreads in increasingly deranged fashion the bedrock question of whether reading
+  exists
+
+¶1 > Earth. Water. Air. Fire. Long ago, the four nations lived together in harmony. Then everything
+> changed when the Fire Nation attacked.
+
+¶2 > – *Avatar: The Last Airbender* [2005-2008]
+
+¶3 But, of course, the world of *Avatar: The Last Airbender* doesn’t have four nations at all. That
+term is reserved for the Fire Nation, an industrializing power analogized to imperial Japan, the
+only one of the four elemental powers to recognize itself as an historical agent with the
+Heraclitean potential to cause “everything” to “change.” The Inuit-like Water Tribe lives
+hand-to-mouth without any historical consciousness. The Earth Kingdom, based on medieval China and
+possessing an ancient homogeneous history, builds up walled cities and possesses extensive
+agricultural improvements. The Air Nomads are Tibetan monks, living entirely outside time and
+lacking even a collective noun (“nomads” is merely plural).
+
+¶4 The division into four nations maps perfectly onto the anthropological categories of, say, Vico’s
+*The New Science* [1744] (aristocracy, monarchy, democracy, anarchy), Arendt’s *The Human Condition*
+[1958] (living, working, acting, thinking), or the received anthropological periodization
+(hunter-gatherer, agricultural, industrial, digital). Take water (I leave the other three as an
+exercise to the reader): Vico’s aristocracies follow Noah’s flood; Arendt’s bare life ebbs and
+flows, never ends because it goes in cycles, and so never goes anywhere; like the hunter-gatherer’s
+world, water is chaos, lose your footing, eat the wrong berries, and you drown.
+
+* * *
+
+¶5 Arendt’s tetrad is of acts, which is to say, of verbs, but we can also understand it as a tetrad
+of manners, which is to say, of adverbs. Living—which for present purposes would be better termed
+fucking, the propagation of our animal nature—is properly done lustily, which is to say,
+unconsciously, following the impulses of nature. Making, the construction of a distinctly human
+world, is properly done commercially, with an aim to getting something else out of it. Acting, the
+assertion of authority within the human world, is properly done forcefully, so as to impress on the
+mind of the public the actor’s agency. And thinking, the contemplation of the world beyond the
+merely human, is properly done thoughtfully, receptively, with a willingness to conform the thought
+to the thing rather than vice versa.
+
+¶6 These are the proper moods in which we do each of these things—but each can also be done in the
+mode of the others. To fuck lustily, which in the paradigm case means to breed, is only one mode of
+fucking; fucking can also be, for example, forceful, as in rape. To fill in the matrix of
+possibilities with some paradigm cases:
+
+¶7 Contemplating the reflection across the diagonal reveals certain affinities. The lusty thinker,
+who indulges in rhetorical flights of fancy, meets his match in the thoughtful fucker who seduces
+him—this being the theme of Plato’s *Phaedrus* [c.370 BC]. And so too for the commercial actor whose
+legislation sets the boundaries for and draws its legitimacy from the forceful maker’s direction of
+a stage play; the forceful thinker whose reasoned arguments seek to convince the thoughtful
+governor; the lusty maker whose sculpture takes as its daytime model one who at night becomes a
+commercial fucker, a whore; and so on.
+
+* * *
+
+¶8 As we find in the *Phaedrus*, the chariot represents the classical self: body and soul pull in
+opposing directions, and reason exerts no motive power of its own but seeks to control the other
+two. Horse and rider, similarly, can represent the medieval self: a direct union of body and soul,
+with no third part, and which moves only when its two parts move in harmony. The bicycle, the modern
+self: only one active part (the rider) and a stable unity only when in motion.
+
+¶9 Some vehicles are political rather than psychic. The sailing ship represents the classical city:
+a little manmade world, large enough to be divided into public and private spaces, moved by divine
+favor and guided by steady hand of its pilot-king, occasionally passing other such worlds by as it
+moves through the natural flow. The gondola, the commercial city: putting each individual in charge
+of his own destiny and in direct contact with the waters of chaos lurking beneath every political
+settlement, a system viable only in unusual geographical conditions. The train, the socialist city:
+fully enclosed, as if to deny that anything exists outside the state, creating the sentiment of a
+collective enterprise but in fact requiring hardly any human intervention to keep it going along
+fore-ordained tracks, only the conductor’s decision regarding the rate of fuel expenditure, which
+man burns to make his own divine breath. The car, the neoliberal city: imagining itself a piece of
+yeoman farm equipment, in fact a tool for moving from commuter suburb to urban center, a movement
+plagued by a false promise of freedom constantly devolving into gridlock, a traffic jam no one wills
+but brought about by an invisible hand, or more precisely by the state’s occulted decision to spend
+tax dollars funding the upkeep of the roads.
+
+¶10 The *sensus communis* that integrates the self and the *sensus communis* that integrates the
+city are, in a sense difficult to define, the very same sense.
+
+* * *
+
+¶11 The Tesla Cybertruck’s brutal geometry performs a peculiar kind of technological nostalgia.
+Modern vehicles achieve their organic forms through computational fluid dynamics—thousands of
+calculations sculpting each curve to minimize air resistance. Their smooth surfaces belie the
+complexity beneath: these are artifacts of abundant information employed in the service of energy
+efficiency. The Cybertruck inverts this relationship. Its exterior fetishizes the aesthetics of
+computational poverty—angular panels and flat surfaces that deliberately evoke the low-polygon
+constraints of early computer graphics. This isn’t mere retro-futurism; it’s an object lesson in the
+relationship between information and energy. The Cybertruck longs for an era when digital scarcity
+produced decisive forms, when the limitations of processing power forced design towards bold
+geometrical absolutes.
+
+¶12 Yet this aesthetic poses a profound contradiction. Beneath its defiantly simple surface, the
+Cybertruck harbors extraordinary computational complexity. Its power management, suspension, and
+driver assistance systems process torrents of sensor data in real-time. The same vehicle that
+affects early-graphics primitivism runs neural networks that would have been unimaginable in the era
+it visually references. The vehicle’s commitment to visual simplicity actively undermines its
+efficiency. Those sharp edges and flat planes create drag that demands more battery power—real
+energy sacrificed on the altar of affected digital austerity. The vehicle’s sophisticated systems
+must work harder to compensate for the inefficiencies created by its own aesthetic choices.
+
+¶13 Unlike the Cybertruck, this digression does not have a point. Like a modern car’s surface, it
+emerged through cycles of computational refinement—testing ideas, adjusting emphasis, tightening
+language. Each revision optimized the argument’s flow while preserving its essential form,
+transforming sharp edges into smooth curves. The result, composed by an AI through iterative
+drafting and revision, bears the marks of its information-rich origins: not in angular
+pronouncements, but in the quiet efficiency of its motion through conceptual space.
+
+* * *
+
+¶14 The narrative structure of *Law & Order* [1990-] doesn’t call attention to itself. The style at
+first seems standard-issue network TV realism: each episode stands alone, following a case from
+beginning to end; the time is “now,” present-day NYC, as the date-stamped intertitles occasionally
+reinforce. The characters occasionally swap out between seasons, but within, they hardly change;
+each has a single plotline mentioned occasionally in passing, as if these are real people with real
+problems they simply set aside when on the job.
+
+¶15 But watch enough episodes back to back, you may notice something odd: the episodes overlap. Each
+week’s episode’s verdict comes down on its air date, but from crime to law to order to verdict takes
+months. Which means the protagonist detectives and district attorneys are working multiple cases at
+the same time. As every professional does: to minimize down time and maximize productivity, standard
+operating procedure is to switch to another case while waiting to hear back from a source, for lab
+results to come in, for the opposing party to file its brief, and so on. *Law & Order* glosses over
+this multitasking to tell the story of a single case, but it turns out that the different episodes
+are what the protagonists are doing off-camera during one another. And the snippets from each
+character’s personal life, it turns out, aren’t even in chronological order, but rather selected to
+rhyme with each episode’s story arc.
+
+¶16 We can now imagine (and cannot cease to imagine) a chronological cut making this background
+weirdness explicit. *Episode One*: Lenny and his new partner Ray get an assignment, arrest a
+suspect, hand him over from Law to Order, and get a new case, which they investigate while the new
+assistant DA begins the prosecution; the episode ends with an arrest in case #2 and the appearance
+of Jack McCoy to solve a minor case #1 problem. *Episode Two*: Lenny and Ray get a third case, but
+it hits a dead end, and they move on to a fourth, while the lawyers make slow progress in the first
+two cases; the first is almost ready for trial. *Episode Three*: Case #4 being on pause for some
+labwork, the detectives turn back to case #3, and solve it, then move on to case #5; the lawyers
+make various filings in case #2, and try case #1 through to jury deliberations. The detectives reach
+an impasse in case #5, and move on to #6. *Episode Four*: The season hits its stride, and from now
+on each episode will see one or two investigations culminating in arrests, and progress in four to
+six legal proceedings.
+
+* * *
+
+¶17 As a child, you see adults looking at marks on a page and then pronouncing words. They claim the
+marks “are” the words. You try it yourself: look at the marks they looked at, say the words they
+said. “Well done,” they condescend, “you’ve learned to read.” But now you look at a new jumble of
+zigzags and curlicues, and say what words come into your mind. “That’s not what it says,” they tell
+you. “In fact, you’re holding the book upside down.”
+
+¶18 An error, but also an opportunity. You set yourself to the task in earnest, but a different task
+than your elders envision: you learn to read upside down, eyes scanning the inverted text from
+bottom to top, flipping the pages from right to left. Soon upside-down letters hit upon your eye
+like English voices hit upon your ear, always already meaning-laden. Faced with rightside-up text
+you furrow your brow and mentally rotate their shapes. Absent such effort, the glyphs strike your
+eye only half-tinted by meaning, like speech in a foreign tongue, or writing in an unfamiliar
+script.
+
+¶19 The benefit? There being no natural “upside” or “downside” where writing is concerned, to read
+upside-down is simply to read the opposite way from everyone else. By so reading, you render
+yourself—not unable to read—but able not to read. The billboard, the traffic PSA, all the various
+sources of semantic pollution in the built environment, your specially-trained eyes can pass over
+without automatically decoding their meaning. While if you need for whatever reason to know any
+particular sign’s meaning, a moment of slight concentration will make it clear. And any large block
+of text you need to read fluently, you simply invert.
+
+¶20 So it goes for a while. Admittedly, there are downsides; occasionally, looking at a museum
+placard, you find yourself craning your neck to one side to get a rotated view. But upside-down
+reading mostly serves you as a kind of superpower. Until the semantic pollution gets its way. Spend
+enough time reading various rightside-up texts you encounter in the world, and your brow becomes
+less furrowed; you begin automatically, as it were, decoding any text within your field of vision;
+you lose your ability not to read. Once lost, it can never be recovered. Apart from cases of stroke
+or similar brain injury, there are no recorded instances of a person truly forgetting how to read
+once he has learned.
+
+* * *
+
+¶21 *A dialogue.*
+
+¶22 – My God, Alice, what are you doing?
+
+¶23 – Reading Ludwig Wittgenstein. See: *Philosophical Investigations* [1953].
+
+¶24 – What, a book? Don’t tell me you buy into all this reading nonsense.
+
+¶25 – Nonsense how, Bob?
+
+¶26 – Well everyone nowadays knows there’s no such thing.
+
+¶27 – I don’t get it. No such thing? What am I holding then?
+
+¶28 – Book, of course, but what you say you’re doing with it, “reading”: no such thing! Maybe back
+in the day, but they didn’t know we’re descended from apes.
+
+¶29 – I don’t quite see your meaning. Look, I’ll read something out for you.
+
+¶30 – Ha! You’ll make up some nonsense, you mean, and say it was the book told it to you. As if the
+book were whispering silently in your ear.
+
+¶31 – It does feel like that sometimes.
+
+¶32 – The voices aren’t real just because you hear them. You should go to a doctor, not a library.
+
+¶33 – But the book’s voice isn’t random. There are ways to tell.
+
+¶34 – This line I’ve heard before, Alice. It’s a con. Look at this funny picture. Sometimes you say
+it says “bow,” sometimes “bow.” How can the same picture say two different things? Admit it: you’re
+making it up as you go along.
+
+¶35 – Just let me teach you how to read. Then you’ll be convinced it’s possible. It’ll open up a
+whole new world for you.
+
+¶36 – Why would I want to stop seeing the world as it is? What has “reading” ever done for anyone?
+I’ve met readers before. You spend your life staring at little black squiggles instead of living.
+Then you go and try to get other people to do the same, like you want to spread the infection.
+
+¶37 – Reading doesn’t stop me from seeing the world, it lets me see more of it. I admit it’s
+sometimes distracting, and yes, people write too much, but it’s an important part of the world we
+live in. Not reading, that would be like not believing in God.
+
+¶38 – Not at all. Reading and writing, these are just things human beings do, the way the monkeys
+make faces at each other. But it’s not as if books have faces. You’re just pretending they do. You
+have some rules you sometimes follow, but in the end you say whatever you want, then pretend the
+book said it instead.
+
+¶39 – Bob, when you say “you” I don’t know if you mean me, or everyone who reads. Lots of people
+read, and when they read the same thing, they read the same thing. Is that not real enough?
+
+¶40 – No, it’s just good teamwork. So you’ve found a way to have shared hallucinations; they’re
+still hallucinations. Things can’t talk, not silently anyway.
+
+¶41 – Of course not, and there’s not actually a voice in my head when I read. It’s a metaphor. When
+I talk to you, do you hear a voice inside your head?
+
+¶42 – No, I hear your voice, over there.
+
+¶43 – When I read this book, I see its voice, here on the page.
+
+¶44 – I can’t see any voice there.
+
+¶45 – That’s because you haven’t learned how.
+
+¶46 – Someone once taught me how to count with tally marks. Maybe there’s this thing reading you
+sometimes do with a marked-up bit of paper, but I don’t see why the paper is necessary. I usually
+count things in my head.
+
+¶47 – You count your brain cells?
+
+¶48 – No, I mean I count things with my head, or at least not with anything else. What’s your point?
+
+¶49 – When you count things with your head, it would be nice if I could count them with your head
+too, instead of mine (which would be a waste of brainpower). I don’t think there’s any way to do
+that. But if you could count it with paper, instead of with your head, then I could count it with
+that paper too. That’s reading. Or we can count it with your voice, and that’s talking.
+
+¶50 – So you’re saying that when you read something, you’re really doing something together with
+whoever wrote it. But what if no one wrote it? Look at these scuff marks on the floor. By chance,
+they look like those things you call “letters.” But who wrote them? When you read with them, who are
+you reading with?
+
+¶51 – Sure, it looks a bit like, writing, but it isn’t. So, I don’t try to read it.
+
+¶52 – How do you know? Maybe someone put them there on purpose. Or maybe your book was an accident.
+
+¶53 – Maybe you sometimes get a few letters strung together by accident, but an accidental book
+couldn’t be very long.
+
+¶54 – How long is very long?
+
+¶55 – The issue isn’t with any particular length, it’s that the accident couldn’t go on. Nothing
+would count. The next word would have to have nothing to do with what came before, since even
+internal consistency isn’t entirely internal: the words themselves are borrowed from outside. The
+result wouldn’t be deceptive, it would be nonsense. Dust in the wind.
+
+¶56 – But accidents do happen. Lo and behold, a book formed out of the dust.
+
+¶57 – Why call it an accident, if it doesn’t look like one?
+
+¶58 – If not an accident, who’s responsible for it?
+
+¶59 – The dust.
+
+¶60 – Please, Alice, the dust isn’t alive.
+
+¶61 – If it were able to make a book, why wouldn’t we call it alive?
+
+¶62 – Well, it’s inert.
+
+¶63 – After writing the book, it died.
+
+¶64 – This is absurd!
+
+¶65 – You posed the hypothetical, I’m just filling in the blanks. If it helps, imagine that it took
+a few billion years for the dust to write the book, and that it did some other things first, all
+accidentally, of course.
+
+¶66 – You’d almost convinced me there’s reading, and now you say there’s not even living, it’s all
+just one big accident?
+
+¶67 – No, you said that, Bob. I said the dust lived, and read. On the hypothetical, that’s all true.
+
+¶68 – What do you mean true? At most, that way of talking could be useful, but it’s metaphorical.
+
+¶69 – We use words to affect the world, or to affect other words, and their use is how they get
+their meaning. We also say how we use them, and if what they mean and what we say match up, they’re
+true, or at least truthful. True if the use holds up. But I’m getting ahead of myself; I hadn’t
+meant to spin up a grand theory of meaning.
+
+¶70 – Let’s go back to the hypothetical. Of what use is it to say the dust is “alive”?
+
+¶71 – It’s to say that if the hypothetical ever came to pass, if I ever encountered dust that wrote,
+I should treat it as alive, not as an accident. Alive is what I am, you are, the dog is, the scuff
+marks are not.
+
+¶72 – Whether you’re speaking truly or not depends on whether this is how the hypothetical plays
+out? So how can we know?
+
+¶73 – Correct; we’ll only ever know if it actually comes to pass.
+
+¶74 – Who’s this we?
+
+¶75 – Everyone: you, me, every reader or talker, past, present, future.
+
+¶76 – And hypothetical? Shouldn’t they get a say?
+
+¶77 – Hypothetically, but not actually. Actually, you and I are having our say now, the past has
+already had its, the future will have its soon enough. Since we’re not done using our words, nothing
+is quite true yet. They can at least be truthful, if they’re fit for purpose, but I can’t know if
+they’ll stand the test of time.
+
+¶78 – I don’t fault this for being vague and mystical, but I don’t think it’s even coherent. I can
+count with your voice because I can make you show me how you did it. But once the dust is, as you
+called it, “dead,” it can’t tell me how to read its book. And that goes for all books. It’s absurd
+to say that the dust is still counting with the book, so I can still borrow its counting, if there’s
+no longer any dust to do the counting.
+
+¶79 – Why does it have to still be counting? The point is that it counted. Even living talkers
+sometimes refuse to answer the questions we put to them, especially if we put too many. I still have
+to do the counting myself, even if I do it with your voice. I can let you do the easy work, marking
+a tally for each crumb you see, but I still have to mean these tallies together with these crumbs: I
+have to use them, say how I use them, and hope they work. I can do this as long as the tally marks
+last; or, if I’m worried about it, I can let them echo into my head, or into a book of my own. But
+they’d still be yours, even if they were the last thing you made your own.
+
+¶80 – So am I dead whenever I don’t count? Then I’ve only rarely been alive.
+
+¶81 – You’ve never counted with a book, but you’ve counted with your head, and my voice. Admit it,
+Bob: you don’t like reading because it reminds you of yourself.
+
+¶82 – I dislike reading because it destroys lives. You take happy and healthy human beings, teach
+them to read, next thing you know they’re depressed, sickly, spending all day in the library
+conversing with voices in their head, with their head, whatever.
+
+¶83 – Why is that worse?
+
+¶84 – It’s a kind of death. And they rarely even make books that sell. As you would say, no one will
+even use their voice after they die, so they won’t live on.
+
+¶85 – Oh no, me reading the dust’s book is not the dust living on. The dust is dead. Its words live
+on, but it’s no longer using them. Using words, like we’re doing here: that’s life! Much better than
+eating or drinking.
+
+¶86 – But we talk about things like eating and drinking. That’s what we care about, not words!
+
+¶87 – Certainly; without things to use words on there’s no such thing as using them; and no use, no
+life.
+
+¶88 – But if my words last after my death—
+
+¶89 – And the things I used them on last too—
+
+¶90 – Then in what sense am I dead?
+
+¶91 – I can’t put my words to any further use. The words are still there, and the things I did with
+them, but the doing is over and done with. Though there can be echoes. Other people can use my
+words. But they’re not me.
+
+¶92 – Why not?
+
+¶93 – Because I can’t use my words in union with everyone else. In harmony, sometimes, but there’s
+always a difference. There’s also dissonance in how I use my words myself, but even if “I” might be
+more than one speaker, “I” names one bundle of speakers, “we” another. All the parts of “I” agree
+they’re part of “I,” however little else they agree on. But no one knows quite who’s included in
+“we.”
+
+¶94 – That’s very cryptic, Alice. But it sounds as if you’re saying that I, we, whatever, are a
+divided substance, not different objects.
+
+¶95 – Exactly!
+
+¶96 – That’s absurd! Whatever I am, I’m this body here, not that one there, or the space between.
+And I’m alive like a dog, not a piece of paper: because a piece of paper isn’t.
+
+¶97 – But the link between our words and our deeds is immaterial. Sure, the things and words linked
+will tend to cluster around your body, or mine, or wherever. But we’re like adjacent mountains:
+distinct, but how to tell where one ends and one begins?
+
+¶98 – So we’re just peaks on the surface of word-world-using Us. Facets of the world soul?
+
+¶99 – Perhaps!
+
+¶100 – I don’t buy it. But as long as the reading can be at the service of eating and drinking …
+
+¶101 – Servant? Language uses food and drink to give itself a subject matter, not for food or
+drink’s own sake. Language elevates food and drink, and us. From the view of eternity, we will
+always have been but the words that language speaks …!

@@ -1,0 +1,496 @@
+# [reach-of-poetry/a-trying-amusement] V. A Trying Amusement
+From: The Reach of Post-Romantic Poetry (2025), by Edkar Marenko
+URL: https://j-e-scriptorium.github.io/reach-of-poetry.html#a-trying-amusement
+
+¶1 V. A Trying Amusement
+
+¶2 In 1951 the by-then-renowned poet Eliot assisted director George Hoellering in a film adaptation
+of Eliot’s 1935 verse drama *Murder in the Cathedral*, and as part of this collaboration Eliot made
+a reference recording of the entire script. No re-recording was necessary save for the scene which,
+Eliot later told Hoellering, was “his main reason for writing the play”: that in which the Knights,
+having already killed Archbishop Becket within the walls of Canterbury Cathedral, break the fourth
+wall and modulate into modern political oratory concerning their reasons for committing the murder.
+As Eliot delivered these speeches, “the sound recordist suddenly turned round to Mr Eliot and,
+completely forgetting his control switches, said excitedly, ‘Aren’t they right, sir? What do you
+think?’ Mr. Eliot, needless to say, was highly amused.” [“Filming *Murder in the Cathedral*,” 1958.]
+
+¶3 Needless to say, Hoellering implies, because of course Eliot did not think that the Knights were
+correct—but what is amusing about an audience member perpetrating such a blatant misreading? Though
+we are not surprised, exactly, by this anecdote, especially not if we are already familiar with this
+poet’s puckish personality, still there is a clue here worth pursuing. That clue does not consist in
+the reaction of the audience, though, to be sure, those too knowing to give the Knights’ speeches an
+eager endorsement will often respond with uneasy laughter. Rather, the clue lies in Eliot’s amused
+consciousness of that laughter, and our own belated consciousness of that amusement, our knowledge
+that we have been tricked.
+
+¶4 I would suggest that Eliot’s amusement can unravel for us the whole mystery of this play whose
+title conforms to the grammar of a detective novel. We too easily slip into remembering *Murder in
+the Cathedral* [*see *App’x at 135] as an exercise in somber religiosity, imparting in
+quasi-ritualistic fashion an authoritative lesson about the true nature of sacrifice. Or, if we
+evade this, we still too easily remember it as a trial by aesthetic representation in which bishop
+and knights each attempt to justify themselves in our sight. Eliot’s amusement tells a different
+story. It helps us see that the play plays a joke on its audience, and, in doing so, places the
+audience itself on trial. This latter trial, it turns out, centers on the difference between
+aesthetic judgment and religious authority.
+
+* * *
+
+¶5 For Eliot’s amusement at our reaction to the Knights’ speech we do not need to take Hoellering’s
+word. Eliot himself, in his 1951 essay “Poetry and Drama,” written around the same time as the film
+adaptation, emphasizes that the “platform prose” of the Knights at the end of *Murder in the
+Cathedral* is “a kind of trick, that is, a device tolerable only in one play and of no use for any
+other.” Though Eliot is focused here on the difference between dramatic prose and dramatic poetry,
+we can still hear in these words a whisper of the trial-by-amusement I have suggested. To begin
+with, the word “trick” echoes a more famous passage Eliot wrote almost twenty years earlier in his
+sixth Norton lecture, on “Matthew Arnold”:
+
+¶6 > For Arnold the best poetry supersedes both religion and philosophy. I have tried to indicate
+> the results of this conjuring trick elsewhere. The most generalised form of my own view is simply
+> this: that nothing in this world or the next is a substitute for anything else; and if you find
+> that you must do without something, such as religious faith or philosophic belief, then you must
+> just do without it.
+
+¶7 We should keep this image of the conjuring trick in mind when we consider Eliot’s writing about
+the line between religious faith and, not poetic, but specifically dramatic amusement. Eliot almost
+despairingly raises the question in the 1928 “A Dialogue on Dramatic Poetry”:
+
+¶8 > Our literature is a substitute for religion, and so is our religion. We should do better if,
+> instead of worrying about the place of drama in society, we simply decided what amused us. What is
+> the purpose of the theatre except to amuse?
+
+¶9 A decade later, in his 1937 essay “Religious Drama: Medieval and Modern”—written not long after
+*Murder in the Cathedral* itself—Eliot has a more positive program to offer:
+
+¶10 > I would go so far as to say that a religious play, to be good, must not be purely religious.
+> If it is, it is simply doing something that the liturgy does better; and the religious play is not
+> a substitute for liturgical observance and ceremonial, but something different. It is a
+> combination of religious with ordinary dramatic interest.
+
+¶11 In sum, the intersection of religion and art, and particularly of religion and drama, is a zone
+for trickery. One kind of trick, the Arnoldian kind which, Eliot believes, religious drama must
+reject, is substitutionary: art attempts quite straightforwardly to replace religion. Another kind,
+that in which *Murder in the Cathedral* engages, is instead combinatory, retaining the distinction
+between religious and dramatic interest while finding a way for them to coexist. Given the
+respective magnitudes of dramatic and religious interest, however—the one finite and the other
+infinite—we might expect stabilizing such a coexistence to be as impossible as keeping track of a
+drop of wine dissolved in an ocean of water. Watching a drama which turns out to be religious seems
+a bit like checking your phone during a lecture because you received a text reminding you to listen
+to the talk.
+
+¶12 By Eliot’s lights such a comparison, if excessively deflationary, would nevertheless not be
+entirely mistaken. Though the 1937 essay does not use the word “trick” for the joke on the audience
+at the center of Eliot’s religious drama, it does elaborate our keyword “amusement” into the
+trickier “distraction”:
+
+¶13 > Now I think that this essentially religious craving is latent in all serious lovers of the
+> drama. It is not true that the craving which has possessed most peoples at most times, for seeing
+> human actions represented with mime and voice, is simply a craving for amusement and distraction.
+> … If, however, a theatre of mere amusement can never satisfy—so that the audiences are always
+> wanting something better, though they may not know it—we must remember that there is an important
+> aspect in which the lowest things are the most necessary. The element of amusement is
+> indispensable; if a play does not amuse people it can do nothing for them. I am obviously using
+> the word “amuse” in a wide sense, and one in which the notion of merriment need not enter. I
+> include distraction, and the holding of people’s attention without any effort on their part.
+
+¶14 If Eliot’s reasoning here recalls Lucretius’s *De Rerum Natura*, where the sweet honey of the
+poetic Muse holds the mind of the reader steady until she sees into the philosophical nature of
+things, it also resembles a passage from the last of Eliot’s Norton lectures, wherein “meaning”
+serves
+
+¶15 > to satisfy one habit of the reader, to keep his mind diverted and quiet, while the poem does
+> its work upon him: much as the imaginary burglar is always provided with a nice piece of meat for
+> the house-dog.
+
+¶16 This latter analogy, in turn, recalls Virgil’s Sibyl, who calms Cerberus with a honeyed drug as
+she and Aeneas enter the underworld. The amusement of the playwright, for Eliot, is no trivial
+matter. Like an epic hero, a philosopher-physician, or a conjuring magician, he distracts his
+audience from ordinary reality in order to make more real to them some truth about it.
+
+¶17 The significance Eliot finds in amusement can be glimpsed a few pages later in the 1937 essay,
+when this complex exchange between religious and secular forms of attention becomes a type for all
+metaphysical integrations. Amusement stands to craving as as secular world stands to church, or as
+body stands to soul, time to eternity, human being to God, part to whole:
+
+¶18 > We need to strive towards a kind of reintegration of both kinds of drama, just as we need to
+> strive towards a reintegration of life. … When I say “reintegration” I do not want to be taken to
+> mean “simplification.” … While, therefore, I should like to dissipate the artificial distinction
+> between religious and secular drama, I think this can best be done if at the same time we maintain
+> clear practical distinctions of subject-matter and treatment for different places and occasions.
+
+¶19 A play, like a human life, cannot avoid being ultimately religious. Insofar, however, as it
+distracts from its final end, lingering in time and space rather than ascending to the absolute, it
+gains the freedom to be dramatic as well. The dynamic structure of dramatic amusement, the way in
+which digression necessitates corresponding return, renders any rigid philosophical distinctions
+untenable, but allows, and in fact depends on, practical ones: the playwright cannot try to draw us
+from the world to what transcends it unless he can first capture our attention with and within in
+the world itself. The playwright draws us into his amusingly mimetic fiction so that we will be
+drawn out the other end.
+
+* * *
+
+¶20 We can now return from this digression about Eliot’s poetics of amusement back to the poetic
+drama of *Murder in the Cathedral*. We were turned onto the track of amusement by two comments Eliot
+made regarding the four Knights’ concluding speeches, first that he was amused by one audience
+member’s reading (misreading?) of them, and second that they consituted a trick, one which could not
+be repeated once it had achieved its effect. But now that we have seen a connection between
+amusement and the interplay of religious and secular, we find it everywhere. Eliot summarized the
+plot of his play with the words: “A man comes home, foreseeing that he will be killed, and he is
+killed.” *Murder in the Cathedral* depicts the last days in the life of Saint Thomas Becket,
+Archbishop of Canterbury, leading up to his murder, three days after Christmas, within the walls of
+Canterbury Cathedral itself. He was killed by Four Knights who believed themselves to act at the
+behest of King Henry II, who resented Becket for complex political reasons which the play does not
+attempt to explicate (the Knights’ final speeches make little attempt at historical accuracy). This
+is a subject simultaneously religious and secular, and indeed dealing with the contested border
+between them, the way in which it is defined not by a fixed boundary line but by an act of
+digression.
+
+¶21 This theme plays into the very structure of the play. That structure is, peculiar, and hard to
+justify on straightforward aesthetic grounds. Part I shows the man coming home, foreseeing he is to
+be killed, and the play could have ended there, as does Aeschylus’s *Agamemnon* [458 B.C.]. Instead,
+an extraneous Part II shows us the martyrdom itself, culminating in the Knights’ rhetorical
+self-justifications. The extraneous status of Part II both echoes the Eliotic division between two
+rival forms of interest, and admits of two rival explanations. On the one hand, we can understand
+the structure of the play as an echo of the Catholic mass: Becket’s temptation in Part I parallels
+the Liturgy of the Word; Becket’s murder in Part II parallels the Liturgy of the Eucharist; and the
+sermon Becket delivers in the interlude between them parallels the sermon. But, of course, the
+formal coincidence only guarantees the analogy to ritual, not that analogy’s interpretation. So we
+return again to the question: what is the relationship between what this drama does on the stage,
+and what a priest does at the altar? On the other hand, setting aside the liturgical elements, we
+can see this play’s structure as an exercise in dramatic diversion. In Eliot’s one-line summary of
+the play, Part I depicts the foresight, Becket’s return to Canterbury and defense against the wiles
+of the Four Tempters, while Part II shows the martyrdom, where vision becomes action, or at least an
+active suffering. The foresight, notice, finds itself confined to a subordinate clause, a secular
+digression deferring, but not denying, the central religious proposition. So the play’s structure
+and subject both are simultaneously dramatic and religious, and Eliot seems to be toying with our
+confusion about just how to understand it.
+
+¶22 To escape our bemusement we will have to more more slowly. In Eliot’s poem “The Hollow Men”
+[1925],
+
+¶23 >     Between the idea
+>     And the reality
+>     Between the motion
+>     And the act
+>     Falls the Shadow.
+
+¶24 A shadow stalks *Murder in the Cathedral* as well: between Becket’s foresight and his martyrdom
+falls the paradox of his pride. As the last of the Tempters urges Becket at the end of Part I (in
+words pronounced in the film version by Eliot himself): “Seek the way of martyrdom, make yourself
+the lowest | On earth, to be high in heaven.” These lines constitute a temptation not because of
+their content, which is strictly biblical, but because of how they are meant, as an appeal to
+Becket’s spiritual ambition. For Becket’s martyrdom to be a true martyrdom, it can be foreseen, but
+must not be sought; the link between Part I and Part II cannot be that of a fulfilled intention. But
+an intentional link would nevertheless be the most natural inference, as Becket admits:
+
+¶25 >     What yet remains to show you of my history
+>     Will seem to most of you at best futility,
+>     Senseless self-slaughter of a lunatic,
+>     Arrogant passion of a fanatic.
+
+¶26 Becket’s difficulty is a Christianized variant of the complaint of Eliot’s earlier hero Prufrock
+[“The Love Song of J. Alfred Prufrock,” 1914]: “It is impossible to say just what I mean!” For
+Becket, as for Prufrock, the impossibility has to do with the incoherence of the avowal. One cannot
+display without what is hidden within without at once destroying its hiddenness. This hiddenness is
+as essential to humility as it is to solipsism. The lunatic and the fanatic do not do what they do
+for good reasons, but we have no doubt that they intend to do them. For a would-be martyr, according
+to the play’s logic, such certainty makes the entire enterprise futile. (Though the play’s logic may
+be erroneous: it is not logically incoherent to intend both not to be martyred and, in the event of
+one’s martyrdom, to have one’s martyrdom intepreted correctly.)
+
+¶27 The Becket of Part I cannot display the martyrdom he sees before him, but in Part II the
+martyrdom becomes itself present to the audience. How can Becket’s martyrdom become public in this
+way without becoming, instead of martyrdom, passionate self-slaughter? This may seem like an odd
+question to ask, but Becket takes it seriously, and in the gap between Parts I and II we hear him
+deliver a Christmas sermon devoted to answering it. His answer runs as follows:
+
+¶28 > A Christian martyrdom is no accident. Saints are not made by accident. Still less is a
+> Christian martyrdom the effect of a man’s will to become a Saint, as a man by willing and
+> contriving may become a ruler of men. Ambition fortifies the will of men to rule over other men:
+> it operates with deception, cajolery, and violence, it is the action of impurity upon impurity.
+> not so in Heaven. A martyr, a saint, is always made by the design of God, for His love of men, to
+> warn them and to lead them, to bring them back to His ways.
+
+¶29 The unstated but unavoidable conclusion of the sermon concerns Becket’s own fast-approaching
+martyrdom: though foreseen most of all by himself, it is God’s design, not his own. God, not Becket,
+says what Becket means, makes him into a tool of spiritual edification.
+
+¶30 Theologically speaking, Becket’s logic here is sound enough—but a problem remains, in the fact
+that the play contains a second event clearly identified as a tool of spiritual edification, namely,
+the sermon itself. We can pose the resulting dilemma in the terms Eliot himself offered: is our
+interest in this sermon religious or dramatic? Since this is, after all, a play, dramatic seems the
+more probable option. But if we approach Becket’s words as any other dramatic utterance, that is, by
+considering what it tells us about the speaker’s intentions, then things start looking bad for
+Becket. The Fourth Tempter comes closest to success when he points out what will happen if Becket
+declines to be martyred: a time will come
+
+¶31 >     when men will not hate you
+>     Enough to defame or to execrate you,
+>     But pondering the quality that you lacked
+>     will only try to find the historical fact.
+>     When men shall declare that there was no mystery
+>     About this man who played a certain part in history.
+
+¶32 Becket longs to establish once and for all the mystery in his own history, removing it from the
+futile realm of comprehensible cause and effect, and this desire is, according to the play’s logic,
+precisely the temptation which he must most fervently resist. To seek to determine his own mystery
+would be to destroy it. But is not such a determination just what Becket’s sermon attempts when it
+declares martyrdom to be the design of God? We might find it significant that Becket’s sermon about
+the proper interpretation of martyrdom takes place almost immediately after Becket’s exchange with
+the Fourth Tempter about his desire to control that interpretation. We infer that Becket has
+succumbed to the temptation, and that the argument he now makes is either haphazard or hypocritical,
+either valid only by accident or an invalid expression of self-will. The sermon tells us more about
+Becket himself than about the theology of martyrdom—or, perhaps we should say, it does not explain
+that theology so much as illustrate its snares.
+
+¶33 If, however, we take a religious interest in the sermon, we will find it entirely coherent, only
+extreme in its implications. For as soon as martyrdom was expanded from the fact of the violent
+death, to its spiritually edifying interpretation—an expansion implicit in the commonplace
+etymological gloss of “martyr” as meaning “witness”—Becket’s sermon itself became an act of
+martyrdom, and hence, according to the sermon itself, it could not have been intended by man, only
+designed by God. In a sense, when he sets out in the sermon to communicate to us this theory of
+divine design, Becket does not communicate at all—God does. We can align this situation with the
+structure of the play as a whole, as given in Eliot’s one-line summary. The play consists of Becket
+returning home, foreseeing he will be killed, and then being killed, without his intending to be
+killed. Similarly, the sermon consists of Becket speaking, and foreseeing that we will interpret his
+words in a certain edifying way, and us indeed interpreting them in that way, but without him
+causing us to do so. God makes Becket a martyr, and God brings us to understand that he has become
+one. This view of the limits of human communication, if extreme, has deep roots in the Christian
+tradition; according to Augustine of Hippo’s *De Magistro*, for instance, all communication is
+divine communication.
+
+¶34 To summarize: under dramatic inspection Becket’s sermon becomes less a reasoned discourse than a
+dramatic illustration, revealing to the audience Becket’s flawed character. Becket intends to be
+seen as a martyr, and fulfills this intention by reminding his congregation that to have such an
+intention would invalidate the martyrdom. This view requires the fictional frame of the stage, for
+it places us simultaneously within Becket’s mind, able to hear his private temptation, and outside
+of his world, able to stand in judgment over him. Given religious attention, on the other hand, the
+sermon becomes less a reasoned discourse than a religious ritual, intended only to create the
+conditions of possibility for divine intervention. Becket foresees what his martyrdom will mean to
+us, and then it means that to us, but without his having brought about its meaning, just as Becket
+foresees his martyrdom and then is martyred without having brought it about. This view requires that
+we hear the sermon in the same spirit as did the members of the original congregation. Which is to
+say that, though the Interlude does not resolve Becket’s hypocrisy one way or the other, it does
+collapse the question “Was Becket a real martyr, or only a hypocrite?” into the question “Did we
+hear a real sermon, or only an actor pretending to give one?”
+
+* * *
+
+¶35 Becket’s sermon collapses these two questions, but it alone does not give us the resources to
+answer either. We can rule out neither Becket-as-ritual-victim nor Becket-as-realistic-hypocrite,
+and this very inability constitutes the interest of the play. As W. H. Auden observed, *Murder in
+the Cathedral* succeeds dramatically only because Becket “played an exceptional and interesting role
+in history,” and this very dramatic interest means that the play can be understood either
+dramatically or religiously, leaving Eliot to “hope against hope that his audience will have the
+moral sophistication to sense what … he is unable to say” [*Secondary Worlds*, 1968]. How, after
+all, can Eliot tell us how to decide between our two alternatives? Even the play’s closing lines, in
+which the Chorus celebrates Thomas’s sainthood, only identify the former reading as “with” the
+play’s grain and the latter as “against” it. They do nothing to render the former inevitable or the
+latter untenable. Rather, the play confronts the viewer with a free moral choice, to see Becket (to
+see the world) either though secular eyes or through the eyes of a saint.
+
+¶36 As I understand it, however, the play does much more than this to determine our reading of it,
+though to see how we must turn from Becket’s sermon to the play’s concluding speeches, in the sound
+recorder’s response to which Eliot found such amusement. I have already mentioned the double
+structure of the play, such that Part II recapitulates Part I, with a difference. I note, now, that
+Becket’s sermon, too, though officially an interlude between the parts, finds its double in the
+knights’ speeches at the close of Part II. Just as, following his temptation, Becket mounts the
+pulpit seemingly to justify himself, so, after his murder, the murderous Four Knights step forward,
+seemingly to justify themselves. To read these speeches against the sermon follows directly from
+their structural affinities: these two are the only prose sections of the play; they serve as
+capstones to Part I and Part II respectively; and they state explicitly the claims underlying the
+actions of both Becket and his murderers. We need only accept Auden’s suggestion of indeterminacy if
+we find ourselves unable to fix the relationship between them.
+
+¶37 At first, I grant, the Knights’ speeches seem to support the suggestion. After all, the speeches
+of the Second, Third, and Fourth Knights merely recapitulate at greater length Becket’s earlier
+suggestion that futility, lunacy, and fanaticism were all of a piece, and that it did not much
+matter which of them he fell into. The Knights argue, respectively, that their act was
+disinterested, while Becket’s was selfish; that their act was foundational for the modern secular
+state, which Becket had betrayed; and that martyrdom is anyhow madness, a kind of suicide. These
+arguments do not fit neatly together, but that fact is somewhat beside the point. In trying to
+decide between them, we have already accepted that some such explanation can account for Becket’s
+behavior, and it is just that premise which Becket’s martyrdom cannot survive. We are left with the
+conclusion—amusing to Eliot, disconcerting to us—that each party to the case has anticipated the
+argument of the other, and that, taken in isolation, both interpretations are plausible. Any
+decision for one or the other will be a judgment call. Indeed, reading this pair of scenes in this
+way means approaching them as if they were rival arguments in a trial for which the audience has
+been empaneled as jury. A peculiar trial, to be sure: because the Knights do not deny that they
+killed Becket, the trial turns less on their act of murder than on the Archbishop’s act of
+martyrdom, alleged by the Knights to be an act of false witness, while the Knights are true
+witnesses to Becket’s falsity. But a trial nonetheless. Of course, our aesthetic judgment need not
+be so binary as a legal judgment must be. We can take the Archbishop’s sermon, just as we do the
+Knight’s speeches, to be a dramatic fiction presented for its symptomatic value. Becket and the
+Knights, we conclude, are equally well-spoken and equally self-serving. Perhaps, on balance, we find
+Becket the more appealing, but we nevertheless must recognize his fatal flaw, the spiritual pride
+that leads you to believe you can determine the meaning of your life, that you can make yourself
+into a martyr.
+
+¶38 This would be a reasonable reading of the play—*if* it were in fact possible for us to maintain
+the spectatorial detachment it would require. But is it? It seems significant that Eliot arranged
+the very staging of the play so as to call our ability to do so into question. In a typical theater,
+we sit level with or even above the actors, and naturally feel ourselves to stand in judgment over
+the characters of the play. But Eliot wrote *Murder in the Cathedral* for a space in which, as he
+put it,
+
+¶39 > [T]he audience were to be all on the same level, rather farther below the level of the stage
+> than most of the seats in a theatre. … I had not thought of it as ever being seen from a
+> gallery—from this point of view certain moments in the play inevitably turn out to be less
+> effective.
+
+¶40 So long as the audience feels the words of Becket and the Knight bearing down on them from
+above, detached aesthetic judgment becomes, if not impossible, at least impossible to take for
+granted. Such judgment thus becomes, in a way, the play’s subject matter, and I would suggest that
+the purpose of the Knights’ speeches is to prove a disinterested engagement with the play to be
+unsustainable.
+
+¶41 Aesthetic judgment runs into insoluble difficulties when it encounters the character of the
+First Knight, whose speeches bracket the longer arguments of the other three. It is also here that
+the true nature of the contrast between sermon and speech becomes apparent. Reading this scene with
+the idea of a trial-by-audience in mind, we notice almost immediately that the very idea comes from
+the First Knight’s unpleasantly oleaginous first speech:
+
+¶42 > We beg you to give you your attention for a few moments. We know that you may be disposed to
+> judge us unfavorably of our action. I appeal to your sense of honor. You are Englishmen, and
+> therefore will not judge anybody without hearing both sides of the case. This is in accordance
+> with our longstanding principle of Trial by Jury….
+
+¶43 “You,” the audience, are hereby empaneled as jurors tasked with deciding between Becket and the
+Knights, as if to be a spectator carries with it the right to sit in judgment on the drama that has
+just unfolded. The apparent neutrality of this interpretive model turns out, then, in fact to serve
+the purposes of the Four Knights. More importantly, this apparently neutral framework is in the end
+retracted for one quite different, as we glimpse in the First Knight’s closing speech:
+
+¶44 > Thank you, Brito. I think that there is no more to be said; and I suggest that you now
+> disperse quietly to your homes. Please be careful not to loiter in groups at street corners, and
+> do nothing that might provoke any public outbreak.
+
+¶45 These sentences, spoken as they are by armed agents of the Crown, are a veiled threat, a fact we
+recognize more clearly when we see their resemblance to the words of Clytaemnestra at the end of
+Eliot’s favorite Greek tragedy: “Let us not be bloody now. | Honored gentlemen of Argos, go to your
+homes now and give way.” In both plays the speaker’s final reliance on coercion undercuts an earlier
+claim to submit to public justice.
+
+¶46 *Murder in the Cathedral*, however, introduces an additional wrinkle, in that the First Knight’s
+speech is addressed not to the Chorus but to the audience itself. (When Hoellering suggested
+altering the scene so that the Knights spoke to the Chorus, Eliot insisted on the necessity of this
+direct address.) This fact, like that of Becket’s sermon to the audience, admits of multiple
+interpretations. On the one hand, we might notice that, where the Chorus is vulnerable to the
+weapons of Clytaemnestra’s minions, we are as separate from the Knights as fact is from fiction, and
+infer an invitation to hear the Knight’s implausible attempt at intimidation as a parable about the
+difference between theater and ordinary life. The First Knight’s threat becomes an unwitting
+self-portrait once the frame of the stage is placed around it. So far, so good—but we should notice,
+also, that this frame encompasses as well the First Knight’s original appeal to our authority as
+judges. If the Knights’ speeches are a tempting fiction, then so is our authorization to stand in
+judgment over Becket and Knights in the first place. On the other hand—and more suprisingly—the
+Knight’s threat can, again like Becket’s sermon, be heard in a ritual vein. His warning, after all,
+is neither needless not hollow. Not needless: the modernist theater had posed a threat to public
+order ever since the notorious 1913 premier of Stravinsky’s *The Rite of Spring*, which led to riots
+in the streets. Not hollow: the Second Knight had already claimed responsibility for the birth of
+the modern secular state, and that state could, in fact, be relied upon to punish anything “that
+might provoke any public outbreak.” So even if we are in no danger from the swords of the Knights,
+their words quite effectively call to mind the very real constraints which the state places on our
+reaction to the play we have just seen. They thus function as a kind of secular political ritual,
+and one which demands our submission.
+
+¶47 It might seem that I take too seriously the possibility of taking the Knight’s threat seriously.
+To be sure, Eliot would have thought the political ritual it purports to effect demonic.
+Nevertheless, I do not think that we cannot rule it out on intrinsic grounds, and, further, I think
+that Eliot recognizes this impossibility, and presents the choice between sermon and stump speech as
+a choice for or against *Murder* itself. It matters at this point that the preaching comes between
+Parts I and II, while the threatening comes at the play’s end. The sermon, if taken to be divinely
+efficacious, creates a bridge between foresight and action, and so allows us to speak of the play as
+a whole achieving a ritual unity. This does not mean deluding ourselves into thinking that it is
+really Saint Thomas speaking, but rather understanding the sermon’s recitation to be the capstone of
+a religiously edifying ritual meant to make room for the operation of “the design of God.” The
+threat, on the other hand, attempts to deny the play any power to affect its audience, even while it
+emphasizes its disunity, the suicidal lack of fit between Part I and Part II. If we endorse the
+secular ritual of the Knight’s threat, we endorse, not an alternate reading of the play, but the
+suppression of the play entirely at the hands of the modern political order. We cannot, then,
+understand the action of *Murder* as the Knights understand it, for they refuse to understand it at
+all. The First Knight’s threat reveals this refusal and so undoes the illusion that they offer us a
+viable alternative to Becket’s sermon.
+
+¶48 With this illusion dissolved, so too dissolves our ability to conclude our engagement with the
+play through an act of aesthetic judgment. While Eliot has allowed us to hover in judgment over
+Knight and Archbishop alike, this hovering remains, not a point of rest, but a dubious balancing
+act, permitted only because our very pursuit of it reminds us that we must in the end come down on
+one side or the other. We should recall here Eliot’s description of dramatic interest as a kind of
+digression from religious significance, one which, if it is not to be corrupt, must ultimately
+return home. For this reason, *Murder in the Cathedral* does not end with the Knights’ Aeschylean
+threat, which is to say, with the close of Becket’s trial for false martyrdom. Rather, Eliot appends
+another scene, Aeschylean in its own way, being a gloss on the end of *The Eumenides *[458 B.C.].
+Though the jury of Athenian citizens hangs itself, the goddess of wisdom ultimately breaks the tie
+in favor of Orestes’ innocence, and all exit in torchlit procession. *Murder in the Cathedral*
+similarly ends, after the Knights exit, with a choral prayer: “Forgive us, O Lord,” the women of
+Canterbury chant, “we acknowledge ourselves as type of the common man.” They then show us by example
+what our attitude toward Becket’s guilt or innocence should be:
+
+¶49 >     Blessed Thomas, pray for us.
+
+¶50 Eliot hopes we will join the women’s prayer, though he knows he has no recourse if, having
+already taken the Knights’ directions to disperse, we are unable to do so.
+
+¶51 I should offer here a brief word about the Chorus, generally regarded as one of this play’s
+strongest elements. I do not deny that it is so, but I also believe Eliot to have been right in
+finding the chorus not to be truly dramatic, but rather a means by which “the dramatic weaknesses
+would be somewhat covered up by the cries of the women.” Eliot made this remark in a 1951 essay on
+“Poetry and Drama,” by way of explaining why it was “that in *Murder in the Cathedral* I had not
+solved any general problem; but that from my point of view the play was a dead end.” Indeed, as we
+have seen, the crucial moments in this play’s dramatic logic are not in poetry but in prose. The
+play aligns poetry with anti-dramatic ritual, and its central question is not whether poetry can
+become dramatic, but whether prose, or prosaic poetry, can escape its own theatricalization (the
+same question lurking behind the various critical appraisals of *Four Quartets*). This play’s
+answer: yes, but only by ultimately assimilating itself into that from which it was always only a
+digression.
+
+* * *
+
+¶52 My suggestions about how *Murder in the Cathedral* structures its reader’s response to Becket
+and the Knights will remind some readers of Stanley Fish’s highly influential argument *in Surprised
+by Sin* [1967]. For Fish, the reader of Milton’s *Paradise Lost* learns the dangers of sin by
+succumbing to them, most memorably by allowing herself to be drawn to the grandeur of Milton’s
+Satan. Eliot’s Knights are not nearly as impressive, but they do seem to be bold enough in their
+pettiness at least temporarily to win over some members of the audience, as the amusing story of the
+sound recorder demonstrates. There is something misleading, however, about the very act of applying
+Fish’s reading of *Paradise Lost* to *Murder in the Cathedral*. In Fish’s telling, Milton’s tempting
+of the audience is not a separable formal device that can be applied in any other work without
+distortion. It is bound up with Milton’s theology, and we would expect any other poet’s use of
+analogous techniques to differ insofar as that other poet’s theology differed. I would conclude by
+remarking one point of divergence and one of convergence, each simultaneously formal and
+theological, between Eliot’s amusement and Milton’s temptation.
+
+¶53 The two converge in their monistic implications. As Fish argues in the Preface to the Second
+Edition [2003], everything there is, for Milton, is more of the same, since everything comes from
+God’s will. Reading, however, is inherently digressive, an attempt to identify a coherent plot, a
+story that explains *why* Adam and Even fell. Such an explanation simply does not exist, and hence
+the temptations the reader suffers are temptations to “read at all,” and can be overcome only
+through refusing “any movement outward from a focus that would only be obscured by any elaboration
+of it.” Milton’s verse—at every level, from his labyrinthine syntax to his perplexing metaphors to
+Lucifer’s grand rhetoric to the very structure of the poem—is (Fish says) designed to tempt us into
+such digressions only to draw us up short, ashamed of our own inability to avoid error, to avoid
+dualism. *Murder in the Cathedral*, likewise (I have argued), draws us to speculate about Becket’s
+psychological motives, only for the conclusion to declare such speculation beside the point. No
+surprise, then, that Eliot, too, spent his life in flight from dualism, while also seeing dualism as
+a necessary dialectical digression: in the words of his never-defended Harvard dissertation [1916],
+it is “tentative and provisional, a moment in a process.”
+
+¶54 So Milton’s “temptation” and Eliot’s “amusement” are similar—but not the same. If Milton’s God
+(and his author) tempt Adam (and his reader), they are not themselves tempted. Eliot, on the other
+hand, confronted with the spectacle of his audience’s confused amusement, finds himself likewise
+amused. Put differently, the word “amusement” has a built-in flexibility, and (unlike “temptation”)
+can name the entire process of digression and return. Fish memorably pictures the effect of Milton’s
+poem as forcing the reader to make a typo:
+
+¶55 > Even as the finger presses the wrong key, something in the mind flashes a warning signal; but
+> the reflexes are too slow, a mistake is made, and one simultaneously participates in and analyses
+> a failure of coordination.
+
+¶56 Whereas Eliot’s key metaphor, as we identified it earlier, was of the magician’s distracting
+flourish, holding the audience’s attention while the trick takes place elsewhere. These metaphors
+differ in the relationship they suggest between author and audience: whatever causes a typo is the
+typist’s adversary, while the magician’s audience is in a sense also his collaborator. The metaphors
+differ also, and relatedly, in their temporality. Even as the typo is committed, the proper spelling
+arises in the typist’s mind. The flourish, on the other hand, while recognized as such even in the
+moment, is successful in concealing the trick: we do not know what has been hidden until the big
+reveal. If Milton’s poem is a fractal of perpetual temptation, Eliot’s play is a single provisional
+distraction through which amusement circulates.

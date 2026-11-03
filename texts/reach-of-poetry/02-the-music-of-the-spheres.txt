@@ -1,0 +1,539 @@
+# [reach-of-poetry/the-music-of-the-spheres] I. The Music of the Spheres
+From: The Reach of Post-Romantic Poetry (2025), by Edkar Marenko
+URL: https://j-e-scriptorium.github.io/reach-of-poetry.html#the-music-of-the-spheres
+
+¶1 I. The Music of the Spheres
+
+¶2 When the Hebrew poet depicts God speaking to Job out of the whirlwind, his first strophe ends by
+invoking an inaudible celestial music. In the words of the Authorized Version:
+
+¶3 > Where wast thou when I laid the foundations of the earth … When the morning stars sang
+> together, and all the sons of God shouted for joy?
+
+¶4 [Job 38:4-7, c. 500 B.C.]. Job never heard the stars sing, and takes his failure to demonstrate
+God’s supremacy. Avowing his silence, he repents in dust and ashes.
+
+¶5 Aristotle, in a quite different context (and without any hint of divine intervention), likewise
+considers the abjection threatened by the purported music of the spheres, but offers quite a
+different response:
+
+¶6 > Indeed the reason why we do not hear, and show in our bodies none of the effects of violent
+> force, is easily given: it is that there is no noise.
+
+¶7 [*On the Heavens* at II.9, c. 350 B.C.]. Not to know what is not there leaves the knower nothing
+to repent of.
+
+¶8 Aristotle may be correct, as an empirical matter, but this does not prevent anyone from looking
+up at the night sky and synaesthetizing a cosmic harmony signifying universal justice. Neither does
+it prevent him from imagining this just harmony to require of him an antiphonal response.
+
+¶9 Such responses inevitably raise questions of poetic judgment. Job’s repentant silence in the face
+of cosmic music would be an instance of the poetic motive associated in the Introduction with a
+remark of Geoffrey Hill, that of *handing over*. Aristotle’s assertoric science in the face of
+cosmic silence would be an instance of the opposite motive, that of *taking in hand*. The contrast
+suggests a spectrum of possible motives of response to the *musica universalis*. Some of these, like
+the passages from Job and *On the Heavens* quoted above, are relatively straightforward to
+comprehend, but others are more complex.
+
+* * *
+
+¶10 Consider, for example, Jesus Christ telling his disciples to pray with words “after this
+manner,” that is, to borrow words from another that address another and leave to that other the
+responsibility of securing their efficacy:
+
+¶11 > Our Father which art in heaven, Hallowed by thy name. Thy kingdom come, Thy will be done in
+> earth, as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we
+> forgive our debtors. And lead us not into temptation, but deliver us from evil.
+
+¶12 Set this alongside Immanuel Kant’s friends placing on his tombstone, not any religious symbol,
+but rather these words which imagine the (perhaps unrealizable) possibility of disinterested
+utterance:
+
+¶13 > Two things fill the mind with ever new and increasing admiration and awe, the oftener and the
+> more steadily it employs itself in reflection on them: the starry heavens above me and the moral
+> law within me.
+
+¶14 Both passages have been extracted from larger works, the Gospel of Matthew and *The Critique of
+Practical Reason*, originally written in Koine Greek and German, respectively; but each has taken on
+a life of its own, and has done so, not by accident, but due to the density of grammatical
+contexture it contains. Though not all of that density survives the trials of isolation and
+translation, enough does to reward careful reading.
+
+¶15 From their very first words both passages concern themselves with hierarchy (“Father,” “two”)
+and community (“our,” “the mind”). The paternoster begins with a salutary acceptance of hierarchy as
+necessary prelude to relationship. When we pray, we must do so alone, as Jesus tells us just
+previously: “go into your room, close the door and pray to your Father, who is unseen.” The epitaph,
+in contrast, opens by abstractly asserting the mind’s reflection upon hierarchy, an implicit refusal
+of submission and insistence on self-employment. No “name” remains to be hallowed as king, Kant’s
+so-called “kingdom of ends,” *das Reich Endes*, being no monarchy, but rather an autarchy where the
+ends themselves rule. Nor is “the mind” quite a first-person plural. Though it resembles “we” in
+including all and only those willing to speak these words, the logic behind that inclusion more
+closely resembles that of the normative “one,” demanding that we enter into the community of mind
+with no guarantee that anyone else exists therein. This refusal of hierarchical implication makes
+the passage particularly suited to be placed on a tombstone, where it can become not an utterance of
+the man christened Immanuel, but a monument by which his words escape their bodily origins. It was
+placed there, not by Kant himself, but by his friends, who thus take up the epitaph’s invitation to
+participate in a shared judgment of the human condition, and through that participation bring about
+the judgment’s autonomy which is not quite self-subsistence.
+
+¶16 Following the salutation, the paternoster lays out three sets of petitions. First, two petitions
+address “thy” precedence, the earthly advent of “kingdom” and “will” guaranteed by their heavenly
+preexistence. Second, after the father makes “us” subjects in his realm, a single petition deals
+with “our” desire for communal sustenance. Third and last, once our place has been established
+within and fulfilled by the heavenly community, two petitions concern how “we” can receive full
+personhood and enter into relationship with other persons. By forgiving a debt, that is, the speaker
+can assert agency—though the agency is not that of the first-person singular. The debt perhaps
+arises from our succumbing to temptation (the Aramaic word thought to stand behind the Greek
+ὀφειλήματα can mean “sins”), but is also the debt of language itself: because the speaker’s words
+are not his own, he avoids the “I” and shares a “we” with a community of common speakers. This
+sharing earns forgiveness through its just measure. Jesus’s second injunction before imparting this
+paradigmatic prayer concerns quantity: “do not keep on babbling like pagans, for they think they
+will be heard because of their many words.” The paternoster does not squander its words, but speaks
+with carefully balanced syntax—as in heaven, so on earth; forgive us, as we forgive; lead us not,
+but deliver us. The speaker convinces the creditor to forgive the lexical loan, not by telling him
+something he does not know, but by passing along the gift of the Father’s word, which, if accepted,
+will allow the speaker to enter the promise of the kingdom, be filled with its sustenance, and
+become its steward.
+
+¶17 The epitaph, meanwhile, consists of a single sentence divided by an imagistic colon into two
+halves: a labored statement, and an elliptical list. The former concerns the mind’s habitual
+relation to the two things, the latter the two things’ prepositioning relative to a first-person
+singular dative. Like the sequencing of the paternoster’s petitions, this conjunction suggests a
+link between the heavens and the moral law, and that law still leads the mind to its daily bread of
+admiration and awe, which fulfill not a literal, but a spiritual desire. The admiration and awe now
+arrive, however, not as gift-pay from any stellar overseer, but as a discovery within me of a law
+absent above me. The agent setting out the law is no father, but rather “the mind” itself, whose
+impersonality the reader contrasts with no “we,” but with what the paternoster lacks, a “me”—in
+fact, two at once. Though dative and fragmentary, these aspire to a “mind” whole and autonomous. The
+colon encapsulates the moment of lawful discovery that is mind itself, a shift from an extended,
+suspenseful reflection on the mysterious two things to a sudden glance of stark comprehension. The
+*gesperrt* lettering after the colon forces the reader to protract this moment of recognition until
+the abruptness of mind becomes audible in the movement of the words themselves. For any “mind” able
+to make the leap, the passage thus demonstrates its words and its self to be its own; for any “me”
+that cannot, it acknowledges no debt of words to a community, for until I mind myself there exists
+neither any “I” nor any law to break. Unless it successfully demonstrates its mastery, the epitaph
+does nothing for us, does not even fail in a way on which it would make sense to pass judgment.
+
+¶18 In characterizing the contrast between paternoster and epitaph, we (or one) must be careful not
+to shoehorn them into any preset dichotomy—say, designating the former “prayer,” an act of
+interpersonal bidding, and the latter “philosophy,” an attempt to erect an autonomous monument.
+Neither “prayer” nor “philosophy” designates a natural kind, and experience suggests that we can
+locate many instances that would count as both. Neither should the readings I have proposed be
+understood to have simply recapitulated the religious narrative or philosophical argument of the
+larger text in which these passages are embedded, finding the part a fitting emblem of the whole. It
+would be equally plausible to say that those systems develop from the dense kernel of these acts of
+self-judgment. Extended the possibility that the world is governed by an unchanging law, these
+passages respond, not merely with an utterance, but with a judgment that their utterance should be
+taken as somehow exemplary and authoritative. They differ only in their specific motives of
+self-judgment: the paternoster offers prayerfully balanced stewardship; the epitaph, philosophically
+abrupt mastery.
+
+¶19 It might sound as if I am saying that the paternoster and the epitaph are lyric poems. But the
+point rather is that the lyric mode is only one way for motives of self-judgment to find
+expression—and that looking to other modes as well will allow the reader to hear more clearly the
+“self” in question, and his relation to it. Used of the paternoster and epitaph, “self-expression”
+clearly does not refer to the self of psychological introspection, as if the reader were concerned
+with the original author’s state of mind (which would be a naive romanticism). Neither does it mean
+the self of the words themselves acting as subject of the expression, as if the poem could mean
+something for the reader simply by virtue of its objective existence (which would be a naive
+modernism). Both of these ethical formulae are self-referential only in the sense that the reader
+who takes them up wields them as both instrument and object of his acts of self-understanding. We
+(to commit provisionally to the first-personal plural) make sense of our use of words at the same
+time as we make sense of ourselves.
+
+* * *
+
+¶20 The post-romantic lyric, like its Christian and Kantian antecedents, responds to the heavens’
+intimation of cosmic justice and human imperfection by offering its own self-judgment. In those
+ethical formulae, however, the self-judgment is exemplary because it marks out a resemblance between
+all who can hear the words, whether the communal “we” of the paternoster or the normative “mind” of
+the epitaph. The post-romantic lyric, in contrast, lacking any likeness in which to participate or
+the existence of which to postulate, is unable to reconcile itself to the all-too-definite stars
+above. If the lyric is exemplary, it is only in its failure to be so; as readers we cannot, though
+we try, take such words as finally our own.
+
+¶21 Consider Gerard Manley Hopkins’s “Spelt from Sibyl’s Leaves” [1885; *see *App’x at 127], an
+extended attempt to locate itself in the suspension between mastery and stewardship. This poem
+occupies a strange place in Hopkins’s oeuvre, simultaneously central and marginal, one of Hopkins’s
+greatest achievements and among his most difficult to parse. The difficulty is compounded by the
+poem’s perplexing meter, which is nigh impossible to hear on a first reading. Written at the tail
+end of Hopkins’s experiments in what he called sprung rhythm, the poem offers not the bounding
+energy of “The Windhover” or even “Carrion Comfort,” but a tense straining between enigmatic
+diacritical markings, of which only the caesurae and stress marks translate easily into print. The
+result is a curious ambivalence. Insofar as the poem insists on the material specificity of its
+voicing, it enacts Hopkins’s theories of sprung rhythm in their purest form. But, as the titular
+words “Spelt” and “Leaves” emphasize, this poem is not a verbal but a written artifact, a fact
+reinforced by the very notation which insists the poem be spoken in a particular way, and yet leaves
+us entirely uncertain what the poem should actually sound like. “Sibyl’s Leaves” must but cannot be
+heard; it asks us to imagine a sound that cannot come from our own lips.
+
+¶22 The titular “Sibyl,” whatever else she may mean, expresses this perplexity. Hopkins forces us to
+hear the alien voice of the sibyl through an almost unbearable stretching-out. The length of the
+poem was for Hopkins its most important feature: in a letter to his friend Robert Bridges, he called
+it “the longest sonnet ever made and no doubt the longest making” [Letter CLXI, 26 Nov 1886]. The
+“longest sonnet”: with eight beats plus a marked caesura, its lines take almost twice as long to
+recite as a typical pentameter. The “longest making”: Hopkins paused for two years halfway through
+the tenth line, at the end of which, one suspects, the first part of the poem felt to the author of
+the last as if it were written by a stranger. In a later letter, perhaps alluding to these pauses,
+Hopkins wrote that the poem requires “not reading with the eye but loud, leisurely, poetical (not
+rhetorical) recitation, with long rests, long dwells on the rhyme and other marked syllables, and so
+on. This sonnet shd. be almost sung: it is most carefully timed in tempo rubato” [Letter CLXIII, 11
+Dec 1886]. Hopkins’s description suggests that “Sibyl’s Leaves” acts on the poet’s desire, mentioned
+in an earlier letter, to “compose my own requiem, like Mozart, but in plainchant” [Letter CXXVII,
+1-2 April 1885].
+
+¶23 Hopkins’s musical specifications sought to ensure each beat received its full expressive power.
+The speaker-singer’s attention would be led inward, away from the “rhetorical” connections between
+the words and toward the weight of each individual moment. Such pondering, however, would also force
+him to weigh these moments against each other, for *tempo rubato*, “stolen time,” preserves its
+metrical balance only by taking time from one measure in order to draw out another. On both semantic
+and syllabic levels we hear the poem as a sequence of distended moments, scattered leaves, which are
+to one another strangers and potential thieves. The first line’s seven words hang in the air devoid
+of semantic or metrical connection, and with such powerful sonic effects that we almost forget to
+notice what they mean. Each word receives a single stress, exerting its own sphere of influence. In
+later lines metrical conflict goes hand in hand with syntactic confusion, as the poem demands ever
+more strenuously that we measure it correctly even as we become less and less sure what our
+measurements accomplish.
+
+¶24 After the first line break, the adjectives of the opening come to settle on a noun, “Evening,”
+though one which could be mistaken for another adjective; then the next word, “strains,” finally
+provides the verb, though one which could easily be mistaken for a noun. An apocalyptic nightfall is
+coming into view. But who sees it? Most Hopkinsian visions have a clearly defined speaker who
+performs a definite speech act, often one of narration. “The Windhover” is paradigmatic: “I caught.”
+“Sibyl’s Leaves,” in contrast, obscures both the grammatical and the illocutionary force of its
+words. By the second line we surmise that the poem is in the present habitual or historical, but
+neither description captures the impersonal visionary quality of the poem, which does not in any
+simple sense happen once, let alone many times. The poem is not a description so much as a
+construction; the tense of its verbs might be best labeled as the present visionary, allowing
+neither the postulation of a speaker narrating his experiences in real time, nor the relegation of
+the vision to any future tense or irrealis mode.
+
+¶25 In plain English, the next few lines depict sunset, moonrise, and stars looming over us. For the
+present, at least, we hear this “us” as a vision of the universal human condition: for everyone,
+everywhen, night is presently falling. Instead of the obscure adjectives attached to “Evening,” the
+epithets of “night” follow a clear logical pattern, from womb, to home, to hearse. The dueling
+adjectives attached to sun and moon, and the stage directions “west” and “height,” construct an
+imaginative scene. The fourth line’s pun on “earliest,” “earl,” “principal” personifies this world’s
+hierarchy so that it can become responsible for the violence of the second quatrain, when night’s
+fall comes to mean earth’s ruin. The variegated beauty of the world gives way to a stark chiaroscuro
+of ethical judgment, but does not thereby gain in clarity. If there never was a time when night had
+not begun to fall, what sense can it make to talk of what preceded it? And if the unity of “us”
+depends on the coherence of our shared world, what happens to “us” when that world not only
+vanishes, but is seen never to have existed in the first place?
+
+¶26 In the next lines this confusion erupts as an apostrophic exclamation, and for the first time
+visionary utterance finds its place in dramatic context. That the stress of judgment tautologically
+“whelms” and continually threatens, without ever, while life persists, actually managing, to “end
+us” (only the second first-person plural pronoun), now comes to “me” (the only first-person
+singular) from a personified “Heart.” More precisely, the poem tells Heart that “you round me right
+with” it, a perplexingly polyvalent word choice: it could mean “to rebuke,” but also “to make
+round,” “to tonsure,” or even “to act as the celestial round” and “to sing in a round.” Rather than
+force a determination between these possibilities, we should take the ambiguity to be constitutive
+of the poem’s meaning. Is “Heart” whispering to “me” from within, or overwhelming “me” from without?
+Is the heart mine, or does “me” belong to “Heart,” unpossessed? If the latter, the speaker has been
+subordinated to a part of himself, namely, to his desire’s impending dissolution, such that the
+*dramatis personae* of the heavens and the heart come to seem indistinguishable; if the former, the
+same happens instead to heart and self. The effect of the invocation of “heart” is to tear apart the
+dramatic positioning of self and sky and leave the world one alien, undifferentiated mass. There
+remains no ground to stand on, and no one to stand on it.
+
+¶27 The sestet responds to this apocalyptic vision with the familiar image of jagged tree-boughs
+outlined against the night sky. By this point in the poem these leafy boughs are the only thing in
+the world besides the world, and they come between the world and itself. We already know the evening
+to be “voluminous,” suggesting that the leaves may be pages of writing. But we known nothing about
+what may be written on them, other than that, in contrast to the sky’s smoothness, they are
+dragon-sharp—dangerous, perhaps devilish. Their introduction “damask[s]” these lines, giving them a
+pattern utterly distinct from what preceded them, but a distinction whose meaning, again, is not
+immediately apparent. Are the leaves of prophecy a supplement to the heart’s vision, or something
+interjected between it and “me”? And if a supplement, are they in origin divine or demonic? To
+develop their meaning, Hopkins settled first on the word “tale,” but could not write a line that
+measured up to the rest of the poem, and paused. Only years later did he arrive, by way, one
+suspects, of Aeneas’s Golden Bough, at the ensuing invocation of the Sibyl, introduced by the
+unaccented exclamatory “O”: “Óur tale, O óur oracle!”
+
+¶28 Here the poem’s *tempo rubato* reaches its climax. The pause between octave and sestet was,
+however leisurely, regulated by the form of the sonnet. This “O,” in contrast, demands an
+unanticipated and almost infinite distension of the pause between the stresses on “Óur” and “óur.”
+We have no way to judge the weight of the apocalyptic tautology spanning the gap, the rhetorical
+equation of “tale” and “oracle.” The difficulties imposed by the octave’s “Heart” are here
+redoubled: is the poem now concerned with a past of which it tells, or a future of which it
+prophesies? The ambiguity, moreover, afflicts not only the visionary world, but also the persona of
+the speaker. Can the speaker speak of and for any community besides that of the heart within which
+he is trapped? Is this possessive pronoun subjective or objective? Is this oracle ours because about
+us, or ours because we own it? The words of biblical prophecy, or the words of the poet himself?
+
+¶29 Under the tension of such compounding ambiguities the poem begins to unravel, the remainder of
+the sestet devolving into a single, relentlessly elliptical sentence. Someone must “let life” (the
+poem’s newest character) be divided in two; and, in a tautological reiteration, must actively “part,
+pen, pack” her into right and wrong; and, in what may be yet another tautology, must “reckon,”
+“reck,” “mind” this division; and, finally, must “wáre” of a world with only these two, with only
+the agony of the choice between them. Grammatically the verbs share a single subject, but it is
+difficult to tell who is it, or whether the verbs address them with an imperative or an imprecation.
+If the latter, then these lines are a kind of spectral after-image, uttered by “us,” of the
+paternoster’s “forgive us” and “deliver us from evil”: please may the octave’s apocalypse become the
+true judgment the world has always required, please may the judge take into account our moral
+scrupulosity. If the former, they more closely resemble Kant’s epitaph, such that the oracle, like
+the mind, ordains both the law and the tortured self who must reckon it, after but not according to
+its encounter with the starry sky. Because we cannot decide between these, the poem concludes with
+the speaker both pleading in his own words to hasten a promised judgment, and imagining in words not
+his own bringing about a judgment to-be-feared.
+
+¶30 This does not mean, however, that “Sibyl’s Leaves” sits at a midpoint between philosophy and
+prayer. Rather, it suspends itself between paternoster and epitaph, and its motive is that
+suspension. What we remember of these last lines is not the stark choice, nor the proliferation of
+alternate possibilities, but rather the dread drumbeat of the self stretched on the rack of
+judgment—just as the reader of the poem hangs suspended between incommensurable interpretations, the
+inevitable result of daring to pass final judgment on the meaning of one’s words. At least for the
+span of this poem, Hopkins longed to believe in the Word, but he believed his own words, when they
+sought to demonstrate belief, to enact not any redemption but a kind of robbery. He hoped only that
+their acts of robbery would be excused if self-directed.
+
+* * *
+
+¶31 If “Sibyl’s Leaves” reluctantly held back from asserting the exemplarity of either stewardship
+or mastery, William Butler Yeats’s “The Cold Heaven” [1914; *see *App’x at 128] much more forcefully
+renounces both. From the moment we see it on the page, its lines twice as long again as Yeats’s
+usual trimeter and tetrameter, the stark divide between it and the other poems in *Responsibilities*
+is difficult to ignore. It is not quite that the poem anticipates the high style of the 1920s, in
+which Yeats advanced from personal mythology to impersonal vision. Rather, it dramatizes the advance
+itself, or the impulse toward it, frantically turning away from both stewardship and mastery toward
+an indefinable and unattainable desire.
+
+¶32 This turn occurs over four narrative moments: the vision of the cold heaven, its effect upon the
+seer, the seer’s reaction to it, and the riddle it poses him. But caution is required. Though the
+meter of “The Cold Heaven” is just as eccentric and opaque as that of “Sibyl’s Leaves,” its mood is
+not meditative but rather endlessly longing. We cannot imagine this poem being sung, and may not
+even recognize that its 7676 meter simply adds three feet to the 4343 ballad quatrain. Rather than
+carry us along with a self-explanatory melody, “The Cold Heaven” drives relentlessly over our
+objections with a breathless, staggering meter we cannot ignore but also cannot hear clearly.
+Through most of the poem we can tell only with difficulty that there ought, in theory, to be a full
+seven stresses on each odd-numbered line, and if we try to weigh them accurately we tend to lose our
+place in the meter entirely, as we are already liable to do, given the distance between rhyme-words.
+Instead, we balance the lines by giving two of the feet in the first only half a stress. The
+resulting syncopation propels us forward, but at the same time makes us trip over our own words.
+Such stumbling and doubling back is also, I would suggest, the action of the poem’s words on
+themselves. As the speaker narrates his vision, he also rewrites it over and over, discovering new
+ways to understand it. This rewriting constitutes the vision itself.
+
+¶33 To see what I mean, compare “The Cold Heaven” to Yeats’s other vision poems of the period, like
+“The Magi” or “The Second Coming.” Only in “The Cold Heaven” does the act of seeing arrive
+“suddenly,” unheralded, unwanted, and only here does it take place in the past tense, not “see” or
+“can see” but “saw.” These together suggest, not that the vision is being recorded after the fact,
+but that the vision itself, which the words of the poem summon anew, is of having been, in the past,
+passive. The poem begins by throwing us backwards in time, and the remainder of the opening couplet
+describes and redescribes the violence inherent in this sudden turn. The first line suggests a
+vision of heaven lacking emotion and pleasing to creatures who feed on rotting flesh. The connection
+between “cold” and “rook-delighting” cannot, however, be immediately apprehended, an insufficiency
+to which the second line responds, rewriting the cold as a paradoxical burning ice that incorporates
+the violence of the rooks. We find here not an Eliotic contemplative koan, “the fire and the ice are
+one,” but rather the insistent blow of “ice burned” and the heavy repetition of the final word in
+the closing spondee “more ice.” The antithesis shocks us into sensation, and we feel the cold to be
+not simply a lack of warm emotion, but a positive force of “rook-delighting” destruction.
+
+¶34 The next four lines of the poem contain difficult ambiguities. A paraphrase of the first clause
+would run: “and after that (after seeing the cold heaven), the seer’s imagination and heart were
+driven wild by what he had seen (so wild that …).” But the long word “thereupon” would be a waste of
+breath if it did not also summon a more specific meaning appropriate to this context: “upon that
+there.” Imagination and heart were driven upon, onto, the cold heaven, like cattle into pens, wild
+beasts into traps, or dolphins onto rocks. Nor, though we at first assume they are the speaker’s, do
+“imagination” and “heart” receive any possessive pronoun, as they easily could have. When they are
+driven wild, the visionary himself has ceased to exist in the “casual” present, being reduced to the
+“memories” that alone remain; or, alternatively, the visionary sees heart and imagination before the
+formation of his “I,” when they are not yet his, being simply driven. Rather than assume “the
+vision” or “the cold heaven” does the driving, we should say that the vision itself is of driving
+having been done by some nameless agent.
+
+¶35 This deep ambivalence continues in the subordinate clause, when the memories appear finally to
+receive content. Tempted by biography, we easily read these lines as saying that the memories are
+“out of season | with the hot blood of youth,” more appropriate for the seer’s present old age,
+because “long ago,” in the seer’s youth, his love (for Maude Gonne or Ireland) was “crossed,” a fate
+that made him old before his time. But “crossed” love is obscure: “star-crossed,” “crossed out” by
+the beloved herself, “crossed over” by the lover? We know only that the love has ceased, not who or
+what has caused it to do so. Nor can the memories left behind be separated from the vision itself,
+which reveals them to have been *all along* past, memories of a love that can *only* be understood
+as “crossed long ago.” These alternatives, then, coexist: pledging allegiance to ideal beauty in the
+face of a hostile lifeless cosmos, and emerging into selfhood through the heart always already
+having broken against the unyielding beauty of the beloved. The visionary sees again the idealized
+object of desire, and at the same time ceases to desire her as he once did and instead desires to
+regain the lost love itself.
+
+¶36 All this happened when things passively “were driven.” The next line, in contrast, has a clear
+agent: “And I took all the blame out of all sense and reason.” But the “I” is not really so clear:
+is it the “I” of the seer responding to the vision, or an “I” emerging from the heart of the
+envisioned youth? The verb “blame”—which certainly does not mean “guilt”—makes the agency of this
+“I” a central question of the poem. Where did “blame” and “sense” and “reason” come from, and why
+and in what sense is the first taken “out of” the other two? These three terms relate chiastically
+to the earlier “memory,” “heart,” and “imagination.” “Imagination” had been a free association, but
+now must conform to “reason.” “Heart” had desired whatever object it would, but now only desires
+what it can “sense.” The crossed love had been but a passive “memory,” but now that an “I” has
+arrived, it asks: am “I” to “blame”? Who did the crossing, and, for that matter, who did the
+driving? The semantically unnecessary but poetically powerful repetition of “all” opens up three
+possibilities, which we cannot decide between. If it means “I eliminated blame from thought and
+reason,” then the “I” absolves itself of remembered love by attributing it to cosmic hostility. If
+“I preserved blame, and discarded sense and reason,” then the “I” insists on remembered love despite
+the doubt cast on it by cosmic mechanics. And if “I accepted blame, which was sensible and
+reasonable,” then the “I” justifies remembered love through an appeal to cosmic judgment.
+
+¶37 In any case, the absolving, insisting, or justifying “I” is interrupted before it completes its
+task. “Until,” like “thereupon,” is not simply “and then.” Here, it indicates that the taking has
+been broken off by the crying and trembling and rocking. The issue, again, is agency, but the
+question is now more complex than simply whether or not the “I” possesses it. The “I” breaks off,
+unable to withstand the pressure of its incorporation as either patient, agent, or evaluator. As
+with “that” in the previous sections, what follows “until” does not continue so much as restate what
+precedes it: the “I” that actively “took” the blame is superimposed on an “I” that reacted to it,
+“cried and trembled and rocked to and fro” while the “light” emanating from the cold heaven
+“riddled” it with either blame or its absence. Riddled him, even, about the presence or absence of
+blame, as an extraordinary pun (“riddled” as pierced, “riddled” as asked) makes the cold heaven
+appear responsible for the poem’s concluding question.
+
+¶38 This last question can seem, not just unclear, but entirely nonsensical, as well as a non
+sequitur. Why are we talking about ghosts, and why so much as imagine that injustice can punish
+anyone? What determines the content of these lines, and what requires that content to be presented
+in the form of a (rhetorical?) question? The quickening ghost rewrites the light-riddled “I”
+crouched in the fetal position, both figuring, not death followed by rebirth, but birth as a kind of
+death. Here birth into purified self-consciousness takes place through a failed confrontation with a
+deadly riddle. What to do with, whom to blame for, the memory of a “love crossed long ago”? The
+poem’s tentative answer emerges from the chiasmus of the final sentence. The shrouding of the
+death-bed ends, somehow, with the self stripped naked; the ghost’s quickening, in an ironic rhyme,
+somehow consists of it being “stricken,” unjustly punished. This vision of being “riddled with
+light,” that is, of having been questioned, has precisely the effect the question suggests: it
+strips the quotation marks from the seer’s report of it and strikes him forcefully enough to reduce
+him to an inarticulate “Ah!” There follows a mythologized birth of Yeats’s new style, akin to that
+of his contemporaneous poem “The Coat.” He will henceforth write without protective adornment, and
+will end his poems not with carefully controlled rhetorical questions, but with lacerating
+riddles—lacerating because Yeats does not know if the “memories” on which he based his poetry had
+any truth to them.
+
+¶39 If the riddle comes from the cold heaven, however, it is also “as the books say.” This enigmatic
+aside tells us what we need to know about this poem’s attitude to its own exemplarity, but it
+requires some glossing. What books does Yeats have in mind? One possibility: aesthetic and occult
+tomes (Yeats did not sharply distinguish between these). Such books tempted Yeats to imagine a mind
+which could master itself, but the desire they provoked exceeded what they could philosophically
+communicate. Another possibility: religious scriptures and catechisms. Such books commanded Yeats to
+join an “us” of self-abnegation, but were unable to make the community they promised desirable. A
+third possibility, which can accommodate the first two: Yeats’s poems themselves, including this
+one. “The Cold Heaven” abandons its first-person singular without turning to any first-person plural
+because any claim to exemplarity, whether of mind’s mastery or of our stewardship, could never live
+up to the endless desire of the un-pronoun “Ah!” This poem’s inordinate love hurtles it headlong
+toward a community which will never form because it cannot even be named without betraying it.
+
+* * *
+
+¶40 Adopting neither Yeats’s propulsive “Ah” nor Hopkins’s suspended “O,” Wystan Hugh Auden’s “The
+More Loving One” [1952; *see *App’x at 146] simply eludes any vocalizing whatever of the self’s
+dilemma. The resulting short ballad, remembered mostly for the memorable couplet containing its
+title, can seem light-hearted, even trivial, existing on a lower poetic plane than such weighty
+works (and such long lines) as we considered above.
+
+¶41 But for the later Auden the apparent ambition of a poem is rarely a reliable indicator of its
+poetic value. “The More Loving One” shows his late poetics at their best, and their most difficult,
+in part because they seem so easy. The lightly running tetrameter couplets, each but the
+second-to-last stopped by a mark of punctuation, and every other couplet followed by a line of white
+space, easily separate the poem into four iterations of humorous provocation and self-assured
+response. We should not allow ourselves to be taken in by Auden’s facility with the ballad meter.
+Even when sure what the poem says, we are rather less sure why it says it. And though they sound so
+lighthearted we do not at first notice, the claims this poem makes ought to shock us: an indifferent
+cosmos is not so bad; we should rather love than be loved; we cannot miss the stars; even their
+absence would be sublime. How seriously can we take these assertions, which assumptions should we
+accept, which exaggerations ought to make us suspicious?
+
+¶42 These questions implicate not isolated words, as with Hopkins’s poem, nor unclear predications,
+as with Yeats’s, but misleading logical tissue. For example, despite the poem beginning with an
+adverbial clause about vision, the “I” learns nothing from any visionary experience. What he knows
+whenever he happens to look (not necessarily now) he knows “quite well” enough not to forget when
+not looking. Vision does not ground knowledge imaginatively or empirically, but only recalls to mind
+a *gnosis* whose grounds are quite unclear. Unclear, too, is the proposition known: does it include
+the second couplet, or only the second line? Certainly, by the time we get to “But on earth,” the
+adverbial “looking” no longer seems to apply, and we do not imagine the “I” still looking up at the
+stars, if we ever did. The claim to knowledge, too, has faded into the background; the “I” neither
+responds nor affirms, but merely muses. The B couplet lacks clear warrant, but we do not notice, for
+it says what “we” can all agree on, which unanimity allows us to put off, for a time, the question
+of who this “we” is. And, to be sure, as the historical horrors in the poem’s background demonstrate
+(it was written not long after Potsdam), indifference is not the worst thing earthly creatures can
+do to one another. In this light the stars’ initially dismissive “go to hell” may grow more
+sinister, “to hell” being where the world has already gone, but also more elegiac—the stars may have
+cared but been unable to prevent it.
+
+¶43 Given the momentum of the first stanza, we might expect the “I” now to ask, “How should we like
+it if the stars were to treat us the way we treat each other?” Instead, he suggests that we should
+fear, as we fear violence, being the object of a burning passion we cannot return—a thought far more
+shocking than the swift transition between quatrains might lead us to believe. Biography here
+suggests details to fill in the picture: lovers are tempted to strangle those unfaithful to them;
+public poets are tempted to lie to their audience for its own good; similarly, if the stars had a
+passion for us commensurate with their enormity, they would destroy us. Perhaps, but surely the
+assertion requires further justification? Two separate ambiguities, in fact, undermine the argument:
+it may be that doing evil, rather than suffering it, is what really sends us to hell; and it may be
+that, while the stars do burn with passion for us, we are, in fact, able to return it. The speaker
+leaves these possibilities behind, however, and instead avows a desire to be “the more loving one,”
+which hardly seems to solve anything. Will not he, too, end up destroying his beloved? Though his
+wish has innocent origins in the Christian commandment “love your enemies,” the manner of its
+expression ought also to shock us. Rhyming “be” with “me,” the “I” threatens to set himself up as a
+rival to the all-loving cosmic mover of traditional Christian belief.
+
+¶44 The prosaic word “affection,” at least, anchors the poem to earth, suggesting a speaker who,
+like Auden himself, never responded to the stars with particular affective intensity. The shift to
+admiration in the third stanza threatens to carry us away into cosmic, political, and erotic
+extravagance. It is as if the speaker has not noticed his own indifference to the stars (the city,
+the beloved), or at least believes himself obliged to respond intensely to them without seeing
+anything in them deserving of intensity. With the loose tetrameter of the first two quatrains now
+constrained to a grid of sixteen iambs, the speaker’s “I think I am” sounds like a monomaniacal
+Cartesian skeptic, whose confusion descends in the B couplet into solipsism. His claim not to have
+“missed one terribly all day” attempts, like the first line of the quatrain, to parrot common
+knowledge, but strikes wide of the mark. Until this point Auden has not been contemplating
+Shakespeare’s “bright particular star,” but the entire multitude. There may be an allusion here to
+the sorites paradox: if taking away one star would not make a difference, then taking away two stars
+would not either… The speaker, however, couches his uncommon sense as merely recognizing an
+uncomfortable truth. His claim, like most skeptical claims, strikes the rest of us as both
+reasonable and absurd: true, to say we do not miss a single one of the stars during the day; absurd,
+to draw from this fact enormous implications, as if “I do not miss one” means “their collective
+presence makes no difference.”
+
+¶45 The final quatrain brings the *reductio ad absurdum*. I am aware of no poem that envisions an
+apocalypse so easily, with hardly a semantic, syntactic, or metrical distortion. We hear only the
+slightest of stutters in the stress shifted from the “dis-” in “disappear” to doubly emphasize “all
+stars.” This “I” may be courageous, but he is also heartless, reciprocating the stars’ (apparent)
+indifference: they, too, can go to hell; if heaven must be cold, it might as well be empty. The
+speaker does not even distinguish “disappear” from “die,” suggesting he no longer grants the stars
+any existence outside his own perception. This would make the imagined disappearance less an
+apocalypse than a closing of the eyes, and “sublime” less in a Kantian sense than in the sense of a
+“sublime” bottle of wine. The wry last line suggests, in fact, that the speaker knows all this to be
+mere bravura. Though he imagines having this response, he realizes things might go differently if an
+apocalypse were actually to occur, and admits, in the end, to having spoken somewhat excessively, to
+having been carried away with himself. He did not mean what he said, not wholeheartedly anyway. He
+affirmed his indifference only out of a resentful sense that his skeptical realization compelled him
+to do so.
+
+¶46 To recapitulate the speaker’s trajectory: his “I” comes into being with a claim to “know quite
+well” the community to which “we” belong, namely, that of those who “go to hell” for all “they,” the
+stars, care. But almost immediately, his “let [it] be me” declares him a god and so denies his
+membership in the community of sufferers that led him knowledge in the first place. Having lost his
+“our,” he quickly loses both his “they” and his knowledge as well; first only “think[ing]” about
+“admir[ing]” them, he then “cannot say” he minds their regular absence. Finally, he claims that “I
+should learn,” in case of an apocalypse, to be indifferent to their absence, a subjunctive which
+threatens to become an imperative, revealing his goal all along to have been escape from his stellar
+overseers. The irony here involves a recognizable constellation of concepts—original sin, eros
+versus agape, abstract and concrete, the danger of building a life out of a single mood—but it does
+not proceed according to the arcadian-utopian dialectic Auden developed in contemporaneous poems
+like “Vespers.” Here the second quatrain offers a utopian prayer for final perfection, the fourth an
+arcadian boast of original complacency; both are subverted. The poem proceeds not through moral
+theorizing, but through its verbal enactment of Auden’s formative disillusionment. The
+first-personal avowals enact a subtle evasion of responsibility which are revealed as such only
+through the poem’s ironic gestures. If this “I” neither hangs suspended between nor aggressively
+interrogates its ambiguous communal affiliations, nevertheless every attempt it makes to specify any
+particular relationship between the cosmos, our desire, and my suffering, is immediately met with an
+irony apparently fatal to all alike.
+
+¶47 At least, the irony is fatal if the words receive their full weight. But the ballad meter does
+not encourage such pondering. Rather than condemn its own words—imagining the existence of other,
+unuttered words that comprised the real poem—this poem eludes its own implications, and condemns
+those who would give them more importance than they deserve. Such self-conscious frivolity explains
+also why what we could call the poem’s two voices, knower and ironist, inflect a single utterance
+rather than engaging in explicit dialogue. Their interpenetration prevents either one from arousing
+in the reader too strong an identification with that voice’s desire. Unlike Hopkins, whose poems,
+however rigorously counterpointed, are never insincere, and unlike Crazy Jane and similar Yeatsian
+masks, whose alien visage serves to intensify the desire their words evoke, Auden plays his voices
+off one another so as to weaken their impact. Learned allusion was particularly favored by Auden for
+achieving this elusion of desire. The present poem’s echoes of Dante and Descartes, for example, do
+not arouse curiosity so much as suggest that Auden has written a relatively unimportant postscript
+to the traditions of Christian theology and Enlightenment philosophy. This carefully orchestrated
+suggestion itself marks the originality of the poem’s achievement.

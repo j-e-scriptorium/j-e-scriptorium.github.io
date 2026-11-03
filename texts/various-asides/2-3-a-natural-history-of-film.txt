@@ -1,0 +1,637 @@
+# [2.3] A Natural History of Film
+E. Lawrence Hayward — University of St. Isidore — November 2025
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-2-3
+Foreword gloss: offers a quasi-Cavellian account of film, television, animation, and CGI, with
+  particular attention to natality
+
+¶1 As a young man, perhaps too young, I read Stanley Cavell’s *The World Viewed* [1971] and found
+myself frustrated at every turn of the page. What is the reader to think, after spending years
+laboriously cultivating a taste for Tarkovsky and Kurosawa, when he reads a book on the philosophy
+of film that uses Heidegger and Wittgenstein to talk about old Hollywood genre flicks? And what is
+the reader to do, reading a book ostensibly about film, when he comes across such sentences as: “If
+all modern love is perverse, because now tangential to the circling of society, then the promise of
+love depends upon the acceptance of perversity, and that in turn requires the strength to share
+privacy, to cohabit in one element, unsponsored by society”? (The context does not provide much
+additional clarity.) I finished the book, set it aside, and went about my life.
+
+¶2 A decade and a half and a child later, my regular viewing habits out of necessity shifted toward
+Disney and Ghibli, and I’ve come around too on golden age Hollywood (which, thanks to the Hays Code
+[1930], is the deepest reservoir available of movies both child-appropriate and parent-enjoyable).
+After a long gestation some thoughts about film demanded to be put into words. I began to write, and
+found that the thoughts had an oddly Cavellian shape. I found myself wanting to say such things
+(Cavell’s words, not mine) as that film shows me “a world complete without me which is present to
+me”; that “the idea of and wish for the world re-created in its own image was satisfied *at last* by
+cinema”; that “a woman in a movie is dressed (as she is, when she is, in reality), hence potentially
+undressed”; that “the world inhabited by animated creatures … is animistic.” And I found myself
+wondering what Cavell might have found to say about more recent artistic phenomena, such as prestige
+television, or CGI.
+
+¶3 Rather than write a commentary on Cavell, I note this debt at the outset. And other, smaller
+debts, to such as Gotthold Ephraim Lessing [*Laocoön*, 1766], Johann Gottfried Herder [*Sculpture*,
+1778], Walter Benjamin [*The Work of Art in the Age of Mechanical Reproduction*, 1935], Roland
+Barthes [*Mythologies*, 1957], Jean-Luc Marion [*The Crossing of the Visible*, 1996]. I will
+approach the problem from a different direction than any of these, and reach different
+conclusions—reach them in my own mind, at least, though the reader may arrive at a different resting
+place. I will not attempt conclusive proofs. It is also from Cavell that I have come to understand
+aesthetic generalizations to be best drawn from a handful of pointed examples: a sympathetic reader
+will find it enough, and an unsympathetic would not be swayed by an entire monograph.
+
+¶4 So much for citations and prefatory remarks. I begin by placing film in its rightful place among
+the artistic hosts.
+
+* * *
+
+¶5 *The Objective Arts*. The arts that first come to mind when we hear the word are sculpture,
+painting, drawing. Each serves as a metonym for a different aspect of what we think of as the
+objective arts. Sculpture represents weight, though every art object has mass, because sculpture
+asks the eye to imagine itself a groping hand. Painting represents color, though every art object
+reflects light, because paint’s suspension of pigment in a transparent medium asks us to enter into
+the invisible world it creates. Drawing represents line, though every art object traces a boundary,
+because drawing distinguishes represented object from represented environment solely through its
+confident delineation of the border between them. So, weight, color, line: these are aspects of
+every art object, which is not to say of every artwork, or even every artwork that presents itself
+to the eye. Rather, every artwork that the eye can get itself around.
+
+¶6 The category of the objective arts owes something, not exactly to the camera, but to its
+predecessor the Wunderkammer. Architecture has mass, color, and line, but is not an objective art
+because the objective arts were those that belonged in a museum, and a building is too big to fit
+through its own door (though a few over-ambitious museums have tried). Neither, ironically, is a
+photograph quite an object so much as an abstract array of visual information—yet whatever our
+theoretical quibbles, most of us today accept a photo of a drawing or a painting or even a sculpture
+as a good-enough substitute for seeing the real thing. Each of the objective arts amounts to a
+strategy for reducing the world’s complexity to some *thing* we can comprehend: sculpting a body is
+an act of passionate embrace; painting a color, an act of spiritual perception; drawing a line, an
+act of intellectual definition; constructing a building, an act of objective enclosure.
+
+¶7 *The Musical Arts*. A similar triad can be found in the musical arts: rhythm, melody, and
+harmony. Rhythm pulses passionately through the body; melody draws the spirit down invisible
+corridors; harmony reveals the proper ratios between different movements and moods. And if less
+insistently than with the triad of objective arts, three sounds present themselves as musical
+metonyms for passion, spirit, and intellect: the marching drum, the lyric voice, the chordophone.
+(Of course, we cannot point to the sound itself, and so instead point to the instrument that makes
+it.) When it beats out a march, the drum does not merely stir the body to movement, it commands it;
+a human soul cannot hear a vocal melody, even in a tongue it cannot comprehend, without sensing the
+sibling soul it transmits; and the lyre or violin shows in its very physical proportions why the
+ancients believed music and mathematics were one.
+
+¶8 Contrary to the belief of the ancients, the unity of the musical arts is not mathematical. We
+better understand them if we recall the Muses’ mother Mnemosyne: music transmits memory, makes the
+past as if present for us. Music rearranges time. The symbol of this rearrangement was once the
+conductor’s baton. As a building is not an object, the gesture of the baton is not music, for it
+makes no sound, and so has no rhythm, melody, or harmony; the baton’s role is merely to synchronize
+the work of other musicians, to symphonically unite them. Though the baton has been transmuted by
+modern technology first into the needle of the phonograph, and then, as with digital photography,
+into an abstract record, it still makes no sense to speak of a musical art object. Better to speak
+of the art *event*: rhythm imposes a passion on us; melody invites our spiritual response; harmony
+offers itself for intellectual contemplation; symphony presents many sounds as an apparent unity.
+
+¶9 *The Literary Arts*. Wrought object, musical event—if these are the first two elements of a
+meta-triad, what is the third? The answer is surely: Literary text. It has long been recognized that
+literature divides into three fundamental modes, epic, lyric, and dialectic, corresponding to the
+grammatical functions of description, exclamation, and interrogation. Although almost every literary
+work relies on all three modes to varying degrees, we comfortably treat them as distinct categories,
+not merely different tools the author might rely on or different aspects of the work; in this the
+literary triad differs from the musical. But the literary triad differs also from the objective.
+While we expect a sculpture to be sculpted, a painting to be painted, and a drawing to be drawn, we
+make no objection (unless besotted by neoclassical theory) to literary works that fit comfortably
+into none of the three modes. The *Divina Commedia* [1308-1320] comprises an epic narrative of a
+sequence of dialogues in a lyric style; *Faust* [1808, 1832] or *Moby-Dick* [1851] would be even
+more difficult to categorize.
+
+¶10 What permits this relaxed taxonomy is the unifying principle of the literary work: not its use
+of words, but its use of writing, which is to say its reduction of the flow of speech into the weave
+of the written page, or even better, the cloth-bound codex. On recognizing the literary artwork as
+simply whatever goes inside a book, we make room for endless literary novelty. Every volume in
+Borges’s famous library [“The Library of Babel,” 1941] (or Quine’s two-volume variant [in
+*Quiddities*, 1987]) is a potential novel, and even the alphabet itself is not a necessary
+constraint; a novel can also include illustrations, or musical staves, so long as the *logos*
+dominates. The novel shows us that a literary work is neither an object nor an event, but a *text*:
+every epic narrative tells things as they are, or were, or could be, for those who suffered them;
+every lyric utterance leaps out unbidden from the spirit’s depths; every dialogue is a hunt to
+discover the *mot juste* that will end the conversation; every novel takes upon itself the task of
+redefining what literature can be.
+
+¶11 *The Performing Arts*. Each of our three triads thus far has turned out to have a hidden fourth
+element that amounts to its unifying principle. The objective arts of sculpture, painting, and
+drawing are unified by an architectural frame; the musical arts of rhythm, melody, and harmony by
+the conductor’s time-stopping baton; the literary arts of epic narrative, lyric utterance, and
+dialectical argument by the possibility of the experimental novel. By reading down the columns we
+can fill in the implied fourth row. Sculpture, rhythm, and narrative, in a quite straightforward
+way, make up the passionate art of ballet. Painting, melody, and lyric, in a more refined way, make
+up the spiritual art of opera, where the coloring of the set and stage prepare the way for the
+*coloratura* of the voice. Drawing, harmony, and dialectic, in an abstract way, make up the
+intellectual art of verse drama: the principle of delineation is transformed into lineation, better
+understood not as measurement but as punctuation; the principle of harmony becomes that of
+assonance, the use of sound to draw an occult connection between concepts. Last, the capture of
+objects, the manipulation of time, and the recombination of texts together make up the unitive art
+of film.
+
+¶12 The question is what unity film brings to these disparate art forms. Every culture possesses
+each of the principal objective arts, though perhaps without recognizing their unity; every culture
+makes music, and some analyze it into its constituents; every literate culture experiments with
+literary modes and discovers the natural modes of its expression; but ballet, opera, drama, film,
+these traditions of artistic performance are each a rare achievement, made possible only through the
+sacrifice of wealth on the altar of beauty. Brought about only by human action on a grand scale,
+these art forms present upon a grand stage particular human actions, and propose that these actions
+not merely occur within, but constitute the world. The performing arts are arts of the *deed*: in
+ballet the world becomes passionate movement; in opera, spiritual flight; in drama, mental crisis;
+in film, the world returns to itself, but only to the extent that man continues to cast light upon
+the screen.
+
+* * *
+
+¶13 *The Dream of Film*. The first projection of filtered light onto a screen was not just a human
+act, but a historical one. So too, of course, was the first construction of a room to house art
+objects; or the first coordination of the playing of many instruments together; or the first
+reduction of verbal flux to written text; or the first balletic or operatic or dramatic performance.
+But apart from film, all of these have been done from time to time (even if sometimes a very long
+time) since, at the latest, classical Greece. Their inventors, if they had any (i.e., were not
+simply rediscovered whenever conditions warranted), have been long forgotten. Whereas the technology
+of film projection (unless we count Plato’s cave) was invented in the late nineteenth century, with
+artistic and commercial adaptation in the following decades. Does it then follow that until the late
+nineteenth century the arts had no unity?
+
+¶14 Not quite. The technology of film did not make it newly possible to perceive the unity of the
+arts, but rather made that unity newly actual: it enabled artists-in-general to satisfy their
+pre-existing longing for a world-encompassing art. Artistic longing for the unity of the arts
+preceded its technological realization, though by only a century. It was the German Romantic
+Friedrich Schlegel who first implausibly imagined that poetry could encompass all the arts. Wagner,
+whose attempt at a musical-theater gesamtkunstwerk was somewhat less quixotic, died a dozen years
+before the first public film projection. Over the same period when artists-general were on the hunt
+for an actual art-in-general, folklorists were collecting folktales from across the globe, breaking
+them down into their narratological components (referred to variously and with various nuances as
+“types,” “motifs,” “story radicals”), and developing sophisticated taxonomies, the most recent of
+which (promulgated in 2004) is the Aarne-Thompson-Uther Index. ATU-510A, for instance, is
+Cinderella. For a time it seemed that these two streams would flow together into the new art of
+film, yielding a total film archive containing all possible variants on the traditional narratives.
+E.g., F.W. Murnau’s *Faust* [1926] is a masterpiece of the art of film as Wagner might have imagined
+it: a series of tableaux vivants linked by intertitles, the audience’s expected familiarity with the
+Herr Doktor’s story, and whatever musical accompaniment the movie theater was able to provide. And
+*Faust* was only one of the ever-increasing number of such films released each year. Both dreams
+remained live well into the era of synchronized sound and technicolor; many of the best films of the
+1930s are adaptations either of stage plays or of exhibition hall dance performances.
+
+¶15 *The Reality of Film*. But film gradually developed into something entirely different from
+ballet, opera, and dramatic theater. The novelty began not with the artists-general or the analysts,
+but with the ordinary tale-tellers of Europe and America. New narrative potentialities were explored
+first in the pages of newspapers and magazines, then burst out over the radiowaves and onto the
+silver screen. If the affordances of the filmic art form did not literally summon these new stories
+into being, it can sometimes seem so, for these new stories fit perfectly with what was new in film
+compared to the other performing arts. I wrote above that those arts, “brought about only by human
+action on a grand scale,” “present upon a grand stage particular human actions.” That aptly
+describes ballet, opera, and drama, but for film the formula must be modified: human action not on a
+grand scale, but on an industrial scale, which is to say that film paradigmatically requires funding
+not through patronage, but through the expectation of commercial success. Hence film presents human
+actions not on a grand but on a common stage. Moreover, the human actions it presents are not
+particular, in the sense that the actions themselves are not what the audience experiences; rather,
+each screening of a film re-presents the very same actions for the audience to experience as if for
+the first time. These are in outline the affordances the new stories arrived in time to take
+advantage of. Before turning to some more intricate problems, I proffer the following provisional
+*Index of Filmlore Motifs*:
+
+¶16 (1) *Motifs of Recognition.* The theater knew leading actors, but it took the movies to give
+rise to “stars,” real-life personalities who somehow take on the aura of the sum of their
+performances. A leading actor would be expected to recite Shakespeare from memory; a star would be
+expected to live out in the flesh the persona he created on film. And so we see (a) the villains
+mistake an ordinary man for someone dangerous, giving him a chance to rise to the occasion (*North
+By Northwest* [1959] would not work if Cary Grant were not a star before the opening credits
+rolled); and (b) an acting troupe accidentally recruited to do a warrior’s job, requiring it to
+bumble its way through as best it can (the aliens in *Galaxy Quest* [1999] are only an exaggerated
+version of the fans at the convention).
+
+¶17 (2) *Motifs of Reputation.* Actresses have always been associated with sexual scandal, but the
+titillation of seeing a famous actress on stage always came with plausible deniability; stripteases
+were something else entirely. When captured on film, however, the fact that the contours of a
+woman’s body can be seen through the liquefaction of her clothes ceases to be an accident, and
+becomes essential. To put a woman on film is to invite the audience to visually undress her. And so
+we see (a) circumstances compel a woman to seduce a lustful antagonist (Rita Hayworth in *Salome*
+[1953] dances for Herod not to buy John’s head, but to save it); and (b) a woman chooses to divorce
+her husband so he will see her as mistress rather than housewife (Irene Dunne in *The Awful Truth*
+[1937] reprises the girlfriend’s sleazy club dance to teach Cary Grant a lesson about what he really
+wants).
+
+¶18 (3) *Motifs of Recollection.* In the theater, the story takes place entirely in one place (the
+stage), and progresses at one second per second; hence the so-called Aristotelian unities. To the
+extent the unities are not observed, as in most Shakespeare, it is an assertion of the power of the
+word to summon us to imagine that things are other than they appear. But on the silver screen,
+movement through time and space is entirely in the director’s control. And so we see stories
+centered on (a) a man traveling back in time and causing himself (in *Back To The Future* [1985]
+Michael J. Fox causes himself by getting out of his own way); or (b) parallel stories in different
+eras leading to different outcomes (in *Dead Again* [1991] the doomed Branagh-Thompson romance of
+two generations back vengefully interrupts the modern reprise).
+
+¶19 (4) *Motifs of Repetition.* The word is eternal, while the world is contingent. The theater
+embraces this contingency, in that every performance is slightly different from the one before it in
+material detail, and to witness the results of a myriad of decisions about these details is much of
+why we go to the theater rather than just reading the script. Film, although an image rather than a
+word, like the word is always the same: whatever happens on a given screening of a given film,
+however unexpected, is what always had to happen, on every screening. And so we see (a) the story
+opening on an ordinary day, until a single unusual event knocks the world off its kilter (Fred
+MacMurray’s insurance salesman in *Double Indemnity* [1944] allows himself to be knocked over by
+Barbara Stanwyck because he thinks he has calculated all possible outcomes); and (b) the story
+opening with a professional risk-taker taking on one last job before his planned retirement (*Heat*
+[1995] served as plausible one-last-job material for both Pacino and De Niro).
+
+¶20 (5) *Motifs of Revelation.* The world is contingent, while the word is eternal. Every theatrical
+performance differs, but the fact that the same words are said in every performance tells us that
+the words are what really matter, are what we must attend to. When film presents us a world that is
+always the same, it makes the world into a word, but not one that is self-interpreting; we see and
+hear it differently with every viewing. And so we see crises turn on the proper interpretation of
+(a) a fleeting expression on the face of an antagonist (in *Blade Runner* [1982] the telltale
+hesitations of a replicant’s pupil can only be detected by Harrison Ford’s test-camera); and (b) a
+recording the protagonist experiences differently every time he encounters it (such as the titular
+exchange Gene Hackman re-mixes throughout *The Conversation* [1974]).
+
+¶21 (6) *Motifs of Realization.* Practical effects, like puppetry and sleight of hand, have always
+been with us. But film creates a space for effects not practical, but special, which is to say,
+specular: effects that are not carried out in the real world, but interposed between the film’s
+exposure and its projection, a kind of magic lens between the world and us. The possibility of such
+interposition prompts us to ask whether any of what we see is really in the world, or only in the
+seeing of it. And so we see (a) a dreamworld presenting a funhouse-mirror version of waking life,
+such that on waking, the protagonist can say: “and you were there!” (as does Judy Garland at the end
+of *The Wizard of Oz* [1939]); and (b) a man seemingly living through fantastical adventures, which
+turn out to be seen in his mind’s eye as he lies on his deathbed, or in a mental institution, or
+wherever else (sometimes, as in *Total Recall* [1990], the fantasy world triumphs over the real).
+
+* * *
+
+¶22 *The Limits of Film*. The claim of the previous section was that the new affordances of the
+filmic medium gave rise to new narrative motifs. The final set of motifs, those related to special
+effects, can make film’s affordances seem unlimited: there is nothing in our world that cannot be
+fit onto the silver screen. But this is not true. However much we might wish it were otherwise, film
+actors can only be human beings. Through intense discipline and at some personal cost they can seek
+to transform themselves into the characters they inhabit, but so long as the film follows standard
+conventions of realism—that is, so long as it is not a work of iconography like Murnau’s
+*Faust*—they can only inhabit characters sufficiently like themselves.
+
+¶23 To take two of film’s most painful limitations: a young man cannot truly become an old one (nor
+vice versa), and a woman will not, for purposes of film, become pregnant (though the reverse, one
+fears, must occur often enough). There turns out to be an occult connection between these two
+limits, and another limit imposed by the need for a human viewer: a film must be short enough to
+watch in a single sitting (or else it turns into something else, a serial).
+
+¶24 (1) *Men Age At One Second Per Second*. Begin with the first of these limitations. Films are
+filmed over a few-month period, hence the men in them remain roughly the same age throughout the
+shoot—a useful fact, since it allows the scenes to be shot out of order, but also a frustrating one.
+Directors, even great directors, sometimes ask the magic of film to portage them over the meanders
+of the river of time, but it never quite succeeds at the task. I, for one, do not really believe,
+but only forgive, the twenty-five year old Orson Welles’s old-age makeup in *Citizen Kane* [1941],
+which qualifies as film-magic because it is too intricate to be applied between theatrical scenes.
+The only real purpose the makeup serves is to remind us that narrative time has passed, which the
+newspaper intertitles have already accomplished. Nor do we really believe that the Robert De Niro of
+*The Godfather II* [1974] is a young Marlon Brando. We simply do not care; he does not need to be
+because a sequel is its own film, not a continuation of the prior one. The only way to truly capture
+on film the passage of a man’s life is to endure it.
+
+¶25 Flashbacks to childhood are a partial exception to this rule. Because a boy’s face bears only a
+family resemblance to the man he will be, skillful casting of similar faces can ensure the necessary
+illusion. True, the child is father, not mother of the man, and too many changes of face break faith
+with the viewer; the flashbacks must hone in on the single moment of spiritual germination. Terrence
+Malick’s *The Tree of Life* [2011] indulges in a toddler version of the Sean Penn character, but we
+only come to know his past when we see him as an adolescent. Still, our exceptional willingness to
+accept equations between faces of differing maturity makes especially peculiar Richard Linklater’s
+attempt in *Boyhood* [2014] to wait out the tyranny of time. *Boyhood* traces the life of its child
+protagonist from six to eighteen, and was created by brief reunions between director and child star
+over a twelve-year period. The film falters for reasons in retrospect inevitable: being directed by
+two different men, Linklater-2002 and Linklater-2013, the early scenes could not meaningfully
+anticipate the later ones. The enterprise strikes us as less a unified film than a compressed
+television series—most instructive for what it tells us about the boundary between these sister
+arts.
+
+¶26 (2) *Films Wrap Nine Months After They’re Cast*. This observation about *Boyhood* brings us to
+our second limitation: it is practically impossible to make a film starring a pregnant woman. Any
+casting call for pregnant women would see the baby born before shooting began, and if a starlet who
+has been cast becomes pregnant she will either get rid of the baby or the director will get rid of
+her. *Hail, Caesar!* [2016] is in part about how the latter might be the best thing for her. When a
+film tells a story about pregnancy it will typically only allude to it, as if the fact were
+reducible to its rumor. The childbirth scene in *Gone With the Wind* [1939] shows only the shadow of
+the laboring mother thrown against the wall. To show a pregnancy directly requires prosthetics, and
+the faux-pregnant actress cannot avoid carrying herself as if her baby bump were an article of
+clothing she could remove at will. The result gives rise to a body-horror vision of pregnancy, as in
+*Alien* [1979]’s stomach-turning practical effects; and since it is what makes pregnancy possible,
+the horror can extend backward to the female body itself, as in *Under the Skin* [2013] and *Ex
+Machina* [2014].
+
+¶27 Yet the thought of a world without pregnancy is equally horrific. The *Barbie* movie [2023]
+shows us a female doll it would be pointless to undress because there is nothing beneath, and
+imagines what it would take to get her to a gynecologist; the only answer it can come up with is an
+idolatry of women named Ruth. More successful explorations of the same theme are found in Denis
+Villeneuve’s *Arrival* [2016] and Alex Garland’s *Annihilation* [2018]. Each follows a female
+scientist alone with memories of an estranged husband and an ambiguous interloper. There appears a
+vessel from another world, and she is recruited to investigate; ultimately the vessel is destroyed
+after imparting to her its inhuman knowledge of the true meaning of her fecundity. The difference is
+that in *Arrival* Amy Adams is a linguist and her memories are in fact premonitions of what will
+happen if she marries her love interest: they will divorce, and their child will die of an incurable
+disease. What she has learned from the heptapods’ circular ink-blots is how to find this fate
+desirable by seeing it from the perspective of eternity. Whereas in *Annihilation* Natalie Portman
+is a biologist; her memories are of cheating on her husband; and what she has learned from the
+iridescent shimmer is that the life-force within each of us will find a way to continue, even if
+that way destroys what we think of as our selves.
+
+¶28 *A Televisual Digression*. The filmic art that unifies the system of the arts either encompasses
+or branches off into television. The two invite many of the same narrative motifs, but their
+affordances still differ in some respects. Where film compresses, television digresses. Television
+is notoriously open-ended, and not only because a series is not watched in a single sitting. A
+single season generally hopes for another, but cannot expect it; the viewer hopes that the
+showrunners know when they have reached the finish line. The loss of a unified dramatic arc is the
+price of showing us the real passage of time, and how it builds up a sense of place. Not limited to
+the *Godfather* series’ single digits of hours, *The Sopranos* [1999-2007] can spend almost a decade
+following Tony from early into later middle age, and his children as they cross the threshold into
+adulthood. The price is that its protagonist is not the don of dons, but only a middle-manager
+mafioso, and the viewer cares equally about the various life trajectories of the various members of
+the ensemble cast. So too with *Mad Men* [2007-2015]’s Don Draper’s media not-quite-empire, the
+television analogue of Welles’s masterpiece. The television star burns less bright than the film
+star, but for longer: James Gandolfini and Jon Hamm became not archetypes but psychopomps, who for a
+phase in our lives guided us through particular imagined places and times.
+
+¶29 The longer a television series runs the further it drifts away from our own world and fabricates
+for itself another. In the word’s peculiar televisual sense, a “mythology” is simply a set of
+reference points that will delight the audience by reminding it how much time it has invested in
+learning the local landmarks. A human sacrifice completes the summoning ritual. In *The Truman Show*
+[1998] an unwanted child is adopted by a television studio and raised in a panopticon. The
+showrunners arrange his marriage to a young actress, and hope to arrange the on-screen conception of
+their first child; Truman’s refusal is what restores him to reality. When a sitcom actress becomes
+pregnant the showrunners face a choice, to shuffle her offstage for half a season or to write the
+pregnancy into the story. When they take the latter option the birth confirms the impression that
+the world of the show is complete in itself, spanning all of human life from birth to death. The
+passing of a cast member rarely has the same effect, perhaps because it cannot be similarly
+anticipated. Once the actress Nancy Marchand died it was too late for a proper farewell to Livia
+Soprano (though we were, in one of the show’s few total blunders, subjected to a CGI rendition of
+what such a farewell might have looked like).
+
+* * *
+
+¶30 *From Live Action Into Animation*. But what if there could be a film made entirely without
+actors? For as long as we have had live action films we have also had animated ones, which escape
+entirely the practical constraints discussed in the previous section. Both *Bambi* [1942] and *The
+Lion King* [1994] begin and end with a birth, and both effortlessly follow the maturation of their
+protagonist from infancy to fatherhood; it is a mere matter of imagining the intermediary stages and
+then drawing them. At the same time animation leaves behind, if not the possibility of certain
+filmlore motifs, at least the conditions that gave rise to them. E.g., *Aladdin* [1992] gestures at
+what I have called IFM (2)(a) (seductive heroine), and *Beauty and the Beast* [1991] at (4)(a)
+(ordinary day). But would they have done so if we lived in a world that had invented moving pictures
+but not photography, and so did not possess live action film?
+
+¶31 In the world we live in, live action and animation are not separate arts, but inextricably
+intertwined. Walt Disney’s early film *Alice’s Wonderland* [1923] began with animated creatures
+magically bursting into the live action world, and ended with a slumbering live-action girl entering
+into the world of cartoon. Ralph Bakshi’s *Cool World* [1992] explored the same theme in more
+disturbing fashion. If live action pitches itself to our sense of touch by showing us the ordinary
+tangible world, animated films do so by presenting us with a world we hopelessly desire to wrap our
+arms around. What prevents us is the same feature that makes the world presented intrinsically
+desirable: it is entirely flat. The attraction of the animated world is spiritual. Like
+pre-perspectival painting, it luxuriates in solid blocks of rich uniform color, as if to say that
+the world is all color, all spirit, all the way through. *The Secret of Kells* [2009] revealed the
+affinity by bringing to life the world of illuminated manuscripts. Decades earlier, Yuri Norshteyn
+did something similar in his short film “Battle of Kerzhenets” [1971], where we see icons come to
+life through a layered array of paper cutouts. Norshteyn’s cutouts are, of course, the experiments
+of an auteur; they can illuminate the animated mainstream, but are not part of it.
+
+¶32 *Romantic Animism*. The core of the animated tradition has always been the art of moving
+illustrations, where from frame to frame any line not carried over must be redrawn by hand, with
+results mimicking the continuous subtle movements of living flesh. The result is a kind of animism:
+in an animated movie, every object on screen is at least potentially ensouled with a soul that could
+transmute it into some other kind of thing, as has been apparent since at least Walt Disney’s
+*Fantasia* [1940], where even an abstract representation of a sound wave achieves a kind of
+personality. Animated films typically place their visible souls atop a static watercolor field, but
+they are capable also of bringing the landscape itself to life, erasing entirely the distinction
+between background and foreground.
+
+¶33 We think of animism as a pre-modern worldview, and for similar reasons we think of animation as
+an art for children, but neither prejudice is fully warranted. Animism can name a naive poetics, but
+it can also name a poetics that is sentimental in a Schillerian sense, which is to say romantic: a
+poetics aware of the power of modernity (its sophisticated technology, its sophisticated social
+organization), but also of its inability to come to terms with the fundamentals of human life:
+birth, love, evil, death. In a nutshell, the animated filmmaker is aware of what was left behind
+when we abandoned the ATUI for the IFM, when Hitchcock displaced Murnau as the greatest director.
+Animated film is not immature, but it does tend toward nostalgia. The relative dearth of animated
+films compared to live action owes much to economic imperatives—frame for frame, animated films are
+more expensive than live action ones—but much also to the relative rarity of the type of romantic
+genius proper to the art form.
+
+¶34 *The Animated World*. An animated filmmaker resembles less a director than an architect, and an
+animated film is in a way similar to a theme park ride. It is no coincidence that both Disney and
+his spiritual successor Hayao Miyazaki at times were involved in the latter: Disney turned in his
+later career from animating films to designing his eponymous Land and World, and Miyazaki obsessed
+over the design of the Ghibli Museum, to the point of writing a poetic manifesto (“This is the Kind
+of Museum I Want to Make!” [c.2000]). At the same time, both Disney and Miyazaki made
+films—*Pinocchio* [1940] and *Spirited Away* [2001]—warning of the dangers that result when the idea
+of the theme park, which is to say, of the animated world, is corrupted. In the romantic animism of
+animated film, that everything is at least potentially alive is both a dream come true, and (as that
+earlier reactionary animist Yeats would have said) a terrible responsibility.
+
+¶35 Disney’s adaptation of Goethe’s “Der Zauberlehrling” [1797] dramatized the danger the animating
+power could pose if used indiscriminately: the bewitched broom, having been endowed with hands and
+feet by a hapless Mickey Mouse, has a life of its own and will have it more abundantly the more
+Mickey tries to render it back into dead wood and straw. The result is elemental chaos, and it takes
+the return of the master sorcerer to part the waters. The broomstick is animation’s name for
+technology, which animation conceives as the human power to sweep into motion the otherwise
+inanimate world. Miyazaki in *Kiki’s Delivery Service* [1989] compared broomstick to airplane, and
+in *Howl’s Moving Castle* [2004] turned the former into a hopping scarecrow and the latter into a
+weapon of war. As Caproni tells Jiro in *The Wind Rises* [2013], “Airplanes are beautiful cursed
+dreams waiting for the sky to swallow them up.” Animation brings tools and machines to sputtering
+life, but fears the death that follows in their wake.
+
+¶36 Animation is more at ease animating animals—they are alive to begin with, after all—but not
+entirely so, because it cannot avoid humanizing them, which is also to say spiritualizing them. A
+persistent theme in animation, as alluded to in the earlier mention of *Bambi* and *The Lion King*,
+is how death is an inevitable part of animal life, and indeed one that animals often inflict on one
+another. But if these films are untroubled by the fact of natural hierarchy, they also insist that
+life’s crowning achievement, what earns its kings their crowns, is not consuming lesser beasts but
+protecting them from fiery death. Animated films rarely show one animal actually eat another, not
+because we cannot picture what such an animation would look like, but because we can picture it too
+easily; the surface that was one would simply disappear as the jaws of the other erased it.
+
+¶37 *The Animated Otherworld*. Apparent counterexamples like *Pinocchio* and *Spirited Away* prove
+the point, in multiple respects. First, in these films ingestion is not followed by consumption: the
+whale vomits up the puppet, and No-Face the inhabitants of the bathhouse. Second, the regurgitation
+results from the application of human reason: Pinocchio builds a fire, Chihiro feeds the monster an
+emetic. Earlier in the films the protagonists preserved their humanity through simple restraint, a
+refusal to indulge their animal appetites. Third, the ingesting and regurgitating animals are
+entirely otherworldly: the whale is Jonah’s whale, No-Face a literal spirit, and for them to truly
+consume another animated being would mean that being’s spiritual as well as physical death. These
+films draw on a corollary of animation’s ability to animate its entire world: its ability to make
+visible the invisible.
+
+¶38 Animation has no need of the comically humanized angels of live-action films like *It’s a
+Wonderful Life* [1946] and *A Matter of Life and Death* [1946], or the spectacular otherworldly
+messengers of films like *Arrival* and *Annihilation*. As the animated world is already an
+otherworld, it can speak to us without difficulty of yet another world above its own. Indeed, it
+does so habitually. Whenever it takes non-human animals as its protagonists, animation makes its
+human beings take on the role of gods, or of demons. *One Hundred and One Dalmatians* [1961] retells
+the Gospel narrative but with even-more-than-all saved through the descent into hell not of a single
+messiah, but of a dozen-plus. We cannot imagine that the entire litter could ever have been
+contained within the gravid Perdita’s womb, and no attempt is made to convince us it could; the film
+need only number them and they miraculously enter into life, and later multiply sevenfold.
+
+¶39 But in *The Prince of Egypt* [1998] the roles are reversed, and we see the slavery that results
+when stagecraft bamboozles men into worshiping animal statues. It begins with the infant Moses
+preserved from the off-screen massacre of the Hebrews; it ends with Moses the bearded sage parting
+the waters and then letting them crash back together, drowning Pharaoh’s chariots and charioteers.
+Before he does so Moses must realize the true nature of the animated world in which he lives. In a
+dream he sees hieroglyphs come to life and enact an Egyptian host seizing Hebrew infants from their
+mothers’ arms and tossing them into crocodilic maws. The hieroglyphs are flat, but the walls
+themselves skew with geometric perspective as the imagined camera zooms around the throneroom. Moses
+sees his own death narrowly averted when his sister sidesteps out from the hieroglyphic plane onto
+the surface of an adjacent column to dodge some oncoming soldiers. The gods of the Egyptians are
+false because they are gods of the two-dimensional animated world only; the God of the Hebrews is
+God in every world.
+
+* * *
+
+¶40 *From Animation to Rendering*. The use of three-dimensional effects in 1990s animated movies
+like *The Prince of Egypt* marked a shift in the tradition of animated film, and ultimately resulted
+in a total break. If the tendency of moving illustrations is to bring to life the entire visual
+field, the tendency of computer-generated imagery is the opposite: not animation, but rather
+rendering, breaking the living world down into bits of matter. This observation does not attack the
+artistic validity of 3d rendering, but rather insists that its valid uses will be those that
+perceive its affordances and take them into account. Such perception and such accounting do not
+require any sort of theoretical analysis, but only close attention.
+
+¶41 In recent years, unfortunately, filmmakers have grown inattentive. Those who would otherwise
+have made animated films have embraced CGI as a supposedly improved version of the same thing, the
+projection of a world other than ours. And those who would otherwise have made live action films
+have treated CGI as a straightforward substitute for practical effects: Why film on location when
+you can drop the landscape in later? Why store props on the back lot between sequels when you can
+store them on a hard drive? Why spend hours each day applying makeup when the actor can just wear a
+green jumpsuit covered in white dots? The burden shifts to the critic to discern which rendered
+characters have real life within them and which are hollow shells, which CGI environments we could
+imaginatively live within and which ones we could not. Ironically, inviting this discernment is
+exactly what 3D rendering excels at.
+
+¶42 *Rendering Analyzed*. To avoid being taken in by the delusion of trompe l’oeil, we must return
+to fundamentals. If 2D animation is a way to create the illusion of illuminated bodies in motion
+though a sequence of static hand-drawn illustrations, 3D rendering is a way to create the illusion
+of illuminated bodies in motion through a sequence of projections of an abstract space. The renderer
+begins with a cartesian-coordinate representation of various objects, then calculates how much light
+will bounce off the polygon mesh and make its way to another point defined to represent the camera.
+This calculation is done anew for each frame, but each frame is simply a time-slice of the
+four-dimensional whole. Every node, every array of nodes representing an object, and the camera
+vector as well move through the time dimension algorithmically. The result, in a slogan (and to
+recall the three components of the objective arts, the foundation of both animation and rendering):
+rigid lines, objective colors, hollow bodies.
+
+¶43 The rigidity of the 3D-rendered line follows immediately from its algorithmic nature. This
+rigidity, and its difference from traditional animation, can be isolated in cel shading, a
+3D-rendering technique in which the light calculations are rounded off to a limited palette. The
+result superficially resembles hand-drawn animation but lacks its dynamism, the ability of any given
+object’s boundaries to bend as the artist’s spirit moves him. When the otherwise hand-animated
+*Avatar: The Last Airbender* [2005-2008] introduces cel-shaded Fire Nation battleships and tanks,
+their very visual appearance communicates to the viewer that they represent a mechanical principle,
+fundamentally opposed to the Water Tribe’s animism.
+
+¶44 The effects of 3D rendering on color are less easily isolated, but can be analogized to those of
+perspectival painting. Geometric perspective moved color from the surface to an imagined space
+behind it, generating color effects like those in Johannes Vermeer’s depictions of household things
+bathed in northern light, or Claude Monet’s depiction of the fog between himself and the House of
+Parliament. The former shows inanimate objects in their particularity, and the latter
+objecthood-in-general, the distance between ourselves and the world. Yuri Norshteyn’s “Hedgehog in
+the Fog” [1975] achieves similar fog effects through a technique not computationally, but actually
+three-dimensional: he placed in front of the scene a thin translucent paper and slowly, frame by
+frame, lifted it up toward the camera. Beneath the fog-paper was an un-rendered thing—a hand-drawn
+horse—which at the climactic moment appears suddenly out of the fog, two-dimensional and alive. CGI
+cannot show us that life; it is limited to objects and fog.
+
+¶45 Last, the hollowness of the 3D-rendered image renders it repellent to the groping finger of the
+sculptural eye. When our eye recognizes the 3D rendering at all (when it is not deceived), it
+recognizes it as a cinematic projection of an abstract world illuminated by an abstract light. The
+default is not sculptural plastic, but plastic in the sense of a fake object, an injection-molded
+petroleum byproduct. The mathematically inclined will resist the conclusion, insisting that once a
+sufficient quantity of information is built into the model it will be indistinguishable from
+reality. But a trompe l’oeil need only satisfy the eyes, whereas to pull off a moving illusion
+requires satisfying our sense of touch, which sets out expectations for how the various represented
+objects should impinge on one another. A completely satisfying 3D rendering would require what seems
+impossible, a complete simulation of the laws of nature.
+
+¶46 *Undead Action, Alien Worlds*. When 3D renderings are superimposed onto live-action films, the
+actors’ interactions with the rendered objects inevitably reveal the latter to be both unattractive
+and intangible, a mere shell of the bodies they mean to depict. Filmmakers better understood this
+principle when the technology was in its infancy (i.e., when it seemed a substitute, not for the
+world itself, but for such ad hoc effects as Ray Harryhausen’s jerky claymation puppets).
+*Terminator 2* [1991] pits practical effects (Arnold Schwarzenegger’s roided muscles) against the
+liquid metal of the new model robot army. *Jurassic Park* [1993] and *Pirates of the Caribbean*
+[2003] descend into the uncanny valleys named in their titles, which we discover are filled with
+half-living monsters. *The Mummy* [1999] pictures its own undead fiend as a hollow husk that could
+transform in an instant into a million bits of flying silicon. The early tradition culminated in
+*The Lord of the Rings* [2001-2003], with its performance-capture transformation of Andy Serkis into
+Gollum-Smeagol: it succeeds precisely because we see the sallow skin unanimated by any glow of
+interior life, and sense the hollow interior behind, but also feel the presence in his gestures,
+expressions, movements, of the human being trapped within.
+
+¶47 Conversely, when 3D rendering generates from scratch a world to present to the viewer, it is
+inevitably one the viewer feels no visceral urge to enter into; we can imagine a CGI remake of *Who
+Framed Roger Rabbit?* [1988], but cannot imagine a CGI Jessica Rabbit desirable, any more than we
+can imagine a balloon animal desirable. (A blow-up doll is not desired, but only abused.) James
+Cameron’s *Avatar* [2009] and sequelae, for instance, drew many in but not, except for a few
+disordered libidos, because the viewer desired to touch the things depicted. The idea rather was to
+be surrounded by them, to become a transparent eyeball witnessing the natural history and
+xenoanthropology of a lovingly detailed imaginary planet. We forgive the lifeless artifice of the
+CGI because it conveys that wealth of enchanting information, but the dramatic action leaves us
+cold, for it is enacted by creatures with whom we do not share a world. As its title suggests,
+*Avatar* may have been more successful as a video game, where life could have entered the rendered
+world through the player’s own exercise of agency.
+
+¶48 *Playing God*. In some ways gaming, not film, is 3D rendering’s true home. Video games reveal to
+the player how a world is a set of affordances, and how we exist in a world to the extent that we
+act within it. Playing *Tetris* [1985], we find the world around us to be made up of irregular
+shapes to be packed together. Playing *Portal* [2007], we find that we can be at home in a world of
+noneuclidean space. When we watch video games without playing them, as in *Tron* [1982] (one of the
+first films to make extensive use of CGI), we see in them instead an inhospitable gnostic prison, an
+“electronic arena where love and escape do not compute.” What most alienates us from this world is
+that its inhabitants are entirely lacking in agency; they simply follow the digital laws that set
+them in motion. This feeling of alienation vanishes only when the game is not one whose rules we
+take too seriously. We are not bothered by the lifelessness of the characters and world of *Veggie
+Tales* [1993-2015], or *Toy Story* [1995], or *The LEGO Movie* [2014], because these films do not
+even try to convince us otherwise; rather, they are a comic puppeteering of a cast of ordinarily
+inanimate objects across a stage that in the back of our minds we know is only a carpet or a kitchen
+counter. These movies delight us most when they admit the game is only a game, as when Woody breaks
+kayfabe and speaks directly to the toy-breaker Sid.
+
+¶49 When 3D-rendered children’s movies do convince us to take them seriously, it is in ways utterly
+different from how we took seriously traditional animated movies. Consider the 2024 Latvian film
+*Flow*—like *The Prince of Egypt* a story about a providential flood, but handled in an entirely
+different register. In *Flow* we follow a black cat wandering through a global deluge dissolving a
+world once inhabited by human beings, but now peopled only by the ruins they left behind; the eerie
+drowned cityscapes are somewhat reminiscent of the early video game *Myst* [1993]. The cat drifts
+along in a small boat and makes friends with various other creatures—a dog, a lemur, a capybara, a
+secretarybird, a whale—and also encounters certain dangers. The film has an unusual visual style,
+and also an unusual plot, in that the protagonist cat plainly lacks human intelligence (as do all
+the other animals). The effect of this animal stupidity is to engage our anxiety, as if we were
+watching a clumsy child play a video game it did not understand, and longed to wrest the controller
+from its fingers. As the film’s allegory for salvation history becomes more and more explicit, we
+realize what we have felt for the cat is an echo of God’s care for us.
+
+* * *
+
+¶50 Every attempt to grapple with an entire artistic form is inevitably unsatisfying. The present
+essay has not even attempted a comprehensive overview; I have said little, e.g., about the role of
+sound in film (music, voiceovers, etc.), or about live action color (black and white, the use of
+filters, etc.). Nor have I mentioned every film that matters to me (I have remained silent on many
+of the films that matter most). Every film I have mentioned matters, but I have frequently done
+little more than gesture at a potential reading of this or that film’s significance. My goal, after
+all, has not been to interpret a particular genre or movement or moment in film history, but to
+offer a sort of natural history of the art of film—to uncover what kind of thing film is by way of
+telling examples placed in narrative order.
+
+¶51 The core narrative of this natural history might be restated as follows. In the late nineteenth
+century film was born out of the matrix of all the arts, as the art that would render actual their
+potential unity. The novelty of the art of film elicited a new array of narrative motifs, best
+understood through the contrast with theater. But inherent limits on the art of film relating to its
+human material also rendered certain subjects unavailable to it, particularly those of age and of
+infancy. (Film eventually evaded this limit by expanding into television, but thereby abandoned
+something of its compactness.) These subjects are more naturally treated, not in live action, but in
+animation, live action film’s alter ego. (Animation evaded its own limits by expanding into theme
+parks, but thereby declined from romanticism into nostalgia.) In recent decades, 3D rendering has
+come to be seen as an ersatz substitute for live action or animation, but it is better understood as
+a vehicle for exploring the limits of agency. (3D rendering most properly belongs to the gaming
+realm, where such exploration is the entire ballgame.)
+
+¶52 What is the epistemic status of these claims? On the one hand, their literal truth is doubtful.
+Some critics once imagined film the gesamtkunstwerk; others have made similar claims for television,
+for theme parks, for video games; they cannot all be right, and probably none are. On the other,
+almost every artist has had false beliefs about his art form—e.g., that it had a nature, rather than
+a history—and it may be that such beliefs are necessary if the artist is to take his art form
+seriously. If so, then taking such beliefs seriously is one way to enter into the mind of the
+artist. Having thought them through, we return to the artwork and see it better, which is ultimately
+the only use of criticism.

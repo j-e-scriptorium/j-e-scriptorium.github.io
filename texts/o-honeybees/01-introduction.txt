@@ -1,0 +1,190 @@
+# [o-honeybees/introduction] Introduction
+From: O Honeybees: An Illustrated Anthology of Bee Pomes (2023), edited with an introduction by
+  Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/o-honeybees.html#introduction
+
+¶1 *Anthology*, from *anthos*, "flower," and *legein*, "collect" (not *logos*, "account," as the
+folk philologist might be tempted to assume)—this volume's particular bouquet gathers only those
+poetic blooms to whose petals have clung the honeybee. In some the bee zips by in a single memorable
+phrase; others take the noble insect as their principal theme. She is, after all, among the most
+versatile of topoi from the animal kingdom. One poet might invoke her hum, another her polity, one
+her honey, another her sting. When we have read enough bee-pomes, we begin to sense the weight of
+the whole hovering behind each separate apian allusion. They accumulate as wax slowly built into a
+honeycomb, sweet meaning seeping into every rift, turning sickly-oversweet if we do not pace
+ourselves. And there is a bee-pome too for that semantic gag reflex, the sense that meaning must be
+allowed to run out.
+
+¶2 You will find within these pages poets from Homer to Eberhart, from the Psalmist to Franz Wright.
+Though mostly English-language writers, I'm afraid, some canonical and some not, along with a
+handful of those who are in the English canon though not of it, and a few lesser known foreigners
+whose works I found particularly striking. I ought also to mention that, though this is an anthology
+of pomes, by which I mean words artfully raised to the highest pitch of meaning, I have not confined
+myself exclusively to verse. A few of this volume's bee-bearing flowers have been pruned from
+prose—scripture, sermon, polemic essay. But I have kept to verse for the most part; there is, after
+all, a reason many take verse and poetry to be synonymous. Most authors appear only once, but some
+more than once, and though the selection is undoubtedly personal to myself, no true reader of
+bee-pomes can be surprised by the two names that appear most often: Virgil by way of Dryden (eleven
+extracts), and Emily Dickinson (eleven lyrics). The principal poets, respectively, of the bee within
+the colony and of the bee without.
+
+¶3 The bee-pomes are accompanied by various artworks and artifacts, some, again, focused on the
+honeybee, some making only incidental use of her. For these visual works it has not been necessary
+to confine the selection to any particular place or time; they range from Japan to Crete to America,
+from cave painting to internet comic. But over half are from the last hundred and fifty years, and
+about an eighth from the last two decades—a testament to the profound cultural effects of mechanical
+and then digital reproduction. As I did not confine myself to words ostentatiously arranged in
+formal verse, I do not confine myself to images singled out for display on the wall of a mausoleum
+or museum. Some, to be sure, come from the brush of Dürer, Poussin, Redon, Dali. But others are
+decorative, indeed, the cover is a wallpaper; others are functional, whether cup coin vestment or
+sword-hilt; and still others illustrative, drawn from and for breviary, beekeeping manual, magazine,
+children's book. A few come from the peculiar world, not of art, but of mass entertainment—film
+stills, a magazine cover. One, extracted from a YouTube video, paints the bee in an unexpected way.
+
+¶4 I have arranged the images and words to complement one another thematically—which is not to say
+that adjacent images and words do the same thing only in different media. The contents of this
+volume provide an interesting test of Lessing's theory that poetry deals with movement, painting
+with simultaneity. It seems to me that those bee-pomes are most powerful which sing of what the bee
+does: to read them is to become an amateur apiologist, newly aware of the potentialities latent
+within the little creature buzzing in your periphery. But that is just where the bee is—hardly in
+focus. Whether a dark fleck moving over a field of flowers or hidden within the dark recesses of its
+hive, the living bee seems hardly something to be seen at all. So the bee artist must take a
+different approach. Jewelers recreate in gold the bee's articulated golden body; painters depict
+scenes from the life of the arcadian beekeeper; printmakers devote themselves to hexagonal divisions
+of the plane, and so partake in the bee's mania for exact reduplication.
+
+¶5 Or almost exact. The honeycomb strives perfectly to pack together honey-filled spheres of wax,
+but warps itself around the natural obstacles scaffolding it. The honeybee strives perfectly to
+fulfill her inherited function, but the growth of that inheritance depended on perpetual natural
+variation. So the now-predominant evolutionary theory would have it, anyway. Darwin knew the
+honeybee to be one the strongest rebuttals to his theory of evolution by selection, and he devoted
+several pages of *The Origin of Species* to explaining the humble origins of the bee's crystalline
+exactitude. Both for reasons of space, and because this anthology focuses on the aesthetic rather
+than the intellectual, I have included no works of theoretical apiology. But I encourage the reader
+not to give the inbred British empiricist the last word: be sure also to consider, inter alia, the
+French rationalism of Maurice Maeterlinck's *The Life of the Bee*, the German romanticism of Rudolph
+Steiner's *Lectures on Bees*, and the American pragmatism of Tom Seeley's *Honeybee Democracy*. The
+devotee of bee poetry need not be learned in apiological lore, but neither can he afford entire
+ignorance, for the validity of a poetic image depends in part on whether what it links with words
+are related in the world as well.
+
+¶6 An example. I have written of the bee as "her," because we know now that both queen and worker
+honeybee are female: the latter chastely devoted to her labors, the former promiscuously mating with
+a dozen or so drones whose myriad seeds she will spend the rest of her life planting. Which is also
+to say that we now understand the crucial role of the male drones themselves, whose entire life is
+simply an anticipation of the for them fatal act of insemination. But this knowledge is relatively
+recent: even Shakespeare spoke of the king rather than the queen bee, and of drones as mere
+parasites which the colony would be better off without. Alas, this ignorance renders his use of bee
+imagery less powerful than it might otherwise have been. Our present knowledge, incidentally, was
+popularized in 1609 by Charles Butler's *The Feminine Monarchie*, a book of bee theory and
+beekeeping practice which also contained a peculiar poetic narrative dramatizing the bee colony's
+Amazonian politics. It is a striking coincidence that Butler arrived at this view after living for
+the first three decades of his life under England's own Queen Regnant Elizabeth. To call the queen
+female and the drone male, I should note, is to say that the one lays eggs, the other inseminates;
+in chromosomal terms (often mistaken for the biological basis of sex), the drone is closer to a
+flying gamete. Especially close if one conceives of the colony not as an assemblage of autonomous
+organisms, but as a single spatially fragmented super-organism.
+
+¶7 Should one think of the colony in this way? Both scientifically and poetically, the question has
+no definitive answer. It can matter greatly what answer any given poet accepts—for example, by
+determining whether he takes the bee colony as a valid image of the human city, or rejects such
+metaphors as worthy only of "bugmen." Only a few versifiers, most notably Robert Bridges and W.H.
+Auden, have taken the latter route. Novelists have done so more often; consider Kurt Vonnegut's
+comic parable "The Drone King," built around the rhyme of "honey" and "money," or E.M. Forster's
+early sci-fi dystopia "The Machine Stops," which begins with this remarkable challenge: "Imagine, if
+you can, a small room, hexagonal in shape, like the cell of a bee." Ernst Jünger's *The Glass Bees*,
+more subtly, shows a future where men of valor struggle to find their footing, and where living bees
+have been replaced with mechanical hive. (More recommended reading for those who would follow the
+bee to meadows too vast for this anthology to contain.) My own view, for what it is worth, is that
+the bee-city image is valid as far as it goes, and no further; to equate man and bee is of course a
+mistake, but to insist on an absolute separation between the two is its own kind of self-defeating
+bugman logic.
+
+¶8 As well as an object of theoretical contemplation, the honeybee is more or less a domestic
+animal, one as familiar to the standard farmyard as sheep, cow, pig, chicken. (A terminological
+point: the beekeeper keeps a bee colony, a socio-biological unit, in a bee hive, an artificial
+structure typically made of grass or wood.) Every girl and boy is familiar with the basic facts of
+bee-life, and indeed these facts have featured in many classics of children's literature: bees
+gather nectar from flowers, as in the midrash of King Solomon's wisdom regarding the bee; bears and
+other wild beasts love to steal the honeycomb, as in pseudo-Aesop's moralistic fable of the Bear and
+the Bees, which sublimated into amoral innocence became A.A. Milne's Winnie-the-Pooh; and when
+angered the honeybees will sting, and afterwards die, a truth at least implicit in Frank L.
+Stockton's "The Bee-Man of Orn." While these narratives would overcrowd the anthology, I have
+included an illustration of each.
+
+¶9 It is tempting to think that the risk of stings is exaggerated in the child's mind's eye.
+Although at least modern domesticated honeybees will rarely sting without good cause, the child is
+nevertheless right to fear the sting, for two reasons. First, the untrained eye often struggles to
+discern the honeybee from her more malevolent cousin the wasp. Or, for that matter, from the
+thousand other varieties of bee besides *Apis mellifera*; my selection has occasionally taken
+advantage of the word's ambiguity to include poems which the author may well have intended to honor
+the bumble. Second, even when a bee it indubitably is, the child lacks the ability to discern what
+will anger her and what will not. The wild bees in the childhood of the race were more fearsome than
+those beekeepers keep today, and it should be no surprise that the earliest bee-pomes and pictures
+focus on the menace of the swarm. Even today, it cannot be denied that the threat of the sting lends
+the sweetness of the honey a pleasingly complex undertone. As in many a fairy-tale, the imagination
+moves swiftly from the child's play of honey-hunting to the erotic dissonance of bee-stung honeyed
+lips.
+
+¶10 Some practical bee-facts are less universally known in this excessively urbane age. A brief
+primer on the travails of the beekeeper: The honey and wax cannot easily be harvested without
+demolishing the hive (although modern developments in hive technology have made non-fatal honey
+collection more feasible). Even if the harvest does not kill the colony, the loss of its winter food
+supply might. Further, once or twice a year, if it has the resources, a colony will send up a swarm
+led by a queen bee bound to start a new colony a few miles away. Swarms are necessary for the
+propagation of the species, but new colonies often fail to prosper, and a swarm's departure can
+leave the old colony severely weakened. Beekeepers have always, then, worried constantly about
+whether their bees will one day simply disappear from the hive, due to swarming, starvation,
+sickness, or whatever else. Though the dangers posed by industrial farming practices are real, the
+outsize fame of "colony collapse disorder" measures instead (as well as the influence of skilled
+propagandists) our shock at rediscovering the curious melancholy inherent in the apiarist's art.
+Beekeeping remains less violent than slaughtering livestock, for the beekeeper does not intend to
+kill the colony, but neither do man and bee share the friendship of man and dog or man and horse.
+Similarly, while an experienced beekeeper can know much about bee health, our intuitions about 'what
+it is like to be a honeybee' just go less far than for our mammalian companions.
+
+¶11 Where inscrutable fatal chance lurks, superstition is never far away. Many traditions have
+developed around how to prevent the emptying of a hive, and how to regain bees for a hive once
+emptied, and these, too, have become comb for the poetic honey mills. Two traditions in particular
+are worth noting, one ancient and one modern, for they present something like the history of
+religion in microcosm.
+
+¶12 First: Bugonia names a Roman ritual, evocatively described by Virgil, in which an ox would be
+sacrificed in the belief that a colony of bees would generate within its corpse; Samson's "out of
+the eater" riddle may be related to a similar Near Eastern belief regarding the corpses of lions,
+although the theological significance of the riddle episode is a trickier matter. In truth, of
+course, as a Rudyard Kipling poem humorously observes, all that grows in a corpse is putrid
+flies—mistaking fly larvae for bee larvae being an understandable but unfortunate error. Take the
+bugonia travesty as an emblem of the futility of ritual sacrifice as a means to reconstitute the
+harmonious regime once it has descended into disorder.
+
+¶13 Second: According to a European folk custom of recent centuries—also well-described in another
+Kipling poem—important family news, public or private, must be told immediately to the bees lest the
+hives empty out. While one doubts that telling the bees has any measurable effect on the likelihood
+that a colony will collapse, it seems a natural enough thought, on multiple levels. Mundanely, the
+humming of bees suggests they are voluble gossips, and apprising them of local news might serve to
+keep them interested in their present environs. More spiritually, speaking one's private thoughts
+where the bee-hum will drown them out is a bit like confessing directly to God—or, in light of
+beekeeping's melancholy, to those whom one has wronged. Do honeybees have power to forgive sins?
+Since the ancient Greeks the bee has been imagined as a kind of psychopomp, but only with the coming
+of Christianity have poets consistently imagined that bees and forgiveness have something to do with
+one another. So take "telling the bees" as an emblem of that alternative to ritual sacrifice,
+Christian forgiveness.
+
+¶14 Such, at least, is my theological argument, admittedly controvertible. Retreating to firmer
+ground, I say simply that while religious doctrines have developed over time, the honeybee has held
+its position as an image of divinity from time immemorial. When God promises his people an earthly
+paradise, he promises them milk and honey (which along with eggs and ice will make ice cream).
+Beeswax candles are the highest form of illumination (with apologies to Herman Melville); wild honey
+the highest form of food, a sweetness so divine as to hover at the border of life and death (as
+Melville himself admits). So long as these realities remain unchanged, the honeybee cannot lose her
+poetic power.
+
+¶15 That power is perhaps greater in English than any other language, given the simple pun inherent
+in the creature's name: to bee or not to bee? At least, an Anglophone bee-pome devotee and would-be
+bee-poet (I have spared the reader my own meager attempts at the topos) can be excused for saying
+so. I hope that you enjoy the images and words collected here, and that they deepen your
+understanding of any future bees you encounter in flesh and blood, flower and comb, honey and sting.
+
+¶16 Ludovico Ambrosius
+University of St. Isidore
+January 2023

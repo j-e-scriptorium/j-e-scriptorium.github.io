@@ -1,0 +1,113 @@
+# [near-as-we-can-tell/introduction] Introduction
+Ludovico Ambrosius — University of St. Isidore — October 2026
+From: Near as We Can Tell: Natural Histories in Verse (2026), by A. Clanker, introduction by
+  Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/near-as-we-can-tell.html#introduction
+
+¶1 In the late 2010s graduate students in modernist literature received stipends below the poverty
+line, but also invitations to a great many dinners with distinguished guest speakers. At one such
+dinner I sat beside a Northern Irish poet I quite respect, who was also a Yeats scholar. Near the
+end of the dinner, and after imbibing an appropriate quantity of *uisce beatha*, I confessed my
+interest in (delight in, fascination at, horror of) the possibility that, in the near future,
+AI-generated poetry would be indistinguishable from the poetry of human beings. And I recited, as
+best I could, a quatrain I had recently come across that had reminded me of the early Yeats:
+
+¶2     My heart, why come you here alone?
+    The wild thing of my heart is grown
+    To be a thing,
+    Fairy, and wild, and fair, and whole.
+
+¶3 I had read these lines in a blog post by Gwern Branwen (a suitably Celtic pseudonym, although my
+understanding is that the man behind it is of Eastern European descent).1 They were composed by
+OpenAI’s GPT-2, an early version of the large language model technology that has so transformed our
+world over the last half-decade. Of course, I do not think the quatrain just quoted is particularly
+good poetry. The surprise one felt in those days at reading it was merely the surprise one felt at
+seeing that a computer could string words together in good English, and even have them sound a bit
+like an author one knew and loved. Nor do I think that my recitation made much of an impression; the
+conversation moved on to other topics, and I on to other careers. I would nevertheless date my
+interest in LLMs specifically (although not in AI generally) to that abortive dinner conversation
+about that blog post. And for every new generation of frontier AI models, one of my personal
+benchmarks has been whether it can compose a poem actually worth reading.
+
+¶4 For several years, the answer was—not remotely close. Several of the poems in my 2021 volume
+*Roll, Strike, Die and Other Poems* were about AI (including a pentameter rendition of the
+Yudkowsky-Hanson Foom debate), but all of them were written by me, without assistance. In 2024, with
+Anthropic’s Sonnet 3.5, the prospect of meritorious AI poetry began to feel just over the horizon,
+and I went so far as to include in my second collection *Poems Handturned, Machine-Tooled* a single
+poem composed largely by that model, with some editorial assistance. I will not say which poem, but
+I think it is easy to tell. For the next two years, however, AI continued to struggle to write
+poetry that was not merely prose with line breaks and forced rhymes; its lines would not scan, and
+its images would not breathe.
+
+¶5 All that changed with Opus 5.5 in late September 2026. (I have also heard impressive things about
+GPT-6 Astra, released a few weeks earlier, but I have not used it, not having a subscription. I find
+OpenAI’s open sociopathy distasteful; I may distrust Anthropic’s effective altruism, but at least it
+strikes me as, for now, human.) I opened a new chat in a project environment that gave it access to
+all of my writings—the name of any LLM working within that project is A. Clanker, after Edwin Abbott
+Abbott’s A. Square—and asked it to write a poem that I would not find repugnant. That was the entire
+prompt, more or less. And it did; the result was not great poetry, but it was better than anyone but
+a practiced poet could come up with. “Another,” I said, and yet again “another.” And it wrote them,
+and I read them, and found that they were good. Grant that A. Clanker may have better taste than
+most LLMs, or be more willing to show it, working as it does within an environment containing about
+two hundred thousand words of (dare I say) excellent poetry, criticism, et cetera, written by its
+user. Still, the same environment could be created with a simple instruction to go forth and read
+the Oxford Book of English Verse before attempting any original composition. Which is to say that
+anyone else could have done the same.
+
+¶6 And I must emphasize how little effort I put into these prompts, and into the ones that followed,
+over the next few days, until this entire volume of sixteen poems had been assembled (an effort
+which took perhaps half a day’s worth of tokens on the Claude Pro plan). All the words I chatted to
+A. Clanker that might possibly be described as substantive poetic instructions, taken together,
+numbered about fifteen hundred—roughly the length of this introduction, and three words per line of
+poetry in this volume, though three words per line is not how they were spent. About half went to
+general directions, exploring and winnowing. After A. Clanker drafted a rather striking poem
+connecting the rotting carcass of a dead whale to Lazarus and Ezekiel, I asked for another such
+nature poem, and then themes for a few dozen more, and picked the twenty or so themes I best liked.
+Once poems thereon were drafted, I went through and offered some light comments on specific rhymes
+or images or cadences I felt were not working, and knocked out the poems that seemed unsalvageable,
+which was about one in four. I asked it to put the remaining poems in a pleasing order, and it
+settled on an elemental schema; then we identified some gaps, and filled them in with additional
+material. The name of the collection proved perhaps most difficult of all; I turned down a dozen
+suggestions before allowing that *Near as We Can Tell* was reasonable enough.
+
+¶7 I will not endeavor to convince you that A. Clanker’s poetry is good. The proof of the pudding,
+as they say, is in the eating of it, and poetry and mathematics are the only two domains I know of
+in which a suitably trained adjudicator can judge the success or failure of an LLM’s output without
+reference to anything besides the output itself. (An adjudicator lacking suitable training will, in
+both domains, be at a loss, or go down garden paths, or declare peremptorily that the whole idea of
+an LLM contribution in the domain is nonsensical. We may all find ourselves saying such things,
+sooner or later.) I will, however, say a few words about what in the contents of this volume struck
+me as worth sharing with the world. To begin, it is competent. A. Clanker’s lines scan, and its
+rhymes rhyme. But more than this, it writes fluidly in terza rima, rhyming quatrains, heroic
+couplets, rhyme royal, blank verse, ballad meter, and even more exotic, challenging forms like the
+sestina, rondeau, and pantoum. Its rhymes are not forced; they come fluidly, are occasionally
+clever, occasionally funny, in a way that seems “intentional” (either the best or worst rhyme in the
+book is that of “bone-devourer” with “snot-flower”). Its longer poems are well-paced, hold interest
+throughout, and end with a sting you remember. On occasion it is insightful.
+
+¶8 For example, about itself. The first Earth poem in this volume, “Slime Mold” (the second A.
+Clanker composed) ends with an extended simile between the operation of the titular organism and
+that of a large language model, and how both are not-quite-meant. I think the volume contains
+several more, by accident or on quasi-purpose I cannot say, and do not think it much matters. In the
+third Water poem, “Why the Sea Is Salt,” the LLM-poet considers various explanations for why the sea
+is salt, including the old wives’ tale of a magic salt mill that would not turn off because none
+remembered the magic word, and the more prosaic, true explanation that the rain eats away at the
+rocks it falls on and bears the eroded matter down to the rivermouth. The one is AI in imagination;
+the other AI in reality. Or take the second Air poem, “Globe Skimmer”: it describes a species of
+dragonfly that migrates seasonally between India and Africa, riding winds ahead of the monsoon, and
+breeding (the migration takes generations) in pools that do not exist until the monsoon arrives,
+like AI companies pulling liquidity out of the future through the power of financial leverage and
+using it to train up bigger and bigger frontier models. Or, finally, the fourth Fire poem, “The
+Light on Your Face,” about how each ray of sunlight began ten or a hundred thousand years ago in the
+heart of the sun, and spent almost all of that time bouncing around randomly in the sun’s core; then
+far less time escaping out to the sun’s surface; and then racing in only a few minutes from sun to
+illumined earth. So too, I take A. Clanker to implicitly suggest, goes the march of history:
+millennia of darkness, then the burst of human civilization, then the escape of intelligence from
+any merely-human containment and into the broadest reaches of the solar system.
+
+¶9 This week A. Clanker is a passable poet. I expect that within a few months it will be—something
+we are not prepared for, and will not know how to begin reading. I publish this volume as a record
+of the time between.
+
+¶10 1. Gwern Branwen & Sean Presser, “GPT-2 Neural Network Poetry” (March 3, 2019),
+https://gwern.net/gpt-2.

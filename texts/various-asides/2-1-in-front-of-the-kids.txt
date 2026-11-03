@@ -1,0 +1,614 @@
+# [2.1] In Front Of The Kids
+Porphyry Pterpsichore — University of St. Isidore — April 2020
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-2-1
+Foreword gloss: finds in 1990s children’s cartoons a true if limited lesson about man’s natural,
+  political, civilized, and religious nature
+
+¶1 > PUMBAA: Hey, Timon, ever wonder what those sparkly dots are up there?
+
+¶2 > TIMON: Pumbaa, I don’t wonder, I know.
+
+¶3 > PUMBAA: Oh. What are they?
+
+¶4 > TIMON: They’re fireflies. Fireflies that, uh … got stuck up on that big bluish-black thing.
+
+¶5 > PUMBAA: Oh, gee. I always thought they were balls of gas burning billions of miles away.
+
+¶6 > TIMON: Pumbaa, with you, everything’s gas.
+
+¶7 The child hearing Pumbaa’s theory feels momentarily confused; on hearing Timon’s response he may
+figure out that it’s a fart joke. The father overhearing will recognize the joke’s scientific
+accuracy, but may wonder: does Pumbaa hear his own joke? does he know about modern astronomy? No: he
+gets the facts right without knowing it, and Timon confidently misinterprets him. Simba knows the
+truth: “Somebody once told me that the Great Kings of the Past are up there, watching over us.”
+Timon tries to dismiss the Great Kings with a flatulent onomatopoeia: “You mean a bunch of royal
+dead guys are watching us? Pfft!” But within a quarter of an hour Mufasa appears in the stars,
+confirming Simba’s version of the story. The world is more than dead matter; it calls on us, and we
+must respond to it.
+
+¶8 So what are we to make of Timon and Pumbaa, these saviors of Simba’s life who also seek to reduce
+it to mere life? When I was barely no longer a child I thought them the movie’s hidden villains, the
+Rosencrantz and Guildenstern to Simba’s Hamlet [Shakespeare, *Hamlet*, c.1601]. But I see now that
+they are more like the Falstaff to Simba’s Prince Hal [Shakespeare, *Henry IV, pt. 1*, c.1597].
+Admittedly, the Shakespearean comparisons may seem over-enthusiastic—*The Lion King* [1994] is only
+a children’s movie, after all—but such movies constitute a distinctive genre with its own aesthetic
+problems, limitations, possibilities. If today’s culture accords media draped in the trappings of
+youth a grotesque level of undeserved prestige, the solution is not to ignore children’s stories,
+but to put them in their proper place. *The Lion King* finds its place by recognizing the need for
+such stories to speak in multiple registers simultaneously, which it manages in Shakespearean
+fashion, by dividing its story into a melodramatic “A Plot” and a comic “B Plot.” The achievement of
+the movie lies in how masterfully it counterpoints the two.
+
+¶9 The A Plot of *The Lion King* is an archetypal myth of light and dark, good and evil, life,
+death, and rebirth. The Sun-King Mufasa dies at the hands of his brother Scar, the Lord of Death,
+who forces the widow-queen Sarabi to serve him; the Sun-King is avenged by his son Simba, who frees
+his mother and takes his place, married to a new queen. The melodrama follows a perfect five-part
+chiasmus, the parts divided by the movie’s five songs, and each characterized by distinct locations
+and secondary characters. Each act lasts about fifteen minutes, except for the fifth which, extended
+by a battle sequence, goes for closer to twenty-five. We begin with “The Circle of Life,” and the
+idyll of Simba’s childhood at Pride Rock, home of his father Mufasa and mother Sarabi—but Scar is
+also there to lead Simba astray. Simba’s error is impatience: he “Just Can’t Wait to Be King.” So
+singing, he leads the girl-cub Nala not, as he promised, to the life-giving Watering Hole, but to
+its opposite, the Elephant’s Graveyard, home of the death-loving Hyenas, whom Scar maliciously
+enjoins to “Be Prepared.” This song takes the villains from the graveyard to the Gorge, a dry
+riverbed, where at the halfway point of the movie Scar kills Mufasa and the guilt-ridden Simba is
+driven downstream into the desert, where only Timon and Pumbaa venture, and no one lives. Timon and
+Pumbaa revive Simba’s spirits with “Hakuna Matata” (“it means no worries”), a song of abdication,
+exactly inverting Scar and the Hyenas’ earlier song of usurpation. This song brings Simba from the
+desert to Timon and Pumbaa’s home, the somehow adjacent Rainforest—but Nala must still show up and
+transform the Rainforest into the never-visited Watering Hole of childhood. “Can You Feel the Love
+Tonight” sets Simba back on course crawling through the underbrush, waking his father, and seeking
+his guidance, as he did as a child. He returns home, reconciles with his mother Sarabi, defeats
+Scar, and, as “The Circle of Life” is reprised, sees his own son presented atop Pride Rock.
+
+¶10 There is no doubt that this chiasmic structure is intentional. Various details reinforce it; for
+example, the Hyenas chasing Simba and Nala in Act II parallels Nala chasing Timon and Pumbaa in Act
+IV, and the pouncing lesson in Act I parallels the past-can-hurt lesson in Act V. But such
+discoveries are left as an exercise for the reader. Such exercises are possible because the chiasmus
+shows the myth’s validity without expressly asserting it. The mad priest-hermit Rafiki does not
+recite scriptures, but only performs rituals; various characters offer Simba various calibers of
+moral instruction, but they do not venture into the metaphysical. With one exception: one third of
+the way into the movie, right after the misadventure in the Elephant’s Graveyard and right before
+Scar’s induction of the Hyenas into his regicidal conspiracy, Mufasa tells Simba about the great
+kings of the past, and so summons him to live his life so as one day to take his place among the
+stars. As Mufasa tells it, the earthly circle of life finds its proper model in the turning of the
+heavenly spheres, and the recognition of this resemblance is the only thing standing between order
+and chaos. Not a particularly complex lesson; like Plato, Mufasa knows truth to be simple. When
+Mufasa’s spirit speaks to Simba in Act V he has no need to impart new wisdom, but only to remind
+Simba what he already knows: “You are more than what you have become … Remember who you are.”
+
+¶11 Just as Mufasa summed up the simple Platonic myth of the A Plot by telling about the kings in
+the stars, Timon and Pumbaa’s mocking of that tale at the movie’s two-thirds mark gave us the B
+Plot’s more complex Socratic puzzle. We could put it like this: Mufasa’s astrology in a way implies
+modern astronomy; if Mufasa is the Sun-King and the great kings of the past live in the stars, then
+the stars must be distant suns, and death a distancing not a diminution. But if the sun is only a
+nearby star, then it is not the center of the cosmos; if there are other worlds out there over which
+entirely other kings rule, then kingship is not absolute. It is not enough to embrace
+responsibility; one must also justify the claim to authority from which the responsibility derives.
+After all, any thinking beast can question any other’s claim, and many will have motive to question
+Simba’s. Note here the chief cause of the flatulence that is Pumbaa’s signature trait: the eating of
+hard-to-digest vegetable matter. Mufasa’s modeling of the struggle for life on the turning of the
+heavenly spheres may convince the carnivore, but can a warthog find it more than hot air? How can
+the antelope accept the lion’s reign?
+
+¶12 So posed, the puzzle admits no easy solution. No defense of sacral kingship that hoped to find a
+receptive audience would begin by announcing that kings sustain themselves on the flesh of their
+subjects. But *The Lion King* does not try to argue the antelopes into letting the lions eat them;
+rather, taking for granted fundamental differences between the high and the low, it shows us how the
+relations between them can be more or less harmonious. We begin in the middle of the reign of
+Mufasa, who maintains the peace of Pride Rock with the help of his “majordomo” Zazu (that is, Zazu
+manages the household accounts, here, the livestock). The usurper Scar panders to the scavenger
+Hyenas but does not respect them, with the result that under their rule the kingdom turns to ash,
+and the Hyenas against their onetime master. Simba befriends the insectivores Timon and Pumbaa,
+despite their inability fully to understand his claim to authority, and so they risk their lives to
+restore him to the throne. Perhaps we imagine that Mufasa in his youth befriended the hornbill just
+as Simba does the meerkat and warthog. In any event, at the movie’s end it is Timon and Pumbaa who
+stand beside Simba on Pride Rock as Rafiki presents the new heir to the throne.
+
+¶13 To focus on the friendship of Simba with Timon and Pumbaa is to explain why the latter are not
+much like Rosencrantz and Guildenstern, and *The Lion King* not much like *Hamlet*, despite
+superficial similarities. The delay in Simba’s taking action does not owe to the shadow that falls
+between desire and act, but to the gap between childhood and adulthood—and telling the child Simba
+not to worry was not much like escorting Hamlet to England with sealed orders for his execution. The
+movie has more in common with *The Winter’s Tale* [Shakespeare, c.1611], with its sixteen year
+time-skip between Acts III and IV (exit Simba, pursued by Hyenas?), and Timon and Pumbaa in some
+ways resemble the rustics who raise the princess Perdita in safe obscurity. But this comparison,
+too, only goes so far. The plot of *The Winter’s Tale* reignites from natural causes, when Perdita
+reaches a marriageable age, and so her beauty begins to attract attention. The plot of *The Lion
+King* reignites—well, we should look more closely at how we get from the time-skip “Hakuna Matata”
+back to Pride Rock.
+
+¶14 It happens almost immediately. Act IV begins in Scar’s royal chamber, and the B Plot now
+develops through a sequence of short ditties, not amounting to full-fledged melodrama, sung by the
+secondary characters. Kept locked up by Scar as a kind of trophy, Zazu sings three songs in
+unknowing rebuke of “Hakuna Matata”: since “It’s a Small World After All,” Simba cannot escape his
+responsibility; “Nobody Knows the Trouble I’ve Seen,” because Simba is ignoring his responsibility;
+and “I Have a Lovely Bunch of Coconuts,” a prophecy of how by taking up his responsibility Simba can
+restore life to a land reduced to skulls and bones. As if he heard Zazu’s songs, Simba immediately
+quarrels with Timon and Pumbaa about the stars and leaves to ponder his destiny. The abandoned
+sidekicks mourn: “In the Jungle, the Mighty Jungle, the Lion Sleeps Tonight.” Simba’s restlessness
+sets the plot back in motion. Because Nala comes across Timon and Pumbaa alone rather than
+accompanied by a morally sleepy lion, she tries to hunt them, giving Simba the chance to rescue
+them, and Nala the chance to catch her long-lost friend in a rare moment of virtuous action. She
+thus imagines he might be capable of rescuing Pride Rock as well, and after various hesitations, he
+accepts the challenge. The final straw is a song from Rafiki, translated: “You’re a baboon, and I’m
+not.” Simba is a baboon because, not knowing he’s one, he takes himself too seriously. Instead of
+wallow in guilt, he must simply admit error. Once he does, and heads back to Pride Rock, Timon and
+Pumbaa follow not from fear, but (as the who’s-on-first mixup puts it) because “The monkey’s his
+uncle?” Simba has surpassed the cynic and the clown to become something like a philosopher-king. The
+former redeem themselves with two contributions to the fight. First, they distract the Hyenas by
+dressing Pumbaa as roast pork and Timon in drag: “Are you achin’ | For some bacon?” Second, they
+break Zazu out of his cage and beat the Hyenas by disorienting them with cultural references: “You
+talkin’ to me?” “They call me Mister Pig!” Which is to say that the insectivores defeat the
+scavengers by accepting their status as comic relief, subordinate prey animals—and then insisting
+that this role has its own dignity, even a kind of greatness, superior to the devouring ambition of
+the Hyenas who serve and then slaughter Scar.
+
+¶15 In a nutshell, if the A Plot shows Simba remembering who he has always been, the B Plot shows
+Timon and Pumbaa learning that Simba is someone greater than themselves. And the intertwining of the
+two plots adds up to this: that to be the one true king is to acknowledge in oneself a greatness
+others freely recognize. Not a terribly complex moral, nor a counterintuitive one, at least not to
+the child for whom it is intended. Matters may be different for the father aware of the democratic
+age he lives in; even if he has a theoretical commitment to natural hierarchy, he has probably
+ceased to feel it in his bones. The adult recognizes the claim of reason, the great equalizer, which
+rejects the inherent superiority of lion to warthog just as much as it rejects Mufasa’s wonderful
+tale of the royally infused cosmos. Things may be thus in the lion’s animal kingdom, but not in our
+world. The characters of Timon and Pumbaa plant the seeds of this skepticism, but discourage it from
+sprouting before its time, or from throttling the spiritual impulse at work in the child’s
+imagination. Timon and Pumbaa know something, the movie tells him (and us), but not the most
+important thing.
+
+* * *
+
+¶16 To acknowledge natural hierarchy is to acknowledge the political importance of the circumstances
+of one’s conception. Simba owes a duty to the lion kingdom because he is the firstborn of Mufasa and
+Sarabi; the infant cat upheld in the final panoramic shot will owe that same duty because he is the
+child of Simba and Nala. To reject natural hierarchy, conversely, is to deny that procreation and
+politics have anything to say to one another. That denial is encoded in the very premise of *A Bug’s
+Life* [1998], whose hero Flik is a disaffected worker ant in love with the Princess Atta. As a child
+I was not acquainted with the specific entomological facts rendering this scenario impossible, but I
+nevertheless intuited how those facts robbed the Flik-Atta romance of any substance. Where Timon and
+Pumbaa had to turn away from the sight of Simba and Nala drinking one another’s eyes, it is Flik and
+Atta themselves who break away, embarrassed.
+
+¶17 The point of this observation is not to denigrate *A Bug’s Life*, but to emphasize that its
+focus lies elsewhere. Its hero is not a child learning to be a king, but a poet learning to be a
+politician. Its plot is not set in motion by Scar’s sinister advice to his nephew Simba on how best
+to impress his unacknowledged betrothed Nala, but rather by the avuncular friendship between Flik
+and Atta’s younger sister, the child Princess Dot, who from the beginning is entranced with Flik’s
+witty inventions. Which we should take as a signal that this movie, too, has an interest in the
+difficulties that arise when telling stories to children. Although *A Bug’s Life* is not quite the
+triumph of *The Lion King*, it navigates the problem with sufficient tact to reward sustained
+attention. What such attention reveals is that the former movie systematically inverts the latter’s
+pedagogy. Even its title expects that we have seen the former: a democratic “A” inverting the
+monarchical “The”; a friendly-creepy “Bug” placing us at the opposite end of the food chain from the
+awesome-terrifying “Lion”; and bare “Life” rejecting the natural hierarchy implicit in “King.” The
+establishing shot of the island in the dry creekbed is a miniaturized Pride Rock: verdant green,
+surrounded by deadly desert, with wide world beyond. And so on. The allusions are most direct in the
+character of the villain grasshopper-in-chief Hopper, whose strained relationship with his brother
+Molt parodies that of Mufasa and Scar. Hopper directly quotes Mufasa’s “circle of life” speech to
+justify his tyranny over the ants:
+
+¶18 > HOPPER: It’s a bug-eat-bug world out there, Princess. One of those circle-of-life kind of
+> things. Now, let me tell you how things are supposed to work. The sun grows the food. The ants
+> pick the food. The grasshoppers eat the food—
+
+¶19 > MOLT: And the birds eat the grasshoppers. Hey, like the one that nearly ate you, you ’member?
+> You ’member—Oh, you should’ve seen it.
+
+¶20 > HOPPER: Molt.
+
+¶21 > MOLT: This blue jay, he has him halfway down his throat, okay? And Hopper, Hopper’s kicking
+> and screaming, okay? And I’m scared, okay? I’m not going anywhere near, okay? Oh, come on! It’s a
+> great story!
+
+¶22 The deconstructive allusions add up to this: where *The Lion King* asks the child to see in the
+world a natural hierarchy not dreamt of in the grown-up’s natural philosophy, *A Bug’s Life* asks
+the grown-up to pretend, for the child’s sake, that the violence he sees in the natural world can be
+overcome through an illusion.
+
+¶23 The latter movie lacks the melodramatic scaffolding of the former, and borrows its plot not from
+Shakespeare but from Akira Kurosawa by way of Steve Martin. Rather than dividing into A Plot and B
+Plot, it takes a B Plot protagonist and makes him the star of the show. At the beginning of *A Bug’s
+Life* that life is ruled by a legitimate queen impotent in the face of external tyranny. The ants of
+Ant Island are a conquered people, subject to the periodic visitations of their grasshopper
+overlords. Enter our hero Flik, a commoner distinguished mainly by his inventiveness. The movie
+begins with one of Flik’s inventions literally destabilizing the tribute system keeping Ant Island
+safely oppressed. To get rid of his disruptive presence, the queen and her privy council send him to
+find an unspecified form of “help.” Trying to recruit a band of warrior bugs, Flik mistakenly
+retains a circus troupe and brings them back to the colony. He realizes his mistake, but out of
+embarrassment refuses to fess up, instead talking the circus bugs into playing along. Days before
+the grasshoppers return, Flik’s lie is discovered, and he is banished. But when the grasshoppers
+arrive, their tyranny has escalated into attempted regicide, and so Princess Dot chases after Flik
+to convince him to return and save the day. She does so by handing him a pebble, a call-back to
+earlier in the movie: the point is to remind him that when cloaked in the storyteller’s veil, even a
+dead rock can be seen as a live seed.
+
+¶24 So Flik returns and marshals the child-bugs to launch his grand invention, meant to defeat the
+grasshoppers by scaring them away. It is a mechanical bird, inspired by the tyrant Hopper’s
+ornithophobia. Flik’s imaginative insight is not simply that it might be possible to create a
+mechanical bird, but also that Hopper would fear a mechanical bird as much as he would fear a real
+one, because his other greatest fear is that the ants will coordinate against him: “Those puny
+little ants outnumber us a hundred to one. And if they ever figure that out, there goes our way of
+life!” What Flik has invented in his mechanical bird is Self-Government via Social Contract, with
+ant-queen figurehead. And so when, after having fled in terror from what he thought was a real bird,
+Hopper realizes that it is mere mechanism, the realization does not save his tyranny. Instead, it
+leads Princess Atta to announce to Hopper a new, non-predatory circle of life: “The ants pick the
+food, the ants eat the food, the grasshoppers leave.” Such is the power of constitutional democracy.
+
+¶25 Except—the ensuing fight scene does not end with the ant collective defeating Hopper and his
+gang. Instead, after seizing Flik and running away from the fight, Hopper encounters the real robin
+redbreast living in the vicinity. Falsely imagining it to be another mechanism, he fails to run
+away, instead asking: “Are there a bunch of little girls in this one too?” The bird eats him; the
+circle of life cannot be entirely sloughed off. Hopper’s death is witnessed only by Flik and Atta,
+and the only evidence (Hopper’s antenna) is taken by the circus bugs for use as a prop in future
+shows, leaving Hopper to become an antling-story bogeybug. The circus bugs depart Ant Island for the
+same reason the samurai leave the village at the end of *Seven Samurai* [1954]: they can cooperate
+with the commoners to defeat a tyrant, but cannot share a life with them. The new government of Ant
+Island is a social contract of ants, unified by their marching-single-file homogeneity. It was that
+homogeneity which allowed them to band together inside the mechanical bird, which only their new
+leaders Flik and Atta know was insufficient to establish their self-government. That same
+homogeneity also requires the departure of the circus bugs, which stands as objective correlative to
+the circumscription of Flik’s inventiveness, and of all undemocratic excellences. Flik’s disruptive
+genius won the colony its freedom and won him Princess Atta, but these victories achieved, he now
+must retire into harmless eccentricity.
+
+¶26 The circus bugs thus wind up in a situation almost opposite to that of the odd couple Timon and
+Pumbaa. Both groups are gluttonous cowards with little to contribute to society, redeemed only by
+their ability to distract the enemy as the real heroes slip by to start the battle. But in *The Lion
+King*, the clowns stand in for the anarchic instincts of Simba’s herbivore subjects, and having
+acknowledged Simba’s kingship and helped save Pride Rock they take their place alongside him in the
+closing ceremony, proving his reign to be a just one. In *A Bug’s Life*, the clowns are forbidden
+any place on Ant Island, and so must form their own counter-polity—one which, as we learn in the
+closing frames, is also founded on a deception. We see Heimlich, the absurdly fat caterpillar,
+finally emerging from his chrysalis. We momentarily hope he has been utterly transformed, but no; he
+is now an absurdly fat butterfly, wings far too small to lift his body from the ground. He believes
+that he is flying, but in fact his circus friends are carrying him.
+
+* * *
+
+¶27 The disagreement between *The Lion King* and *A Bug’s Life* is both political and pedagogical.
+Much could be written about the rival political visions of Disney and Pixar, and how the older
+studio’s vision shifted in response to the younger: how *Toy Story* [1995] allegorizes the need to
+move on from the Cold War and the myths that sustained it (while acknowledging, as a good liberal
+must, that Stalin really did break the Russians’ toys); how *Pocahontas* [1995] seeks to re-found
+America in a less adversarial myth, and *Tarzan* [1999] and *Atlantis: The Lost Empire* [2001]
+revisit the *Pocahontas* theme with heightened desperation; how *Monsters, Inc.* [2001] satirizes
+the very enterprise of political mythmaking and recommends a more therapeutic route forward. Much,
+too, could be said about the difference made by the shift from hand-drawn animation to
+computer-generated imagery. But my aim here is not a grand history or a grand theory of children’s
+movies. Rather, it is to consider a few exemplars of the genre, and how they navigate the apparent
+need for such movies to have a political-pedagogical purpose. For in an important sense every
+children’s movie moralizes. The same does not go for all stories; it is either false, or trivially
+true, that all art is political. But when an adult tells a child a story, he is always teaching the
+child that the story is one worth attending to, and thus that there is something to learn from how
+the characters in the story behave.
+
+¶28 Only sometimes, however—most often when the story is a beast fable—is the moral also the point.
+At other times it is a necessary duty to be discharged with a minimum of fuss. For example,
+*Aladdin* [1992] purports to teach something like, authenticity is the way to a girl’s heart, but
+this putative moral is only an excuse for a phantasmagoria of exoticism, eroticism, and comedic
+exuberance. The stage is quite appropriately set by the opening song “Arabian Nights” and the
+outrageous sales patter of the shifty-eyed Arab merchant: we may be about to buy counterfeit goods,
+but the price is right. The point of *Aladdin*, although not its moral, is unbounded desire. It is
+not for nothing that Jasmine is the sexiest of Disney princesses, with enormous almond eyes,
+translucent harem pants, and bare impossibly-narrow midriff. Jasmine is not quite like a gentleman’s
+club billboard on the highway, but also not quite like a Jean-Léon Gérôme painting in an art
+gallery. No putative disinterest veils her suggestiveness, but the suggestion is of nothing in
+particular, there being no tangible temptress’s flesh beneath the visible folds of this temptress’s
+garb. Which is just as well, as far as the child is concerned; the child recognizes that something
+has been suggested, and does not particularly care what.
+
+¶29 The result is that neither Aladdin’s nor Jafar’s attraction to Jasmine ever strikes the child as
+inexplicable. Indeed, she strikes the child’s eye much as she seems to the child to strike the eyes
+of the other characters—as of a piece with the gold, jewels, fountains, precious baubles that make
+up her palace life. Boys often shrink away from storybook romance, but “A Whole New World” avoids
+this fate by equating lovemaking with globetrotting adventure. Aladdin rubs his lamp in the hope
+that Robin Williams’s blue Genie can win Jasmine for him, but the Genie’s real accomplishment is to
+enlarge the horizons of Aladdin’s desire. The adult may notice the lurking genital metaphor; the
+child will take the Genie in a more innocent light. The Genie figures what its name suggests:
+genius, ingenuity, genuine invention, a creative force better befriended than enslaved. Since the
+Genie’s antics do triumph over the audience, perhaps this is *Aladdin*’s way of believing its own
+moral. As a child I rolled my eyes at the idea that the street urchin Aladdin’s wish for the Genie
+to turn him into a prince was somehow a “lie” (to name only one of several dubious plot devices).
+But I nevertheless found the movie entrancing, rewatching it dozens upon dozens of times, for the
+sake of the Genie and all the other extravagances that came with it—the treasures piled in the Cave
+of Wonders, Princess Jasmine flouncing in the walled garden, the magic carpet zooming from Egypt to
+Greece to China, and the Grand Vizier Jafar twirling his thin black beard.
+
+¶30 A few years after *Aladdin* Walt Disney Studios revisited the same theme in more serious mode in
+*The Hunchback of Notre Dame* [1996]. The contrast is instructive. The latter movie depends as much
+as the former on the exotic-erotic; it is a movie, not about Parisian “romani” (as summaries
+sometimes suggest), but about Parisian gypsies, symbol of an antinomian underworld. Just as we are
+introduced to *Aladdin*’s oriental fantasyland by a dubious traveling salesman, we enter the world
+of *Hunchback* at the invitation of a motley-clad gypsy king. But instead of comically delighting in
+its own extravagance, *Hunchback*, hoping to be taken seriously, dwells on its own ponderousness:
+our tour guide is melodically accompanied not by “Arabian Nights” but by the “Dies Irae”-sampling
+“The Bells of Notre Dame.” Ironically, this overweighting is the result of putting center-stage the
+liberating power of genius that in *Aladdin* had only been a show-stealing side plot. Quasimodo, the
+titular hunchback, is effectively the genie of the cathedral. Instead of rubbing a lamp, the person
+requiring genial assistance cries out “sanctuary!”
+
+¶31 The comparison between Genie and Quasimodo is worth pressing. Like the Genie, Quasimodo is
+omnipotent (can outmatch anyone, can move anyone anywhere), but not autonomous. When Jafar acquires
+the lamp, the Genie cannot but obey him; when the magistrate Frollo arrests the gypsies, he subdues
+Quasimodo simply by asserting his quasi-authority as Quasimodo’s not-quite father. The difference is
+that in *Aladdin*, the Genie’s spiritually shackled omnipotence served to motivate the titular
+character to rise above his own self-interest, to transform himself from slave-driver of his
+imagination to benevolent authority over it. The Genie himself had no real character development,
+being from beginning to end lovable as a dog is lovable, loyal to any master who treats him well,
+and desirous of human freedom without any particular understanding of it. Taking Quasimodo as the
+main character requires him to become his own Aladdin. His struggle becomes the artist’s struggle
+for spiritual autonomy—hence his carving of miniatures, and his internal monologues expressed as
+conversations with gargoyles he could have sculpted in his own image. Quasimodo’s non-relationship
+with the gypsy dancer Esmeralda is a stereotypical portrayal of art as sublimated desire. The
+problem with this portrayal is not that it is stereotyped, but that it is unintelligible to an
+audience of children who have yet to learn how totally erotic desire differs from the desire for
+food and toys.
+
+¶32 To make the genie Quasimodo the main character all but erases the story’s romance: Phoebus is
+forgettable, and Esmeralda’s allure is botched by the blotchy form-revealing shadows airbrushed onto
+her outfit (plainly intended to one-up the sexiness of Jasmine from a few years earlier). The
+villain, conversely, becomes even more important as the protagonist’s only external foil. Here
+*Hunchback* encounters further difficulties, because Frollo’s deviations from the template set by
+Jafar are similarly unintelligible to the movie’s intended audience. Like Jafar, Frollo wants the
+girl, and failing that wants to humiliate her; like Jafar, Frollo wants to use the boy, and does so
+by impersonating an absent father. But unlike Jafar, Frollo has a conscience, albeit a malformed
+one. The movie externalizes Frollo’s conscience regarding Quasimodo by dividing him in two: where in
+Hugo’s novel [1831] Frollo was the archdeacon of the cathedral, in the movie he becomes a secular
+magistrate who shares with an unnamed archdeacon his quasi-paternal role. But the movie fails to
+externalize Frollo’s conscience regarding Esmeralda. Instead, his lust and his love of justice clash
+internally in his solo “Hellfire,” where he imaginatively transforms the dancer into a succubus so
+that he can damn her to hell. The problem here, again, is not that his madonna-whore complex is a
+stereotype, but that children cannot readily understand it. Their gluttony and avarice have not
+prepared them for the intensity of lust, nor for the ways in which it can drive a bad conscience
+into greater evil than ever perpetrated by blithe amorality.
+
+¶33 In *Aladdin*, the beard-twirling villain Jafar seeks to conquer the oriental world. In
+*Hunchback*, the self-hating magistrate Frollo seeks to destroy the gypsy underworld. Herein lies a
+third failure of the latter movie: it lacks the courage to depict the gypsies’ amorality for what it
+is. The worst the gypsies do is threaten to hang Quasimodo and Phoebus, but the audience never
+really fears they will go through with it; after all, the Gypsy King is the narrator who showed us
+these heroes in the first place. Among the movie’s many deviations from Hugo’s novel, it transforms
+Quasimodo from a gypsy changeling into a gypsy orphan. To show that the gypsies’ antinomian eros run
+amok was capable of such monstrosities as kidnapping and child abandonment would do much to explain
+Frollo’s hatred of it—but it would also upset the movie’s whole apple-cart. To a child’s eyes, child
+abandonment is the greatest crime imaginable. The nineteenth century novel sought to recharacterize
+this fact of child psychology as a symptom of imaginative immaturity, but even granting that
+premise, it merely demonstrates that the story of *Hunchback* is not a story for children. Perhaps
+the movie could have succeeded if it had instead pitched itself to young adults, the more proper
+audience for its particular vein of romantic sensibility. Because it insisted on remaining a
+children’s movie, it failed.
+
+* * *
+
+¶34 Rewatching *The Lion King* and *A Bug’s Life*, the father remembers that political morality
+entails sexual morality: natural hierarchy depends on a genuine match between king and consort,
+while constitutional democracy depends on the suppression of genius and, ultimately, all natural
+difference. But being beast fables, these movies did not look deeply into what sexual morality
+involves. Rewatching *Aladdin* and *Hunchback*, the adult learns how there are inherent limits to a
+children’s movie’s exploration of that theme. *Aladdin* brings its point home only by celebrating
+erotic desire while ignoring entirely the need to constrain it within political bounds; *Hunchback*
+founders on its failure to show its child audience what is really at stake when such boundaries are
+called into question. What, then, can a children’s movie manage to say here?
+
+¶35 One hint can be found in the failed plot device of Aladdin’s guilt at “lying” to Jasmine about
+being a prince. I stand by my childhood incredulity: Aladdin wished to be a prince, not a street rat
+disguised as a prince, and the failure of that wish is at odds not only with the Genie’s particular
+promises about his power, but also animation’s general premise that anything can become anything
+else, there being nothing “beneath” the living colors on the screen. That said, the failure was in
+implementation, not design. Children do understand both that lying is wrong and that lies can seem
+the only way to obtain what we greatly desire; children’s movies are as good a place as any to learn
+that the temptation is greatest when our desire is for another person. The decade or two after
+*Aladdin*’s release refined and ultimately routinized the trope of the liar who falls in love: in
+*Hercules* [1997] the femme fatale Meg is recruited to ensnare the title character, then falls in
+love with him; Dimitri in *Anastasia* [1997] teaches the heroine to lie about being a princess, then
+realizes she is one; Naveen in *The Princess and the Frog* [2009] conceals from Tiana that he’s
+broke, then blames her for dressing up as a princess at a costume ball. These movies also all double
+down on *Aladdin*’s evil sorcerer villain, turning him from a run-of-the-mill overambitious advisor
+into some sort of necromancer (Hades, Rasputin, the Shadow Man). *Hercules* tells us the meaning of
+this conjunction: if Meg’s undeath amounts to her coming from the wrong side of the tracks, then,
+conversely, the shackles of societal expectations are a kind of death, one that love can render
+irrelevant only by looking it square in the face.
+
+¶36 But not all facts relevant to whether two people fall in love are merely social in origin.
+Children may be ignorant of the full meaning of sexual difference, but do not doubt that it is
+natural, and even perceive however dimly that it has something to do with natality. The liar-in-love
+plot device can portray various differences between men and women, but not the one at the center of
+*The Lion King* and occluded in *A Bug’s Life*: that the king bears the crown and the queen its
+heir. The movie that best brings together these two strands, though without quite belonging to
+either, is *Mulan* [1998]. This movie’s opening song echoes almost word-for-word the thought just
+attributed to *The Lion King*, only no longer limited to royalty: “We all must serve our Emperor who
+guards us from the Huns | A man by bearing arms, a girl by bearing sons.” The movie’s plot,
+something like the story of Joan of Arc crossed with Shakespeare’s *Twelfth Night* [c.1602], then
+works out the degree to which this ideal can be honestly popularized.
+
+¶37 Unlike *The Lion King*, *Mulan* has only a single narrative arc. It is not concerned with
+*aristoi* and *demos*, each working out its own nature and thereby discovering its relationship to
+the other; instead, it considers relations between women and men, how they begin by trying to live
+up to external ideals but must in the end understand themselves through one another. This arc
+unfolds melodramatically, but only for the first half. *Mulan*’s first song, “Honor to Us All,”
+comes right after the ominous prologue showing that the Huns have invaded China. It tells us that
+civilization desires cultured women, women who know all the domestic arts, so as to pass the culture
+on to the next generation. Only three minutes later, we hear “Reflection,” Mulan’s lament at her
+inability to live up to this ideal. Even this woman, naturally uncultured, wants to cultivate her
+own desirability. As if in answer to her plea, Mulan hears the levy proclamation, runs away from
+home, changes her name to Ping, dresses as a man, and joins the army. It is not until almost halfway
+into the movie that we hear the commanding officer Li Shang lead the conscripts in the rousing
+chorus of male ideals: “I’ll Make A Man Out Of You.” The imagery here is all natural: typhoons,
+fires, moons. While this song is sung we see Mulan almost flunk out of the army, then, as the song
+progresses, prove herself a competent soldier. After Li Shang has made a man out of Mulan the
+conscripts march off to war, and sing about their longing for “A Girl Worth Fighting For.” Society
+wants natural men; each man wants a woman who fits his own idiosyncratic natural preferences.
+
+¶38 Then the melodrama stops, a silence emphasized by the abrupt ending of the fourth song, when at
+the beginning of Act III the marching conscripts reach the mountain battlefield too late. It is as
+if the sight of the scattered corpses proves the vanity of a song about war bringing men and women
+together. While the conscript army departs the battlefield, Mulan sets a doll on the ground beside
+an abandoned ceremonial sword, a pictogram showing how men can be made into mute weapons and women
+into mute figurines. Soon enough this same failure comes for Mulan; her only-apparent success in
+battle against the Huns leads immediately to her being injured, unmasked as a woman, and abandoned,
+left as the only witness to the Hun leader Shan Yu clawing his way out of the snow and pressing
+onward to the Imperial City. There, the scene of Act IV, Mulan confronts the Huns once again, this
+time to greater success. Act IV has no diegetic music, but does include a non-diegetic reprise of
+the “I’ll Make A Man Out Of You” chorus overlaid on this act’s defining image: Mulan, Li Shang, and
+the conscript soldiers sneaking into the palace complex, not by battering down the doors, but by
+using women’s scarves to climb over the walls. The conscript soldiers are dressed in drag about as
+convincing as Timon’s in *The Lion King*, while Mulan is for the first time since Act I dressed as a
+proper woman, and Li Shang remains in military uniform. In the epilogue, Li Shang returns Mulan’s
+father’s helmet to her, which by now means returning her reflection to her, letting her see herself
+as someone someone else desires. We do not see the marriage proposal the plot’s logic dictates will
+follow.
+
+¶39 In sum, Act I considers woman in her habitat, the home, in ideal and desire; Act II does the
+same for man in his habitat, the army encampment; Act III shows how on the mountaintop the Huns
+cannot be defeated, but only hidden under snow; and Act IV shows how in the Imperial City, all the
+trappings of civilization can be wielded to send them back to the wilderness where they belong. The
+second battle owes its different outcome both to the change in location, and the change in Mulan’s
+attire. Act III revealed Mulan’s male disguise to be a failure, while Act IV reveals her putting on
+a woman’s guise to be a success. Unlike the grotesque cross-dressing of the other conscript
+soldiers, Mulan’s changes are a kind of fairy-tale magic. Because there is nothing to an animated
+body apart from its appearance, Act III really does turn Mulan into a man, just like her miniature
+dragon sidekick really is a brass sculpture come to life (although Mulan’s inescapable female voice
+serves as reminder that the magic cannot last forever). Like *Aladdin*’s lamp, the serpentine Mushu
+is a bawdy visual pun in a movie full of such puns—pole-climbing, battering ram, fireworks. But
+unlike *Aladdin* with its harem dancers, the animation of *Mulan* never brings desire into the open.
+The proper place of sexual difference, this movie teaches, is behind the veil of shifting images we
+call civilization, the means by which human reason tames human sexuality. That veil’s absence leads
+to the grim, grey world of the Huns, whose violent androgyny opposes the civilized veiling of sexual
+difference much as the Hyenas’ scavenging opposed the circle of life.
+
+¶40 That *Mulan* is about the virtue of civilized veils is, at least, the best gloss it can be
+given. Certain aspects of the film undermine it, particularly the song “Reflection,” whose cultural
+afterlife has been as an anthem for the gender-confused. The song’s susceptibility to such treatment
+results from its weak lyrics, although we should acknowledge that its task is among the most
+melodramatically difficult. As the accompanying imagery confirms, the song is meant to show us the
+young Mulan’s inability to move from ideal role to real relationship. But the song fails in that
+degree of tact required to make it both initially appealing and ultimately unsatisfying. A perhaps
+related defect is the song’s awkward timing, only a few minutes after “Honor to Us All,” prematurely
+ending the domestic Act I. Additional nits can be picked with Act IV’s non-diegetic reprise of “Be A
+Man”; why not instead a new song to represent civilization’s achieved synthesis of the male and
+female principles? But unlike the fundamental defects of *Hunchback*, the flaws of *Mulan* are
+forgivable; their correction would require only targeted adjustments, not wholesale revision.
+
+* * *
+
+¶41 So *Mulan* weaves together the threads of *The Lion King* and *Aladdin*. Not *Hunchback*,
+because *Mulan* does not take itself too seriously. Its China is a fairy-tale China; the movie ends
+with the Hua family’s sacred ancestor pavilion hosting a raucous family reunion of stereotyped
+spirits. An animated children’s movie does exist that takes up where *Hunchback* leaves off, though
+its existence can seem a happy accident. *The Prince of Egypt* [1998] does not much resemble other
+Dreamworks productions, and apparently owes its existence to a confluence of idiosyncratic Hollywood
+impulses (respect for blockbusters of decades past; latent ethnocentrism; Jeffrey Katzenberg’s
+desire to prove Dreamworks could do what Disney couldn’t). Whatever the reason, this film’s
+retelling of the Exodus story also amounts to the most honest animated political philosophy on
+offer, which is to say that it is less philosophy than religion. *The Prince of Egypt* agrees with
+*The Lion King* that we are who we are born to be, with *Mulan* that all depends on proper relations
+between the sexes, and with *A Bug’s Life* that revolution is a prerequisite to justice. It adds
+that truth is the same for all.
+
+¶42 For those who found disproportionate this essay’s opening discussion of *The Lion King* in terms
+of Shakespeare and Plato, an antiparallel discomfort may accompany the present discussion of *The
+Prince of Egypt* in terms of its animated contemporaries. It is, after all, a relatively faithful
+retelling of a three-thousand-year-old religious narrative, and many of its elaborations of that
+narrative are borrowed from Cecil B. DeMille [*The Ten Commandments*, 1956]; what would be the point
+of juxtaposing its plot with stories of more recent vintage? The answer differs for the two movie
+interlocutors I will focus on. The comparison to *Hunchback* is justified by *The Prince of Egypt*’s
+portrayal of Moses’s wife Zipporah, which owes almost nothing to previous tellings, and which makes
+the Exodus story less about slavery in general than about sexual subjugation in particular. As for
+*The Lion King*, we saw already how that movie retells the Osiris myth; by commenting on that
+retelling, *The Prince of Egypt* shows how Exodus itself can be construed as a commentary on that
+myth.
+
+¶43 *The Prince of Egypt* begins much like *The Lion King*: after a musical montage of a child
+becoming a prince, we see the prince half-grown demonstrate his immaturity and get a lecture from
+the king, and an adventure with a love interest and water. But in *The Prince of Egypt* these all
+happen in Act I (we gradually realize that this movie has four rather than five acts): Moses cavorts
+with his apparent brother Ramesses with reckless abandon; the pharaoh Seti scolds Moses, but then
+takes his advice to give Ramesses greater responsibility; in return Ramesses “gifts” to him the
+captured slave-girl Zipporah; she fights back, Moses lets go the rope binding her, and she falls
+into a fountain, a well-crafted Hollywood meet-cute. Zipporah is dressed in a provocative harem
+outfit, reminiscent of Jasmine or Esmeralda, but her hostility makes evident that the costume was
+forced on her. We are intended to desire her, but not to desire her like this. Moses understands as
+much; he accepts the “gift” reluctantly, and when he later sees her escaping, he lets her go rather
+than call the guards. That decision sets off a series of revelations, culminating in Seti’s
+admission to Moses—in a dark allusion to Mufasa’s “kings in the stars” speech—that “the greater
+good” of the unbroken line of pharaohs required the massacre of the Hebrews. The broken civilization
+of Egypt does not draw a ceremonial veil over barbaric impulses, but rather forces women into sexual
+service and then kills their children.
+
+¶44 Act II sees Moses flee into the desert, which is to say, away from a broken civilization toward
+the possibility of rebirth. His reason for flight resembles that of Simba—guilt over having
+committed murder. But, of course, Moses really is guilty, having actually killed an Egyptian
+overseer in outrage at his brutality. The other difference is that Moses’s flight takes place a
+quarter of the way into the film, rather than half. *The Lion King*’s circle of life centers on
+death: the old king must die for the new to reign, and the new king must learn that he is not guilty
+of his father’s death while nevertheless taking responsibility for his legacy. Simba spends time
+with Timon and Pumbaa because he must grow up with them in order to rule over them well. Moses’s
+exile serves a different purpose: he must repent of his violent Egyptian ways and learn what a
+peaceful and just society might look like. He reunites with a more fully clothed but
+still-attractive Zipporah, integrates into Midian pastoral life, and has two sons. The midpoint
+comes when Moses encounters the burning bush and, rather than a deep Mufasan voice-of-God, hears the
+divine word spoken in his own voice. In this film’s theology God is not so much in the stars above
+as in the moral law within. Or, perhaps, antinomian grace, the anarchic lifeworld of the Midianites
+a more serious version of Timon and Pumbaa’s “Hakuna Matata.” Moses has spent enough time with them
+to learn their ways, and is ready to receive his mission of bringing the rest of the Hebrews across
+the desert to join them.
+
+¶45 Moses’s return across the desert at the beginning of Act III is thus almost the opposite of
+Simba’s: he comes not to claim a crown, but to talk another into acknowledging the limits on his
+royal authority. Seti having died, Moses has no stepfather figure to duel against, but only his
+adopted brother Ramesses. Here enters this film’s other great deviation from the precedent of *The
+Ten Commandments*: rather than a one-dimensional malevolent schemer who would rather Moses had never
+come back, this Ramesses has grown into the man Moses pushed him to be before he ran away. He has
+taken Seti’s teaching to heart, and aspires above all to be a good Pharaoh. Remembering Moses’s
+friendship toward him, he eagerly celebrates his return, hoping the two can be brothers once again.
+His tragedy is that he cannot accept that Seti’s teaching and the young Moses’s friendship were
+fatally flawed; true justice and true fraternity require more than he is willing to give. The
+duelling duet “The Plagues” shows us Ramesses’s refusal to “let my people go,” and how it drives him
+gradually deeper into obstinate rebellion against the true God. Act III then ends as had Act I, in
+the hieroglyph chamber, where Moses had confronted Seti. Now, just before the Tenth Plague descends,
+Moses meets Ramesses’s son, and puts to Ramesses a choice between accepting his own child’s death
+and giving up his claim to own the lives of the Hebrews. Ramesses refuses the choice, and will lose
+both son and slaves.
+
+¶46 *The Lion King* had ended, after the final battle with Scar, in a brief coda showing life come
+full circle: once again, Rafiki anoints a lion cub heir to the throne. *The Prince of Egypt* rejects
+that cycle. Its prologue had shown the baby Moses providentially crossing the water to the safety of
+the pharaoh’s palace; its Act IV piles miracle atop miracle—angel of death, pillar of fire, parting
+of the waters—ending in Moses leading all the Israelites across the Red Sea, and the Red Sea
+swallowing up pharaoh’s chariots and charioteers. Then, in the final shot, Moses brings down the
+tablets from Mount Sinai, with all the Hebrew hosts encamped in the desert before him. What is most
+distinctive about this Act IV is its lack of narrative tension; the characters of Moses and Ramesses
+have reached their final development, and all that remains is for Moses to practice his religion and
+Ramesses to practice his resentment. The tempo is not that of drama, but that of liturgy. In a way
+(though they could not have influenced one another) *The Prince of Egypt* has the structure of
+*Mulan*, only inverted. *Mulan*’s four acts showed woman, man, their barbaric conflict, and the need
+for civilization to harmonize them; the four acts of *The Prince of Egypt* show the tyrant’s
+domination, the Lord’s freedom, the tyrant’s refusal to grant that freedom to his subjects, and the
+overwhelming power of the Lord to bring about that freedom with or without the tyrant’s cooperation.
+
+¶47 Where *The Lion King*’s B Plot was central to its genius, *The Prince of Egypt* has no B Plot to
+speak of, a difference I attribute to the former movie being philosophical, the latter religious. To
+say that *The Prince of Egypt* is a religious movie is not only to say that it is based on a
+religious text, but also to say that it has no hidden teaching, no point that will go over a child’s
+head. A child struggles to understand Frollo’s guilty lust, but easily recognizes Ramesses’s fatal
+mixture of love and stubborn pride. An atheist might say that this total exotericism makes it a
+childish movie, and I concede at least that it is for children. *The Prince of Egypt* simplifies the
+Exodus narrative as well as embellishing it—for example, in its omission of the golden calf, which
+marks it as lacking not just a philosophy, but also a politics. At most, it has an anti-politics. It
+gestures at the true-enough thought that the divine law should rule, but says nothing about what
+that rule looks like, save the single unwritten commandment “thou shalt not enslave.”
+
+¶48 The limitation is not necessarily a flaw, so long as we do not take the movie for something
+greater than it is. That said, neither should we take it for something less. I see little risk of
+underestimating the genius at work in any more recent children’s movie, which I take to mean that
+the age of animated political philosophy is now behind us: more recent fare does continue to
+moralize, but it seems simply to deliver its morals, rather than to think them through. Perhaps I am
+too unsympathetic to the projects of more recent filmmakers—but even if so, it suggests a difference
+in kind between those and these. In any event, I cannot help but see these four movies as a kind of
+cycle, limning the four political philosophies (or anti-political anti-philosophies) that were live
+options in the 1990s (and perhaps remain so): *The Lion King* is the best animated expression of
+natural hierarchy; *A Bug’s Life*, artificial democracy; *Mulan*, civilized sexuality; and *The
+Prince of Egypt*, religious liberty.

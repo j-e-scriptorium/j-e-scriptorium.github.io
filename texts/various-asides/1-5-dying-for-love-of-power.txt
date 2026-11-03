@@ -1,0 +1,415 @@
+# [1.5] Dying for Love of Power
+Edkar Marenko — University of St. Isidore — November 2021, November 2025
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-1-5
+Foreword gloss: reviews the digital horrors of Zero HP Lovecraft’s They Had No Deepness of Earth
+
+¶1 Zero HP Lovecraft, the most important fiction writer of the Online, is of course a pseudonym.
+After several years of posting various short stories and three novellas, he released a hardcover
+compendium of his works to date in late 2021, and *They Had No Deepness of Earth* deserves
+recognition as a major literary achievement. But I must also admit that I have not compared his
+achievement against that of every other internet subsubculture’s favorite son. No one can; the
+digital Cambrian explosion has destroyed the possibility of such a comprehensive survey, and so of
+any cultural cohesion not aggressively mediated by some political agenda. These and other
+consequences of life on the internet are among Zero HP Lovecraft’s foremost preoccupations.
+
+¶2 The second half of Zero HP Lovecraft’s pseudonym tells you the first thing you need to know about
+him: H.P. Lovecraft, early twentieth century American horror writer, incel, hyper-racist, author of
+often unbearably purple prose, inventor of the Cthulhu Mythos and so forebear of every alien-demon
+hybrid with psychic powers and slime-covered tentacles; also, and most importantly, progenitor of
+the genre of cosmic horror, in which the plot consists of little more than the protagonist’s gradual
+discovery of the abyss subtending existence—this H.P. Lovecraft is the chosen model of ZHPL (so I
+shall call the latter to avoid confusion). The first two words of the keyboard name give you the
+second piece: Zero Hit Points, a bad pun situating ZHPL as a gamer and “very online” writer, an
+admission of authorial belatedness, a warning that the vital spirit of our civilization has been
+almost entirely exhausted. Lovecraft, but even more dead. What could be more horrible?
+
+¶3 The heart of ZHPL’s vision lies in the three novellas, “The Gig Economy” [2018], “God-Shaped
+Hole” [2019], and “Don’t Make Me Think” [2021]. These present three different versions of the same
+basic three-part story, and apart from the presence of the internet, this story will be already
+familiar in rough outline to readers of H.P. Lovecraft’s “The Call of Cthulhu” [1928] or “The Shadow
+Over Innsmouth” [1936]; the second novella riffs explicitly on “The Dream-Quest of Unknown Kadath”
+[1943 [1927]]. The story begins with an intelligent, alienated young man finding himself in a world
+where human life is entirely mediated by some variety of portable personal technology. Prompted by
+an irresistible impulse equal parts curiosity, desire, and rebellion, he goes on a quest to make
+contact with reality, to remove his blinders, to break his chains. Finally, having done so, he
+discovers a reality more horrifying than the technology veiling it, one so incomprehensibly awful
+that it destroys him, although we, ZHPL’s readers, are graced with a final record of what
+overwhelmed him.
+
+* * *
+
+¶4 If, like his avowed model, ZHPL has written the same basic story over and over, a good initial
+hypothesis is that he has done so for the same reason. The details of plot and character are
+secondary to the myth, or, perhaps we should say, the nightmare. I should emphasize, here, that the
+horrorist need not believe his nightmare to be real—compare the Kafkaesque bureaucratic deism of
+G.K. Chesterton’s *The Man Who Was Thursday: A Nightmare* [1908] with his daytime Roman Catholicism.
+When I talk of ZHPL’s nightmare, I mean the nightmare his authorial persona presents us with. ZHPL’s
+nightmare differs from Lovecraft’s primarily in where it locates the horror. For Lovecraft, it lay
+in the unknown—the distant past, outer space, the mountains of Antarctica, the protean realm of
+dreams, the huddled masses yearning to crowd into the tenements just beyond the pale of civilized
+Rhode Island society. For ZHPL, the nightmare is more familiar, and technological civilization not
+only papers over it but also, and at the same time, contributes to it. All three of these stories
+are, in one way or another, about living in a world of smartphones, and the horror lies in what we
+can already see and feel this world doing to us as it overwhelms our animal nature.
+
+¶5 Apart from the original H.P., two of ZHPL’s most visible influences, to this reader’s eye, are
+Neal Stephenson and Jorge Luis Borges. The premise of “The Gig Economy” draws heavily from
+Stephenson’s early novel *Snow Crash* [1992], while “Don’t Make Me Think” echoes beat for beat
+Borges’s short story “The Dead Man” [1946] (a method reminiscent of another Borges story, “Pierre
+Menard, Author of the Quixote” [1939]). In Stephenson, and cyberpunk more generally, ZHPL finds a
+homology between mind and computer, and links between computer programming, cryptography, and
+military-industrial-complex conspiracies. ZHPL also receives from Stephenson his license to
+perpetrate “infodumps,” knowing that what matters are not the “character” and “plot” of his
+protagonist, but the character of his imagined world, and the plot of the reader’s journey through
+it (for ZHPL; Stephenson is more cheerful) from happy ignorance to horrified half-comprehension.
+From Borges, ZHPL learns the value of brevity, of metaphysical snares, and of meditations on the
+structure of the soul, and how its most important determinant is its means of communication.
+Borges’s soul was shaped by the codex; ZHPL’s, by the computer.
+
+¶6 I have not much stressed the two varieties of non-fiction writer who might be considered major
+influences on ZHPL: on the one hand, the various theorists, such as Jean Baudrillard and Gilles
+Deleuze, wisps of whose thought drift across Weird Right Twitter (as I will call this milieu for
+lack of a better name); on the other, the various mostly anon personalities such as Bronze Age
+Pervert and Mencius Moldbug who, along with ZHPL himself, have defined the Weird Right’s contours.
+ZHPL’s twitter persona strikes the pose of a modern-day Nietzsche fully informed of the latest and
+most politically incorrect findings in evolutionary psychology and human biodiversity. He posts at
+@0x49fa98, the RGB code for a particularly repulsive shade of green. Incidentally, this Nietzschean
+aura casts the name “Lovecraft” in a new light, *kraft* being German for power. Among the few essays
+ZHPL has published, “The New Tlon” (at *The American Mind*) announces the grand design of founding a
+new but ever-ancient religion designed to avoid Christianity’s slow descent into wokeness and
+bioleninism: “Our church will not resemble the churches of old, but our men will resemble the men of
+old, because our God is very old, indeed.” ZHPL the twitter poster is entirely committed to this
+political-theological project. ZHPL the fiction-writer, however, is something quite different, as
+different as twitter is from novel. If ZHPL’s characters and plots are mere vehicles for his ideas,
+his fiction is nevertheless wonderfully crafted at the level of literary form. The effect on the
+reader is not that of a twitter polemic, but of a provocation to thought.
+
+¶7 This intent to provoke thought suggests a second reason for the parallels between ZHPL’s three
+stories: they aim to analyze some phenomenon into three constitutive parts. On the surface, the
+three stories differ primarily in the app or peripheral that serves as the horror’s focal point: one
+centers on TaskRabbit; another on Oculus Rift; the third, on Neuralink. More fundamentally, they
+differ in the horrifying reality which that technology is taken simultaneously to veil and to
+reveal—to a first approximation, money, sex, and power. What larger phenomenon does this triad
+analyze? The best answer to this question is an old one, dating back to Plato: the analogy, or,
+better, the *ratio* between self and city. The original Lovecraft also took this ratio seriously (as
+does every serious writer), but his response to it was an abrupt denial of the possibility, and so
+of the possibility of thought itself. His fiction overflows with unrecognizable colors, incalculable
+geometries, words that cannot be pronounced, bodies that cannot be anatomized, cults with
+unidentifiable membership and inscrutable intentions. ZHPL shares his predecessor’s horror at self
+and city, and frequently invokes the Lovecraftian motif of the irrational alien cosmos. But ZHPL
+writes because he has much to say about how our technologically mediated existence has broken apart
+the unity we assumed self and city to possess. This “how” I take to be the central theme of his
+fiction, the thread running through his intriguing, horrifying predictions about near-future
+technological developments.
+
+* * *
+
+¶8 These technological developments make for a difference of content, but also one of form. Before
+turning to consider ZHPL’s three novellas in more detail, I briefly consider the formal problems of
+internet fiction in general—both because identifying the problems helps us appreciate the
+significance of ZHPL’s ingenious solutions to them, and because the problems of internet fiction are
+only another way of naming the problems of internet life. Journalists have labored for years to
+develop adequate methods for reporting on internet discourse, with results that remain conspicuously
+awkward. News stories tell you less about an unfamiliar site than simply spending two minutes on its
+homepage. Screenshotted posts and phrases like “people are talking about” fail to say anything more
+than would an uneditorialized link to the original. And editorializing paraphrases, in a world where
+the original could simply be linked, comes to seem indistinguishable from lying. How, then, to put
+into words places, events, people that are already entirely text? For the journalist with an
+upcoming deadline, there is little choice but to limp along with the crutches available. The
+would-be novelist of life on the internet cannot do the same. He must carry on the task of the
+novelist—capturing the ineffable texture of lived experience in a sequence of words—even when that
+texture is already entirely textual.
+
+¶9 The basic problem of the internet novel manifests immediately in every element of fictional
+craft. To begin, we lack an adequate vocabulary for describing the internet’s landscape. One cannot
+speak of the rolling hills of a Twitter feed or the Gothic architecture of a Facebook timeline
+without descending into absurdity. Yet these sites do have a topography of sorts—the rules of
+engagement, what the site will let you do and what it will not, what it makes easy and what it makes
+difficult. A path, after all, is something you can stroll down; a hill is something you can walk up;
+a mountain is something you can climb. The difficulty is that the landscape of the internet is
+almost entirely unseen. The graphical interfaces that mediate our digital lives are only part of
+it—and the least constant part, varying wildly across devices and applications. How to talk about
+the landscape we all move through when each of us sees it in different colors?
+
+¶10 The internet also complicates descriptions of temporal sequence. Offline, the past is
+irretrievable except in memory; online, we feel as if nothing ever really disappears (though dead
+links provide occasional reminders of digital mortality). The result is that internet time is
+relative: the same event can be experienced as rumor, as documentation, as commentary, in whatever
+sequence is demanded by the individual and her mediating algorithm. The distinction between
+witnessing an event and hearing its report, so crucial to traditional narrative structure, all but
+collapses. An internet life amounts to an ordered list of witnessed texts: the timeline flowing
+backward down the page into algorithmic oblivion. Variations in this flow constitute the true plot
+of internet fiction, and through a sympathetic magic we can imagine the timeline as a locale with
+its own atmospheric conditions and weather patterns. Yet to call the timeline “stormy” risks, if not
+absurdity, cliche. We lack, too, a vocabulary for the sweeping timeline events we feel we witness
+together despite each knowing only our own idiosyncratic experience.
+
+¶11 The problem compounds still further when we turn to characterization. In real life, people are
+defined by their physiognomies, distinctive gestures, wardrobes, vocal timbres—all the accumulated
+accidents of embodiment that provide the novelist with her raw material. These elements matter
+precisely because they exist in part outside our conscious control, revealing what deliberate
+self-presentation conceals. On a screen, by contrast, every aspect of appearance becomes
+deliberately chosen: the avatar, the emoji selection, the carefully curated profile. What renders
+incidental details novelistically useful in traditional fiction, their involuntary revelation of
+character, vanishes entirely in digital space. On the internet, a person is only what he has done,
+and it becomes all but impossible to describe character other than with reference to actions (except
+when a person’s online presence reveals something about the human being behind the avatar). And the
+actions, ultimately, are just speech, which on the internet cannot be honestly paraphrased.
+
+¶12 Any successful internet novel must develop a poetics adequate to the task, a grammar for
+describing entirely text-mediated human interactions that does not surrender to text’s tendency
+toward mechanical self-reproduction. This challenge recalls the novel’s foundational concerns,
+visible as early as Don Quixote’s friends burning the chivalric romances. The internet novel shares
+with its ancestors a preoccupation with the relationship between textual representation and lived
+experience. The early modern novel dealt with the problem by inventing techniques such as free
+indirect discourse—techniques which, however, simply do not work with the constraints of digital
+representation. The internet novel might paradoxically require a return to more artificial literary
+forms—perhaps even a revival of the verse novel (think Browning’s *The Ring and the Book* [1869] or
+Melville’s *Clarel* [1876]). Verse’s arbitrary formal constraints forbid direct textual
+transcription, and so perhaps can generate the kind of productive accidents that reveal character
+and advance narrative in ways that mechanical replication cannot achieve.
+
+¶13 However intrinsically interesting the proposal, verse novels are not ZHPL’s chosen form. His
+style could instead be described as something like experimental science fiction prose; like
+Lovecraft before him, he makes extensive use of the estranging effects of technical vocabulary, but
+he also modulates his prose to accommodate the nature of online fiction. In particular, he makes
+inventive use of extratextual aspects of reading on the internet—embedded images, hyperlinks,
+emojis. (These have in large part been faithfully translated into the printed volume, but in the
+movement from screen to paper they lose much of their potency.) In so doing he captures something of
+what experiences, emotions, and actions look like in the digital domain—or, perhaps, what they fail
+to look like; for, again, ZHPL’s vision of the internet is one of horror.
+
+* * *
+
+¶14 The first of ZHPL’s novellas, “The Gig Economy,” deals both with money as an abstraction from
+tangible objects of value, and with language as an abstraction from our disparate sensory
+experiences. The protagonist is a freelancer on an app resembling Uber or TaskRabbit, taking random
+assignments to pick up and deliver unknown packages to unknown persons or locations, or to oversee
+someone else performing such a task, or to submit to neurological experiments in sensory
+refactorization: “Chaos had crystallized into intuition, as if my senses had been remade, and I had
+learned to use them all over again. It would not be wrong to say that I had all new senses, virtual
+senses, built ‘on top of’ my existing ones, but orthogonal to them.”
+
+¶15 Simultaneously, the protagonist has become obsessed with rare books, participating in a private
+online group devoted to exchanging non-digitized volumes, which as relics of a pre-digital age they
+feel possess an almost talismanic power. These threads converge when the protagonist discovers that
+the strangest of his tasks were assigned by an entity not quite human. A partial explanation of its
+origins turns out to lie within an ancient unscanned codex, and involves the god Mammon, the Tower
+of Babel, and a song that infects all who hear it, irresistibly inspiring them to accumulate
+resources with which further to propagate the tune, and degenerating their language into a babbling
+stream: “The figularshis morror. Mareath ame whicand to ide.” A glimpse here (it does not go on for
+long) of something like *Finnegans Wake* [Joyce, 1939]—only instead of patterning itself on
+Giambattista Vico’s *ricorso* [*The New Science*, 1744], it follows the track of Nick Land’s
+hyperstitional accelerationism, in which a computational superintelligence reaches back from the
+future to bootstrap itself into existence on the back of capital [*Xenosystems*, 2013-2016].
+
+¶16 In some ways the babble of Mammon resembles the language of law, which underpins all our
+economic abstractions and which has always been notoriously incomprehensible to those who are not
+lawyers, which is to say, Mammon’s priests. This pseudo-language becomes necessary to integrate into
+our formerly common sense the nose for profit which has imposed itself, a “virtual sensation,” atop
+our natural five; natural language has been rendered inadequate to fulfill its function of
+intrapsychic currency. Perhaps half of “The Gig Economy” is straight narration; the rest is made up
+of excerpts from various documents the protagonist encounters as he pieces together the puzzle. Some
+of these, especially those presented as plaintext excerpts, relate directly to the plot. Others
+merely illustrate the milieu in which the protagonist moves. Many of have not been reduced to text,
+but rather are presented as screenshots—of smartphone app pages, of posts to 4chan or twitter or
+reddit or slack—a neat end-run around the peculiar difficulty of paraphrasing what is already text.
+
+¶17 ZHPL’s desire to excerpt rather than summarize echoes his protagonist’s longing for the
+tangibility of his rare books. Both screenshot and codex have the aura of historical reality about
+them, and so are imagined as bulwarks against the flow of capital melting everything solid into air.
+But they cannot really provide such a bulwark; the screenshot has nothing real about it, being
+entirely mediated by the digital, and the codex is hardly better, for whatever nostalgic aura has
+now accumulated around it, it was in its day the cutting edge of the technology of sensory
+abstraction. As Marshall McLuhan might put it (and ZHPL has cited McLuhan as an important
+influence), the babble of Mammon began in ancient Mesopotamia, home to one of the earliest forms of
+writing, and flowed through medieval scriptoria and Gutenberg’s press before it burst onto the
+internet [*The Gutenberg Galaxy*, 1962]. The first printed object was a coin. “The Gig Economy”
+leaves us with no reason to think that this historical trajectory from the inarticulate nonsense of
+beasts to the all-too-articulated nonsense of computer-gods could be reversed. The novella’s last
+line: “The only way out is through!”
+
+* * *
+
+¶18 So much for *oikonomia* and *aisthesis*. The title of ZHPL’s second novella, “God-Shaped Hole,”
+identifies its theme in an obscene and blasphemous pun: *eros*, sexual desire, how we crave contact
+with each other, how we long to fill that contact with meaning, how that longing for meaning is
+itself sexual, how both contact and meaning are forever denied us. The sexual relationship almost
+inevitably becomes a figure for what was once pictured as the marriage of body and soul, but in
+ZHPL’s nightmare seems more like their mutual rape. The soul becomes an illusion of meaning imposed
+on the body, the body an ecstasy of meaning’s annihilation.
+
+¶19 The story begins with a world of ubiquitous virtual reality goggles, and myriad inventive
+speculations for the uses to which such goggles will be put. The dominant use ZHPL imagines,
+probably accurately, is hyperreal pornography, repulsively detailed descriptions of which the reader
+must suffer through. The story ends—not to give away too much—with human nature gnawed through by
+gene editing technology, giving rise, half by accident, half by sinister design, to a “polymelial
+monster, growing tentacles and heads and mouths, sex organs sprouting anywhere, mouths and eyes
+becoming one organ that would leap forward to snap with transparent teeth, but no organ holding
+constant as regards either function or position.” In naming this creature “Azathoth,” ZHPL makes one
+of his most direct references to the Cthulhu Mythos—but ZHPL’s version of this demon, unlike that of
+his eponymous forebear, is explicitly libidinous. We are left with two irreconcilable accounts of
+the sexual: the shimmering digital image, and the putrescing biological flesh.
+
+¶20 In between, we witness the protagonist embark on a quest to get beneath the obscenely glittering
+surface of sexuality to its human reality. He finds no “there” there; he cannot get into view a
+desire for another person, as opposed to desire for that person’s desire, in an endless regression,
+with every act of love an act of betrayal. The protagonist’s disillusionment finds its echo in the
+reader’s experience of the text. The sense of the internet as a series of disjointed fragments
+remains, but this time we do not experience it as a screenshot lifted in tweezers up to the light,
+but as an endless rabbit-hole of hyperlinks, leading mostly to short snippets of fictional science
+articles, themselves linking to one another in an endless web of intrigue. With each click and
+opening of a new tab in the browser we anticipate an explanation that will reconcile image and
+flesh—but it never comes. “God-Shaped Hole” is ZHPL’s most successful novella, but it is also, and
+intentionally, fundamentally untrustworthy; its aim is to seduce its reader and then discard him.
+
+¶21 Definitely *him*—while I am sure women have read this story, both its pervasive obscenity and
+its concern with the ambivalence of male desire mark its paradigmatic reader as a man. On the other
+hand, surely women as well as men find themselves with twenty open browser tabs; Ahab’s desire to
+strike through the pasteboard mask is not found in only half the species. In any case, the novella
+does include in its peripheries a portrait of female sexuality, and one which does not seem entirely
+false, though it sees women as entirely false. Like male desire, female desire looks to its partner
+for something, call it a recognition of intrinsic value, which it is unwilling or unable itself to
+offer. One might reasonably ask whether the sci-fi premise sheds any additional light on this
+story’s account of sexual desire and meaning-making, which in many ways merely echoes that of
+nineteenth century novelists like Stendhal and Proust, as any reader of René Girard’s *Deceit,
+Desire, and the Novel* [1961] could attest. Indeed, “God-Shaped Hole” does take this basic picture
+of desire for granted. What it adds is an understanding of how the internet multiplies beyond count
+the images that inflame desire, and how pharmaceuticals augment physical desire itself, such that
+the circuit of desire recognized by the nineteenth century realists becomes tautened to an inhuman
+pitch.
+
+* * *
+
+¶22 After calling into question both the coherence of our experience and economy, and the honesty of
+our desire for and contact with other embodied minds, ZHPL embarks in “Don’t Make Me Think” to
+reveal the slavery implicit within our allegedly free decisions and allegiances. The story begins
+with the premise that Neuralink brain implants have developed to the point where they can not only
+read minds, but to a certain extent control them, by, for example, disguising enriched mealworm
+bricks to taste like a different five-star meal in every bite, or delivering a feeling of
+accomplishment for each homework task completed and one of guilt for each act of petty
+rule-breaking. But the Neuralink chains are imperfect; the protagonist, an initially anonymous youth
+who receives his implant at age eleven, finds himself increasingly tempted to rebel, and eventually
+makes a violent break for freedom.
+
+¶23 Widespread adoption of the implants has, it seems, created a comprehensive surveillance state
+where every citizen is a perfectly willing informer and enforcer. And so, it seems, the only hope
+for neurological freedom lies in a band of outlaws hiding out in their mountain fortress and
+supporting themselves through manufacture of smartdrugs, that is, malware bypassing a Neuralink’s
+safety protocols and delivering experiences engineered for maximal hedonic gratification. While many
+twists and turns follow, including both Elon Musk and Jeff Bezos traipsing together through the
+Amazon jungle, and a disembodied demonic spirit leaping from Neuralink to Neuralink, the novella’s
+basic dilemma is already contained within this premise—for how can a smartdrug black market exist
+within the Neuralink surveillance state? As the protagonist muses before making his escape, most
+likely “they let it happen and someone is profiting.” Within the totally controlled world of “Don’t
+Make Me Think,” no exercise of freedom is possible unless it ultimately redounds to the profit of
+the controller, and so strengthens its power, in a cybernetic feedback loop. The Neuralinked citizen
+and the smartdrug manufacturer have merely taken the short and long roads to the same destination.
+In a way the latter is the more deluded, for he imagines himself free, when in reality he is equally
+enslaved. ZHPL shows the outlaws to be just as devoted to the gratification of gluttony and lust as
+are the smartdrug addicts, only they are attuned to real not hallucinated flesh.
+
+¶24 The most complex scene in the novella comes when the outlaws’ compound is attacked by a rival
+gang, and the protagonist, by now given the name of Branch, steps into command. With the help of his
+men’s jailbroken Neuralinks he becomes like the human player in a computer strategy game, with the
+“reckless authority👑💡” to make unilateral decisions regarding “lethality☠️⬆️🔁 or sacrifice🔪🐑🩸.”
+These outlaws, it seems, are absolutely loyal to Branch, willing to kill and die for him. But in
+fact they are not, as is later confirmed, and as we could have inferred anyway from their outlaw
+character. They are merely willing to turn over to him the decision when and how to kill and die;
+they have made a rationally selfish Hobbesian bargain granting their Neuralinks ex ante permission
+to override the self-preservation instinct, calculating that by doing so they increase the
+likelihood of victory, and so of long-term survival. Not only is there no such thing as freedom,
+there is also no such thing as loyalty, authority, or self-sacrifice; the world is self-interest,
+power, and violence all the way down.
+
+¶25 Such, at least, is the world seen through Branch’s eyes. The closing paragraphs suggest that
+ZHPL has a broader vision. In it we turn to a heretofore minor character, Romero, and see that he,
+unlike Branch, recognizes a higher authority that self-interest—albeit the value of such recognition
+remains ambiguous. Asking himself whether he is responsible for Branch’s demise, Romero concludes
+that “his conscience is clear. No, that’s not true, he let Branch believe it was fate … But we all
+have our vices … Surely Romero is no great sinner, here.” Do we read here a true reckoning with the
+moral authority of conscience, or mere words, words, words meant to maintain Romero’s own delusions
+of moral virtue? The answer to that question will also be the answer to the question whether there
+is any possibility of legitimate political authority, one which wields power and indeed violence but
+for the sake of more than perpetuating its own rule.
+
+¶26 A glimmer of optimism can perhaps be found in the textural difference between the quotations in
+the previous two paragraphs: those from Branch’s perspective included emojis after every other word,
+those from Romero’s had none. Apart from the closing paragraphs, these emojis permeate the text,
+translating English into ideogram form: as seen above, “authority” is a crown and a lightbulb,
+presumably the light of reason; “lethality” a skull, an up-arrow, and a cycle, perhaps the cycle of
+violence; “sacrifice” a knife, a scapegoat, and its blood. The ideogrammatic language ZHPL has
+constructed is often, as with these three, insightful, and sometimes amusing, as when “conformity”
+is translated into a rainbow flag and a down-arrow. But its cumulative effect is not to enrich the
+text, but almost the opposite. The reader can either attempt to ignore the emojis and move straight
+through the text, or pause to decipher the emojis and so lose the linguistic thread. Both the short
+and the long road lead to a sense that the text does not offer itself to be read freely, but rather
+has imposed itself on the reader and can only be submitted to or struggled against.
+
+* * *
+
+¶27 The relative optimism of “Don’t Make Me Think” compared to “The Gig Economy” and “God-Shaped
+Hole” comports with what we know of ZHPL from his twitter persona. Peel back the veneer of French
+theory, and on topics not relating to the internet ZHPL (like many on the Weird Right) often sounds
+like a conventional elite from the turn of the last century. While no economist, he intuits the
+value of free enterprise and the danger of incentive-distorting welfare, and detests woke
+capitalists above all for what they have done to capitalism. On biological matters he is a Darwinist
+and also something of a Freudian, likely secondhand from the French theorists. These views about
+money and sex are essentially fatalistic and anti-rational: the market knows all, or at least more
+than any man, and so must not be interfered with, only streamlined; the phallus wants what it wants,
+and so cannot be reasoned with, only placated. But ZHPL’s decision to engage in twitter polemics in
+the first place suggests some faith in the efficacy of political conflict, and his tone of vatic
+authority, both in his Nietzschean twitter threads and in his essay announcing a new yet ever-old
+religion, suggests a hope that we will recognize in him a legitimate authority. Or, at least, a
+decision to act as if he possesses this faith and hope.
+
+¶28 On my reading of ZHPL’s fiction—which I find more persuasive than his twitter persona—this faith
+and hope are unwarranted. The enslavement of the will in “Don’t Make Me Think” follows inevitably
+from the fragmentation of experience and inflammation of desire traced in the previous two novellas,
+and all three are the inevitable consequences of the new technological age inaugurated by the
+smartphone. So what grounds ZHPL’s decision to enunciate these claims? If I might hazard a
+guess—ZHPL has described himself as a computer programmer by profession. A programmer—if he is
+willing to put aside wokeness and accept the label of reactionary—cannot help but be fascinated by
+the workings of natural selection and market competition, for he can see that these are themselves
+algorithms of a sort, operating on biological and economic substrates to calculate the fittest
+species, the efficient price. The struggle for political power, too, he will see as an algorithm,
+one tasked with calculating the optimal method of governance. But the economic and biological
+algorithms seem immutable, while the political one seems more clearly contingent, and so susceptible
+of alteration. Further, if the current political algorithm fails, it must mean that the code
+requires debugging. ZHPL’s vatic twitter threads constitute, in essence, his attempts to debug our
+civilization.
+
+¶29 The first step in debugging a system is usually to turn it off and on again. But who will stand
+outside our civilization and throw the switch? And who has root access to edit our civilization’s
+source code? If the reactionary programmer imagines imposing from outside or above an irresistibly
+efficacious word to propel those within into their proper trajectories, he errs, for there is no
+such outside. What he requires instead is a word that confronts its opponents with a choice, and
+achieves its end no matter which choice they make. Such was Christianity two thousand years ago,
+when opposition led the Church to be watered by the blood of martyrs, and so to grow and replace the
+pagan cults more congenial to the reactionary programmer’s vision. It is difficult to imagine being
+a martyr for the programmer’s new yet ever-old religion. Martyrdom requires understanding oneself to
+participate in a larger whole, the Mystical Body of Christ, that merits allegiance to the point of
+self-sacrifice. It is difficult even to imagine the programmer’s religion inspiring that lesser
+thing, a hero: for even pagan heroes accept death above dishonor, and even pagan cities cannot avoid
+asking their citizens to die for them. But the faith of the reactionary programmer requires
+voluntarily dissolving the unity of one’s experiences and desires, and instead identifying with the
+cosmic designer who confined consciousness within the body’s cybernetic labyrinth. Such a faith
+leaves no room for heroism, let alone martyrdom. At most, one can imagine martyring one’s avatar for
+it, knowing that it will be easy enough the next day to create a brand new account.
+
+¶30 On the day I wrote the preceding paragraph, BAP was suspended from twitter, and ZHPL posted that
+Weird Right Twitter might abandon the app for Telegram. Instead, Twitter abandoned the Weird Right,
+changing its name to X, and becoming notionally more hospitable to the right but in a way that has
+sapped the right’s vital energy. ZHPL has written a few more riffs on old Borges stories, but
+nothing comparable to the novellas at the heart of his 2021 collection. Although four years is too
+soon to judge the limits of an author’s achievement, I do suspect that, unless something changes,
+ZHPL’s poetic trajectory has reached its apex, and begun to descend. Horror is exactly the right
+genre within which to articulate in literary form the demonic vision provoked by life on the
+internet, and in particular by such life as experienced by one aware of its inner workings. But
+horror cannot inspire action; its effect is to paralyze, and then to leave the reader with a sense
+of relief when he reaches the story’s end and the basilisk turns its eye away. If ZHPL is to
+progress as an author he will need to achieve an alternative vision of the human being, one that can
+make sense of digital realities while still commanding real (unhedged) loyalty and inspiring real
+(nonvirtual) self-sacrifice. To this end I would recommend, not inventing a religion new yet
+ever-old, but accepting the religion at the root of Western civilization, old yet ever-new.

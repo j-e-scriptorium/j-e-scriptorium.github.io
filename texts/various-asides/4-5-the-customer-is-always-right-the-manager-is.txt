@@ -1,0 +1,144 @@
+# [4.5] The Customer Is Always Right, The Manager Is Always Left
+Edkar Marenko — University of St. Isidore — April 2021
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-4-5
+Foreword gloss: offers a feminist Marxist take on Walter Lippmann
+
+¶1 Nancy Fraser, one of the more interesting Marxists of recent years, wrote an essay in 2014 called
+“Behind Marx’s Hidden Abode,” which argues the following tripartite thesis:
+
+¶2 > First, capitalism’s ‘non-economic’ realms serve as enabling background conditions for its
+> economy; the latter depends for its very existence on values and inputs from the former. Second,
+> however, capitalism’s ‘non-economic’ realms have a weight and character of their own, which can
+> under certain circumstances provide resources for anti-capitalist struggle. Nevertheless, and this
+> is the third point, these realms are part and parcel of capitalist society, historically
+> co-constituted in tandem with its economy, and marked by their symbiosis with it.
+
+¶3 We find an almost perfect instantiation of Fraser’s thesis in a book published exactly a century
+earlier by the reform-minded liberal capitalist Walter Lippmann. As only the most nostalgic Marxist
+would deny, *Drift and Mastery: An Attempt to Diagnose the Current Unrest* has proven prescient in
+its prediction of the increasing obsolescence of the labor-capital divide. But Lippmann’s hope that
+liberal managerialism would solve the internal conflicts of liberal capitalism has fared less well;
+it has not solved them, but only refactored them.
+
+¶4 Lippmann’s diagnosis of the ills of liberal capitalism is in many ways Marxian: the laissez-faire
+state cedes too much political power to private enterprise, leaving us “drift[ing] along at the
+mercy of economic forces we are unable to master” (p.145-46). But Lippmann differs from Marx in two
+ways. First, he denies that capital is in charge. Capitalists may have created the liberal state,
+but they no more control its drift than the laborers they oppress. The wrong person is not in
+charge; no one is in charge. Second, Lippmann sees proletarian revolution as a pipe dream, and in
+any event undesirable—any labor movement that somehow seized the means of production would be the
+dog that caught the car. Rather than turn the tables in the conflict between labor and capital, we
+must turn conflict into “cooperation” by achieving a new form of “industrial citizenship” (p.167).
+Lippmann is smart enough to know that “cooperation” and “industrial citizenship” name ends, not
+means. He envisions a populace capable of intelligently navigating an industrial economy, and an
+economy capable of being so navigated. But how to arrive at this utopia? Lippmann denies that the
+transformation envisioned can be imposed by an external force. It must be brought about “not by some
+wise and superior being but by the American people themselves” (p.168). So Lippmann seeks to appoint
+himself not dictator, but educator. He does not prescribe, but simply describes, as if accurate
+description were itself a cure-all.
+
+¶5 If we can change our thinking about the relationship between state and society, Lippmann
+suggests, both a healthier economy and a healthier politics will result. The principal change
+Lippmann wants to see in our world-picture is a decentering of the relationship between capital and
+labor in favor of that between profession and consumption. The capitalist in the sense of “the
+little business monarch,” as Lippmann tells it, no longer exists: “just as in political government
+‘the President’ does a hundred things every day he may never even hear of … so in big business … the
+real government is passing into a hierarchy of managers and deputies, who, by what would look like a
+miracle to Adam Smith, are able to coöperate pretty well toward a common end” (p.44-45). The labor
+problem, meanwhile, Lippmann expects will be solved by ceasing to obstruct reformist labor
+organization: “reform undermines the revolutionary spirit” (p.88), and organization will necessarily
+integrate labor into professionalized administration. Lippmann would not be surprised to hear that
+the biggest shareholders in many corporations today are pension funds, vast hoards of capital owned
+by hordes of laborers but controlled by MBAs. When government, business, capital, and labor are all
+managed by professionals, the relationship that matters is not between these groups, but between the
+professionals and—who?
+
+¶6 The defining feature of professionals, in Lippmann’s telling, is that they “have found an
+interest in the actual work they are doing” (p.49). This does not mean that their work serves their
+interests; to the contrary, it means that they are happy for it to serve the interests of someone
+else, namely, the consumer. Lippmann’s paradigmatic consumer is the modern woman. According to
+Lippmann, modernity transforms the life of women in two related ways. First, the home economy, like
+the industrial economy, grows increasingly mechanized and rationalized, freeing women from domestic
+labor and leaving them only domestic management. Second, and as a result, women now “have more time
+for politics than men,” and so will be able to dominate it; especially once women get the vote,
+politics will become “the chief method by which the consumer enforces his interests upon the
+industrial system” (p.71-72). Not that housewives will all become politicians. Rather, political
+platforms will become objects of consumption, with consumers, that is, household managers, choosing
+expertly between them just as they choose between products in the marketplace. As, indeed, in this
+new era of what Lippmann imagines will be monogamous sexual liberation, they choose as their
+husbands the most interesting of the male professionals.
+
+¶7 Which is to say, to return to Nancy Fraser’s terminology, that Lippmann tries to solve the
+economic woes of the liberal capitalist regime by drawing on non-economic resources: the civil
+servant’s devotion to his work, and the housewife’s devotion to the good of her family. But does
+Lippmann’s professional-consumer dichotomy in fact bring something new to the economic sphere, or
+just package the old labor-capital wine in new bottles? After all, Lippmann’s portraits of the
+consumer and the professional are drawn from the very world of laissez-faire capitalism he was
+critiquing. The association of women with consumption, as opposed to production, derives from the
+Victorian division of male and female spheres; Lippmann’s consumer is the Victorian gentle housewife
+democratized, now with a refrigerator and a day-care center rather than a cook and a wet-nurse. His
+portrait of the professional, meanwhile, derives from the meritocratic British civil service, and
+shares its essentially imperialist and militarist character—“a fellowship in interest, a standard of
+ethics, an esprit de corps, and a decided discipline” (p.48). The middle-class America of the early
+seasons of *Mad Men* [2007-2015], which Lippmann so presciently predicted, seems eerily similar to
+the middle-class England of Dickens, only with the middle class now imagined to be a majority of the
+population.
+
+¶8 That domesticity and meritocracy are “part and parcel” of laissez-faire capitalism does not, of
+course, mean that elevating them to center stage changes nothing. Even if the love affair of
+professional and consumer is not a radical alternative to the war of labor and capital, it is a
+complex refactoring of it. The professional is the laborer re-imagined as human capitalist. He does
+not truly value his work for its own sake, because he does not particularly care what work he does;
+he is not an artist, a priest, a philosopher, or even a soldier. Rather, he values his capacity to
+work as the one asset whose value he has the power to maximize. Of course salaried professionals are
+not really the same people as waged laborers, but Lippmann does all he can to erase the distinction,
+and so to make becoming a human capitalist normative for everyone who enters the workforce. The
+consumer, meanwhile, is the capitalist re-imagined as affective laborer. She is to dominate politics
+and to direct production merely through the exercise of market power. She exercises this power by
+choosing from a menu of options based on which politician, business, husband has most credibly
+aroused her desires and simultaneously promised to fulfill them. Without her exercising this power
+of choice, the whole system grinds to a halt. Of course housewives are not really the same people as
+the uber-rich, but Lippmann does all he can to convince us that in the future no one will have
+purchasing power in excess of their purchasing desires.
+
+¶9 Through this refactoring of labor and capital Lippmann takes what had been a division in the
+public sphere and moves it inside each private household. The result, which Lippmann did not quite
+anticipate, was that the household ceased to be a home. The problem was that housework can only be
+outsourced if ‘professionals’ (wage-earners) can do it more cheaply than the housewives, which
+requires either a class divide or efficiency gains. Lippmann’s project requires reliance on the
+latter: the early twentieth century housewife may still need ‘the help,’ but the guiding ideal is
+the streamlined world of the Jetsons. Such efficiency gains require standardization and
+centralization. Daycare shifts to a childcare facility the labor of creating new human capital;
+prepackaged food shifts from kitchen to processing plant the bulk of the labor of consumption; even
+labor-saving devices like laundry machines reduce the labor expended within the home only by
+substituting more routinized forms of labor on the factory floor. This standardization and
+centralization deprive the household of any distinct purpose; there is no particular reason why the
+housewife-as-consumer should be making consumption choices for anyone other than herself. This loss
+of purpose also deprives the household of any authority as a norm-creating institution, the
+breakdown depicted in *Mad Men*’s later seasons.
+
+¶10 The labor-capital divide then shifts into each human heart. Now a century into Lippmann’s world,
+we are all androgynous professional-consumers; we are all middle class, or, at least, want to
+imagine ourselves so. Less obviously, but just as importantly, the Lippmannian refactoring has the
+effect of yoking capitalism’s inhuman desire to reproduce itself onto all-too-human erotic desire,
+newly detached from human reproduction. In laissez-faire capitalism, what accumulates is capital,
+which grows as it is invested. In Lippmannian professionalist-consumerist socialism, as he at least
+partially understood, “the effect of the woman’s movement will accumulate with the generations”
+(p.237). Two things in particular accumulate: the professional’s productive capacity, embodied by
+ever-more complex institutions, and the consumer’s desire for greater production of interchangeable
+goods, now unanchored by the needs of any particular home economy. Both production and consumption
+thus become detached from any external reality desirable for its own sake.
+
+¶11 A fair inference from Lippmann’s account would be that the premier science of the twentieth
+century (as he accurately foresaw it) was the science of advertising. Lippmann recognized this
+possibility only to disavow it: “Advertising is in fact the weed that has grown up because the art
+of consumption is uncultivated” (p.67). But the attempted distinction here is hopelessly romantic.
+Lippmann imagined that consumer desires in his day were inauthentic impositions from outside, but
+that one day consumers would come into their own in the political sphere, seize the means of
+affective regulation, and choose how their choices are presented to them so as to make their
+first-order choices authentic. In fact, as Fraser helps us see—and this is the final point to be
+made—it is Lippmann himself who was engaged in false advertising. He presented himself as an
+educator who would show us what we must do to choose for ourselves a good future rather than a bad.
+But his entire professional project was to sell us our inescapable future and convince us that it
+was what we wanted all along.

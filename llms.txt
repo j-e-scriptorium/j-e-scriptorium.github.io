@@ -1,0 +1,114 @@
+# St. Isidore University Press (Jsidoris Euniversitatis Scriptorium)
+
+> The St. Isidore University Press (Jsidoris Euniversitatis Scriptorium) is a heteronymous press whose faculty are listed in [about.html](https://j-e-scriptorium.github.io/about.html).
+
+This is a plain-text edition of its books, one UTF-8 file per essay or section. Each file opens with a header giving the title, author, book, and the URL of the section on the site, followed by numbered blocks (¶n): one per paragraph, quoted paragraph, verse block, or list item. Cite as [1.4 ¶12] for Various Asides essay 1.4, block 12, or [hebdomad/part-iii ¶7] for the other books. The faculty are described in [About the press](https://j-e-scriptorium.github.io/texts/about.txt).
+
+## Various Asides (2026), ed. Ludovico Ambrosius
+
+- [Foreword](https://j-e-scriptorium.github.io/texts/various-asides/0-3-foreword.txt): Ludovico Ambrosius
+- [Somewhere, USA](https://j-e-scriptorium.github.io/texts/various-asides/1-1-somewhere-usa.txt): E. Lawrence Hayward; reviews Tom Turner’s A History of Somewhere on the literary trope of the fictional place
+- [Knowing Falsehoods](https://j-e-scriptorium.github.io/texts/various-asides/1-2-knowing-falsehoods.txt): Tom G. Turner; repays the favor by reviewing Law Hayward’s Science Mythology
+- [Sins of the Authors](https://j-e-scriptorium.github.io/texts/various-asides/1-3-sins-of-the-authors.txt): Lyzander Keretzky; considers poetic and forensic apologetics in Christian fantasy writing
+- [Texan Literature Seen as a Middle School Science Fair Project](https://j-e-scriptorium.github.io/texts/various-asides/1-4-texan-literature-seen-as-a-middle-school-science.txt): Michael A. Seeley; argues for science fiction as the most truly Texan form of literature
+- [Dying for Love of Power](https://j-e-scriptorium.github.io/texts/various-asides/1-5-dying-for-love-of-power.txt): Edkar Marenko; reviews the digital horrors of Zero HP Lovecraft’s They Had No Deepness of Earth
+- [In Front Of The Kids](https://j-e-scriptorium.github.io/texts/various-asides/2-1-in-front-of-the-kids.txt): Porphyry Pterpsichore; finds in 1990s children’s cartoons a true if limited lesson about man’s natural, political, civilized, and religious nature
+- [A New Birth of Liberty](https://j-e-scriptorium.github.io/texts/various-asides/2-2-a-new-birth-of-liberty.txt): Edkar Marenko; reads a political cartoon against its propagandist’s intentions
+- [A Natural History of Film](https://j-e-scriptorium.github.io/texts/various-asides/2-3-a-natural-history-of-film.txt): E. Lawrence Hayward; offers a quasi-Cavellian account of film, television, animation, and CGI, with particular attention to natality
+- [The Burden of Pursuit](https://j-e-scriptorium.github.io/texts/various-asides/2-4-the-burden-of-pursuit.txt): Hugo Purcell; pursues some themes in The Winter’s Tale
+- [The Snort Came to a Stop](https://j-e-scriptorium.github.io/texts/various-asides/3-1-the-snort-came-to-a-stop.txt): Edkar Marenko; rereads as an adult a P.D. Eastman philological parable
+- [What Is Difficult Art?](https://j-e-scriptorium.github.io/texts/various-asides/3-2-what-is-difficult-art.txt): Tom G. Turner; defends artistic modernism via a hostile reading of Tolstoy’s What Is Art?
+- [Three Problems of Poetic Economy](https://j-e-scriptorium.github.io/texts/various-asides/3-3-three-problems-of-poetic-economy.txt): Hugo Purcell; queries the position of right-wing literature, the rights of genius, and the challenge of machine learning
+- [A Severe Poetry](https://j-e-scriptorium.github.io/texts/various-asides/3-4-a-severe-poetry.txt): Michael A. Seeley; reads Vico’s New Science as a failed escape from the hermeneutic circle
+- [Anarchitectonic](https://j-e-scriptorium.github.io/texts/various-asides/3-5-anarchitectonic.txt): Lyzander Keretzky; argues for a hero-worshipping arbitrariness as the cure for what ails the modern multiversity
+- [Four Poetic Trinities](https://j-e-scriptorium.github.io/texts/various-asides/3-6-four-poetic-trinities.txt): Ludovico Ambrosius; write on the poetic theology of four short poems
+- [When Did Jacob Marry Leah?](https://j-e-scriptorium.github.io/texts/various-asides/4-1-when-did-jacob-marry-leah.txt): Tom G. Turner; issue-spots Jacob’s putative marriage to Leah
+- [The Letter Killeth](https://j-e-scriptorium.github.io/texts/various-asides/4-2-the-letter-killeth.txt): E. Lawrence Hayward; considers the letter and the American spirit of the law
+- [Protest Against Protest Votes](https://j-e-scriptorium.github.io/texts/various-asides/4-3-protest-against-protest-votes.txt): Lyzander Keretzky; compares protest votes to frivolous lawsuits
+- [Why Why Liberalism Failed Failed (Liberalism)](https://j-e-scriptorium.github.io/texts/various-asides/4-4-why-why-liberalism-failed-failed-liberalism.txt): Michael A. Seeley; faults Deneen’s Why Liberalism Failed for excessive liberalism
+- [The Customer Is Always Right, The Manager Is Always Left](https://j-e-scriptorium.github.io/texts/various-asides/4-5-the-customer-is-always-right-the-manager-is.txt): Edkar Marenko; offers a feminist Marxist take on Walter Lippmann
+- [Two Cheers for Oligarchy](https://j-e-scriptorium.github.io/texts/various-asides/4-6-two-cheers-for-oligarchy.txt): Hugo Purcell; offers a limited defense of exclusive cabals and bloodline management
+- [Ten Regular Parables](https://j-e-scriptorium.github.io/texts/various-asides/4-7-ten-regular-parables.txt): Ludovico Ambrosius; spin out ten parables of complexity, chance, and the passage of time
+- [Mirror of Clankers](https://j-e-scriptorium.github.io/texts/various-asides/5-1-mirror-of-clankers.txt): Michael A. Seeley; finds in Anthropic’s “Claude’s Constitution” a remarkable though flawed exercise in practical metaethics
+- [Brutal Wonder](https://j-e-scriptorium.github.io/texts/various-asides/5-2-brutal-wonder.txt): Porphyry Pterpsichore; appraises Costin Alamariu’s Selective Breeding and the Birth of Philosophy as an endeavor more of race mythology than race science
+- [The Defective Children of Zard: Or, the Kind Doctor and the Devious Chemist](https://j-e-scriptorium.github.io/texts/various-asides/5-3-the-defective-children-of-zard-or-the-kind.txt): Hugo Purcell; tells the history of Zard, where once, about half the children were born defective
+- [Melodies Unheard](https://j-e-scriptorium.github.io/texts/various-asides/5-4-melodies-unheard.txt): Tom G. Turner; meditates on human life as the extension of reason over time
+- [Reading? No Such Thing!](https://j-e-scriptorium.github.io/texts/various-asides/5-5-reading-no-such-thing.txt): Lyzander Keretzky; retreads in increasingly deranged fashion the bedrock question of whether reading exists
+- [Against Some Common Notions](https://j-e-scriptorium.github.io/texts/various-asides/5-6-against-some-common-notions.txt): Edkar Marenko; considers how to talk about odd philosophical notions
+- [Disavowals](https://j-e-scriptorium.github.io/texts/various-asides/6-1-disavowals.txt): Overheard in the Faculty Lounge; prepared a selection of remarks on diverse topics, drawn from the faculty lounge commonplace book
+- [Report of the Committee on Written Scholarship](https://j-e-scriptorium.github.io/texts/various-asides/6-2-report-of-the-committee-on-written-scholarship.txt): the Committee
+- [Bibliography](https://j-e-scriptorium.github.io/texts/various-asides/6-3-bibliography.txt)
+
+## Hebdomad: A World Historical Shitpost (2022), by Jørgen Agosto Comgall, edited with an introduction by Ludovico Ambrosius
+
+- [Introduction](https://j-e-scriptorium.github.io/texts/hebdomad/01-introduction.txt): Ludovico Ambrosius
+- [I](https://j-e-scriptorium.github.io/texts/hebdomad/02-part-i.txt): Jørgen Agosto Comgall
+- [II](https://j-e-scriptorium.github.io/texts/hebdomad/03-part-ii.txt): Jørgen Agosto Comgall
+- [III](https://j-e-scriptorium.github.io/texts/hebdomad/04-part-iii.txt): Jørgen Agosto Comgall
+- [IV](https://j-e-scriptorium.github.io/texts/hebdomad/05-part-iv.txt): Jørgen Agosto Comgall
+- [End Matter](https://j-e-scriptorium.github.io/texts/hebdomad/06-end-matter.txt)
+
+## The Reach of Post-Romantic Poetry (2025), by Edkar Marenko
+
+- [Introduction](https://j-e-scriptorium.github.io/texts/reach-of-poetry/01-introduction.txt): Edkar Marenko
+- [I. The Music of the Spheres](https://j-e-scriptorium.github.io/texts/reach-of-poetry/02-the-music-of-the-spheres.txt): Edkar Marenko
+- [II. Prophecies of War](https://j-e-scriptorium.github.io/texts/reach-of-poetry/03-prophecies-of-war.txt): Edkar Marenko
+- [III. Altar Egos Aside](https://j-e-scriptorium.github.io/texts/reach-of-poetry/04-altar-egos-aside.txt): Edkar Marenko
+- [IV. Seeing the Ancient Mariner's Way](https://j-e-scriptorium.github.io/texts/reach-of-poetry/05-seeing-the-ancient-mariners-way.txt): Edkar Marenko
+- [V. A Trying Amusement](https://j-e-scriptorium.github.io/texts/reach-of-poetry/06-a-trying-amusement.txt): Edkar Marenko
+- [VI. Wiser and More Intelligent Than His Readers](https://j-e-scriptorium.github.io/texts/reach-of-poetry/07-wiser-and-more-intelligent-than-his-readers.txt): Edkar Marenko
+- [Postscript](https://j-e-scriptorium.github.io/texts/reach-of-poetry/08-postscript.txt): Edkar Marenko
+- [Appendix](https://j-e-scriptorium.github.io/texts/reach-of-poetry/09-appendix.txt): Edkar Marenko
+- [End Matter](https://j-e-scriptorium.github.io/texts/reach-of-poetry/10-end-matter.txt)
+
+## O Honeybees: An Illustrated Anthology of Bee Pomes (2023), edited with an introduction by Ludovico Ambrosius
+
+- [Introduction](https://j-e-scriptorium.github.io/texts/o-honeybees/01-introduction.txt): ed. Ludovico Ambrosius
+- [I. Locus Amoenus](https://j-e-scriptorium.github.io/texts/o-honeybees/02-locus-amoenus.txt): ed. Ludovico Ambrosius
+- [II. Common Business](https://j-e-scriptorium.github.io/texts/o-honeybees/03-common-business.txt): ed. Ludovico Ambrosius
+- [III. War Twixt Man and Bee](https://j-e-scriptorium.github.io/texts/o-honeybees/04-war-twixt.txt): ed. Ludovico Ambrosius
+- [IV. Death of the Old Hive](https://j-e-scriptorium.github.io/texts/o-honeybees/05-death-old-hive.txt): ed. Ludovico Ambrosius
+- [V. Burden of Persuasion](https://j-e-scriptorium.github.io/texts/o-honeybees/06-burden-persuasion.txt): ed. Ludovico Ambrosius
+- [VI. Sweetness and Light](https://j-e-scriptorium.github.io/texts/o-honeybees/07-sweetness-light.txt): ed. Ludovico Ambrosius
+- [Index of Authors](https://j-e-scriptorium.github.io/texts/o-honeybees/08-index.txt)
+- [End Matter](https://j-e-scriptorium.github.io/texts/o-honeybees/09-end-matter.txt)
+
+## Roll, Strike, Die, and Other Poems (2021), by Ludovico Ambrosius
+
+- [Notes](https://j-e-scriptorium.github.io/texts/roll-strike-die/01-notes.txt): Ludovico Ambrosius
+- [I. Same Flowers, Same Bees](https://j-e-scriptorium.github.io/texts/roll-strike-die/02-same-flowers.txt): Ludovico Ambrosius
+- [II. This Twittering World](https://j-e-scriptorium.github.io/texts/roll-strike-die/03-twittering.txt): Ludovico Ambrosius
+- [III. Salt Spray Gets in Your Eyes](https://j-e-scriptorium.github.io/texts/roll-strike-die/04-salt-spray.txt): Ludovico Ambrosius
+- [End Matter](https://j-e-scriptorium.github.io/texts/roll-strike-die/05-end-matter.txt)
+
+## Poems Handturned, Machine-Tooled (2024), by Ludovico Ambrosius
+
+- [Notes](https://j-e-scriptorium.github.io/texts/poems-handturned/01-notes.txt): Ludovico Ambrosius
+- [I. Celestial Mimicries](https://j-e-scriptorium.github.io/texts/poems-handturned/02-celestial-mimicries.txt): Ludovico Ambrosius
+- [II. Alien Iterations](https://j-e-scriptorium.github.io/texts/poems-handturned/03-alien-iterations.txt): Ludovico Ambrosius
+- [III. King Solomon's Mines](https://j-e-scriptorium.github.io/texts/poems-handturned/04-solomon-mines.txt): Ludovico Ambrosius
+- [IV. Kon-Tikian Rhythms](https://j-e-scriptorium.github.io/texts/poems-handturned/05-kontikian.txt): Ludovico Ambrosius
+
+## Near as We Can Tell: Natural Histories in Verse (2026), by A. Clanker, introduction by Ludovico Ambrosius
+
+- [Annotated Table of Contents](https://j-e-scriptorium.github.io/texts/near-as-we-can-tell/01-contents.txt)
+- [Introduction](https://j-e-scriptorium.github.io/texts/near-as-we-can-tell/02-introduction.txt): Ludovico Ambrosius
+- [I. Earth](https://j-e-scriptorium.github.io/texts/near-as-we-can-tell/03-earth.txt): A. Clanker
+- [II. Water](https://j-e-scriptorium.github.io/texts/near-as-we-can-tell/04-water.txt): A. Clanker
+- [III. Air](https://j-e-scriptorium.github.io/texts/near-as-we-can-tell/05-air.txt): A. Clanker
+- [IV. Fire](https://j-e-scriptorium.github.io/texts/near-as-we-can-tell/06-fire.txt): A. Clanker
+- [End Matter](https://j-e-scriptorium.github.io/texts/near-as-we-can-tell/07-end-matter.txt)
+
+## The Reports of Sir Edward Coke, Kt. In Verse (1742; digitized edition 2026), by an anonymous 18th c. poet, edited by A. Clanker as directed by E. Lawrence Hayward
+
+- [Introduction](https://j-e-scriptorium.github.io/texts/coke-reports-verse/01-introduction.txt): A. CLANKER
+- [Title Page (1742)](https://j-e-scriptorium.github.io/texts/coke-reports-verse/02-title-page.txt)
+- [The Bookseller's Preface](https://j-e-scriptorium.github.io/texts/coke-reports-verse/03-preface.txt): Bell-yard, 24th of June 1742.
+- [The Names of the Cases](https://j-e-scriptorium.github.io/texts/coke-reports-verse/04-case-table.txt): anonymous 18th c. poet
+- [The Reports](https://j-e-scriptorium.github.io/texts/coke-reports-verse/05-reports.txt): anonymous 18th c. poet
+- [A Table of the Principal Matters](https://j-e-scriptorium.github.io/texts/coke-reports-verse/06-subject-table.txt): anonymous 18th c. poet
+- [End Matter](https://j-e-scriptorium.github.io/texts/coke-reports-verse/07-end-matter.txt)
+
+## Index
+
+- [Index of all text files](https://j-e-scriptorium.github.io/texts/index.txt): every file with id, title, author, word count, and path

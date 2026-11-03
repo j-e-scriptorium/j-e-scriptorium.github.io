@@ -1,0 +1,136 @@
+# [reach-of-poetry/introduction] Introduction
+From: The Reach of Post-Romantic Poetry (2025), by Edkar Marenko
+URL: https://j-e-scriptorium.github.io/reach-of-poetry.html#introduction
+
+¶1 This is a book about the reach of post-romantic poetry: the stretching out of its hand, and the
+terrain it stretched across.
+
+¶2 Less elliptically: this is a book about poetic judgment generally, and in particular, the poetic
+judgments of a handful of poets writing in the British Isles from the last third of the nineteenth
+to the first two thirds of the twentieth century.
+
+¶3 By poetic judgment, I do not mean to demarcate the poetic from the prosaic, the straightforward,
+the truthful. Rather, I mean to suggest how, with extraordinary deliberation, ordinary words come to
+bear an extraordinary weight of meaning. So we should hear the adjective “poetic” objectively, as in
+Geoffrey Hill’s comment that “in the act of ‘making’ we are necessarily delivered up to judgment”
+[“Poetry as ‘Menace’ and ‘Atonement’,” 1978]—but also subjectively, as in A. D. Nuttall’s suggestion
+that to dramatize in poetry one’s response to the divine is always “a kind of usurpation” of its
+cosmic jurisdiction [*Overheard by God*, 1980]. It is by allowing the phrase to echo in the mind
+with both meanings at once that we can begin to come to poetic terms with it.
+
+¶4 Hill’s and Nuttall’s remarks suggest an axis of possible judgments along which to plot poetic
+motives, running from “handing over” to “taking in hand.” With “motive,” as well as “judgment,”
+taking multiple meanings; let the word signify not only mental attitude (a motive for action), but
+also physical movement (a motive force), and formal patterning (a leitmotif). A poetic utterance,
+the sort that both enacts and invites poetic judgment, has a motive in all three senses: it bodies
+forth a state of the spirit, undertaken in response to some state of the world, and aiming at
+bringing the two into some sort of alignment. To understand a poem is to understand how it
+accomplishes this bodily spirit-world harmony—or fails (i.e., accomplishes that harmony’s failure).
+
+¶5 The poems which this book particularly seeks to understand were written between 1885 and 1973 by
+Gerard Manley Hopkins, William Butler Yeats, Wilfred Owen, Thomas Stearns Eliot, David Jones, and
+Wystan Hugh Auden. These poets’ forbear Samuel Taylor Coleridge comes up frequently, but as a point
+of comparison, a touchstone, never as a first thought. Other predecessors and contemporaries
+(Milton, Shelley, Keats, Arnold, Joyce) are alluded to in passing. Geoffrey Hill, the greatest
+British poet of the late twentieth century, hovers always in the background. Which is not to say
+that this book is an exercise is historical literary scholarship. To the contrary, I am relatively
+uninterested in these poets’ life trajectories and cultural contexts, except insofar as they affect
+our understanding of the poetry itself. But neither am I so doctrinaire a new critic as to insist
+that life and art will never meaningfully overlap. The point is simply that I do not offer here an
+historical account of a particular period, trend, or coterie in late nineteenth and early twentieth
+century British literature. Rather, I aim to outline a particular moment in the dialectic of British
+post-romanticism. The moment, I must acknowledge, that matters most to me, that stands center in my
+idea of poetry, that I most care to judge accurately.
+
+¶6 Coleridge casts his shadow over this book’s epoch because he wrote both the most perfect lyric
+poem (“Kubla Khan”) and the most perfect narrative poem (*The Rime of the Ancient Mariner*) of the
+last quarter-millennium—or at least such is my own critical judgment. Hill lurks at the threshold as
+the most recent poet I find myself able to consider great. The remainder are not the only poets I
+consider great—and some I consider greater than others—but they are a set of poets who, standing in
+Coleridge’s shadow, had an extended conversation with one another about what poetry is, can be, and
+should be. Or perhaps it should be said that their poetry had this conversation. At any rate, this
+book follows some lines laid down therein. It reaches, we might say, from the terminus of
+Coleridge’s sacred river Alph, which
+
+¶7 >     reached the caverns measureless to man,
+>     And sank in tumult to a lifeless ocean,
+
+¶8 To the unnamed watercourses of Hill’s “Genesis,” where
+
+¶9 >     The tough pig-headed salmon strove,
+>     Curbing the ebb and the tide’s pull
+>     To reach the steady hills above.
+
+¶10 Perhaps by way of Robert Browning’s “a man’s reach should exceed his grasp”—though through
+whatever path-dependency in my own career as a reader, Browning does not enter into this book’s
+version of the British post-romantic canon.
+
+¶11 That canon, as presented within the book, is eccentric in two respects. First, it does not
+respect the usual rank-ordering of poets; it spends much of its time with household names like
+Coleridge, Yeats, Eliot, and Auden, but take equally serious more minor poets like Hopkins and Owen,
+and a full one and a half chapters to David Jones, a British post-romantic poet and painter you
+likely had never heard of until picking up this book. Second, and relatedly, the poets making up
+this book’s poetic canon always understood poetry alongside (in contrast to, or in collaboration
+with) religion, and specifically the Christian faith. Most of the poets I consider were practicing
+Christians of one form or another; Coleridge, Eliot, and Auden were high-church Anglican, though of
+debatable orthodoxy, while Hopkins and Jones were Roman Catholic, which in an English context (as
+Ford Madox Ford, among others, has pointed out) is always to say a kind of non-conformist. The two
+exceptions are Owen, who shows up only in Chapter II, and Yeats, who is in a way the main character
+of the book, playing a role in five of six chapters while no other poet appears in more than half of
+them. Owens lost his low-church evangelical faith at a young age, while Yeats seems to have always
+been what is today called “spiritual but not religious.” Both are closer to the norm for this period
+of literary history than the more religious poets on whom I focus. We might take them to stand for
+the mainstream of British poet-romantic poetry—but this book focuses on post-romanticism’s outer
+reaches, where the solitude of poetry clashed against the communal dimension of organized religion.
+Indeed, the question of religion, and in particular of high-church Christian religion, is part of
+why I have seized on the term “post-romantic” (be sure to give the embedded “roman” its due) instead
+of the more ready-to-hand “modernist.” Another consideration being that “modernist” as the term is
+traditionally used does not include Owen or Hopkins.
+
+¶12 The six chapters across which I sketch my argument (which will at times seem less argument than
+commentary, an attempt to translate into prose what these poets built into their poetic forms) fall
+into two parts.
+
+¶13 The first three are comparative: Chapter I traces the problem of poetic innovation in Hopkins,
+Yeats, and Auden (with comparison to two strands of pre-romantic poetry); Chapter II the problem of
+poetic violence in Owen and Yeats (with comparison to the paradigm romantic Coleridge); and Chapter
+III the problem of poetic vocation in Jones and Auden (with comparison to the post-romantic
+mainstream). The first two of these chapters will for the reader well-versed in British poetry tread
+familiar ground, although it is to be hoped that they follow an unexpected route in doing so. The
+third chapter considers more obscure material, but not, I think, of less intrinsic interest.
+
+¶14 The last three chapters each focus on an individual poet, though for only one do I consider his
+poetry in the strict sense of the word, and even there, the poetry considered is not in the mode of
+the post-romantic lyric—that verbal composition, as Helen Vendler eloquently explained it, that
+invites us “to take such words as our own” [*Soul Says*, 1996]. This avoidance of “poetry proper” is
+intentional; my goal in these chapters is to understand the alternatives these poets turned to when
+they ran up against the post-romantic lyric’s intrinsic limitations. Chapter IV looks at Jones’s
+copperplate illustrations for Coleridge’s *Ancient Mariner*; Chapter V at Eliot’s poetic drama
+*Murder in the Cathedral*; and Chapter VI at Auden’s late light verse.
+
+¶15 I have already noted that this is a work of literary criticism, not historical literary
+scholarship. Yet the reader will also by now have noticed that it is not a work of academic literary
+criticism, even if parts of the book first began to take shape in an academic context. Which is
+mostly to say that it does not conform to the conventions of the academic genre, with copious
+footnotes including citations to previous “researchers” on the same “subject matter.” The preceding
+paragraphs have referenced a few ideas about poetry-in-general attributable to literary critics who
+held academic posts (Hill, Nuttall, Vendler). There will be no more such references, for the goal is
+to take these poets and their poetry on their own terms. I do from time to time quote various
+literary scholars (Samuel Hynes, Geoffrey Hill, Thomas Dilworth, Stanley Fish, Lucy McDiarmid, Peter
+McDonald) for their particular thoughts about particular poets’ varieties of poetic motive. I
+endeavor to do so as infrequently as possible. When they occur, these citations are meant to stand
+as signposts to mark when a particular reader’s gloss on a literary work has indelibly marked my
+understanding of it. Occasionally by getting the work wrong—but even erroneous readings can be
+enlightening (this possibility being a central theme of the fourth and fifth chapters, if not of the
+entire book).
+
+¶16 The Appendix presents the full text of each of the poems I discuss in any detail, save those
+that are too long for such treatment to be possible or too short for it to be necessary. (The reader
+is encouraged to refer to the Appendix frequently, to assess that discussion’s accuracy.) This book
+also quotes and discusses a number of prose fragments, but with a single exception (Coleridge’s
+Preface to “Kubla Khan”), the Appendix does not present any of the wholes (letters, essays,
+lectures) from which these fragments were drawn. Those larger wholes are too large to fit
+comfortably within this volume, and besides—though they contain moments of poetry, in the broader
+sense of that term—they do not comprise unified poetic wholes, *fully intentional *verbal
+arrangements. Poetry does not require meter or rhyme or even lineation, but discrete identifiable
+poems do tend to be in verse.

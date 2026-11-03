@@ -1,0 +1,579 @@
+# [1.4] Texan Literature Seen as a Middle School Science Fair Project
+Michael A. Seeley — University of St. Isidore — February 2026
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-1-4
+Foreword gloss: argues for science fiction as the most truly Texan form of literature
+
+¶1 Quincey Morris arrives in Bram Stoker’s *Dracula* [1897] with a Winchester, a bowie knife, and,
+most importantly, no journal. Of all the vampire hunters’ contributions to the casefile his is the
+slightest, a single short letter inviting another disappointed lover to come drink whiskey and tell
+yarns around a campfire. This squib aside, he has nothing to say: he is all action, and when the
+moment comes, he dies driving his knife into the vampire’s heart while the others watch. The
+significance of Morris’s Texanhood is left unelaborated because there is no need to explain. By the
+1890s the Texan is already a legible type in world literature: the man of necessary violence,
+laconically administered, culminating in self-sacrifice. He is what civilization needs and cannot
+produce from its own resources.
+
+¶2 One year later Stephen Crane published “The Bride Comes to Yellow Sky” [1898], in which the Texan
+receives his eulogy shortly before interment. Marshal Jack Potter returns to his frontier town with
+a bride whose presence prevents the town drunk Scratchy Wilson, last holdout of the old codes, from
+having the ritual confrontation with the law he has been waiting for. The Texan has been
+domesticated; Wilson drops his gun and walks away, leaving “funnel-shaped tracks in the heavy sand.”
+As Frederick Jackson Turner had announced at the World’s Columbian Exposition five years earlier,
+the American frontier was closed.
+
+¶3 Then on the morning of January 10, 1901, the Lucas Gusher blew in at Spindletop, near Beaumont,
+and a column of oil rose a hundred and fifty feet above the derrick. The frontier reopened in a
+different direction: the tracks in the sand turned out to have been traced over three hundred
+million years of compressed seafloor. The heroic age of Texas would not return, but the next century
+of development would reshape what that heroic age meant. Even fully developed Texas did not produce
+novelists like George Eliot and Henry James, or Bram Stoker and Stephen Crane, yet the state is not
+without a literature of its own; to understand it requires first understanding the received myth of
+Texas, and the reality, and how they intertwine.
+
+* * *
+
+¶4 The myth of Texas is known to every Texas schoolchild. After all, Texas law since 1918 has
+mandated the teaching of Texas history; the present author took a unit on the topic in elementary
+school, and a full year in seventh grade. As for the reality, it owes its existence to the myth, and
+not only in that the story of the Alamo inspired the Texas Revolution to victory. Texas from its
+inception has been the subject of claims whose reach far exceeded their grasp. The French planted a
+flag and left; the Spanish built a few missions near San Antonio and claimed an unbounded wedge of a
+continent. Before the first Anglo-Saxon lived in Texas there were men who—whether or not they
+thought themselves Texan—acted as though they were. The word “filibuster” descends from
+*filibustero*, itself from the Dutch *vrijbuiter*, which is the English word “freebooter” said with
+a funny accent. In its original sense (from which the legislative version is derived) “filibuster”
+means an unauthorized military effort to conquer new territory. The Gutiérrez-Magee expedition of
+1812, for example, was a self-commissioned force of American and Mexican men setting out from
+Louisiana to liberate Texas from Spain, betting their lives on land claims that did not yet exist.
+
+¶5 Whenever Americans came to Texas in the first half of the nineteenth century, the archvillain of
+Texas history Antonio López de Santa Anna soon arrived to fight them, lose, and sign away what he
+did not own. The pattern begins in 1813, when Santa Anna was nineteen years old. He had marched
+north as a young officer of the army of New Spain to help put down the filibuster; after doing so at
+the Battle of Medina he found himself stationed in sleepy San Antonio, playing cards. He lost
+heavily. He forged the signatures of his superior officers to withdraw the necessary pesos from the
+company purse, and when caught escaped punishment by arguing that the payments had been necessary to
+maintain the honor of the regiment. Such would be his approach to life for the next forty years,
+which Mexican history recognizes as the Age of Santa Anna.
+
+¶6 Santa Anna styled himself the Napoleon of the West, and not inaccurately: he shared with his idol
+a military genius marred by repeated overreach, and his career followed the same trajectory of
+brilliant early campaigns, coronation as dictator, exile and improbable return and second exile.
+(Santa Anna outdid Napoleon through a third exile after a second return.) Also like Napoleon, Santa
+Anna played a pivotal role in America’s acquisition of a third of its land empire, though in his
+case the transfer took place through war rather than sale. The irony is that this archetypal
+*caudillo* was also something of a freebooting Texan in character—indeed, not entirely dissimilar to
+the American president Andrew Jackson, who also has an age named after him. Jackson was not Texan
+(in his day none were) but like many future Texans he hailed from Tennessee, and was what David
+Hackett Fischer would call a Borderer [*Albion’s Seed*, 1989], and a Borderer would call an
+American. Mexico is also, of course, part of the Americas, but everyone knows the difference.
+
+¶7 The Americans resembled the Mexicans in multiple ways, including their honor culture and capacity
+for violence. There were also, however, important racial-cultural differences between the two
+groups. For example, Santa Anna’s brazen disregard for social norms was not typical—it was part of
+the exceptional genius that led him to dominate Mexico for decades. More fundamentally, the Mexican
+creole elites carried over the civil law and inquisitorial tradition; were divided between Catholics
+and Freemasons; and expected the mestizo and indio populace to obey them without question. The
+Spanish, after all, had been administrative colonialists, used to replacing the top of the native
+hierarchy and otherwise leaving the old civic order intact. Whereas the Americans were settler
+colonialists, with a particular attachment to their own independence: they moved into underpopulated
+land, brought it into cultivation, and as soon as the lands around began to fill up moved further
+out on the frontier. They believed in common law, property rights, and trial by a jury of one’s
+peers; adhered to the lowest of low churches; and obeyed no authority they did not respect.
+
+* * *
+
+¶8 It was perhaps inevitable that Americans would enter Texas and there clash with the Mexicans.
+Perhaps less inevitably, the Mexicans invited them in. They did so in response to the threat of the
+Comanches—seen by both Mexicans and Americans as mere savages, but dominating the prairie as
+thoroughly as the Mongols had the steppe six centuries earlier. The Spanish approached the Comanche
+problem as one of administration, then found that they could not corral into haciendas a people with
+no interest in being administered and the ability to do otherwise. After Mexican independence, the
+new nation’s strategy was to invite American settlers to serve as a buffer, granting *empresario*
+contracts on condition that settlers learn Spanish and convert to Catholicism. The central authority
+never took these conditions seriously: it was content for the now-Texans to be legally Mexican but
+culturally American so long as their presence stabilized the northern frontier. The Connecticut-born
+entrepreneur Moses Austin secured the first *empresario* grant. He died before seeing the promised
+land, but his son Stephen F. Austin inherited the grant and spent the next decade doing the
+unromantic work of institutional creation.
+
+¶9 From this *empresario* beginning the Anglo-Texan displayed the typical habits of what Oswald
+Spengler would name Faustian man [*The Decline of the West*, 1918], always leveraging his future
+against his present in an effort to spread into infinity. Creditors knocking on an Appalachian
+bankrupt’s cabin door would find a note reading “GTT,” gone to Texas. The Anglo-Texan approach to
+the Comanche problem they were there to solve was decentralized and entrepreneurial. The Rangers
+were founded in 1823 not as a professional army but as a volunteer force of men who elected their
+own officers and supplied their own horses. Eventually the 1847 Walker Colt revolver, designed
+specifically for mounted combat on Comanche terms, would decisively shift the military balance and
+ensure Ranger victory. The Indian Wars began, however, long before the revolver was invented, and
+for decades the Comanche’s rapid-fire hit-and-run archery tactics were more than a match for the
+colonists’ slow-reloading rifles. The Anglo-Texans stuck it out, going deeper and deeper into
+blood-debt, because they were confident that the idea of Texas could call into being the means to
+defend it.
+
+¶10 The Mexican authorities could not understand this willingness on the Anglo-Texans’ part, nor
+could they anticipate what its consequences would be—otherwise they never would have invited in a
+population that descended from different ancestors, spoke a different language, and adhered to a
+different religion and a different legal tradition. The inevitable frictions resulting from that
+invitation were compounded in the early 1830s by upheavals within Mexico itself. Matters came to a
+head in 1835, when Anglo-Texas responded to Santa Anna’s unilateral constitutional reforms in a way
+typical of peripheral Mexican states: it issued a *pronunciamento*, a statement of grievances
+reciting constitutional violations by the central authority. Other states had done likewise;
+Zacatecas was in open rebellion. The understood dynamic was that enough *pronunciamentos* would
+signal to the central authority that it had overreached, and it would back down without bloodshed.
+Yet the Anglo-Texan *pronunciamento* had an American tang to it; it was written in Spanish, but the
+signatories had surnames like “Archer” and “Barnett.”
+
+¶11 So Santa Anna imprisoned Stephen F. Austin, who had come to Mexico City to discuss potential
+resolutions to the dispute; then violently suppressed the Zacatecas rebels; then issued the December
+1835 Declaration of Tornel, proclaiming the legally resident Texans to be filibusters and *hostis
+humani generis*. He was motivated by his half-insight into the Anglo-Texan mentality: he correctly
+suspected them of desiring independence from Mexico despite their Mexican constitutional rhetoric,
+and incorrectly assumed that a show of brutality would cow them into submission. He marched north
+with six thousand men and laid siege to the Alamo right when the Anglo-Texan leadership were
+gathering in Washington-on-the-Brazos to consider their response. He took the Alamo in early March
+1836, executing its defenders as land-pirates; around the same time, the Anglo-Texans declared
+independence. The exact order of events perhaps matters for law, but not for myth: the story
+immediately became and ever since has been that independence was a response to Santa Anna’s
+murderous tyranny. Then Sam Houston, Texas’s George Washington, led Santa Anna’s army on a wild
+goose chase deep into southeast Texas, only to turn around on April 21 and surprise the Mexicans at
+the Battle of San Jacinto, winning the day in a matter of minutes and capturing Santa Anna as he
+tried to flee in a woman’s dress.
+
+* * *
+
+¶12 In short, Texas was born out of a blunder of staggering proportion: the dictator of a nation of
+seven million rode north with only a small force to an unruly border province of thirty-five
+thousand, and allowed himself to be taken prisoner. It is as if Xerxes had brought far too small an
+army and gotten himself captured at Plataea. Of course, the real-life Xerxes, who was not captured
+at Plataea, still did not conquer Greece, suggesting there are limits to the significance of any one
+man’s folly. Santa Anna’s humiliating capture nevertheless had lasting consequences. The
+Anglo-Texans would not let him go until he signed the Treaties of Velasco, acknowledging an
+independent Texas extending to the Rio Grande. That this was a far greater expanse than the land the
+Anglo-Texans actually occupied they saw as no more a defect than the fact that Mexico’s prior claim
+to Texas had been hollow until Anglo-Texan settlers began defending it. Mexico repudiated the
+Treaties almost immediately, arguing duress, though it is unclear why there is an obligation to
+release a *generalísimo* captured on the field of battle before negotiating with him. The Mexicans
+also gestured at Santa Anna’s lack of constitutional authority to cede territory, thus conceding the
+Texans’ point that he was a tyrant.
+
+¶13 Whatever the legal niceties, the claim for Texas independence now existed as a political fact—as
+it would not have, or at least not in the same form, if Santa Anna had better handled the
+Anglo-Texas problem. The most prudent course of action might have been simply to cut Texas loose in
+1835 with the border drawn where it always had been, at the Nueces. After all, once the Anglo-Texans
+began legally settling in east Texas they were always going to draw it closer and closer into the
+cultural and political orbit of the American South. The Anglo-Texans had brought their slaves with
+them, as they brought their legal customs and their religion, though all three were strictly
+speaking against Mexican law. (Mexico preferred its own form of coerced labor, the peonage system,
+which Congress in 1867 used its Thirteenth Amendment authority to outlaw.) Although not yet an
+American state, Texas was part of the system of American slavery. And because Santa Anna signed the
+Treaties of Velasco, that system could claim not just what would become the Texas Triangle, but all
+of Greater Texas.
+
+¶14 Under ordinary conditions, slavery does not pay its own capital costs. Slaves taken in wars are
+valuable because already grown, but slaves usually do not generate enough surplus to warrant
+encouraging them to reproduce. The American South was an exception, and Texas the frontier edge of
+that exception, because two conditions converged there. First, technology: the cotton gin and the
+spinning mill made unskilled field labor unusually valuable, and firearms made the coercive
+apparatus unusually affordable, so long as the enslaved population remained a minority within a
+broader social order. Second, cultural geography: the open frontier meant that free
+laborers—especially the Scots-Irish Borderers who constituted much of the South’s white
+population—would not submit to agricultural wage-work at any price the planters could afford,
+because a man could simply move west and claim his own land. The result was the one historical case
+in which a slave population was reliably self-reproducing: not because slavery is generally
+efficient, but because unusual conditions made it more workable than the alternative.
+
+¶15 Since cotton plantations used up the soil, the survival of the system depended on outward
+expansion, a fact that dominated American politics from the 1830s through the Civil War.
+Understanding their targets primarily as names on a map, Southerners dreamed of filibusters
+establishing a Golden Circle—Cuba annexed, Mexico subordinated, a tropical slave republic stretching
+from the Chesapeake to the Yucatán. When they heard of an independent Republic of Texas with a claim
+running as far west as Santa Fe, they expanded the imagined Golden Circle into a land empire
+stretching out to the Pacific. What they did not realize was that Texas, and in fact east Texas, was
+the end of the line: the land further west grew arid and unable to support Carolina-style cotton
+agriculture. Independent Texas’s sole attempt at westward expansion, the disastrous 1841 Santa Fe
+Expedition, bore no fruit beyond mounting debts both because the terrain was hostile, and because
+New Mexico was already home to a centuries-old colony loyal to Mexico. The solution was annexation
+by the United States of America—a key plank in James K. Polk’s 1844 presidential platform—and the
+subsequent assertion of its leveraged claim to Greater Texas with the full force of the American
+military. The United States of Mexico, which had never recognized Texan independence, treated
+annexation as an act of war, and Polk obligingly sent troops to the disputed territory between the
+Nueces and the Rio Grande.
+
+* * *
+
+¶16 The resulting conflict was lopsided in more ways than one: America had about three times
+Mexico’s population, and was an order of magnitude more industrialized. The war began in April 1846
+and within a year and a half American forces had captured Mexico City. Santa Anna, who had been in
+exile, returned once more to power to lead the Mexican army, and once again lost the day. Many in
+the Polk administration wanted to annex all of Mexico, but in the event the war concluded with the
+Treaty of Guadalupe Hidalgo, by which America acquired the entire Southwest from Texas to
+California, paying for the acquisition partly in cash, partly in assumption of debts owed by Mexico
+to American citizens. The new territory was far more extensive than had been claimed by Greater
+Texas, and amounted to roughly a third of Mexico’s territory, but only a tiny fraction of the
+Mexican population—most of California, Nevada, Arizona, Utah, and Colorado were inhabited only by
+natives who had never recognized Mexican sovereignty.
+
+¶17 Two years later came the Compromise of 1850, when the logic of leveraged debt became fully
+visible. The Mexican Cession had reopened the question that the Missouri Compromise had temporarily
+closed: would the new territories be slave or free? The South said that the Constitution protected
+slave property in all territories; the North said that Congress could exclude slavery from any
+territory it pleased; California wanted immediate admission as a free state; and Texas threatened to
+enforce by arms its 1836 Rio Grande claim all the way to Santa Fe—territory the federal government
+regarded as part of the 1848 acquisition. The Compromise addressed all of these disputes at once. As
+to Texas’s boundaries, they were redrawn in exchange for a $10 million payment that Texas used to
+retire the Republic’s debts. Border squabbles across the Rio Grande would continue for the next
+half-century, but Texas had now freed itself of Mexican empire.
+
+¶18 A decade later the Civil War arrived, and Texas seceded along with the rest of the South.
+Texas’s experience of that war was, however, unlike that of other Southern states, being too far
+west and too thinly populated to serve as a major theater of operations. The only Texan battle
+anyone remembers is Palmito Ranch, near Brownsville, on May 13, 1865—and it only because it was the
+very last Civil War battle, taking place more than a month after Lee’s surrender and Lincoln’s
+assassination, and only because the news had not yet reached the Rio Grande. Emancipation would not
+reach Galveston until June 19. Reconstruction, that war of occupation following the war of conquest,
+roiled Texas much as it did the rest of the South, but left a notably fainter mark on the state’s
+self-conception. Texas had more pressing concerns—and a perspective from which the presence of
+occupying Union troops was not altogether an evil thing.
+
+¶19 Even as the Civil War and Reconstruction raged in the East, the Indian Wars smouldered in the
+West. The frontier counties that sent men east to fight for the Confederacy were simultaneously
+losing women and children to Comanche raids, and the federal troops who arrived after Appomattox to
+enforce Reconstruction also took up the Indian Wars where the Rangers had left off. Both conflicts
+ended around the same time. Quanah Parker, the last principal chief of the Comanches and himself
+half-Anglo—his mother Cynthia Ann Parker had been captured as a child in the Fort Parker raid of
+1836, the same year as the Alamo—surrendered in 1875 after the systematic slaughter of the buffalo
+made continued resistance a matter not of courage but of starvation. And the Compromise of 1877 saw
+federal troops withdraw from the entire South, allowing white “Redeemers” to take control.
+
+¶20 Southern Redeemers were generally nostalgic for the antebellum South, but in Texas, still in
+many ways a frontier state, there was less of an antebellum world to look back to. Instead, the
+Indian threat quelled though not yet entirely abolished, the 1870s and 1880s were the time of the
+great cattle drives, and of that figure of mounted freedom who briefly gave Anglo-Texas its most
+exportable myth. The vast majority of Texans were never cowboys, but it was around the time of the
+cowboy that the Texans completed something like an ethnogenesis. They were no longer merely
+transplanted Borderers, any more than the Afrikaners were merely transplanted Dutch: the experience
+of self-commissioned statehood and decades of warfare on the Comanchería had forged them into a
+distinct people.
+
+* * *
+
+¶21 The distinctness of the Texan way of life had at its core a vision of property. Four competing
+conceptions of ownership had contended in Texas for mastery. The Golden Circle’s was property in
+men: the claim to own another human being as chattel, on which the Confederacy had staked its
+existence and lost. The Comanche’s was property in animals: horses above all, raided and traded and
+bred as the currency of Plains power, the basis of an economy that collapsed when the buffalo were
+exterminated. The Mexican’s was property in office: the hacienda system in which dominion over
+territory was inherently political, flowing downward from the sovereign through the alcalde to the
+peón. But the Borderer’s vision of property was property in land: the conviction that a man who
+occupied a piece of ground, fenced it, improved it, and defended it thereby acquired a right
+anterior to any government’s say-so.
+
+¶22 The Borderer’s vision was the vision that survived. The subsequent decades saw the advent of its
+great symbol, barbed wire. Patented by Joseph Glidden in 1874 and arriving in Texas almost
+immediately, barbed wire did what no prior technology could: it allowed a single man to enclose vast
+tracts of open range at trivial cost. Barbed wire traces an invisible line across the prairie,
+elevating the rights of property to the spiritual plane; the ranch gateway that interrupts the long
+wire strand stands as a mystic portal between two worlds differing only in who has dominion over
+them. Barbed wire made the Borderer vision of property finally enforceable on the open plains, and
+in doing so it killed the cowboy way of life, which had depended on those plains remaining open.
+Within a single generation the open-range cattleman gave way to the rancher behind wire—and then
+almost immediately to something stranger still.
+
+¶23 For the Borderer vision of property included not just the surface but what lay beneath it. Had
+Texas remained under Mexican law, the owner of a patch of west Texas scrubland would not have owned
+what lay underneath it—those subsoil rights would have belonged to the state. The common law,
+however, recognized the maxim *cuius est solum eius est usque ad coelum et ad inferos*—he who owns
+the soil owns it to the heavens and to the depths. William Empson caught the metaphysical
+strangeness of this principle in his sonnet “Legal Fiction” [1929], an unwitting contribution to
+Texan literature: he observes that property law “makes long spokes of the short stakes of men,” and
+converts a literal into a spiritual nomadism. Fenceposts project downward to “Hell’s | pointed
+exclusive conclave, at earth’s centre,” and upward “through galaxies, a growing sector”; as the
+Earth rotates on its axis “the lighthouse beam you own | flashes, like Lucifer, through the
+firmament.” In Texas, that rotating Faustian cone of ownership was not merely a metaphysical
+conceit, but a title deed to an ancient thermodynamic reservoir. When the oil boom came to Texas in
+the early 1900s, it was not the state that got rich but the landowners and their wildcat lessees.
+The empresario gamble was reenacted at geological scale, every wildcatter a filibuster drilling into
+territory he had not seen.
+
+¶24 The petroleum industry was in a way quintessentially Texan, but it also drew in further waves of
+migrants eager to adopt the trappings of Texana but without deep blood-ties to the soil. The Houston
+Space Center, Lyndon Johnson’s political spoil, completed the trajectory by moving the frontier
+upward, and hastening the rapid urbanization that by century’s end would leave Texas home to three
+of America’s top ten cities. Soon the space frontier closed too, the last Apollo mission returning
+in 1972, leaving Houston with a mission control devoted to orbital maintenance rather than
+exploration. So the funnel-shaped tracks in the heavy sand led down to oil and up to the moon, and
+both paths eventually petered out, though leaving Texas a significant player in the “technology
+industry.” Today the modal Texan is a recent arrival who has never rode a horse or shot a gun. If he
+plays Texas Holdem with coworkers or wears cowboy boots to the office, it is neither ironic nor
+exactly sincere; it is something like a rote genuflection from a cultural Catholic with no deep
+commitment to the doctrine that what the tabernacle contains is real flesh and blood.
+
+¶25 Meanwhile the remnants of the old Texas do not know quite what to make of the new, even when its
+arrival made them rich. As noted, the ancestral Texan population tends toward the low-church, which
+today often entails young-earth creationism. In Dinosaur Valley State Park, near Glen Rose,
+creationists have for decades claimed that human footprints appear alongside dinosaur tracks in the
+Cretaceous limestone of the Paluxy River. The nearby Creation Evidence Museum (home to cutting-edge
+experiments in creation science) does not disclose its donors, but one imagines that it is funded by
+fundamentalist oilmen.
+
+* * *
+
+¶26 The broad outlines of the above history were drawn largely from T.R. Fehrenbach’s *Lone Star*
+[1968] (though the Santa Anna portion owes more to Will Fowler’s *Santa Anna of Mexico* [2007]).
+Fehrenbach was not an academic historian, but rather a professional chronicler of Texas history and
+myth. Before he published his magisterial history, he captured the poetic meaning of Texas’s
+disorienting ethno-cultural replacement in a science-fiction short story sardonically titled
+“Remember the Alamo” [1961]. A time traveler visits the scene of the battle only to find the heroes
+of old Texas behaving quite differently than the records suggest—less like *filibusteros* and more
+like the state’s modern inhabitants, urbane, ironic, oversocialized. No heroic stand is made, and
+Texas never comes into being, because these alternate-history Texans had never imagined themselves
+as such with sufficient Faustian vigor. Then, from the thought of these Texans who are not Texans,
+Fehrenbach conjures into view an alternate timeline lacking the United States altogether, with a
+Mexican empire instead extending north toward still-French Canada. The moral of the story is that
+Texas ethnogenesis cannot be undone selectively; pull one thread and the whole Western Hemisphere
+unravels. However contingent the state’s origin, it has become load-bearing.
+
+¶27 To see Texas from this vantage point is to see that its meaning cannot be drawn solely from “The
+Significance of the Frontier in American History.” Texas is bigger than the myth of the cowboy, the
+cattle drive, the sunset. These are adequately served by, for example, Larry McMurtry, but *Lonesome
+Dove* [1985] cannot be the epitome of Texas literature because Texas is not solely pastoral and
+nostalgic. The myth of Texas is the myth of a state whose existence depends on a dictator’s blunder,
+whose borders are a financial artifact, whose wealth lies in the compressed residue of countless
+aeons. It is ideas outrunning reality, then violently redrawing it to match, with a deeper reality
+always lurking just beneath the surface. The problem of Texan literature is not the literal
+frontier, which closed on schedule, but the figurative one—the sense that the frontier has continued
+to exist but become invisible, retreating underground or into abstraction, the *empresario* grant
+over a territory no longer geographical.
+
+¶28 We should pair Turner’s frontier thesis with an essay by a different Frederick Turner—the
+UT-Dallas professor (son of British anthropologist Victor Turner) who once wrote an epic poem about
+the terraforming of Mars [*Genesis*, 1988]. This Turner’s essay “Inner Dallas” [2000] argued for the
+excellence of that post-industrial city as a function of its private character, a million cars with
+tinted windows ferrying a million inhabitants to a million hidden gatherings of likeminded souls,
+its only defect the absence of a public self-understanding. It then imagined a team of forgers
+excavating a fake pre-Columbian civilization beneath the city and presenting it as Dallas’s deep
+past, the fabrication entirely successful because though literally false, it would mystically
+capture the city’s inner being. What this strange thought experiment rightly suggests—particularly
+when set alongside Fehrenbach’s “Remember the Alamo”—is that the spirit of Texan literature is the
+spirit of historical science fiction, the kind a seventh-grader might read on the five-hour bus ride
+to San Antonio for the Alamo field trip. Only the science-fictional mode can properly make sense of
+the myriad layers of Texas history, Permian, Indian, Mexican, Texan, Southern, industrial, space-age
+American. Which is perhaps why, although it is not common knowledge, the three most important Texan
+writers have all been science fiction writers.
+
+* * *
+
+¶29 Robert Ervin Howard was born in Peaster, Texas, in 1906, and grew up in Cross Plains on the edge
+of the Comanchería at a time when the Indian Wars were living memory. It was and is an inhospitable
+place: decent rainfall, but the soil is poor and the drought-flood-drought rhythm makes agriculture
+a wager rather than a livelihood. The frontier had closed within Howard’s parents’ lifetime, and the
+oil rigs were arriving to reopen it in a different key. Cross Plains during Howard’s youth was an
+oil town—transient workers, sudden wealth, boom-bust cycles—making civilizational impermanence the
+view from his front porch.
+
+¶30 Howard paid close attention to his ancestry, a braid of Norman-Irish, Scots-Irish, and
+Dano-Irish. He considered the Celtic inheritance his core identity. His maternal grandfather George
+Ervin—a Confederate veteran from North Carolina who rode with Nathan Bedford Forrest for four years
+and was accounted the strongest man in his regiment—was the express physical and moral model for the
+most famous barbarian in pulp fiction, Conan of Cimmeria. Conan’s home country is nominally located
+somewhere around Norway, but Howard’s letters attest that Cimmeria’s landscape is Texas seen through
+Celtic fog: as he wrote in a letter about his poem “Cimmeria” [1932], it was “suggested by the
+memory of the hill-country above Fredericksburg seen in a mist of winter rain.” The region of Texas
+he refers to was settled heavily by Germans, who arrived early but were not nearly so expansionist
+as the predominantly Borderer Anglo population, with a resulting low population density and empty
+landscape.
+
+¶31 Howard’s story “Beyond the Black River” [1935] shows Conan’s Texas roots most clearly. Conan
+wanders around a recently established frontier settlement, an incursion into Pictish territory
+against which the Picts (Howard’s stand-in for the Comanches) are soon to push back. A young man
+named Balthus dies heroically defending the settlement, but the settlement may fall anyway.
+Meanwhile, Conan survives because survival is what Conan does; no net can hold him, which is to say
+that he cannot be fully civilized. Conan had fought on the side of civilization, but his closing
+observation in “Beyond the Black River” shows he does not trust in it: “barbarism is the natural
+state of mankind … civilization is unnatural, a whim of circumstance, and barbarism must always
+ultimately triumph.” Conan here speaks for Howard, not because Howard was a primitive like Conan,
+but because he wasn’t. He was a bookish man who read widely, if in the manner of an autodidact; he
+had a particular interest in ancient and medieval history, and kept up to date on scientific
+anthropology and historicist philosophy. From his epistolary friendship with H.P. Lovecraft he was
+familiar with at least the outlines of Spenglerian theory, and agreed with its view of civilization
+as a kind of ossification.
+
+¶32 Howard was particularly a student of Texas history. Indeed, around the time when he wrote
+“Beyond the Black River” his writing was comprised increasingly of undisguised Texan yarns—stories
+of Ranger warfare, tales of frontier settlements under attack. Of course, Howard’s historical tales
+lost out in the great sortition of literary taste, and are little read today. The prehistorical
+Conan stories survived because they made their own luck. They took the Davy Crockett almanac tale
+and stripped it of every feature that would make them answerable to historical or legal critique: no
+hard dates, no falsifiable claims. It is the “Gone to Texas” move executed at the level of narrative
+voice. Facticity gone, what remains is structure. Conan operates outside legitimate authority,
+self-commissioned, betting his life on his own nerve. He is the *empresario* and the *filibustero*
+and the Comanche simultaneously, the fantasy that the Texas myth can never quite articulate about
+itself, because acknowledging that the Rangers won by becoming Comanche in their methods would
+compromise the moral architecture distinguishing settler from savage. When Conan becomes king of
+Aquilonia—by conquest rather than election—he governs by personal charisma and the threat of
+violence, more Santa Anna than Stephen F. Austin, the *caudillo* on the throne rather than the
+administrator behind the desk.
+
+¶33 In all his adventures Conan displays toward women a protectiveness related to but distinct from
+traditional chivalry. It is the rough virtue of a frontier world where women are few and far between
+and mostly prostitutes, but nevertheless deserving of protection from barbarian rapists—and if they
+offer their affections to the civilized barbarian who saves them, so much the better. Howard himself
+knew little of women, living with his mother most of his life, and he shot himself in 1936 at thirty
+years old upon learning that she would not recover from her final illness. The sword-and-sorcery
+tradition he inaugurated would spend the rest of the century failing to understand what its founder
+had understood: the barbarian hero does not represent a desirable alternative to civilization, but
+rather the thinness of the line between the two.
+
+* * *
+
+¶34 Cormac McCarthy was baptized Charles Joseph McCarthy in Providence, Rhode Island, in 1933, and
+raised in a strict Irish Catholic family, with some Scotch-Irish admixture. He changed his name to
+Cormac and apostatized, becoming a Joycean devotee of literature, and then for years bummed around
+Knoxville in bohemian fashion writing grimly obscure novels generally categorized as Southern
+gothic. Then in 1976 at the age of forty-two he moved to Texas. His Celtic inheritance and
+familiarity with the myths of Appalachian violence had already equipped him to understand the world
+he walked into, but for good measure he set himself to a years-long research project into filibuster
+activities on the Texas-Mexico border in the 1840s.
+
+¶35 The result was the magisterial *Blood Meridian, or, the Evening Redness in the West* [1985], and
+then the four Texas-based novels McCarthy wrote over the next two decades. Though the middle three
+are sometimes called the Border Trilogy, it is more enlightening to think of all five as a Border
+Cycle. There is no need to establish the Border Cycle’s Texan credentials; rather, the point to be
+made is that it belongs to the same historically and scientifically minded tradition as Conan. There
+is no evidence McCarthy read Howard, but they were fascinated by the same myth, one Howard inhabited
+as a native and McCarthy took to with the zeal of a convert come home to the fatherland he never
+knew. The first thing McCarthy sees from the convert’s vantage point is that Texas is also always
+Mexico. The Glanton Gang operates on both sides of the border, scalping indiscriminately, collecting
+bounties from Mexican governors. The violence flows across the Rio Grande indifferent to its
+political significance because it predates that significance. Judge Holden speaks Conan’s suppressed
+interior monologue without the heroic coding and displacement into the pre-historical: “War is god.”
+
+¶36 The Judge is also, however, a natural philosopher: he collects specimens, sketches flora and
+fauna, discourses on geology and jurisprudence, and declares his intention to become suzerain of all
+the earth by destroying whatever is outside his ken (and thus, in a strange Lockean sense, improving
+it). He is at once barbarian and civilizer, which turn out to be the same thing. In a central
+chapter the expriest recounts how the Judge manufactured gunpowder from raw desert
+materials—charcoal, sulfur, bat guano scraped from a cave, the men’s own urine—while the Glanton
+gang bought him time by leading pursuing Comanches on a wild goose chase. The story builds up to a
+distinctively sci-fi form of narrative tension: will the homebrewed stuff work? It works, and the
+Comanches are massacred to a man. Already one can sense the interests that led McCarthy to spend his
+last decades at the Santa Fe Institute among physicists, and to devote his final novel diptych, *The
+Passenger* and *Stella Maris* [2022], to the Manhattan Project. The Judge’s *empresario* grant
+written in saltpeter was from the beginning tending toward Los Alamos, and in the face of its
+Faustian spirit the unnamed kid can do nothing but join in, or silently stand apart.
+
+¶37 The central trilogy—*All the Pretty Horses* [1992], *The Crossing* [1994], and *Cities of the
+Plain* [1998]—explores the same dynamic in a different register. The cowboys John Grady Cole and
+Billy Parham are less passive than the kid, and more like men with Hyborian virtues in a
+post-Hyborian world. They can ride and rope and fight; John Grady communes with horses through
+something like telepathy, while Billy’s adventures begin when he tries to save the life of a
+pregnant wolf. Yet the driving spirit of these books remains the Mexican world across the border,
+figured as the truth of Texas that the cowboys can only discover by leaving Texas behind. John Grady
+is arbitrarily imprisoned in Mexico due to his seduction of the haciendero’s daughter; Billy Parham
+has similar difficulties with the Mexican legal apparatus; later John Grady finds himself again in
+legal trouble due to a rivalry with a well-connected brothel owner over a Mexican whore. Each time
+the American comes up against the Mexican he is spellbound by the power of the Mexican’s words. The
+police captain who interrogates John Grady warns him: “We can make the truth here. Or we can lose
+it.” The Dueña Alfonsa, great-aunt of the girl John Grady seduces, proclaims to him that history is
+not a calculus of intentions but of consequences. Together these teachings amount to this: it is in
+Mexico that the truth of Texas is made, but once made it outruns the intentions of its maker.
+
+¶38 In *No Country for Old Men* [2005] Sheriff Bell gives the Anglo perspective a voice, but not one
+that satisfies. His plain protestant faith inadequate to the evil he faces, his monologues take on
+the cadence of a West Texas sermon that has lost its congregation. The antagonist Chigurh is the
+Judge’s descendant, but where the Judge had cosmic grandeur, Chigurh has only method, his violence
+registering as entropy rather than nuclear force—the Judge had preached battle as a grand toss of a
+coin, but Chigurh merely recites a rote demand that his interlocutors call heads or tails. Where
+*Blood Meridian* has the violent energy of a civilization in its founding convulsion, in *No
+Country* one feels the inheritance is spent. *The Road* [2006], not itself a Texan novel, completes
+the trajectory: driven by the same concerns as the Border Cycle but no longer recognizably set in
+the Southwest, it shows a world where grace has entirely run out. The father’s devotion to the son
+is the last religious gesture in McCarthy’s cosmos, but its meaning not even the father can account
+for. McCarthy himself, who had refused interviews for decades, appeared on Oprah in 2007 to promote
+*The Road*—Scratchy Wilson dropping his imagined revolver and submitting to the domesticating force
+of American celebrity.
+
+* * *
+
+¶39 Finally, Gene Wolfe: born in Brooklyn in 1931, the son of a traveling salesman, of Northern and
+Midwestern stock rather than Scots-Irish. The family was peripatetic: Peoria, Massachusetts, Ohio,
+Des Moines, Dallas, Houston. Wolfe arrived in Texas at age six, part of the migration wave that
+largely replaced the original Anglo-Texans. He attended Lamar High School in Houston, then Texas
+A&M; when the Korean War interrupted he served as an infantry combat engineer—and so unlike Howard,
+who imagined violence, and McCarthy, who researched it, Wolfe administered it as an institution. He
+returned to marry his wife Rosemary, convert to Catholicism, and take a degree in mechanical
+engineering from the University of Houston. In 1956 he moved out-of-state never to return. He began
+publishing in science-fiction magazines a decade later, ultimately putting out over thirty novels.
+Not all concern Texas, but Texas sits at the heart of Wolfe’s many-volumed magnum opus sometimes
+known as the Solar Cycle, just as much as it does McCarthy’s Border Cycle. Indeed, although it has
+rarely been noticed, these two monuments of late twentieth century American literature have a great
+deal in common.
+
+¶40 Admittedly, Wolfe is not typically considered a Texan writer. Still, when the present author
+read Fehrenbach’s *Lone Star* he not only recognized Wolfe in its portrait of twentieth century
+Texan man, but also found himself wondering whether Wolfe had ever read it. Partly because
+Fehrenbach discusses how Texan-Comanche engagements turned on the ratio of horse speed to firearm
+reload speed, and Wolfe follows a similar train of thought in *The Castle of the Otter* [1982];
+partly because Fehrenbach’s account of local officials bearing titles like *alcalde* recalled the
+nomenclature of Wolfe’s fictional Whorl; partly because Fehrenbach’s appreciation for the
+Anglo-Texan personality recalled a description of Wolfe the author once heard, that he is Chesterton
+holding a six-shooter. (Wolfe attracts such efforts at description like flies: he has also been
+called Conan the Barbarian meets Proust.) The author has not tracked down whether Wolfe did read
+Fehrenbach, but if not, it shows only that he did not need to. While Howard likely did not learn
+Texas history in school (the curriculum requirement was implemented later), and McCarthy certainly
+didn’t, Wolfe attended a high school named for a hero of the Texas Revolution and the second
+president of the Republic of Texas.
+
+¶41 The Texan preoccupations of the Solar Cycle are visible from the first volume, *The Fifth Head
+of Cerberus* [1972]. Not all commentators recognize that the cycle begins here, but *Fifth Head*
+lays the template for all that follows. It comprises three novellas set on twin planets colonized
+centuries past by the French, a cypher for the role of Spain in Texas’s history. Sainte Croix, like
+Texas, was later conquered and overlaid with an Anglo governing apparatus including chattel slavery;
+Sainte Anne, like Mexico, was not, but it is rumored to have once been home to a race of aboriginal
+shapeshifters. The first novella follows the languors of a whoremaster’s son reading in a library
+that turns out to be a decommissioned spaceship, and learning how the library’s exhibits of abo
+artifacts are all fake (much like the fake Indian arrows and Alamo relics floating around Texan flea
+markets). The second novella, a work of anthropological reconstruction, imagines first contact from
+the abo perspective. The third follows an anthropologist researching a theory that the shapeshifting
+abos replaced the colonists; eventually he himself is replaced, and his abo impersonator winds up
+imprisoned in a system indifferent to the truth of his identity. Like the police captain in *All the
+Pretty Horses*, the interrogator says: “Truth is something which is to be had from us, not from
+you.” The novel ends with the casefile lost and buried until judgment day. *Fifth Head* has long
+been recognized as a “postcolonial” novel, but my point is that it is more specifically about the
+difficulty of tracing the Texan self back to any one source.
+
+¶42 The same can be said of the three phases of the Solar Cycle proper, which recapitulate at epic
+length *Fifth Head*’s three short novellas. *The Book of the New Sun* [1981-1985] displaces Texas
+history onto far-future Argentina—the converse of the sonnet “Texas” [1964] by Jorge Luis Borges
+(one of Wolfe’s favorite writers), which recognized from the opposite direction the same kinship.
+*New Sun* shows a far-future Urth where civilization has burned through its thermodynamic
+inheritance. The sun itself is dying of exhaustion, Wolfe’s version of McCarthy’s “evening redness
+in the west.” Firearms are so expensive and genetically-modified horses so fast that Comanche-style
+mounted combat is once more a viable military strategy. The protagonist Severian is a professional
+torturer who like Conan eventually makes himself ruler of the entire realm; the difference is that,
+at least by the end of *The Urth of the New Sun* [1987], Severian’s logorrheic inner monologue
+understands that every act of violence is an effort (however misguided) to establish an institution.
+Where *New Sun* had expanded on the first *Fifth Head* novella, *The Book of the Long Sun*
+[1993-1996] revisits the themes of the second: it is a journalistic account of a generation starship
+unaware that its bent but not broken sacrificial culture is about to be interrupted from the
+outside. Finally, in *The Book of the Short Sun* [1999-2001] the priest-revolutionary Patera Silk
+wanders a new two-planet system reminiscent of Sainte Croix and Sainte Anne, sparking political
+renewal everywhere he goes; at the story’s close he heads off into the stars with a valedictory:
+“Good fishing!”
+
+¶43 To say that these books are Texan does not, of course, do them justice, and the above is not
+anything close to a reading of them; the aim is simply to show their Texan provenance. That
+provenance is most apparent in Wolfe’s novel *Pirate Freedom* [2007], which might be considered a
+coda to the whole Solar Cycle, as *The Road* is to McCarthy’s Border. *Pirate Freedom* takes place
+entirely within the Golden Circle. A young man raised in a near-future Cuban monastery travels back
+in time to the golden age of piracy, then returns to the present as a Catholic priest. In the past
+he moves between the Spanish colonial world and the Anglo piratical one with the same ease as a
+Conan would, taking both a mistress (whom he eventually marries) and slaves (whom he reasons will be
+enslaved anyway, and by someone worse). In the modern-day frame story, he offers the reader his
+confession, and muses upon such themes as youth violence and the sex abuse crisis. The confession
+may not be entirely reliable, but it is as honest as it can be. That the filibuster ends as the
+confessor is Wolfe’s final word on Texas: the capacity for violence and the capacity for sacrifice
+are the same capacity, differently aimed, and grace works not by eliminating the former but by
+converting it into the latter.

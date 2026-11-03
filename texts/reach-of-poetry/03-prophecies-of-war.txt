@@ -1,0 +1,555 @@
+# [reach-of-poetry/prophecies-of-war] II. Prophecies of War
+From: The Reach of Post-Romantic Poetry (2025), by Edkar Marenko
+URL: https://j-e-scriptorium.github.io/reach-of-poetry.html#prophecies-of-war
+
+¶1 II. Prophecies of War
+
+¶2 Whether a poem can judge itself is one central concern of this volume. Another: whether a poem
+can judge anyone else. Not whether a poet can do so—poets are human beings like the rest of us,
+equally capable of passing judgment and doing injustice—but, to echo the language of the previous
+chapter, whether a poet’s doing so can amount to a *poetic motive*.
+
+¶3 Consider the words Wilfred Owen wrote to introduce an anticipated volume of war poems. As
+everyone knows (or else should know), the old poetry glorifying a warrior culture was responsible
+for untold deaths in the trenches of the Great War. Owen’s poetry will be different:
+
+¶4 > This book is not about heroes. English poetry is not yet fit to speak of them.
+
+¶5 > Nor is it about deeds, or lands, nor anything about glory, honour, might, majesty, dominion, or
+> power, except War.
+
+¶6 > Above all I am not concerned with Poetry.
+
+¶7 > My subject is War, and the pity of War.
+
+¶8 > The Poetry is in the pity.
+
+¶9 > Yet these elegies are to this generation in no sense consolatory. They may be to the next. All
+> a poet can do today is warn. That is why the true Poets must be truthful.
+
+¶10 > (If I thought the letter of this book would last, I might have used proper names; but if the
+> spirit of it survives—survives Prussia—my ambition and those names will be content; for they will
+> have achieved themselves fresher fields than Flanders…)
+
+¶11 The moral force of Owen’s words here is undeniable, and I do not intend in this chapter to deny
+it. Nevertheless, we might legitimately wonder whether Owen’s convictions regarding content—what
+poetry should be “about,” namely, *not* great deeds of violence—can really translate so smoothly
+into his prescription regarding form—what “the Poetry is in,” namely, *not* present consolation.
+
+¶12 Tracing the dialectical relationship Owen envisions between poetry and war turns out to be more
+difficult than one might have supposed. Owen begins, it would seem, by rejecting the first term in
+favor of the second, stripping from his book all of poetry’s usual subject matter until, finally and
+most brutally, he severs it from poetry itself, leaving only war, that is, the cause of suffering,
+and pity, our relation to others’ suffering: “I am not concerned with Poetry. | My subject is War,
+and the Pity of War.” Immediately, however, Owen reverses himself, transforming his rejection of
+poetry into a definition for it: “The Poetry is in the pity.” From the point forward it is pity, not
+poetry, which drops out, subsumed into its pararhyme, as over a few short sentences Owen offers a
+program for both. The poet of today, Owen goes on to declaim, *warns* this generation about the
+realities of *war* (note again the aural repetition) by speaking truthfully. The truth Owen has in
+mind here is not of the “letter,” but of the “spirit,” which is to say that he offers not a
+practical warning (such as “you are in danger”) but rather a moral warning, perhaps even prophetic
+one (“you have sinned”).
+
+¶13 The resulting poetic form Owen envisions is curiously ambivalent: if its warning is heeded,
+poetry will no longer be required to offer it, and it can become an elegy. But so long as suffering
+continues, Owen implies, it is inappropriate for a poet to be *concerned* with *consolatory* poetry.
+The Latinate terms invite an etymological dissection: the poet must avoid bringing us together
+(“con-”) by sifting (“-cern”) and soothing (“-sole”), that is, through an application of reason and
+a calming of the passions. Instead, he must adopt a stance of righteous indignation. This
+indignation restricts poetry’s freedom: it becomes “All” poetry can do. But the reduction of scope
+is felt as an expansion of power. The new poetry has gained authority through a predication which
+hovers between defining and prescribing: “the true Poets,” with a capital *P*, must be those who
+“must be truthful.” Our attention is drawn away from the aesthetic object to the performance of
+passionate moral conviction. Owen ends by suggesting that, if his book succeeds in this performance,
+it will have surpassed the conventional heroism already symbolized (since the December 1915
+publication of John McCrae’s poem) by Flanders Field. Owen’s planned book will be about heroes after
+all, or, at least, about one hero, the poet himself, who will heroically perform his task of piteous
+warning until war and suffering have ceased.
+
+¶14 Wilfred Owen died November 4, 1918, his book and its preface unpublished. The Great War ended a
+week later. Human suffering did not, and though Owen’s work soon saw publication, his hope that his
+poems of warning would for the next generation become elegies could not but be disappointed.
+Instead, the 1930s saw a new crop of *poètes engagés* take as their motto Owen’s “All a poet can do
+today is warn,” “today” simply translated two decades into the future. The strongest opposition to
+Owen’s self-proclaimed disciples came from the generation preceding, in the form of William Butler
+Yeats’s editorship of *The Oxford Book of Modern Verse, 1892-1935 *[1936], and it is to Yeats’s
+response to Owen that I now turn.
+
+¶15 Yeats purposefully excluded from his anthology almost all of the poems written during the Great
+War, soon to be known as World War I. This decision incurred and continues to incur near-universal
+censure; even Geoffrey Hill, whose own critique of Owen’s Preface is strongly Yeatsian, called the
+anthology “lunatic” [Oxford Lecture XIII, 2014]. But however frivolous we find Yeats’s inclusion of
+private relations like Margot Ruddock, his exclusion of soldier-poets like Owen was seriously
+considered and deserves serious consideration. In the Introduction he offered this explanation:
+
+¶16 > The writers of these poems were invariably officers of exceptional courage and capacity, one a
+> man constantly selected for dangerous work, all, I think, had the Military Cross; their letters
+> are vivid and humorous, they were not without joy—for all skill is joyful—but felt bound, in the
+> words of the best known, to plead the suffering of their men. In poems that had for a time
+> considerable fame, written in the first person, they made that suffering their own. I have
+> rejected these poems for the same reason that made Arnold withdraw his “Empedocles on Etna” from
+> circulation: passive suffering is not a theme for poetry. In all the great tragedies, tragedy is a
+> joy to the man who dies; in Greece the tragic chorus danced.
+
+¶17 This passage quite carefully reverses the logic of Owen’s Preface. I do not claim that the
+reversal was necessarily conscious, but I do insist that it was not a coincidence: though Yeats does
+not respond directly to Owen’s claims about his poetry, he does respond to Owen’s poetry itself,
+about whose operation, as we will see later, Owen gave an accurate account.
+
+¶18 The inversion is recognizable from Yeats’s very first sentence. Yeats begins by emphasizing what
+Owen refused to discuss, the conventional heroism of the soldier-poets. Then, with the semicolon
+after “Military Cross,” Yeats leads us to associate this heroism with his proposed alternative to
+“War, and the pity of War,” namely “joy—all skill is joyful.” He goes on to recognize that the war
+poets sought, for moral reasons, to address their audience and provoke a response, but he demotes
+this address from the authoritative “warn” of Owen’s Preface to the more pathetic “plead” of his
+letters [cf. Letter 662, 4-5 October 1918], and so insists that even an adversarial address to an
+audience entails submission to the latter’s power. The moralistic heroism of the *poète engagé* is
+no heroism at all, being unable to command assent. True authority, Yeats holds, derives only from a
+rejection of the audience’s claim upon the poet, which in turn requires setting aside the “first
+person” of the *poet* in favor of what Owen rejected, impersonal *poetry*. Against Owen’s “the
+poetry is in the pity,” Yeats declares that “passive suffering is not a theme for poetry,”
+bolstering his assertion with an appeal to Matthew Arnold, representative of the very English
+tradition which Owen had denigrated as “not yet fit to speak” of heroes. Finally, to counter Owen’s
+pseudo-tautological insistence on poetic truth, Yeats closes with his own redoubled appeal to
+tragedy, understood in a quasi-Nietzschean sense as a boundary-dissolving alternative to
+philosophical truth-mongering.
+
+¶19 The recurrence of “joy” in the final sentence, however, recalls the joyfully skilled language of
+the “vivid and humorous” letters, and so prevents us from thinking the soldier-poet to have been set
+aside entirely. Rather, “the man who dies” is the poet who dies into his art; Yeats has called on
+would-be pleaders of truth instead to transform themselves into tragic hero-poets. Such a
+transformation will in turn transform the present age, an age when the war’s pseudo-poetry could
+have “for a time considerable fame,” into “Greece” reborn. This imagined world of a united community
+dancing around the joyful dying poet offers an unexpected renovation of the soldier-poets’ original
+desire, misapplied but not entirely mistaken, to make “the suffering of their men” “their own.” In
+sum, though Yeats appeals to aesthetics (tragedy, joy) and nostalgia (Greece), where Owen appeals to
+ethics (truth, pity) and progress (the next generation), both insist that the poetry of the present
+age has failed to live up to the demands which knowledge of suffering places on the poet. Both
+respond with a prescription for the would-be poet (Yeats insists on skill, Owen on warning), and
+proceed to imagine a world, less a plausible past or future than a place altogether elsewhere, in
+which such a poet could rule as hierarch—could, rather than subordinating himself to his auditors,
+achieve authority over them through the power of his poetry.
+
+* * *
+
+¶20 This pattern of inversion reflects a deeper affinity between these two poets. If Owen and Yeats
+disagree on the level of moral content, they agree about the relation between that content and
+poetic form. This agreement calls into question both of these poets’ accounts of that relation. If
+we attempt to take both seriously, we cannot take either one to be correct. The pairing of Owen and
+Yeats thus poses an exemplary test case for any attempt to describe the relationship between poetry
+and moral judgment.
+
+¶21 I acknowledge at the outset that it is strange to claim an affinity between Yeats and Owen’s
+sense of what poetry *does* (though Owen’s formal debt to the early Yeats is well known). It would
+be more usual to say that the one valued truth, the other beauty, or else, using purportedly more
+sophisticated critical vocabulary, to say that Yeats’s proto-fascistic poetry aestheticized
+politics, while Owen’s quasi-revolutionary writing brought politics into art. And indeed, such has
+been the tenor of the most nuanced discussions of the *Anthology* controversy. But any such
+dichotomy—even if not vitiated by the pesky “proto” and “quasi”—presupposes a shared definition of
+“aesthetics” and “politics.” Here we discover common ground. For these two poets, aesthetics means a
+romantic lyricism based on the contagion of extreme affect, and politics means a program for the
+restructuring of the polity which the poet aims, not merely to embed within the affect, but to make
+coextensive with it, thereby achieving the square circle of intellectual intuition. Whether
+“politics” or “aesthetics” holds the reins may determine the content of Owen and Yeats’s poetry, but
+it does not determine the mode of its poetic aspirations.
+
+¶22 To understand that mode, we require a different set of terms than “politics” and “aesthetics.”
+Samuel Hynes points us in the right direction when he observes that, faced with the poets of the
+Great War, Yeats “den[ied] the validity of their vision by a willful act of his own” [“Yeats’s
+Wars,” 1989, at 53]. I would add only that the converse is also true—the soldier poet’s act of
+denial was equally willful; and that the key terms in Hynes’s sentence are the plural possessive
+pronoun “their,” the singular “his,” and the common object of these two, “vision.” Both Owen and
+Yeats’s war poetry, especially that poetry which most fully realizes their poetic ambitions, centers
+on a clash of visions, the true vision of the poet versus the false vision of the audience. This
+emphasis on vision leads to a peculiar understanding of both the individual poem, and the idea of a
+poetic tradition to which the poem can relate.
+
+¶23 To see what I mean by the above, we can consider one of Owen’s most famous poems, “Dulce et
+Decorum Est” [1917; *see *App’x at 129], and set it alongside one of Yeats’s, “Lapis Lazuli” [1935;
+*see *App’x at 136]. What are these poems doing? Owen’s poem, of course, is an act of political
+opposition to the literal war of soldier against soldier, the world in which “I saw him drowning.”
+But it is also an attempt to wage, in the place of this literal Great War, a figurative war of poet
+against audience, in which dreams of the dead soldier “plung[ing] at me, guttering, choking,
+drowning,” become Owen’s weapon of choice. Yeats’s political views are quite different from those of
+Owen, making his use of poetic violence less hypocritical, though not less self-stultifying: he
+takes as a given the impersonal visionary truth that “all things fall and are built again,” and
+insists that “those who build them again are gay” because indifferent to how they fall down upon
+their audience. Despite their extensive differences, both poems attempt to escape their history and
+to dominate their readers by effecting in them something like a forced conversion; and, further,
+both poems, even while recognizing the impossibility of success in such an endeavor, refuse to admit
+that this impossibility dooms them to failure.
+
+¶24 Apart from their shared latinate titles, the most obvious point of resemblance between these two
+poems is their reliance on polemic. Both poems have at their foundation an attack on clichéd
+utterance: “the old Lie” (Owen), what “everyone knows or else should know” (Yeats). Owen has in mind
+the Latin poetry learned by rote in English public schools; Yeats’s everyone’s knowledge, on the
+other hand, refers to what he might have called the New Lie blaring from radio and newspaper. But
+neither poet intends an attack on the old *qua* old, or on the new *qua* new. Rather, the issue is
+the failure of the one to relate properly to the other. Owen does not attack Horace on his own
+ground, but rather on the inadequacy of Horatian sentiments as applied to the Great War. “Dulce et
+decorum est pro patria mori” may be in some sense true from a temporal distance (hence Owen expects
+his poems may turn into consolatory elegies), but when brought in close to the present, the saying
+leads to an epistemic failure, a mismatch between what the soldiers expect war to be like, and what
+it turns out to be like. The “old Lie” is a lie *because*, being old, it turns the soldiers who
+believe it into “old beggars.”
+
+¶25 Something similar happens with the fears of imminent war Yeats mocks. The fears are misguided
+not because the war is not imminent—indeed, “all things fall and are built again”—but because they
+wrongly infer that this imminence obliges one to focus on preserving “old civilisations” rather than
+creating new art. What matters about that
+
+¶26 >     handiwork of Callimachus
+>     Who handled marble as if it were bronze,
+>     Made draperies that seemed to rise
+>     When sea-wind swept the corner,
+
+¶27 is not its historical fate, but the eternal present of its handling: it “stands” in imagination,
+and we almost forget that that these lines begin with “No.” We might even imagine the literal
+absence of standing marbles to be an advantage, for if the material artifacts had survived the
+present world would care more about them than about Callimachus’s (and Yeats’s) precarious stance of
+artistic mastery.
+
+¶28 In brief, these poems castigate not the art of the past, but the present’s inappropriate
+attachment to that art. The attacks on cliché implicate the person of the reader herself, who stands
+accused of passionate misapplication of tradition. Owen’s poem ends, like a sermon, by turning from
+the fable to its lesson: “My friend, you would not tell with such high zest.” Yeats’s more diffuse
+meditation begins, “I have heard that hysterical women say.” The zest and the hysteria, we feel,
+compound the offense, marking the audience as engaged in a kind of anti-poetry, a passionate
+performance that can be granted no authority, and against which the true poet seeks to warn—whom?
+The very audience perpetrating the offense.
+
+¶29 We might note, parenthetically, these poems’ shared misogyny: explicit in the “hysterical women”
+of “Lapis Lazuli,” and, while only implicit in the anonymous “you” of “Dulce et Decorum Est,” quite
+obvious in the earlier drafts addressed to “a certain Poetess.” Setting aside the complex sexual
+politics of both poets, which are beyond the scope of this chapter, we can observe that, in these
+two poems at least, the misogyny follows directly from the male poet’s hostility toward an audience
+conceived as essentially feminine. The misogyny thus confirms what we already suspected, the
+existence of a metaphysical barrier separating audience from poet, and prohibiting the audience from
+comprehending the message which the poet seeks to impart. For Owen, the cliché would vanish *if* the
+audience could share the poet’s dream, but dreams, while they can be told, by definition cannot be
+shared. For Yeats, the “mournful music” which ought to replace hysteria exists only in a scene which
+“I | delight to imagine,” the enjambment emphasizing the first appearance of a first-person pronoun
+since the opening line of the poem. Nor will it do to say that the poem itself is the “smothering
+dream” or “tragic scene” made available to the audience. In their attitudes towards Horace and
+Callimachus, both poems have rejected the idea of an artwork as something the audience can take hold
+of and carry away and around with them. Rather than an object or an experience, both poems believe
+poetry to be, first, an activity immanent to the moment of artistic creation, and, second, a
+transcendent, autonomous whole, accessible only to the creative agent. As a consequence, they do not
+merely lack any theory of what the reader will get out of reading them, but rather they actively
+suggest that, by their nature, the reader can get *nothing* out of them.
+
+¶30 This prohibition is more obvious with “Lapis Lazuli,” whose indifference towards the matter of
+the sculpture in favor of the sculptor’s handling we have already mentioned. We should note also how
+the (imagined) mournful melodies comprehend a scene, made up of “the mountain and the sky,” which is
+tragic because only given imaginative substance by “Every discolouration of the stone, | Every
+accidental crack or dent.” Even the speaker of the poem, that is, cannot receive the image of
+mountain and sky from the sculpture he considers, but only by transforming its decay through what
+amounts to a new act of artistic creation. Nor does the musician, “doubtless a serving-man,” have
+any *effect* on the two auditors when he plays music for them:
+
+¶31 >     There, on the mountain and the sky,
+>     On all the tragic scene they stare.
+>     One asks for mournful melodies;
+>     Accomplished fingers begin to play.
+>     Their eyes mid many wrinkles, their eyes,
+>     Their ancient, glittering eyes, are gay.
+
+¶32 The distinction I intend here is subtle. To be sure, the speaker mentions their ancient,
+glittering eyes only after the music has begun, which is to say that the music makes *visible* the
+tragic gaiety of the two “Chinamen” (“China” being this poem’s aesthetic otherworld, analogous to
+that discussed earlier under the title of “Greece”). This is not a vision of the genesis of gaiety,
+however, but of its revelation. Even before the music sounds the “Chinamen” are pilgrim travelers,
+detached from the tragic scene and able to stare out at it. Upon the request of an abstract “One”
+the music emanates from impersonal “Accomplished fingers,” and so remains merely instrumental,
+without a trace of the other’s voice. Their eyes were already transcendent wholes enveloped and
+obscured by the wrinkles of material decay; the music only made them glitter, meaning not, made
+light enter their eyes, but rather, made the light already in their eyes fitfully visible. The
+musician does not communicate anything to them, for the community the group of pilgrims forms is
+*already* the imaginary altogether-elsewhere community-in-art.
+
+¶33 The same, *mutatis mutandis*, goes for “Dulce et Decorum Est.” Neither the unreal character of
+dreams, not the hypothetical nature of this particular dream, exhaust the poem’s efforts to prevent
+its proposed poetics from reaching a real, as opposed to irrealis, imaginative embodiment. The
+crucial content of the imaginary dream must be hidden, “obscene as cancer,” and the dying soldier,
+agent of the smothering and hence figure of the poet, must be vivisected into eyes, face, and lungs
+until finally displaced for the even-more-unreal similitudinal “innocent tongues.” Whose tongues
+these might be is unclear, for the children mentioned two lines later as “ardent for some desperate
+glory” can hardly, in their lust for despair, be considered innocent. Rather than an attempt to
+communicate anything in particular, the smothering the soldier performs comprises a series of
+sub-voluntary gestures: “yelling,” “stumbling,” “flound’ring,” “guttering,” “choking,” “drowning,”
+“writhing,” “hanging,” “gargling.” These gerunds, which amount almost to active suffering, uncannily
+incarnate Owen’s theory of poetry as warning, as the “accomplished fingers” in “Lapis Lazuli” embody
+Yeats’s theory of poetry as skill. The same descent into active helplessness afflicts the speaker:
+
+¶34 >     As under a green sea, I saw him drowning.
+
+¶35 >     In all my dreams before my helpless sight,
+>     He plunges at me, guttering, choking, drowning.
+
+¶36 If the “I” attempts to assert any agency, it quickly fails, falling back into the objective
+“me.” In doing so, it transforms the dying soldier from a possibly efficacious force external to the
+speaker, to an expression of the speaker’s antecedent inner state: just as the speaker’s sight is
+helpless, so the soldier’s eyes are writhing. The first person here does not differentiate the poet
+from the dying soldier or from the rest of the group, but rather gives them roles parallel to the
+“one,” fragmented musician, and trio of traveling Chinamen of “Lapis Lazuli.” Whatever the soldier’s
+death-by-gerunds teaches his fellow-soldiers, it does not differ in kind from what they already know
+from their own experience of being thrown by the gas-attack into “an ecstasy of fumbling | fitting.”
+Their souls are already drawn out from their bodies and bound together in a community-of-art. This
+community turns into a participation in the death of that unfortunate whose helmet is not put on in
+time, but the agent of the ecstasy is not the scene of that death, which is to say, is not any work
+of art, but rather is the obscenity of the gas, which sets all soldiers invisibly apart from those
+unable to dream gas-dreams.
+
+¶37 Both poems, in sum, understand poetry to be an expression of esoteric knowledge, knowledge which
+can be gestured at but cannot be communicated in the ordinary way. One can gain access to it only
+through finding oneself to be a soldier or a pilgrim, that is, through finding oneself a member of
+the elect (however horrific the means of election may be). We sometimes describe this situation as
+one of “paradoxical” communication, as if the poem communicates what cannot be communicated, or
+shows us what cannot be seen, allowing us to become spiritual soldiers or spiritual pilgrims. Or we
+simply state that the poet is invoking the “impossibility topos,” rhetorically emphasizing the
+impossibility of communication in order to greater impress us once communication is accomplished.
+But it would be more accurate to say that a poem such as “Dulce et Decorum Est” or “Lapis Lazuli”
+communicates nothing, in any usual sense of the word. Though gesticulating vigorously, like a
+preacher pointing up at heaven, it does not do so in the direction of anything the reader can turn
+and see for herself. Its expressivity is thus not so much communicative as impressive, in the
+military as well as the affective sense of the word. Receiving from the poem no clear communication,
+but impressed by its expressive force, the reader finds herself impressed into the ranks of the
+poem’s elect, the group of those whose very being the poem expresses. At no point in this process
+does the poem offer its reader any description of its purpose or an application for membership.
+Before the impressment takes place, any such offer would be impossible, and after it would be
+unnecessary, membership having already been accomplished by other means.
+
+* * *
+
+¶38 Lest it appear that I put too much weight on aspects of these poems which are not, after all,
+particularly unusual, I now juxtapose “Dulce et Decorum Est” and “Lapis Lazuli” with another poem
+which attempts to expressively short-circuit ordinary communication, Samuel Taylor Coleridge’s
+“Kubla Khan” [1797; *see *App’x at 123]. Just as Owen cannot point us to what he sees in all his
+dreams, and Yeats cannot bring us to the mountaintop, so Coleridge cannot recover the vision he has
+lost. Indeed, the closing lines of Coleridge’s poem share many tropes with those ending Owen’s and
+Yeats’s:
+
+¶39 >     And all who heard should see them there,
+>     And all should cry, Beware! Beware!
+>     His flashing eyes, his floating hair!
+>     Weave a circle round him thrice,
+>     And close your eyes with holy dread,
+>     For he on honey-dew hath fed,
+>     And drunk the milk of Paradise.
+
+¶40 We have here the analysis of the body into its component parts, emphasizing the flashing eyes;
+the contagion linking the poet’s eyes to those of the audience, which here close with holy dread;
+the elsewhere of Paradise. These add up in all three poems to what we might call the scene of poetic
+expression. Arising at the poem’s end, after its purported subject has already been thoroughly
+explored, the scene of poetic expression turns the poem on its head, asserting the impossibility of
+our having actually received what we think we have received, an intellectual intuition of the scene
+poetically expressed—of Kubla’s pleasure dome, or the gas attack, or the movement of history.
+
+¶41 This assertion transforms the scene poetically expressed from an act of communication about a
+thing in the world, into an image of the act of expression itself. The poem, like its titular
+character, “did … | A stately pleasure dome decree.” The legislative term aptly captures the
+not-merely-descriptive character Coleridge’s declarative statements take on as they trace, in the
+movement of “Alph, the sacred river,” the erotic, turbulent movement of the poetic imagination.
+Similar acts of self-expressive imagination saturate Owen and Yeats’s poems: both the continuous “He
+plunges at me, guttering, choking, drowning,” and the habitual “All things fall and are built
+again,” come to express their poems’ formal movements, “Dulce et Decorum Est” sluggish, full of
+false starts, and ending with a dying fall, “Lapis Lazuli” bounding abruptly and assuredly from one
+topic to another. Such images, it must be stressed, do not function like an ordinary metaphor,
+linking two things in the world, but rather connect a thing in the world to the very act of
+imaginative expression with which the connection is drawn.
+
+¶42 Unlike Owen and Yeats’s expressivity, however, Coleridge’s does not even pretend to communicate.
+“Kubla Khan” is a poem of solitude, the vast pleasure dome it cannot quite envision for us having
+not a single inhabitant. The poem ends with all who hear the hypothetical poet first “see[ing] them
+there,” that is, participating in his vision, and then ritually acknowledging the barrier between
+them and the visionary by “weav[ing] a circle round him thrice.” If, *per impossibile*, the vision
+could truly be shared, it would not unite a community so much as reveal the intrinsic worth of the
+visionary’s separateness. “Dulce et Decorum Est” and “Lapis Lazuli,” on the other hand, imagine a
+collapse of this separation, an overcoming of the metaphysical barrier between persons, and imagine
+that only such a collapse could absolve the audience of their culpable ignorance. The poet has
+already overcome this barrier through gaining access to some privileged vantage point. The view of
+Owen’s soldier-artists is extreme in intensity: they see the obscenity of a gas attack “in all my
+dreams” framed by the windows of their gas masks “as under a green sea.” The pilgrim-artists of
+“Lapis Lazuli” have a view extreme in scope: they have seen “all the tragic scene” from “the little
+halfway-house” on the side of a mountain. Each has a privileged position because their experience
+has been somehow unusual, in a way that purportedly makes it possible to see what is obscene,
+off-stage, accessible only in the darkness of dreams, or else to see a scene that cannot be
+contained by even “a hundred thousand stages,” unless it be a Shakespearean *theatrum mundi*. Each
+seeks to impress its readers into this position by subjecting them to an analogously unusual
+experience.
+
+¶43 In a word, “Dulce et Decorum Est” and “Lapis Lazuli” are both war poems, while “Kubla Khan” is
+not. For Coleridge, war and art are incompatibles, and as soon as “Kubla heard from far | Ancestral
+voices prophesying war” the vision of the pleasure dome began to fade away. The anachronistic slant
+rhyme hints at a shift of theme from the play of poetic imagination to the role such imagination
+plays in mediating our response to others’ suffering. But it is merely a hint, and almost everything
+about the latter theme is left unresolved: who are these ancestors? what relation do their voices
+bear to Kubla’s own decrees? and what would be the fate of imagination if their prophecies came
+true? Coleridge offers no answer to these questions, and the reader finds it natural to suppress
+them, finding in the war, as in the preceding “tumult,” merely an image for the culmination and
+cessation of poetic imagining. Owen and Yeats, in contrast, hope for their poems to affect our
+interpretation of actual historical events. For them, the poetic imagination becomes itself an image
+for the truth of war. Which is to say: neither “Dulce et Decorum Est” nor “Lapis Lazuli” truthfully
+communicates what war is like. Rather, each makes an allegedly indescribable scene of war into an
+image of poetic imagination; then, each makes the resulting imaginative mood, whether of stumbling
+pity or bounding joy, into a further image for the truth of war.
+
+* * *
+
+¶44 Taking that the above description of the poetic logic of Owen and Yeats’s poems to be accurate,
+can we consider it to be successful?
+
+¶45 With this question, I do not mean to ask whether these poems possess artistic merit. We can
+answer *that* question in the affirmative without thinking that Yeats or Owen possesses any great
+insight into anything besides the skillful arrangement of words of warning. To be sure, “Dulce et
+Decorum Est” issues a powerful warning, and “Lapis Lazuli” demonstrates great skill. Each of these
+poems, however, is not merely an autonomous aesthetic artifact, but a contribution to a larger
+project of cultural reformation. To ignore these projects is to do an injustice to the poetry, even
+if done with the intention of saving it from itself.
+
+¶46 Nor, however, do I mean to ask after these poems’ extrinsic effects. It is easy enough to see
+that, as far as the broader culture goes, both high zest and hysteria remain rampant, while, in the
+poetic tradition, both “Dulce et Decorum Est” and “Lapis Lazuli” have become commonplaces (to the
+extent that most present-day readers associate the former phrase with Owen rather than Horace). Such
+mishearings are not necessarily the fault of Owen and Yeats, and insofar as they are accidental,
+they are the concern of the historian, not the critic, whose business is rather evaluating the
+coherence and success of the poet’s intentions. Both Owen and Yeats had diagnosed in their
+contemporaries an imaginative illness and prescribed a putative cure. Do these physicians of poetry
+succeed in healing themselves? Would their prescription have achieved its aim if it had been heard
+properly? Are their poetic actions—are any poetic actions—capable even in principle of bringing
+about the elsewheres of which their poetic agents dream, or are they doomed to perpetuate the very
+conditions, in both poetry and politics, which they claim to oppose?
+
+¶47 My answer should not be surprising. The very fact of the similarity described above, given the
+incompatibility of Owen and Yeats’s visions, suggests that the latter alternative must obtain. Both
+of these poems offer their audience a powerful imaginative experience, and both claim an identity
+between that experience and the meaning of war, such that for either poem to succeed would be for
+that poem to determine, whether through direct confrontation (Owen) or indirect mastery (Yeats),
+what its audience believed war to consist in (namely, direct confrontation or indirect mastery). But
+the experiences these poems impose differ, and are in fact diametrically opposed. We cannot accept
+both of these poems’ incompatible claims to determine the meaning of war, and so must choose between
+the claims on extrinsic grounds—we might find compelling Owen’s claim to immediate experience in the
+Great War, or might conversely find compelling Yeats’s claim to panoptic experience of all of
+history. Whichever author we disbelieved we would be compelled to dismiss as inauthentic for
+claiming to suffer more totally than he had in fact done. If, on the other hand, we reject such a
+choice between two rival poets, insisting on remaining in a position to appreciate both of their
+poems, then we cannot credit either poem with fulfilling its author’s polemical purpose. Or, at
+least, we can say only that it fulfilled that purpose accidentally, in the manner of a stopped clock
+being right twice a day.
+
+¶48 The problem with poetry of the imaginative elsewhere, as distinct from poetry that claims for
+itself a less exalted authority, is that it is of the imaginative elsewhere, and cannot be given
+this-world content without opening the door for disagreements that cannot be adjudicated solely on
+imaginative grounds. Coleridge saw the dilemma clearly. When he finally agreed to publish “Kubla
+Khan,” he put it forward “rather as a psychological curiosity, than on the grounds of any supposed
+poetic merits” [“Preface,” 1816]. The curiosity lay in how the author’s memory of his vision
+allegedly vanished once he was “unfortunately called out by a person on business from Porlock.” This
+story being, as W. H. Auden puts it, an apparent “fib” [*The Dyer’s Hand*, 1962], we are free to
+read it as an allegory: the poem falls silent because, confronted with the plurality of persons (the
+plurality of potential poets), the sovereign decrees of the imagination were revealed to be
+incapable of forging the community of which they dreamt. Coleridge melancholically abandoned “Kubla
+Khan” when it became apparent that its poetics could not be a poetics of communal peace. Either they
+would remain solitary, or they would lead to violence. Owen and Yeats, on the other hand, filled
+with indignation towards their audience, embraced the idea of making war upon it.
+
+¶49 The peculiarity of this decision is worth pondering. Both Owen and Yeats define war in terms of
+the suffering it imposes on those involved, and both propose that the proper response to such
+suffering is the imposition, via poetic expression, of further suffering, shifted, however, from a
+literal to a spiritual register. Imaginative warfare, if less morally objectionable than the
+physical variety, is nevertheless more absolutely so, since the usual justification in terms of
+self-defense never obtains. Two poems cannot, after all, even threaten one another; they can only
+apply Shelley’s dictum about poets being the “unacknowledged legislators of the world” [*The Defence
+of Poetry*, 1821], and seek imaginatively to outlaw one another on grounds of cliché. Such an
+understanding of poetic authority, in which each would-be poet seeks to banish his rivals on the
+basis, not of falsified evidence, but of differing mood, amounts, to put it bluntly, to solipsism,
+and a failure to live up to the dream of peace implicit in these poems’ visions of artistic
+community.
+
+¶50 Perhaps, however, blunt instruments are not the proper tools with which to pursue a critique
+such as this one. After all, these poems are not ignorant about their failures. To the contrary,
+they broadcast them, taking a perverse delight in the apparent impossibility of any poem achieving
+the peaceful ends for which these poems of war profess to aim. In the end, I have not said anything
+about these poems that they do not say about themselves, I have only shown that they also, and more
+devastatingly, say them about one another.
+
+* * *
+
+¶51 We do not know what Owen would have made of Yeats’ later poetry, had he lived to read it. One
+suspects that he would have disliked it, but could he have recognized the power of its (unhearable)
+call for cultural reform, despite it directly opposing the (equally impossible) reform Owen hoped to
+see? Perhaps his response would have resembled that of Yeats to Owen’s own poetry. While Yeats’
+Introduction attempted more to reverse the logic of engagé poetry than to record his evaluation of
+Owen’s work, we catch a glimpse of that evaluation in Yeats’s letter to his friend Dorothy Wellesley
+[26 December 1936]:
+
+¶52 > When I excluded Wilfred Owen, whom I consider unworthy of the poets’ corner of a country
+> newspaper, I did not know I was excluding a revered sandwich-board Man of the revolution & that
+> some body has put his worst & most famous poem in a glass-case in the British Museum—however if I
+> had known it I would have excluded him just the same. He is all blood, dirt, & sucked sugar stick
+> (look at the selection in Faber’s Anthology—he calls poets ‘bards,’ a girl a ‘maid,’ & talks about
+> ‘Titanic wars’).
+
+¶53 We find here again deep insight with an admixture of willful obtuseness. To be sure, Yeats has
+an ideological motive for refusing to recognize that the language of “bards” and “maid”
+predominates, not in the major poetry written after Owen’s injury, but in Owen’s earlier work,
+really his juvenilia (indeed, Owen outgrew such imagery sooner than did Yeats in his own pre-war
+poetry). By treating Owen as a mere versifier, Yeats can pretend no to have noticed Owen’s
+innovative use of pararhyme, which resembles in some ways Yeats’ own development away from full
+rhyme in his later career; this allows him to dismiss Owen’s poetry when what he means to dismiss is
+his politics.
+
+¶54 At the same time, however, Yeats show his critical acumen when he describes Owen’s verse as a
+fusion of revolutionary fervor with Keatsian languor. This languor is the target of Yeats’s
+reference to Owen’s phrase “Titanic wars,” which alludes to Keats’ Hyperion poems. It is also the
+meaning behind the allegation of the “sucked sugar stick,” which recalls the description of Keats in
+Yeats’s “Ego Dominus Tuus” [1918] as having “face and nose pressed to a sweet-shop window.” In that
+poem, Yeats suggests that the “luxuriant song” of unhappy Keats—no joyful builder he—compensated for
+but also perpetuated his sense of being “Shut out from all the luxury of the world.” The
+soldier-poet’s revolutionary verse, Yeats would have it, is just such a sterile self-perpetuating
+compensation.
+
+¶55 The same critique, I have been arguing, applies to Yeats’ poetry as well, though Yeats did not
+see it. At least, not in “Lapis Lazuli.” In Yeats’ very last war poems, like “Cuchulain Comforted”
+[1939; *see *App’x at 129], the story is slightly different. At least, I find a strange comfort in
+the juxtaposition of this poem with that Yeats described as Owen’s “worst & most famous,” and which
+perpetrated the alleged solecism “Titanic wars”: the dream-vision “Strange Meeting” [1918; *see
+*App’x at 128].
+
+¶56 “Strange Meeting” narrates the speaker’s descent to the underworld and his encounter with the
+soul of an enemy soldier whom he killed. This dead soldier makes an even more transparent figure for
+the ideal artist than did the dying soldier of “Dulce et Decorum Est,” and the poem is even more
+transparently a piece of propaganda. The fallen soldier’s main objection to being dead is that he
+will be unable to tell “the truth untold | The pity of war, the pity war distilled.” Still, whatever
+its flaws, it is nowhere near the worst of Owen’s poems. Yeats is being hyperbolic. The hyperbole
+suggests that Yeats disliked the poem less for its intrinsic qualities than for its very popularity,
+and the way that popularity made salient its utility as propaganda—at the expense, we might add, of
+its powerful formal design. The poem’s continuous use of pararhyme, and the final unrhyming
+half-line “Let us sleep now…,” achieve an uncanny quality that exceeds the poem’s didactic content.
+
+¶57 As for “Cuchulain Comforted”—in Yeats’s poem we see not only an exceeding of didacticism, but
+actually an escape from it, as Yeats the avowed propagandist locates in the self a mystery which
+does not allow for propagation. It is a greater poem than “Strange Meeting,” but seems also to have
+learned from it, achieving its effect through a poetic scenario and through poetic effects closely
+paralleling those of its lesser precursor. (Direct influence is difficult to prove, and so I will
+not assert it, but Yeats’ letter to Wellesley does at least demonstrate that he was familiar with
+Owen’s poem.)
+
+¶58 “Cuchulain Comforted” narrates the mysterious encounter of the dead warrior Cuchulain with a
+group of coward-shades. The poem seems at first to reject Cuchulain’s warrior ethos for the shades’
+cowardice; the leader of the shades instructs Cuchulain to “Obey our ancient rule and make a
+shroud.” But the poem ends on a different note, one of lingering transformation, in a line standing
+alone after the last triplet (the poem is in a slant-rhyme terza rima whose uncanny effect is
+similar to but more complex than that of Owen’s slant-rhyme couplets):
+
+¶59 >     They sang, but had nor human tunes nor words,
+>     Though all was done in common as before;
+
+¶60 >     They had changed their throats and had the throats of birds.
+
+¶61 This afterlife for the paradigmatic Yeatsian warrior ends free of all didacticism, resolving
+into birdsong, the Keatsian pass-key to “faery lands forlorn.” This birdsong is common to all, free
+of the hierarchy obtaining between visionary poet and the community he envisions.
+
+¶62 But it is also mere birdsong—not a fragmentation of the body, but an absolute negation of it.
+The communion achieved has no positive content, a lack which leaves any would-be recipient of a
+poetic communication still discontented.

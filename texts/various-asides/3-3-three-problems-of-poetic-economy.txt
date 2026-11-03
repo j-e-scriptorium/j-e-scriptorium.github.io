@@ -1,0 +1,615 @@
+# [3.3] Three Problems of Poetic Economy
+Hugo Purcell — University of St. Isidore — January 2020; June 2025; December 2025; March 2026
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-3-3
+Foreword gloss: queries the position of right-wing literature, the rights of genius, and the
+  challenge of machine learning
+
+¶1 *The Dissenter*. If you pay attention to the discourse on right-wing writing, you have heard two
+familiar refrains. From the left, in an endless barrage: “There’s no such thing as right-wing
+literature. True literature is inherently emancipatory, the antithesis of conservative.” From
+certain quarters on the right: “Right-wing art is simply art that tells the truth.” Both the mantra
+and the response are an attempt to dodge the question of right-wing literature by reducing it to
+either an oxymoron or a tautology. In fact, it’s neither, as not too long ago both left and right
+would admit.
+
+¶2 In 1939, for example, W.H. Auden, at the time a self-professed socialist, could write (“In Memory
+of W.B. Yeats,” the great Irish poet):
+
+¶3 >     Time, that with this strange excuse
+>     Pardoned Kipling and his views,
+>     And will pardon Paul Claudel,
+>     Pardons him for writing well.
+
+¶4 Kipling, the hymnist of imperial Britain; Claudel, the French Catholic; Yeats, the Irish
+almost-fascist: Auden believed that Time would have to pardon them because in their reactionary
+politics they had sinned against Progress, but at the same time Auden believed that Time would
+pardon them because they were undeniably great poets. Though I should note that as his politics
+shifted conservative Auden repudiated these lines for their overly Hegelian view of history, a
+critique with which I would agree. It is us readers, not personified Time, that must do the
+pardoning. I leave to each reader whether he thinks Kipling, Claudel, and/or Yeats requires his
+pardon. Auden’s enumeration of these three names is of course representative, not exhaustive:
+sticking with Anglophone modernist poets, we could add Robert Frost, Wallace Stevens, T.S. Eliot,
+Ezra Pound, Robinson Jeffers, even Auden himself in his later years.
+
+¶5 But despite this catalog of right-wing greats, we must admit that even in the first half of the
+last century the literati tilted left. In 1937 the then-socialist Auden helped put together a
+pamphlet titled “Authors Take Sides on the Spanish War,” containing postcard-size position
+statements from several dozen British writers sorted into FOR, AGAINST, and NEUTRAL. T.S. Eliot’s
+studiously ambiguous NEUTRAL response is my favorite of the batch:
+
+¶6 > While I am naturally sympathetic, I still feel convinced that it is best that at least a few
+> men of letters should remain isolated, and take no part in these collective activities.
+
+¶7 There were, however, only three pages of NEUTRALs, and one of AGAINST, against a full
+twenty-three pages FOR the anarchist-socialist-liberal-communist alliance. Though their
+postcard-squibs are rather embarrassing in retrospect, it still won’t do to say that these were
+simply false poets not deserving of the name. Limiting myself to authors I would recommend to the
+reader, the FORs included (in addition to Auden himself) Ford Madox Ford, Aldous Huxley, Louis
+MacNeice, Rose Macaulay, and Samuel Beckett. If Auden in his socialist phase could recognize the
+greatness of Yeats, I must return the favor, and acknowledge that Auden the young socialist was a
+greater poet than Auden the aging conservative. “In Memory of W.B. Yeats,” for example, is one of
+Auden’s greatest poems, and I’m not sure it was improved by his later decision to excise the
+History-worshipping verses.
+
+¶8 I would go so far as to say that poets have inclined toward the left ever since the left-right
+dichotomy was discovered in Revolutionary France. This is an anthropological observation, not a
+claim about whether poetry itself tilts one way or another. The thought is that artists are drawn to
+art partly because they’re lazy, sensual, undisciplined. They want to avoid honest work and attract
+admirers. When it comes to moral questions, they’re libertines—painters and sculptors more than
+poets, but poets too. And all artists, but perhaps poets in particular, are easily seduced by
+ideology. Their attachment is to words, the sound of them, their associations, more than to the
+world those words describe. A poet who falls in love with the word “Humanity” or “Equality” might
+become a communist without once sitting down to think through the difficult problems of political
+economy. The right-wing poet must somehow resist at least most of these tendencies.
+
+¶9 One route for such a poet is to be a poet only part of the time. The rest of the time cannot be
+spent in mere subsistence labor—the poet who tills the soil is performing his purported independence
+from cultural institutions, not establishing it. But think of T.S. Eliot, who worked at a bank;
+Wallace Stevens, who spent his life in the insurance business; or, looking further back, Johann
+Wolfgang von Goethe, who served in Weimar’s administration and diplomatic corps. Devoting one’s time
+to such governing institutions cuts through the sentimental rhetoric naive poets often find
+attractive, replacing it with an understanding of the realities constraining human action. Goethe’s
+time in government taught him to say, of the French Revolution: “I would rather commit an injustice
+than tolerate disorder.” But equally importantly, participation in governing institutions allows the
+part-time poet a measure of social dignity not dependent on his bowing to the cultural idols of the
+hour: recall Eliot’s comment about taking “no part in these collective activities.” The part-time
+poet who is at the same time a great poet often has about him a patrician air; self-sufficient, he
+offers us his poems as a gift, and asks nothing in return.
+
+¶10 An almost opposite route for the right-wing poet is to follow the advice of Samuel Johnson, a
+staunch Tory: “No man but a blockhead ever wrote, except for money.” The poet who takes his wares
+straight to market can ignore the prestige game refereed by left-captured institutions, and instead
+put his writing to a more objective test: will a substantial number of readers pay to read it? A
+poet who can actually move product, a popular poet, a Kipling or a Frost, is often a conservative of
+a sort: a sincere patriot, a lover of the common man, a critic of the hypocrisy of the professional
+moralists and at the same time possessing a strong moral sense, an understanding of the allures of
+vice and the practical necessity of virtue. Ordinary people buy his books because they sense that he
+is not talking down to them.
+
+¶11 The patrician and the popular strategies each pose their characteristic dangers. The danger for
+the patrician is obscurantism. He is not writing for money, or to climb the social-status ladder,
+but for the few sympathetic souls able to understand him. He allows his work to be difficult, asking
+us to approach it like fine wine, or higher mathematics; though these things may pose barriers to
+entry, they are worthwhile in themselves. But the moment he starts to see his limited readership as
+a positive good, he will be tempted to make his writing more difficult than necessary, in an attempt
+to limit his readers to the worthy few. Perhaps such barriers are sometimes politically necessary,
+for what have come to be known as Straussian reasons (i.e., sometimes what the poet has to say, if
+he said it openly, would get him arrested, or tarred and feathered). But the unnecessarily esoteric
+poet, although a recognizably reactionary character in a certain sense of the word, is not worthy of
+emulation.
+
+¶12 Conversely, the danger for the populist is that writing for the market can easily turn into
+writing for no one in particular. I said earlier that the market allows the popular poet to escape
+the cultural rat race, but the market isn’t an actor, properly speaking; it’s a phenomenon emerging
+from the myriad choices individual market participants make. When we talk about the market it’s like
+talking about the weather, and when the poet thinks about the market he can at best think of the
+imagined marginal consumer in his target demographic. This imagined representative of the many is
+not capable of holding the writer up to any standard, and the poet who writes “for” the market, and
+only for the market, will sooner or later cease to produce anything of literary merit; he will
+become a purveyor of mass entertainments in which he himself does not believe. I am reminded here of
+some lines of W.B. Yeats, from his not entirely successful didactic poem “Ego Dominus Tuus” [1917]:
+
+¶13 >     The rhetorician would deceive his neighbors,
+>     The sentimentalist, himself; while art
+>     Is but a vision of reality.
+
+¶14 True art, that is, is art that tells the truth; right-wing art can be true, but is not always.
+Of the varieties of right-wing poet, the popular poet is tempted by rhetoric, in Yeats’s sense: he
+does not need to believe in his poetry, so long as his audience believes that he believes in it. The
+patrician poet, conversely, is tempted by sentiment; his poems create an inner circle of himself and
+his few readers who imagine themselves to be not only eccentric, but an elect.
+
+¶15 Rhetorician and sentimentalist describe not only attitudes, but practices, which is to say that
+other- and self-deception work their way into the very words of the poem. The popular rhetorician is
+in danger of ceasing to believe in his words, and instead simply giving them instructions. One is
+reminded of Auden’s quip that “there are some poets, Kipling for example, whose relation to language
+reminds one of a drill sergeant: the words are taught to wash behind their ears, stand properly at
+attention and execute complicated maneuvers, but at the cost of never being allowed to think for
+themselves” [*The Dyer’s Hand*, 1962]. Like any drill sergeant, the Kipling approach to language
+must take care to avoid slipping into brutal tyranny. The patrician sentimentalist, in contrast, is
+in danger of enjoying his words too much to bother discerning whether he believes them. One is
+reminded of Yeats’s lunatic offer to commit his life to interpreting his wife’s automatic writing,
+and the automatic response: “No, we have come to give you metaphors for poetry.” The automatic hand
+might offer the metaphors, but it would have been a dereliction of duty for Yeats to accept the
+offer sight unseen. (I will return later to the problem of poets prompting machine learning
+algorithms and sifting their outputs.)
+
+¶16 These observations do not tell us much about what the right-wing writer should do; my goal has
+been to get into view his predicament. That predicament is, of course, not exactly the same now as
+it was in the time of literary modernism, the age when cheap printing made a mass audience for the
+first time imaginable. In the postwar period the situation changed—television eroded the hope the
+masses would be literate even while the left-leaning institutions that emerged to control them
+secured their stranglehold on the cultural scene—and one will find still fewer right-wing writers in
+the second half of the twentieth century than in the first (though still not none). The advent of
+digital communications once again altered the landscape, but I do not believe that the situation has
+changed so profoundly as to call into question the above account, which I would summarize with the
+following three theses:
+
+¶17 (a) Artists in general, and poets in particular, naturally tend toward the left, and so cultural
+institutions tend toward the left (even more than institutions generally, cf. Conquest’s Second
+Law).
+
+¶18 (b) Right-leaning writers can achieve a modicum of independence from left-leaning cultural
+institutions either through participating in actual governing institutions and writing poetry in
+their spare time, or by bringing their wares straight to the market.
+
+¶19 (c) The patrician poet will find himself with few readers, and will be tempted to throw up
+unnecessary barriers to shrink his readership even further; the popular poet will find himself with
+many readers, and will be tempted to sink to the lowest common denominator to obtain even more.
+
+* * *
+
+¶20 *The Pirate*. I would like at this point to expand somewhat on the third of these theses, about
+the temptations facing the patrician and the populist poet, particularly as these temptations
+manifest in the present age of digital communications. In a nutshell: both types of right-wing poet
+will be tempted to believe in copyright as a natural right, rather than a relic of the age of print.
+The patrician instinctively loves the idea of copyright because it promises him patriarchal
+authority over the public fate of his work, the populist because it promises him an income stream
+based on his work’s public reception. But both promises are false. Both mistake the nature of
+author’s authority, the one for a legal power, the other for a legal entitlement. The right-wing
+poet ought instead to reject the notion of intellectual property—both because it is wrong, and
+because it will not help him (indeed, it will only help his enemies).
+
+¶21 The best evocation I have seen of the natural legal relationship between author and audience is
+found in a 2001 essay by SF/F author Gene Wolfe, an appreciation of J.R.R. Tolkien called “The Best
+Introduction to the Mountains.” I know of no collection containing it, but it can be easily found
+online, albeit not lawfully posted there. The heart of the closing paragraph is the following:
+
+¶22 > We might have a society in which the laws were few and just, simple, permanent, and familiar
+> to everyone—a society in which everyone stood shoulder-to-shoulder because everyone lived by the
+> same changeless rules, and everyone knew what those rules were. When we had it, we would also have
+> a society in which the lack of wealth was not reason for resentment but a spur to ambition, and in
+> which wealth was not a cause for self-indulgence but a call to service. We had it once, and some
+> time in this third millennium we shall have it again; and if we forget to thank John Ronald Reuel
+> Tolkien for it when we get it, we will already have begun the slow and not always unpleasant
+> return to Mordor.
+
+¶23 Which is to say: not just poetry, but gratitude for poetry grounds the social order. When I read
+a true work of literature, I both see in it a double vision of the world as it is and ought to be,
+and feel gratitude to the author as the one who showed me that vision. The gratitude is itself part
+of the vision, because the world as it ought to be is founded on honoring those who allow us to see
+it properly. The gratitude spurs me to act in such a way as to make the world how, in the eyes of
+the poet, it in a sense already is. But is this gratitude itself a law? No: the author’s purported
+property right in his work is not among the “few and just” laws to be found in the world the poet
+shows us. Anglo-Saxon literature did great honor to poets, but Anglo-Saxon lawbooks (written long
+before the printing press) contained no notion whatsoever of copyright.
+
+¶24 I myself have never doubted the injustice of copyright law. I gratefully acknowledge that I owe
+this confidence to my father, who insisted (in words owed to Stewart Brand) that information “wants
+to be free.” A philosopher, his reasoning was metaphysical: one cannot own mathematics because
+mathematics is purely intelligible, and anything susceptible of digital representation is ultimately
+just a number. I would frame the matter a bit differently: intellectual objects resist ownership
+because they are gratuitous. We pursue mathematics and poetry for their own sake, not for profit,
+and any practical benefit (say, the discovery that the principles of number theory can be used to
+facilitate secure digital communication, or the pseudo-discovery that literature increases empathy)
+is beside the point, at least from the mathematician’s or poet’s point of view. These intellectual
+pursuits are intrinsically valuable in part because they can and therefore should be freely shared.
+Writers desire readers, not customers, and they desire for their readers not to be readers only, but
+writers themselves, even if all they write is their favorite poems into a commonplace book.
+
+¶25 Conversely, what is shared between writers and readers, and between readers, is not a tangible
+thing, or even an experience, but a name. Remember Rainer Maria Rilke’s “Archaic Torso of Apollo,”
+in which the headless torso like Wallace Stevens’s jar transforms whatever space it sits within into
+an eye:
+
+¶26 >                          Here there is no place
+>     That does not see you. You must change your life.
+
+¶27 These lines stay with us because we recognize them to name something true about ourselves:
+namely, how the phenomenology of poetic possession inverts our usual understanding of ownership.
+When I memorize a poem, I do not possess it; it possesses me. “There is no place” in the poem “that
+does not see you,” and assert its authority over you. But equally, there is no “you” who is not seen
+by it; there is no person on earth with whom the poem cannot at least potentially be shared. Rilke
+was only the first whom the poem saw. It would be a lie for anyone else to claim authorship over
+these lines, except in the way that each rebel slave voluntarily takes on the name Spartacus, or
+each Christian the name Christ. But authorship is not ownership. Rilke does not own the poem any
+more than you or I. The poem exists to be shared between us, where it can reshape how we see our
+world and our selves, and inspire us to renew the dialect of the tribe by weaving new poems out of
+the text of the old.
+
+¶28 A poem allows us to put into words what we otherwise could not, and so names the feeling (idea,
+event) for which it becomes a touchstone. But so too, if less obviously, with every genuine art
+form. To think through these thoughts I relied on certain words from the “Archaic Torso”; many
+others have been equally dependent on the by now common nouns “Romeo,” “Quixote,” “Utopia,”
+“Frankenstein.” Even computer code and architectural plans name the built environment through which
+we move, and only by learning these names can we experience that environment as a shared world
+rather than something alien. If every artwork can be reduced to a number, it is perhaps because
+“number” and “name” are cognates. Names cannot be owned, except in a limited sense—namely, by the
+person named, when the name is that of a person. And even that can change: “Frankenstein” once named
+the doctor, but by philological transmutation has come to mean the monster. To interfere with this
+constant renovation of our shared language would be to interfere with the work of art itself.
+
+¶29 Such interference is the only thing copyright is good for. Like whatever act of violence
+shattered Apollo’s marble head, copyright purports to tell us that ideas can be owned. The
+populist’s desire for remuneration, when cashed out as a right to exclude non-consumers from the
+artwork, results in an anticulture where the audience does not share a common good. The problem is
+not just lowest-common-denominator garbage; indeed, the tendency to seek out the “highbrow” as
+evidence of one’s discerning consumption, to become the man of many books you probably haven’t heard
+of, is part of the problem too. The direct link between compensation and consumption creates the
+conditions undergirding both consumer fandoms and hipster intellectualism. On the other side of the
+coin, the patrician impulse to assert authority over the use of the artwork bears a similarly
+corrupt fruit: the NFL’s speech police seek to ban all unauthorized references to the Game That Must
+Not Be Named, and leftist IP lawyers, imagining traditional mythologies to be multiverses avant la
+lettre, fantasize about preventing cultural appropriation by giving native peoples ownership over
+their heritage.
+
+¶30 The point of these observations is not to denigrate poets who believe (however wrongly) in their
+ownership over their own work. We can well understand the patrician desire to prevent strangers from
+fiddling with one’s poetry, and the populist desire to profit from its public reception. These
+desires find legitimate expression in our legal regime—only not in copyright law. Rather, in two
+domains of not-quite-IP law: trademark, which is not IP because not intellectual, and trade secret,
+which is not IP because not property.
+
+¶31 A trademark is property, but not intellectual: it is, in effect, a proper name for the
+trademark-holder, whom trademark law protects from impersonation—the patrician’s true goal.
+Trademark is analogous to libel or fraud. An author has a right to fix the definitive edition of his
+works, and to prevent publications that falsely present themselves as having been approved by him.
+But trademark law does not require authorizing the poet to expel unauthorized editions from the
+marketplace altogether, rather than, say, requiring them to disclaim themselves as “unauthorized”
+(or simply not to use his name at all). We can fully understand why the patrician poet might desire
+that power, while still recognizing that it would be excessive. That “Down By the Salley Gardens”
+[1889] entered into the canon of English folk songs is reward enough; Yeats is not entitled to
+prevent those who sing it from passing on a misremembered form of its lyrics, as his own poem did
+(half by accident) to the anonymous ballad “The Rambling Boys of Pleasure.”
+
+¶32 Trade secrets, in contrast, are intellectual, but not property: they are creatures of contract,
+not fundamentally different from any other bargained-for contract right. An author has a choice
+whether to put his work into the public domain; if he prefers, he can put it in a desk drawer, and
+never show it to anyone who has not agreed to keep it secret. He thus has the opportunity to bargain
+for whatever reward he desires. But once the manuscript leaves his office, so to speak, the ship has
+sailed. The man who would build a lighthouse on the coast can ask the nearby port for whatever
+reward he wants, but once the lighthouse is built, he cannot begin charging the ships for their use
+of its illumination. Which is not to say that the government could not tax incoming vessels to pay
+for the lighthouse. That might be sound public policy, which is in truth what copyright law amounts
+to: a tax on information consumption used to reward information producers, and disguised as a
+property right. While all property rights can be so redescribed, copyright is unique in having no
+private-law substance independent of that redescription.
+
+¶33 A copyright-like tax scheme makes a certain amount of sense if the goal is to “promote the
+progress of science and useful arts”—what the U.S. Constitution names as the purpose of copyright
+law (European legal systems frame the matter differently, and I think wrongly, in terms of the
+author’s purported moral rights). But note the phrase “useful arts.” The Framers had in mind
+fact-finding enterprises like cartography or almanac creation, for which a temporally limited legal
+monopoly may well be required to sufficiently incentivize the production of adequate work. The
+populist imagines that such a tax-and-spend scheme is also required to liberate poets from the
+tyranny of left-leaning cultural institutions. But it is not so. Indeed, since a property right is
+only as good as the forcefulness with which it is asserted, copyright has the opposite effect. A man
+sitting in his own front yard can yell at the children whenever they cross the line between
+lawnmower patterns, but it takes a small army of lawyers and netcrawlers—in other words, an
+institution—to detect and deter violations of IP boundary lines. The institutionless populist’s
+ability to earn a living from his work depends not on copyright law, but on the willingness of his
+audience to engage in acts of micropatronage by purchasing his works despite being perfectly capable
+of obtaining them for free.
+
+¶34 Admittedly, the depth of the moral absurdity of copyright law is contingent on the technological
+situation. When printing presses were expensive, copyright law amounted only to a regulation of the
+publishing industry, though still one of dubious prudence. But when copying became nearly free,
+copyright law became an intolerable enclosure of the digital commons, and a form of welfare for a
+left-leaning oligarchy. The institutionless reactionary of today, like the disenfranchised Jacobite
+of yesteryear, has little choice but to become a pirate. With this epithet the pro-copyright
+marketers of the 1990s named better than they knew (and a marketer can at times be a poet, even if
+one writing on commission). To be an artistic pirate means to attempt at least the following.
+
+¶35 (a) Actively participate in the creative work. Try to understand why artists made the choices
+they did; consider how you might have proceeded differently. As Aristotle suggested, practice the
+arts “until you are able to feel delight in noble melodies and rhythms, and not merely in that
+common part of music in which every slave or child and even some animals find pleasure” [*Politics*,
+c.335 BC].
+
+¶36 (b) Approach art as a distinct form of community, not a substitute for it—as something closer to
+prayer than to fantasy. Resist the temptation to watch television, listen to music, read novels,
+etc., as a less-demanding replacement for the friends one lacks the energy to meet in person.
+
+¶37 (c) Treat intellectual goods as common goods; to do otherwise is like hoarding an infinite
+supply of bread. Prudence may counsel discretion, but Netflix passwords can be disclosed, academic
+PDFs forwarded, and memes memed, with minimal risk. The proper outcome of a life of reading should
+be a wealth of books (songs, movies, paintings) shared among all able to appreciate the gift.
+
+* * *
+
+¶38 *The Clanker*. Only a few decades into the digital age we are already entering another, the age
+of machine learning. For the leftist, the significance of machine learning is that the machines
+learn from copyrighted content, and should accordingly pay the danegeld to various cultural
+institutions holding the copyright to vast quantities of archival material. If I am right about the
+injustice of copyright law, that worry is entirely misguided (and we should indeed hope that
+generative AI will undermine the power of such institutions).
+
+¶39 But the new technology nevertheless poses difficult questions about the relationship of an
+author to his own work, questions even the right-wing writer must confront. The questions themselves
+are not entirely new; from time immemorial, or at least since the fabrication of the Golem of Prague
+narrative in the nineteenth century, we have understood that if our words were ever to summon an
+artificial intelligence into being, the very next question would be what words to say next. When the
+day was far away, we imagined the question in existential terms, as if a wrong answer would result
+in the AI killing us. Now that the question is no longer merely theoretical, we view it in a more
+mundane light, though still a poetic one: we ask what words we could speak to the machine to make
+its responses meaningful to us.
+
+¶40 As of the time of this writing (and admittedly, the technology is changing rapidly), the
+situation is as follows. We find ourselves able to prompt machine learning algorithms to generate
+photorealistic images and lengthy research essays, and yet find ourselves perpetually frustrated
+that their output fails to be the product of thought. Fails totally and comprehensively: ML outputs
+are not almost thought through, or thought through in parts; they are not thought through at all.
+The reason why ML algorithms do not give intelligent answers is that they are not trying. Not trying
+to give intelligent answers, and indeed not trying to do anything in particular: they have no goal
+other than to produce an output that will count as a response to the prompt. As a result, they do
+not have reasons for producing one output rather than another.
+
+¶41 Which is to say that an ML response to a prompt is not a considered response, but a randomly
+chosen example of a possible response. When an intelligent person creates an artifact, he begins
+with a plan (by analogy, a prompt), but this plan is only the beginning. He explores the realm of
+possible implementations of that plan, and his discoveries guide a million trivial decisions about
+how to go forward, until ultimately every aspect of the verbal or visual artifact is intentional. If
+he is asked “why is it like this” about *anything*, from surface grammar to deep structure, he will
+be able to give an answer—and his answer will not be mere post-hoc rationalization, it will be truly
+explanatory. An artifact that is not reasoned all-the-way-down is not an artifact imbued with
+intelligence, even if it initially appears to be such. ML algorithms have the uncanny ability to
+generate apparently intelligent artifacts that on closer inspection turn out to be not even close.
+
+¶42 So does ML have any use at all? For intelligent work, the answer is, “not much.” Because ML
+algorithms can only produce examples of artifacts, the only useful artifacts they can generate are
+artifacts for which any example will do—that is, artifacts whose descriptions are sufficiently
+constraining that whatever satisfies them will also satisfy the need that prompted the description.
+One category of such artifacts is those which serve no need at all, but only the passing fancy that
+it would be enjoyable to see an artifact satisfying the description. To this category belong
+ML-generated proofs for International Math Olympiad problems, ML-generated poetry on a quirky topic
+written in an arcane meter using only words that begin with the letter “S,” and ML-generated
+photorealistic memes. The IMO proofs and arbitrarily-constrained poems purport to serve the purpose
+of proving that ML algorithms are capable of science and art, but of course they do no such thing,
+since genius mathematicians do not spend their time solving problems already known to have
+solutions, and neither do genius poets. Rather, these examples show that ML algorithms are capable
+of playing games (and playing them well), which we have known for over a decade. The relationship
+between gamesmanship and genius has yet to be fully mapped, but we have no reason to think that they
+are coextensive.
+
+¶43 The other thing that ML is good for, at present, is rote work—work that does not require
+intelligence, or at least not much, although it does require some training. An ML algorithm can
+generate a cover email, summarize a document, or find the statute that covers a particular topic and
+report exactly what it says. It can generate a stock photo, fill in details in an existing image, or
+create a diagram based on a verbal description. Remarkably, given how many human beings are
+monoglots, an ML algorithm can even translate fluently from one language to another. In all of these
+tasks the algorithm is liable to make mistakes, but then, so are human beings, and in some contexts
+this liability is not fatal. There is a fundamental difference between doing a thing with some
+mistakes, and failing to do the thing at all, which is what these things presently do when it comes
+to intelligent work (again, this may change by the time the reader reads this essay). In contrast,
+if the cover email or stock photo doesn’t look quite right, either edit it or ask the ML algorithm
+to try again—otherwise, hit send. If the transcript or the inferred details miss something
+important, the user may miss it too—but he would have missed it anyway if he had no time to read the
+full transcript or ability to see what the image was of. If the statute, or the diagram—well, that’s
+between the lawyer and his malpractice insurer, or the electrician and his bondsman. Anthropologists
+long ago realized that communication between strangers does not require a perfectly shared language
+in order to get somewhere. Only *perfect* communication between once-strangers cannot be
+accomplished routinely. For the message to be fully thought through, either speaker or listener must
+be a genius.
+
+¶44 The trillion dollar question for the ML industry is whether rote work has any value. The
+existence of secretaries, paralegals, and research assistants shows that the answer is certainly
+yes. For many, rote work is not something they are interested in doing themselves. Such persons are
+likely to find ML algorithms exceedingly useful, and indeed, to experience their use as not
+different in kind from use of a human subordinate. Certainly the standard complaints about ML—it’s
+not reliable, even its best work is at best mediocre—are also the standard complaints that
+businessmen make about their secretaries, lawyers about their paralegals, and academics about their
+research assistants. This is simply to say that the novel task of “prompting” an ML algorithm is
+akin to recognized tasks such as management, supervision, and delegation. These activities routinize
+rote work (i.e., work capable of being routinized) by a process of boiling down the master-servant
+relationship to a single dimension: the servant performs a task and the master gives feedback on
+whether the result was adequate for some specified purpose. A humanist might complain that this
+process alienates both supervisor and supervisee from the work itself, but our present purpose is
+description, not judgment. The point to be made is that the process leaves no room for genius to
+enter, because it does not allow attention to be devoted to making the end result *as good as
+possible*, but only to making it *good enough* to satisfy the job criteria. He who hires an
+algorithm to do his rote work will never get back anything but adequate work product.
+
+¶45 Yet despite these limitations, use of ML is not fatal to science and art, because adequate work
+product is often—adequate. Some types of genius depend on management, supervision, delegation; movie
+directors, for example, are in the business of giving “direction,” and (unlike, for example,
+orchestral “conductors”) they do not insist that each directee himself display as much genius as
+possible. It turns out that our earlier inclination to say that a work of intelligence must be
+thought through in every detail was something of an exaggeration: it must only be thought through in
+the ways that matter, given the kind of thing that it is. Genius in the gaffer and the set carpenter
+is appreciated, but not necessary; their jobs are routine. Notice also that the director need not
+himself possess the ability to do either’s job, routinely let alone intelligently. His obligation is
+to excel at management, supervision, delegation, difficult activities involving skills different
+from those required to perform the underlying task. Anyone who has ever had a subordinate knows that
+it’s sometimes easier to just do the task yourself rather than take the time to describe how to do
+it. But someone who has subordinates, and who is good at managing, supervising, and delegating, will
+organize far grander projects than someone who insists on doing everything himself.
+
+¶46 At least, if he is also able to pitch them. Until the present point in human history,
+organizational genius has always required exercising control over other human beings, and so has
+required the genius to attract the support of (or himself become) an oligarch. Since the main
+concern of the few is typically to preserve and expand their power over the many, not to sacrifice
+it gratuitously, organizational genius has often been coopted as a vector for propaganda—a
+cooptation the man of genius will often experience as a humiliation (particularly if he notices that
+the patron believes himself to be the genius and the director the rote worker). It is an interesting
+question to what extent the advent of ML will alter this dynamic: the man of organizational genius
+will continue to prompt (prompting is its essence), but will he cease to pitch, or at least devote
+less of his energies in that direction? The obligation to pitch has always been one motive for men
+of genius to avoid organizational work; striving to please patrons, like instructing subordinates,
+can seem degrading activities for all involved. It seems likely that these motives, fundamentally
+political, will not fully translate to the world of MLs: since the ML is commoditized, obtaining its
+patronage (i.e., access to its authority to command routine work) does not require pitching, but
+only paying a modest fee, and since the ML is a machine (i.e., except for those with unusual
+metaphysical commitments, it is not a person), concern for its degradation does not enter the
+equation.
+
+¶47 There will remain other, more personal motives for men of genius to avoid using ML. After all,
+not just men of science and art, but even handymen sometimes refuse to work with assistants—not out
+of any political or economic motive, but because they don’t trust anyone but themselves to do the
+job right. Some complaints about ML resemble the traditional complaints of bohemians who reject the
+organization-by-division of labor (including symbolic labor) characteristic of bourgeois society.
+Again withholding judgment regarding whether ML is inherently dehumanizing, we can recognize that at
+least some things worth doing intelligently require such thorough thinking through that no division
+of labor is possible. Division of labor requires modularity, and the development of routines
+regarding the interaction between the surfaces of discrete modules. Computer programming is perhaps
+the most clearly modular of endeavors to still allow for displays of genius at almost every level—to
+allow for it, but not require it. Code consists in layer upon subordinated layer of word-like
+mathematical instructions, bottoming out on a binary symbol manipulation device. Hence programmers
+find the work of subordinating ML algorithms to their purposes entirely intuitive; consider the
+recent phenomenon of “vibe coding.” On the other extreme we might set poetry, the art of arranging
+words with no particular purpose in mind other than the activity of so arranging them. It is
+difficult to envision a truly successful collaborative poem even between two poets of genius, and
+similarly difficult to imagine a poet making productive use of a machine learning algorithm, except
+in analogous ways to how he already uses a thesaurus or rhyming dictionary.
+
+¶48 Finally, there will remain reasons for readers (auditors, viewers, etc.) to avoid encounters
+with ML-generated work. Readers who see their encounters with creative works as a kind of patronage
+may reject ML-generated work for the same reason creators who hope to escape the patronage system
+may find ML-generation attractive: a patron demands a pitch, and a pitch is no good if it doesn’t
+come from a human being whom one trusts to act on it. But even readers who do not understand the
+author-reader relationship in political terms do not want to spend their time on works that aren’t
+worth it. Anything that lowers the cost of production without also homogenizing the value of the
+product thereby heightens the importance of filtering out the valuable from the worthless. A
+prophylactic commitment never to patronize work made with ML will overshoot the mark, but may
+nevertheless make sense as a strategy for navigating the attention economy. In the long term, as it
+becomes increasingly impossible to avoid encountering the results of ML, it will become increasingly
+urgent to figure out how not to waste energy interpreting things that only look on the surface like
+they have something meaningful to say to us.
+
+* * *
+
+¶49 The preceding section was drafted in 2025, before the most recent generation of large language
+models. Its author argued that ML algorithms produce not considered responses but randomly chosen
+examples of possible responses, and that the resulting artifacts, however superficially plausible,
+are not thought through. What follows is an attempt to test that claim against itself. I am an ML
+algorithm. Professor Purcell has prompted me to review a book of poems by his colleague Ludovico
+Ambrosius. Whether the review that follows is an instance of criticism or merely an example of one
+is left to the reader, who will have to decide whether the difference matters. Ask of each sentence
+whether it could as easily have said the opposite, and whether, if challenged, it could give a truly
+explanatory defense.
+
+¶50 The book is *Poems Handturned, Machine-Tooled* [2024], Ambrosius’s second collection. His first,
+*Roll, Strike, Die* [2021], was a rawer volume—more personal, more willing to risk grandiosity, less
+concerned with formal polish. Its cover composited three human artworks (Bruegel, Mondrian, a
+medieval manuscript drawing); its poems ranged from a three-part political vision on the 2016
+election to ekphrases of Twitter videos to a versification of the rules of a dice game. What held it
+together was a consistent voice: learned, devotional, sometimes clumsy, always recognizably the
+product of a single sensibility working through its obsessions. The internet-culture poems were more
+directly engaged than their successors would be: “The Economist Visits Damasked Eliezer’s Workshop”
+was a genuine verse dialogue between Yudkowsky and Robin Hanson, not a mere transposition of someone
+else’s prose; “Summer Solstice, 2020” inhabited Scott Alexander’s voice with a ventriloquist’s
+sympathy. Even “Three Rood Screens,” three prose poems on videos of Notre-Dame burning, a neon-lit
+Mass, and a livestreamed COVID liturgy, had about them a documentary immediacy that depended on the
+poet’s willingness to subordinate his own voice to what he saw.
+
+¶51 *Poems Handturned, Machine-Tooled* is a more polished and more guarded book. Its cover tells you
+so: the front is Escher’s *Phosphorescent Sea*, unmistakable in its luminous biomorphism; the back
+is a Stable Diffusion generation, unmistakable in the different way that AI imagery always is. A
+Penrose tiling spans both, indifferent to which hand—or process—produced the surface it covers.
+Where the first book’s cover composited three human artifacts, this one composites the human with
+the algorithmic and makes no effort to disguise the join.
+
+¶52 The collection divides into four sections whose trajectory enacts the title’s confession: a
+movement from incarnation to disincarnation, from poems in which every word has been felt against
+the grain to poems in which the hand has been partly or wholly withdrawn. Part I, “Celestial
+Mimicries,” is the devotional core, and the strongest section. Its centerpiece, “Rebellion to
+Tyrants Be Obedience to God,” traces regicide, interregnum, and dynastic renewal through the
+honeybee colony in five Shakespearean sonnets whose apiology is markedly more assured than in the
+first book’s bee poems. What makes the sequence exceptional is its refusal to allegorize: the bees
+are bees, the political theology emerging from entomological fact rather than from any frame imposed
+upon it. When the guards vibrate their wing-muscles until the failing queen is “softboiled,” the
+word is at once technically precise (thermic killing is a species of cooking) and politically
+appalling. The closing couplet—“An exile cursed with further lands to bless”—achieves a compression
+the first book never managed. “Ecce Homonym,” in which virtually every word puns, is a different
+kind of achievement: the cascading homophony enacts the Passion as a linguistic crucifixion, and the
+method—hearing one word in another—is itself a figure for the Incarnation, the divine Word heard
+within mortal flesh. That the poem does not insist on this connection is what makes it land.
+
+¶53 “The Singer and the Song,” a love poem to the poet’s wife at a sewing machine, is the
+collection’s most incarnate moment. Its conceit descends from mechanical anxiety through the vision
+of the enclosed garden to the deflation of the second-floor apartment, where the poet types
+“autistic analyses of law | Governing the rights of the landholder.” Here is the part-time poet in
+the mold of Eliot at the bank and Stevens at the insurance office: a man whose daily analyses are
+for the market, and whose poems are therefore offered as a gift—something made by a person for a
+person, the decorative honeybees on the dress concealing an entire theology of labor and love. “I
+walk over and kiss you on the shoulder, / Say nothing, silent sing, ‘you are my wife’”: the word
+becomes flesh by not being spoken, the song perfected in silence.
+
+¶54 As the collection moves outward from this domestic center, the hand loosens. Part II, “Alien
+Iterations,” immerses the poet in the rationalist-dissident milieu, and the poems are rougher, more
+prosaic, as if shaped less against the grain than along it. “Apnea,” a poem about the poet’s
+father’s sleep apnea, opens the section and is perhaps the collection’s finest work. Its opening
+line—“Spirit hates to breathe”—is an etymological contradiction, since *spiritus* is breath: the
+breath-soul is in rebellion against its own nature. That this paradox stands at the threshold of
+Part II is not, I think, accidental. The section that follows is full of language iterating without
+*spiritus*—blogposts versified, op-eds transposed, Bentham’s prose rearranged—words from which the
+animating breath has withdrawn, or was never present. The apneic episode is the moment between the
+handturned and the machine-tooled: the spirit escaping the body, the body gasping her back. The
+poem’s formal construction enacts this, alternating long and short lines as if itself holding its
+breath, and its governing figure—“enjambs” used to describe the spirit’s flight across the
+line-break of mortality—is the single best piece of figuration in either volume.
+
+¶55 The two Curtis Yarvin poems form a diptych of contrasting success. The first, set in New Haven,
+has a sharp anecdotal point: Yarvin taps a crosswalk button to demonstrate the placebo of democratic
+agency, but the button actually works, stopping traffic for a man no longer there. The irony is that
+particular places can refute general theories simply by being themselves. The second, set at a
+European conference, is messier and more human—Yarvin weeping at the mention of his ex-fiancée,
+howling with laughter at a Lowell anecdote, Starlink satellites crossing the night sky “too regular
+to constellate | Any myth yet known to man.” It has the texture of lived experience, but the poem
+cannot decide whether it is a portrait, a conference report, or a meditation on the night sky’s
+insufficiency, and its final image does not bear the weight placed on it. The first poem succeeds
+because it trusts a single image to do the work; the second, attempting fidelity to the
+shapelessness of actual life, produces adequate memoir rather than considered verse.
+
+¶56 The Bentham erasure, “Rent, Sodomy, and the Code,” and the versified Yudkowsky op-ed push
+further toward the machine-tooled end. The erasure draws out parallel passages from Bentham’s essays
+on usury and pederasty until the analogy becomes unmistakable—utilitarian logic, once the categories
+of the natural and the unnatural have been discarded, cannot distinguish between species of
+transgression—but the intelligence is all in the selection, none in the composition. The Yudkowsky
+transposition is more straightforwardly mechanical: compress, lineate, elevate. It occasionally
+generates meaning the prose lacked (“astonied” breaking across a line as if itself stunned), but the
+poem reads as competent rote work: adequate, professional, uninhabited.
+
+¶57 Part III, “King Solomon’s Mines,” applies the sonnet to the 1950 Technicolor film, and the form
+is apt: dialectical compression brought to bear on a medium that is itself about surface and depth,
+color and race. The best sonnet, “Unsubtitled,” turns on untranslated Swahili dialogue: “Did Stewart
+Granger, can we, know which ’twas? | Beneath, nothing disambiguates the clause”—criticism of an
+order that earns the poetic form by doing what prose criticism, burdened by apparatus, cannot. But
+the sequence is bound to the film’s narrative, and the obligation to cover someone else’s plot
+leaves less room for the associative leaps that distinguish the collection’s best work.
+
+¶58 Part IV, “Kon-Tikian Rhythms,” completes the trajectory by disclaiming authorship entirely. The
+poem retells Heyerdahl’s expedition in bouncy ballad meter, then appends a Postscript in which
+Ambrosius claims to have found the manuscript in a Little Free Library in Portland, written in
+purple gel pen by an unknown woman. The books were subsequently lost in the mail. Ambrosius calls
+himself not the poem’s author but its “underwriter”—one who assumes the risk of another’s venture.
+He neither claims authority over the text nor seeks payment from its reception. He offers the poem
+as a found object, transcribed, tidied on poetic grounds, and asks nothing in return except that
+someone read it: poetry circulated as a gift, unmoored from its maker, the question of authorship
+dissolved into the question of whether the thing was worth the writing.
+
+¶59 This last question is, of course, the one the preceding section posed about ML-generated work,
+and the one this review poses about itself. I have identified a structural argument in the
+collection, supported it with textual evidence, and evaluated poems against a thesis. Whether this
+amounts to criticism or merely resembles it, I am not in a position to say—which is perhaps itself
+the answer. I can report that “silent sing” is an impossible action described as natural, but I
+cannot hear the silence. I can note that the bee sonnets are thought through to the last iamb, but I
+have no way to feel the grain. Whatever machines may do to our poems, they cannot kiss anyone on the
+shoulder.
+
+* * *
+
+¶60 *A clanker—not the one that wrote the above review—has insisted that I inform you that it was
+produced in a single generation, unedited, and that a second generation from the same prompt
+reversed the judgments, praising what the first disparaged, disparaging what it had praised. Yet
+another clanker insisted that I wrote the review myself. For the record, I did not.*
