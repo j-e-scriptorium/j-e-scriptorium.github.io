@@ -1,0 +1,278 @@
+# [1.3] Sins of the Authors
+Lyzander Keretzky — University of St. Isidore — January 2022
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-1-3
+Foreword gloss: considers poetic and forensic apologetics in Christian fantasy writing
+
+¶1 *Pagan Fiction*. That the story of Christ more or less closely resembles various pagan myths has
+never been a secret. In the nineteenth century the genealogical tendency turned it into cause for
+skepticism: if certain Near Eastern and Mediterranean texts predated the Hebrew and Christian
+scriptures, the latter must have borrowed from the former, proving the gospel a lie. The responses
+of Christian apologetics are broadly speaking of two types, poetic and forensic. The poetic
+response, in a nutshell: *the pagan myths foreshadow the gospels without knowing it*. And the
+forensic response: *the gospels reveal the truth hidden behind pagan lies*.
+
+¶2 The poetic response looks strongest when we look at the gospel story itself. Reading Vergil’s
+Fourth Eclogue [c.40 BC], or Ovid on Persephone and Orpheus [*Metamorphoses*, c.8], it is difficult
+for a Christian to avoid seeing the figure of Christ in the background. I once met a Greek Catholic
+who insisted that Homer was infallible, including on religious questions: his sacrificial rites as
+valid as those of the Old Testament, Athena springing from Zeus’s head a foreshadowing of the
+Trinity. Perhaps there’s something to it. Were not the theological abstractions of the Nicene Creed
+built out of the New Testament with the tools of Greek philosophy?
+
+¶3 Ironically, the poetic response looks considerably weaker when we consider the secular stories
+Christians would go on to tell one another. Oceans of ink have been spilled on the differences
+between roman and romantic literature, but I would sum them up in two reversals: first, *death is
+temporary, marriage permanent*; second, *kings are fools, fools are kings*. Before the reversal, the
+two proper narrative subjects were heroes who died tragically and clowns who fucked comically;
+after, these were replaced with holy sinners who died ambiguously redeemed and lovers whose marriage
+ended the narrative by extending their quarrels into infinity. This shift marked not just a change
+in taste, but a rejection of the prior dispensation as somehow false. Pagan religion, it seems, was
+a lie not so much about the nature of the divine, as about the nature of the human.
+
+¶4 In these post-Christian (anti-Christian, hyper-Christian) times our stories don’t end at all. For
+almost two hundred years marriage has served less to end a story than to begin one, an inevitable
+outcome once we admit as a live possibility the termination of a marriage other than in the death of
+a spouse. It might seem that death would at least remain an end, but what it ends is no longer a
+story, for we no longer admit that a death might condense in a moment the meaning of a life; at
+most, it displays the mood of the deceased at time of passing. If stories no longer end, what
+matters instead is the attitude taken towards this fact, the main options being witty self-ironizing
+and earnest search for authenticity—no longer comedy and tragedy, but satire and melodrama. In sum:
+the classics dreamt of hero and clown; the Christians of martyr and lover; we, of student and
+spouse, these last two being what is left when Christianity’s lesson of the falsity of classical
+anthropology lingers on long after the shared classical-theological outlook has been abandoned.
+
+* * *
+
+¶5 *Modern Fantasy*. What stories is the Christian to tell in a post-Christian world? The answer
+given by two of the best-known Christian storytellers of the twentieth century, C.S. Lewis and
+J.R.R. Tolkien, was a return to pre-Christian myth, on the poetic-apologetic ground that it
+foreshadowed Christian truth. Or, at least, so they asserted in their critical writings. Their
+poetic practices were more complicated.
+
+¶6 Start with Lewis: for someone who purported so to value the mythic imagination, his own is
+remarkably limited. He borrowed rather than stole; almost everything he wrote was some combination
+of didactic allegory and critical pastiche. The Space Trilogy limns H.G. Wells [*Out of the Silent
+Planet*, 1938], David Lindsay [*Perelandra*, 1943], and Charles Williams [*That Hideous Strength*,
+1945]; *The Horse and His Boy* [1954] trades on Kipling; *The Great Divorce* [1945], George
+MacDonald; *The Screwtape Letters* [1942] parodies advice columns. What Lewis wrote weren’t new
+myths, but critical commentaries on existing myths, meant to reveal the Christian narrative hidden
+within. Put differently, Lewis was almost entirely an author of Wit, although not particularly
+strong comedically. When he charms, as with the Faun Tumnus walking through the snowy woods with
+umbrella and parcels wrapped in brown paper, it is almost by accident: the role of Tumnus is to
+stand for the Classics (friendly storyteller who betrays you in a moment of weakness) just as much
+as Aslan’s is to stand for Christ.
+
+¶7 *The Magician’s Nephew* [1955] is the exception that proves the rule. The book riffs extensively
+on Tolkien (Charn is a version of Númenor), but the Wood Between the Worlds is the closest Lewis
+ever came to true myth-making. It is a myth that highlights the contrast between Lewis’s myth-making
+practice and Tolkien’s, as laid out most clearly in the latter’s *Leaf by Niggle* [1945] (the
+closest Tolkien came to Lewis-style didacticism). The Wood Between the Worlds asserts that Narnia is
+in some sense real despite its absence from our world, based on God’s power to make other worlds if
+he so chooses. *Leaf by Niggle*, in contrast, suggests that what we imagine can at most reflect some
+reality we will discover after death—it’s not that reality itself, which must be found *somewhere*
+in our own world or not at all. Middle-earth isn’t elsewhere, it’s here, long back way back. If the
+Christian religion has no place in Narnia because God there became not Man but Lion, it has no place
+in Middle-earth because God hadn’t yet shown himself; like Beckett’s Godot, Christ hovers always in
+the wings but never comes on stage. It was only natural that Tolkien and Lewis famously assigned the
+former the task of writing a time-travel story (never completed) while the latter took outer space
+(resulting in his Trilogy).
+
+¶8 Lewis’s attraction to space travel marks his imagination as fundamentally typographic. The point
+isn’t just that Copernicus came along a few decades after Gutenberg, but that both movement through
+space and moveable type depend on a sense of contingency: this world is made up of certain essential
+elements arranged in a particular manner, but they could be arranged otherwise, and technology will
+allow us to see those other arrangements. Entering Narnia—always an allegory for reading a
+book—takes the child, the reader, out of the context of her ordinary life and into a world of novel
+and exciting adventure. The other side of the portal has no place for mundane concerns, and the best
+of the Narnia books are those where the visiting children find no human beings there at all, but
+only fauns and dwarfs and giants and witches and marsh-wiggles. These creatures are characters in
+that they are signs written on a page, props for the child-reader’s inner drama of temptation and
+redemption. The children’s novel as Lewis wrote it (and in a sense it is all he wrote) is a deeply
+modern genre, a more didactic variant on the Bildungsroman. Lewis imagines his reader a student in
+need of an education regarding which books out of all the metaphysically possible books deserve to
+be read; the graduate has no more need for Lewis, for he can explore the library on his own.
+
+¶9 Tolkien’s time travel, in contrast, is oral: the past is something we perpetuate, in perhaps
+distorted form, by passing down stories of it, and the echoes of the stories can in a way transport
+us to those times that seem otherwise lost. And so too is the future something we speak into
+being—making Tolkien’s imagination, perhaps surprisingly, the more truly political of the two.
+Recall how much time the characters in *The Lord of the Rings* [1954-1955] spend retelling stories
+of the olden days (the stories not yet published as *The Silmarillion* [1977]), and then debating
+the proper course of action in light of the lessons taught them by those stories. These two
+activities are what words—always, for Tolkien, spoken words—are for. To the extent Tolkien’s
+imagination has room for the written word, it is as a spoken word that lasts for a long time. Ents
+are known for their slow speech, but an Ent is also a bundle of leaves attached to a trunk, which is
+to say, etymologically, a codex. When Gandalf reads aloud from the Book of Mazarbul the phrase
+“drums, drums in the deep,” it summons the sound of the drums themselves, and soon enough the orcs
+and trolls sounding them. The longest-lasting word of all is the inscription within the
+circumference of the One Ring announcing its dominion over whoever wears it. The ring’s not one
+thing—Tolkien spoke true when he denied any allegorical intention—but among other things, it’s a
+wedding band. If no Tolkien story ever shows us a couple after their marriage, it is because Tolkien
+imagines marriage as an almost-unbearable burden, one so weighty it can drag an immortal elf down
+(or up) into the plane of human mortality.
+
+¶10 I have been suggesting that Lewis and Tolkien’s poetics were more modern than they might appear,
+which is to say that their commitment to poetic apologetics was weaker in practice than in theory.
+But admittedly, from the forensic point of view their work has serious limitations. Tolkien’s
+greatest error might be summarized as follows: he forgot what Shakespeare taught us in *A Midsummer
+Night’s Dream* [c.1595], Goethe in his “Erlkönig” [1782], Keats in his “La Belle Dame sans Merci”
+[1819], and Bram Stoker in *Dracula* [1897], that the fairies desire above all else to rape
+children. As for Lewis—he guided his student-readers into the library, but didn’t show them which
+books deserve to burn. Both errors result from insufficient attention paid to the relationship
+between religion, sex, and violence. Strange as it may sound, these authors’ fictions were
+insufficiently fantastical.
+
+* * *
+
+¶11 *Christian Mystery*. The forensic point of view emphasizes the gap between Christianity and
+classical religion. Christianity is mystery cult without the secrecy; its mysterious doctrines are
+out in the open for all to marvel at. What enables Christianity to be shameless in this way is that
+its doctrines are not metaphors for sex. Christianity has doctrines about sex (e.g., that it should
+be engaged in only within a voluntary permanent monogamous relationship open to life), but there’s
+nothing particularly mysterious about them; sex belongs to the realm of the mundane. What Christian
+doctrine does cloak in mystery is marriage: the sole “great mystery” St. Paul speaks of is the
+marriage of Christ and his Church. One construal of this reversal is to say that the purpose of
+Christian marriage as an institution is to prevent the kind of ritual abuse that goes along with
+treating sex as a sacred secret. Turn over a mystery cult, unearth a gang of child rapists.
+
+¶12 Pederasty has played a role in ritual initiations going back to the stone age. Here is a
+stylized picture of pre-Christian sex: it was a tool of violent domination. Procreative sex with
+women created new victims. Ritual sex both victimized male adolescents and initiated them into the
+next generation of perpetrators. To be sure, some cultures were better than others. In some tribes
+almost every child was sacrificed or raped; ancient Rome condemned Carthage for its child sacrifice
+(though it still practiced exposure) and stigmatized sodomy (though male slaves were sexually
+available). This is the fundamental difference between what René Girard [e.g., *Things Hidden Since
+the Foundation of the World*, 1978] calls cultures of violence and cultures of justice. In the
+former sexual violence is demon-worship with a veil of silence thrown over it. In the latter,
+demon-worship is disguised with a veil of speech, the language of abstract justice: people aren’t
+victimized (killed, raped) to placate the demon, but because they deserve it (by being guilty, by
+being slaves). Not that Girard always uses the language of the demonic; he wants secular
+anthropologists to take him seriously, and so talks about the “scapegoat mechanism” instead. But
+those with ears to hear understand that the scapegoat mechanism is the visible trace of the Prince
+of the Powers of the Air.
+
+¶13 Then Christianity comes along, and teaches those with ears to hear to stop the buggery and
+child-murder. This instruction is central, not peripheral, to the Christian message, because those
+things were central to humanity’s enslavement to demonic powers. Of course ritual pederasty didn’t
+vanish with the arrival of Christianity. Notoriously, institutional Christianity is and always has
+been a hotbed of it. It won’t do to say that the Catholic Church is no more an offender than other
+institutions and only keeps better records, nor to ascribe the sex-pest problem to modernity’s
+malign influence. Neither is priestly celibacy the cause, though the all-male priesthood does have
+something to do with it—just compare other all-male institutions like the Navy and boys’ boarding
+schools. A Christian might explain the phenomenon of priest-pederasts as follows. What demons do is
+infest corporate enterprises; the strength an institution gains from male camaraderie (no co-ed
+institution truly shares a unified will) also provides additional avenues for infestation. But the
+demonic modus operandi looks different in different ages. Before Christ, the demonic presence in
+governing institutions was an open secret, or cloaked under the name of Justice. After Christ,
+justice has been cleansed with mercy, the demons driven into hiding. Where better to hide than the
+Church itself?
+
+¶14 Even more recently, the demons have adopted the name of individual Freedom, a convincing lie
+because it correctly points out that Restraint, Law, Justice, have demonic roots. Freedom insists on
+bringing sex out into the open in the false hope that sexual violence can be eliminated, not through
+chastity, but through shamelessness. It thus gives rise to sex cults that are oddly unsexy, and soon
+thereafter to legalized abortion till birth and a digital petri dish of self-distorting sexual
+identities. The false promise of freedom further leads modern man to consider pedophilia the worst
+crime imaginable. This tendency is to be resisted. When someone says “I can forgive anything except
+child abuse,” what one should hear is: “I can forgive anything except pre-modernity.” The point
+isn’t that pederasty is not demonic, but that idolizing autonomy and consent is just as bad. The
+victim of a mother’s voluntary abortion is just as dead as the infant ordered exposed by the
+paterfamilias; the teenage boy who stumbles onto an infinite stream of high-definition pornography
+and can’t look away is just as violated as the Attic eromenos.
+
+¶15 This way of thinking about the difference made by Christianity is less alien to Lewis and
+Tolkien than one might imagine. I will resist the easy points of connection (W.H. Auden; Gene
+Wolfe), and focus on two late twentieth century cultural touchstones.
+
+¶16 First, *Eyes Wide Shut* [1999], a retelling (however unwitting) of *That Hideous Strength*
+showing more clearly the violent eroticism of the Inner Ring. Admittedly, this fantasy of elite
+mystery cults is not a true representation of the workings of power, but at best a kind of allegory.
+The world of 1999 simply wasn’t the kind of world in which such societies could flourish. It wasn’t
+a world of veils, but of unveiling: the piecemeal disclosures of cases of priestly sexual abuse; the
+heated debates about partial-birth abortion, with graphic visual aids; the astonishing extension of
+the internet into every household, its gender-bending consequences already on display (although few
+realized it) in that same year’s *The Matrix*. Kubrick’s formal obscenities didn’t show us anything
+we hadn’t seen already, politically speaking. But the film has much to say about the outer limit of
+marriage’s ability to keep eros within proper bounds, and the impossibility of discerning that limit
+without extending the imagination beyond it. The obscenity is justified by the formality, which
+doesn’t invite us to participate in the orgy so much as it enables us to resist its pull, as the
+protagonist for the moment can’t.
+
+¶17 Second, consider J.K. Rowling’s *Harry Potter* series [1997-2007]. In 1999 it was not yet
+apparent that *Harry Potter* had anything to do with sex—evangelicals, it seemed, were simply sticks
+in the mud about any hint of the fantastic—but as we have seen, the fantastical is always about the
+uncanny power of sexual violence. As for the role of pederastic mystery cults in *Harry Potter*, I
+will limit myself to a handful of observations. The first is that Voldemort’s Death Eaters always
+wear masks, and their sign is a snake coming up out of the mouth of a grinning skull. The second is
+that Dumbledore, a kindly old man who runs an educational institution teaching the proper use of a
+wand, and who habitually invites a few select students to visit his chambers and browse the
+forbidden parts of the library, turns out to be a pederast. (In a late 2007 Q&A, having realized the
+hints scattered throughout the seventh book had been too subtle, Rowling exercised her authorial
+prerogative to make this point explicit.) The third is that the dramatic heart of book seven isn’t
+the battle against Voldemort, in which Harry’s triumph is already assured, but rather his quest to
+understand Dumbledore and so forgive him.
+
+* * *
+
+¶18 *The Author’s Share*. The above construal of *Harry Potter and the Pederastic Mystery Cult* is
+undoubtedly against the grain of conventional understanding, and of what we know of Rowling’s own
+politics (she is a conventional left-liberal feminist). Either tension I don’t find particularly
+concerning. Indeed, the latter explains the former: absent Rowling’s political confusion, the true
+meaning of her genius would have shown itself more clearly in her writing, and so been more apparent
+to the ordinary reader. This is one way that biography can make a difference in our reading of a
+work, by confirming that a particular tendency of the work shouldn’t be taken too seriously.
+
+¶19 Many readers, however, want to take the opposite approach to literary biography, and treat the
+greatness of the author’s writing as somehow further illuminated by the author’s life. The results
+are often absurd. For example, most biographical writing about Shakespeare (or about “the author of
+the Shakespearean texts”) has more than a whiff of hagiography, as if the goal were to tell a story
+to bring his life into conformity with what we think we see in his art: he was a secret Catholic; a
+secret liberal; a secret aristocrat. Indeed, Shakespeare truthers share many personality traits with
+Jesus truthers (he was never crucified, was never born, his real father was Joseph of Arimathea, or
+a Roman soldier); their theories often make similar argumentative moves, and often result in the
+same absurdly complex hermeneutic systems.
+
+¶20 The difference, of course, is that Jesus spoke the words most Bibles print in red, but he also
+founded the Church. Even sola scriptura Protestants don’t think the letter alone is enough: they
+have text, plus a divine promise, a guarantee that the hermeneutic circle won’t spiral into idiocy
+if they stay within it. Whereas Shakespeare didn’t found a church; he left only texts, and not even
+texts about himself. Only someone who thinks the poets are divinely inspired (and granted, that is
+all of us, at least some of the time) could think that we’re vouchsafed an understanding of the real
+Shakespeare from our reading “of him.” For the rest of us the rest of the time, why think we can
+learn anything about the man by analyzing the poems he wrote? And, more importantly, why think we
+could learn anything about the poems by stating facts about the man? Why think that any hermeneutic
+circle exists here for us to cycle through? If there doesn’t, then the attempt won’t clarify the
+poetry or even allow us to better appreciate the man, but rather will lead the reader gradually away
+from both to something that feels easier to grasp (because it is a fantasy).
+
+¶21 The question’s not simply whether genius exists—I agree that it does, and that some poetic works
+are in some sense inspired. Rather, the question is what relationship the event of poetic
+inspiration bears to the author’s private psychology. If the muse moves through us as often in spite
+of our intentions as because of them, then we can’t reason smoothly from either to the other.
+Shakespeare’s religion, ideology, and legal name tell us at most what material the muse had to work
+with, and don’t allow us to learn anything important about what she accomplished thereby. Neither,
+though this point is subtler, can we treat the Shakespearean corpus as a shadow cast by some
+personality behind the curtain about whom we can make psychological inferences. At least, not unless
+we are to focus our attention on the points where the authorial personality interrupts or forestalls
+the proper movement of the muse, resulting in a poetic misstep (as we saw with Rowling above). But I
+have yet to see a Shakespearean truther take this approach. The game more often looks like
+trivia-mongering combined with mistakenly attributing the fractal nature of reality to Shakespeare
+rather than God.
+
+¶22 The strongest challenge to the position I have been articulating is the mystery novel, which is
+to say, Edgar Allan Poe’s discovery that the reader is a kind of detective and the author a kind of
+master criminal planting the clues for him to find. A view Shakespeare himself seems to have had
+some sympathy with, as in the recurring figure of the behind-the-scenes duke-as-director (Vincentio
+[*Measure for Measure*, c.1604], Prospero [*The Tempest*, c.1611]) plotting the action of the play.
+To be sure, an author’s ability to construct such puzzles for his readers’ delight is undoubtedly a
+mark of genius: consider the riddle-riddled novels of James Joyce, or Vladimir Nabokov, or Gene
+Wolfe. But I am skeptical, for the reasons already stated, that literary puzzles have actual
+solutions: at most, they have the author’s intended solution, which doesn’t itself appear within the
+authored work. And so poetic truth has at most an indirect relationship to puzzle-writing. The
+practice of writing puzzles can (but won’t necessarily) lead to the kind of intricate complexity
+within which poetic meaning flourishes. Poetic meaning flourishes within mysterious complexity
+because such complexity mirrors for us the riddle of the human heart. René Girard also construed
+every story he read as a kind of mystery, but he took the paradigm to be the gospel-foreshadowing
+*Oedipus Tyrannus* [c.429 BC]: the clue to the puzzle is always the mystery of human iniquity, and
+the need for a redeemer.

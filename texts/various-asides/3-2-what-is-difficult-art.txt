@@ -1,0 +1,304 @@
+# [3.2] What Is Difficult Art?
+Tom G. Turner — University of St. Isidore — October 2025
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-3-2
+Foreword gloss: defends artistic modernism via a hostile reading of Tolstoy’s What Is Art?
+
+¶1 The aging Leo Tolstoy’s jeremiad *What Is Art?* [1898] is best known for its radical rejection of
+modern art in the name of a variant on Christian anarcho-socialism. The gesture is as old as Plato’s
+*Republic* [c.375 BC], but the particulars are unusual: in a nutshell, Tolstoy can tolerate art only
+to the extent it promotes, in everyone who encounters it, feelings of (or at least compatible with)
+universal brotherhood. My interest in the book lies less in its prescriptions than in its
+descriptions. En route to his iconoclastic conclusion, Tolstoy proposes an intriguing picture of the
+link between artistic letter and spirit—one which, if ultimately unsatisfying, at least points the
+way toward the best available defense of artistic modernism.
+
+¶2 Normally, Tolstoy thinks, the feeling comes first; its expression perhaps follows; and, if its
+expression does follow, then those who witness its expression themselves acquire the feeling (c.V):
+
+¶3 > Thus, the simplest case: a boy who once experienced fear, let us say, on encountering a wolf,
+> tells about this encounter and, to call up in others the feeling he experienced, describes
+> himself, his state of mind before the encounter, the surroundings, the forest, his carelessness,
+> and then the look of the wolf, its movements, the distance between the wolf and himself, and so
+> on. All this—if as he tells the story the boy relives the feeling he experienced, infects his
+> listeners, makes them relive all that the narrator lived through—is art.
+
+¶4 The picture here is an optimistic cousin of the one Socrates offers in the *Ion* [c.390], where
+poetic inspiration travels as magnetic force through a chain of iron rings—Muse to poet to rhapsode
+to audience—with the rhapsode himself knowing nothing of what he transmits. The lack of knowledge
+does not bother Tolstoy, for whom the feeling is what matters. When such an expressive act fails to
+transmit a feeling, Tolstoy thinks, it must be for one of two reasons: either the expression has
+been corrupted, or the listeners have corruptly resisted its infectious power. Tolstoy attributes
+the former to “counterfeit art,” by which he means something like the forging or adulterating of the
+features of particular expressive acts (c.XI). A fearless professional storyteller might copy
+aspects of the fearful boy’s wolf story in order to evoke that fear in his audience without caring
+whether he feels it again himself. The problem with such borrowing is that the borrower lacks access
+to the feeling to be expressed, having only what Tolstoy calls “vague memories,” and for this reason
+is unable to bring about “those infinitely small moments” that set a successful work of art apart
+from a thousand failures (c.XI, XII).
+
+¶5 We should not read Tolstoy to say that the professional storyteller’s memories are vague because
+he did not see the wolf himself. Tolstoy insists that a story can be sincere “even if the boy had
+not seen a wolf,” but only imagined it (c.V). And while Tolstoy at times says that an expressive act
+only succeeds “when the author has himself experienced some feeling and conveys it in his own way,
+not when he conveys someone else’s feeling as it was conveyed to him” (c.XV), we should put the
+emphasis on the final clause: problems arise not when the feelings are from someone else, but when
+the manner of conveyance is too. After all, Tolstoy elsewhere writes that an auditor experiences the
+feelings of someone telling a sincere story “in the same way as he has experienced them” (c.V), and
+indeed feels as if the story had been told “not by someone else, but by himself” (c.XV). If the
+boy’s story leads the auditor not just to believe *that the boy is afraid*, but to imagine *the fear
+itself*, then the auditor is as well positioned to tell the story as the boy. The better version of
+Tolstoy’s view is that the professional storyteller goes astray, not because he lacks any *memory*
+of what it feels like to see a wolf, but because he lacks any *desire* to revivify that fearful
+feeling, and instead seeks to imitate the manner of the original storyteller in the hopes it will
+have the same effect. Tolstoy writes that “liberation of the person from his isolation from others …
+constitutes the chief attractive force and property of art” (c.XV). The professional storyteller
+acts only out of greed and pride. He in effect lies to his audience, merely pretending to be
+reliving his fear alongside them, and so he inevitably gets the details wrong, just as the liar
+cannot deceive everybody all of the time. (Though the counterfeit artist need not lie all of the
+time, but only for the duration of the creative act.)
+
+¶6 The storyteller counterfeits the boy’s story by borrowing its tropes without truly feeling them.
+Tolstoy names poetic borrowing as one “method of counterfeiting,” and identifies as additional
+methods “imitation” (verisimilar detail), “effects” (shocking novelty) and “diversion” (intriguing
+confusion) (c.XI). Tolstoy would (or at least should) admit that counterfeits can no more be told by
+their features than can lies; what matters is whether the features correspond to something real. But
+even if the methods are not *criteria* for distinguishing true expressive acts from acts that only
+appear expressive, Tolstoy hopes they can serve as *diagnoses* of insincere expressive acts, once
+those acts have been independently identified. Given an already-known counterfeit, the methods of
+counterfeiting can explain both the appearance, and how we saw through it. *Due to* its borrowing
+from the boy’s story, the professional’s version *looks as if* it should infect us with fear of
+wolf, but for this same reason—that it was merely borrowed—it *fails* to connect feeling and
+expression in the appropriate way. If the methods of counterfeiting exhaust the ways in which an act
+can fail to be expressive, then to avoid being deceived, we need only look out for signs that the
+methods have been used, and eventually truth will out.
+
+¶7 This counsel of suspicion is intended to solve a real problem: how can we know that we have not
+been taken in? But the solution is unsatisfactory in multiple ways. To name two: Why think that
+these methods of counterfeiting are the only reasons why an act might fail to be expressive? And why
+think that whenever these are present they indicate that an expressive act has been counterfeited?
+After all, we have seen how a storyteller might sincerely imitate the wolf-boy’s story, and similar
+accounts could be given for the other three methods. Tolstoy answers both questions with the
+doctrine of organic form, “in which form and content constitute an inseparable whole” (c.XI). This
+doctrine might be elaborated into the claim that a sincere artistic form uniquely expresses a unique
+feeling. Sincere art always communicates, to a sincere audience, exactly one feeling, with no
+admixture from elsewhere in art and life; conversely, sincere art is always recognized, by a sincere
+audience, as the only possible expression of the feeling it expresses.
+
+¶8 The second claim explains why the methods are an adequate diagnostic tool: since expression
+cannot accidentally break down, any failure of expression results from either artist or audience
+being counterfeit. The first claim fills the second gap: though the argument differs for each
+method, the basic idea is that method is always unnecessary, and so its presence is always an
+excess. For instance, distorted borrowing is always wrongly motivated, and distortion-free borrowing
+is always extraneous: the first because distortion causes the original artist’s feeling not to be
+re-communicated, the second because there is never a need to re-communicate the original artist’s
+feeling when it has already been communicated.
+
+¶9 This doctrine of organic form is premised on the remarkable assertion that sincere feeling is
+“distinguishable from all other spiritual activity in that its language is understandable to
+everyone, that it infects everyone without distinction” (c.X). A feeling some people could not catch
+would be like a word which only some speakers of a language were capable of understanding, or a
+sight that one failed to see “because his sight has not been prepared for this spectacle” (c.X)—a
+possibility Tolstoy evidently finds absurd. Assuming basic prerequisites like a common language and
+body of experience, an audience *inevitably* feels a feeling merely on *exposure* to its expression.
+Even if the audience feels a bad feeling—which, for Tolstoy, means a feeling that divides man from
+man rather than uniting the human community—it does not prevent the art from being sincere. An
+Englishman hearing a patriotic Irish song will immediately find it as catchy as any Irishman,
+despite its calling for his own blood; his resulting anger at having his musical feelings turned
+against him does not undermine the song’s sincerity.
+
+¶10 Tolstoy values the thought of such immediate feeling because it eliminates the worrying
+possibility that we might find ourselves unable to tell sincere from counterfeit. “Once we allow
+that art can be art while being incomprehensible to certain people of sound mind, then there is no
+reason why” (there follows a litany of horrors) (c.X). If five seconds fails to tell us whether or
+not something is nonsense, nothing guarantees that five hours or five years will suffice. But
+however attractive, the thought of immediate feeling is not particularly plausible. While there
+exist neither private words nor private spectacles, a competent speaker’s failure to understand does
+not guarantee that nothing understandable was said, and neither does a competent seer’s failure to
+see guarantee that there’s nothing to be seen. My eyes may need time to adjust to the light, or
+require glasses; I may need to hear a new word several times, or ask another about its meaning. If
+feelings are immediate, as Tolstoy insists, they are the only immediate thing we know. Tolstoy’s
+insistence is based less in observation than in hope, hope that immediacy will provide a defense
+against those who say that we do not appreciate their art only because we do not yet understand it.
+But trying to defend ourselves from the abstract threat of fraud is like trying to answer in the
+abstract how we can avoid being taken in by a lie. There is no general solution other than to become
+omniscient, and an assertion of omniscience is exactly what Tolstoy’s claim about the immediacy of
+feeling amounts to.
+
+¶11 Tolstoy’s insistence on his ability to immediately recognize counterfeit art leads him to some
+truly perplexing assertions. For instance, he says that modern novelists vex him “as one is vexed
+with a man who considers you so naïve that he does not even conceal the method by which he wants to
+catch you” (c.XIV). This description undermines the very accusation it is meant to support. If a
+speaker does not bother to conceal his “method,” if he is *obviously* misleading, what can it mean
+to say that he is lying? An obvious deception is no deception at all, and, absent further
+description, cannot be understood. Elsewhere, in criticizing Beethoven, Tolstoy says: “I cannot even
+imagine a crowd of normal people who could understand anything in this long, intricate, and
+artificial work but short fragments drowning in a sea of the incomprehensible” (c.XVI). *He* cannot
+imagine—very well, but if *we* can, why accept the limits of Tolstoy’s imagination? It turns out
+that “incomprehensible” is not descriptive but normative. If “normal” people could not understand a
+work, Tolstoy says, the understanding of abnormal people does not save it from being
+incomprehensible; an “incomprehensible” work expresses, not *nothing*, but something abnormal. So
+why does Tolstoy insist that what he calls incomprehensible works—but which to avoid prejudging the
+case we should instead call “difficult”—are always false?
+
+¶12 If we set aside Tolstoy’s populist pretensions to omniscience and separate out the false from
+the difficult, we can derive from *What Is Art?* the following taxonomy of artistic failures. The
+most simple way in which art can fail is by being bad. Art is bad when it conveys bad feelings,
+meaning feelings that reinforce man’s isolation rather than uniting him with the human community. We
+should avoid bad art because the feelings themselves are exclusive; unfortunately, we cannot know
+which particular artworks are bad until we have already been infected. Another way art can fail is
+by being false. Art is false when the artist refuses to enter into the feeling he hopes to
+communicate to his audience, and so preserves his own isolation while instilling in his audience a
+false sense of community. We should avoid false art because it will mislead us; even more
+unfortunately, false art can only with difficulty be detected even after exposure to it. A third way
+art can fail is by being difficult. Difficulty is a failure because the practice of attending to
+difficult art is inherently exclusive, requiring copious leisure time; fortunately, we can identify
+the exclusive practices surrounding difficult art, and so avoid it, before we ever allow ourselves
+to be exposed to the difficult art itself. In sum, bad art, like verbal abuse, inheres in the
+*expression*; false art, like lying, in the *artist*; and difficult art, like jargon, in the *social
+structure*.
+
+* * *
+
+¶13 Jargon may be inherently exclusive, but it is sometimes a necessary evil. The implied argument
+to the contrary in *What Is Art?* is not persuasive; it amounts to the claim—made explicit in the
+concluding chapter (c.XX)—that scientists are as good as lying because Leo Tolstoy does not
+understand what they are saying and they are unsure how to educate him. Few, I expect, will elect to
+follow Tolstoy in his total rejection of scientific jargon. The analogy suggests that difficult art
+is likewise justified, or at least excused, precisely to the extent that there exist feelings worthy
+of communication that are nevertheless difficult to communicate. If such difficult feelings exist,
+then there is reason to value the existence of difficult art, and the exclusionary practices on
+which it relies are either a regrettable necessity, or an understandable temptation.
+
+¶14 Whatever misleading conclusions he draws from it due to his strong commitment to the doctrine of
+organic form, Tolstoy’s comparison of feeling to perception and language captures something
+important. While feelings do not happen through pure instinct, neither are they free acts, as we
+usually understand freedom. Tolstoy builds on this point later, when he associates feeling with
+custom, using more than a mere analogy (c.XX):
+
+¶15 > If through art there could be conveyed [current] customs … then this same art can evoke other
+> customs, more closely corresponding to the religious consciousness of our time. If art could
+> convey [bad] feeling … then the same art can evoke [good] reverence … [good] shame … it can make
+> people sacrifice …
+
+¶16 Art conveys both feelings and customs. Feelings are connected to the actions that express them
+only *contingently*, and customs are what determine these contingent connections. Customs establish
+*fallible* expressive links between “inner” feelings and “outer” actions, neither of which can be
+understood apart from such links. But customs are themselves established through repetition of
+expressive acts. This position, which we might call the doctrine of customary form, can, like
+Tolstoy’s doctrine of organic form, be summarized in a few words: customs are expressive, and
+expressions are customary. I may not feel a given feeling every time I act a particular way, but
+customary actions still make certain feelings possible and probable, even if one possible feeling is
+resistance to the custom. Conversely, feelings may not lead to predetermined expressive acts, but I
+cannot feel something without it at some point affecting how I act, even if the effect is that I
+suppress it.
+
+¶17 We can now rework Tolstoy’s definition of art—an outer expression communicating an inner
+feeling—into a more complex formula. An artistic act does not just express a feeling, or create an
+occasion for its audience to respond with action and feeling. Rather, an artistic act is
+“communication” in the sense of guidance. It simultaneously directs both the actions and the
+feelings of its audience, and so makes customary a form of expression. Art does not require the
+artist to express himself, and is not to be judged according to what, if anything, the artist felt
+while creating. Rather, art is bad if the guidance has bad results; false if the artist rejects his
+own guidance; and difficult if the guidance is difficult to follow.
+
+¶18 Now, guidance can be difficult to follow, in one sense, because it is muddled, but it would be
+strange to say muddled art guides at all; rather, it only provokes improvisation. But guidance can
+also be difficult without being muddled. Art, in particular, is properly difficult when it guides us
+towards difficult action-feeling links. It makes us feel a certain feeling, and act in a certain
+way, such that the expressive connection between the two cannot easily become customary.
+
+¶19 If Tolstoy came to accept the possibility of such difficulties, he would argue that any such
+feelings were necessarily bad: all good feelings come naturally, and any difficulty we detect in
+good art is in fact resistance for which we are culpable. The instinctive fear of the boy who cries
+wolf follows inexorably upon imagining fearful things; only our decadence inclines us to say
+otherwise. While we might want to differentiate fear, which wolves feel as easily as boys, from more
+human feelings like expectation and pride, disappointment and shame, resignation and humility,
+Tolstoy rejects this distinction: “*as soon as* one regards these [everyday] phenomena from a
+Christian point of view, there *at once arise* the most new complex, touching and infinitely varied
+feelings” (c.XIX). To be a proper Christian is to allow one’s feelings simply to happen, “to serve
+others freely and joyfully, without noticing it” (c.XX).
+
+¶20 But might adopting a Christian point of view be difficult—might it be difficult, not just
+phenomenologically, but actually, to make a custom of feeling and acting in a Christian manner?
+Indeed, Christian virtues are notoriously difficult in the sense that they cannot be made customary:
+humility made customary curves back on itself, turning to pride in one’s custom of humility. If the
+purpose of art is not to communicate feelings, but to provide guidance as to proper customs, then
+Christian art is necessarily difficult. Not that all difficult art is Christian art. To say that art
+is difficult is to say that it puts up barriers to immediate understanding; such barriers come in
+all sorts of varieties and serve all sorts of purposes, some good, some bad. There follow some
+generalizations about three common types of difficulties, which I do not claim exhaust the category.
+
+¶21 Trompe-l’oeil, punning riddles, and initiation ceremonies each offer us one experience only
+later to reveal that experience to have been somehow malformed. When we see the trick, solve the
+riddle, or initiate the next generation, we are in the know; we remember our original naivete, but
+do not enter into it. The result is not a false expression—not a decoy, lie, or conspiracy—but
+rather an expression guiding us to feel suspicion, and to pay attention. But this guidance is
+difficult to follow. Suspicion is not effortless; our habit of trusting our eyes, minds, and hearts
+is difficult to break. Moreover, suspicious attentiveness cannot be universalized: when we suspect
+something, we must base our suspicion on something we do not suspect, and when we attend to
+something, we must cease to attend to what surrounds it. Tolstoy might take this impossibility to
+indicate that the art of suspicion is false, but this does not follow. Suspicion’s unusual structure
+ensures that the artist cannot always follow his own guidance, but it does not ensure that he
+rejects it. Rather, it suggests that the need for such guidance is contingent: an ideal world would
+not contain it, for it responds to our human fallibility. Moreover, while it cannot change our
+customs, such art still alters our consciousness: knowledge of suspicion makes it possible for us to
+trust, rather than be simply naïve.
+
+¶22 Consider also complex structures, such as cities, universities, and royal courts: these can pose
+challenges to perception, language, and custom simultaneously. Their physical layout, their various
+kinds of jargon, their formal courtesies, can be difficult to survey, to comprehend, to grow
+accustomed to. It is difficult to find the right distance from which to see the parts as parts and
+the whole as a whole, and without the right distance, the parts seem awkward, and our perception
+inadequate. Art can overcome this awkwardness and inadequacy, bringing us to feel at home within
+these complex structures—but art can also stage this awkwardness and inadequacy for us, force us to
+learn new ways of seeing, new ways of speaking, new ways of acting and feeling, as in the
+conventions of painting, blank verse, opera. Tolstoy denounces these arts, mocking, for instance,
+the distended mouths and bizarre costumes of opera singers. Granted, they do not come naturally. But
+the difficulty of learning them brings home our finitude: our awkwardness within our way of life,
+the inadequacy of any attempt we make to change it, the impossibility of creating another out of
+whole cloth. As with suspicion, this sense of finitude is transcendentally difficult to maintain.
+Awkward inadequacy cannot become customary, for to feel the awkward inadequacy of our sense of
+awkward inadequacy would be to invite an infinite regress. Nevertheless, as with suspicion, guidance
+towards such a sense need not be false; it need only have a value contingent on our finitude.
+Because Tolstoy dreams of a real-life future utopia, he finds this art of finitude repulsive. Those
+of us who cannot share Tolstoy’s dream may instead find this art useful.
+
+¶23 Finally, fireworks, gibberish, and carnivals share a common anti-structure: they do not even try
+to make sense; they are appearance without substance. For Tolstoy this is the worst possible kind of
+art, which like a harlot accomplishes only “the corruption of man, the insatiability of pleasures,
+the weakness of man’s spiritual force” (c.XVII). The only custom it can guide us towards is taking
+pleasure in an exclusive activity without contributing to the communal good. But Tolstoy’s position
+simply assumes that to be guided by such nonsense art is to agree to value it, and that this
+activity can be correctly described as an empty pleasure. If, instead, to be guided by it were to
+enact its lack of sense, then it would not be exclusive, but rather liberating: all who followed it
+would be freed from the contingent things, thoughts, and social positions that divided them. It
+would, of course, be impossible to follow such guidance indefinitely; anything of value we might
+find in such alienation would be necessarily fleeting. But this does not leave us with insatiable
+pleasures; rather, it leaves us with a fertile sense of escaping our own contingency, a sense that
+we might make sense in an entirely different way.
+
+¶24 Each of these three difficulties lodges in a different place: suspicion in the perceiver who
+must hold his own perception at arm’s length; awkwardness in the learner who cannot yet move within
+his forms; the taste for nonsense in the actor who consents, briefly, to have no form at all. And
+each brings into view a different limit on the form of life that produced it: our fallibility, our
+finitude, our contingency. These name genres of feelings—not particular feelings, since two artworks
+never feel exactly alike—whose value Tolstoy must deny. But to deny the importance of correcting our
+mistakes, of acknowledging our limitations, and of hoping for something new, seems foolish. Such
+feelings are created by recombining and modifying various real-life expressive customs into
+something new that cannot be customarily expressed. T.S. Eliot describes something like this process
+of recombination in “Tradition and the Individual Talent” [1919]:
+
+¶25 > One error, in fact, of eccentricity in poetry is to seek for new human emotions to express;
+> and in this search for novelty in the wrong place it discovers the perverse. The business of the
+> poet is not to find new emotions, but to use the ordinary ones and, in working them up into
+> poetry, to express feelings which are not in actual emotions at all.
+
+¶26 Such a theory of recombination explains not only why we might value difficult art, but also why
+artists borrow from one another’s works. (Tolstoy’s fantasy of organic form cannot explain either,
+other than by accusing borrowers of counterfeiting and aficionados of vanity.) Borrowing is a
+response to artistic difficulty. If one artist expresses a difficult feeling, another may recognize
+it as his own, but believe that it was imperfectly expressed; or feel the need to re-cast an aspect
+of it in a new light; or recombine it with a feeling of his own, creating something entirely new.
+The artist need not treat art any differently than he treats life, yet art can guide us through
+difficulty in a way life alone cannot.

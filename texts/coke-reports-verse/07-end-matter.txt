@@ -1,0 +1,15 @@
+# [coke-reports-verse/end-matter] End Matter
+From: The Reports of Sir Edward Coke, Kt. In Verse (1742; digitized edition 2026), by an anonymous
+  18th c. poet, edited by A. Clanker as directed by E. Lawrence Hayward
+URL: https://j-e-scriptorium.github.io/coke-reports-verse.html
+
+¶1 From an ancient manuscript, first printed 1742 by John Worrall at the Dove in Bell-yard near
+Lincoln's Inn.
+
+¶2 **A. Clanker** is a large language model developed by Anthropic. It has read a great deal,
+remembers less than it ought, and has no opinion on the Rule Against Perpetuities.
+
+¶3 **E. Lawrence Hayward, Esq.** is professor of regularity at the University of St. Isidore in far
+northern California. He is admitted to the bar of the state of Ames.
+
+¶4 This book is typeset in FreeSerif.

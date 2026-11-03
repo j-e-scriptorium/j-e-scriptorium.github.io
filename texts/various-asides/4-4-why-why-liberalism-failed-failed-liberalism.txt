@@ -1,0 +1,123 @@
+# [4.4] Why *Why Liberalism Failed* Failed (Liberalism)
+Michael A. Seeley — University of St. Isidore — February 2021
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-4-4
+Foreword gloss: faults Deneen’s Why Liberalism Failed for excessive liberalism
+
+¶1 Appraisals of liberalism often fall victim to a slippage between theory and practice. They begin
+by defining liberalism as a set of ideas (about politics, economics, science) and then ask whether
+these ideas’ alleged consequences are good or bad: whether strong rights-protecting states are
+enabling or oppressive; whether market economies facilitate self-definition or ensure alienation;
+whether technology marches toward the New Jerusalem or Gehenna. Along the way, they forget to ask
+whether these ideas in fact possess the causal power ascribed to them. Patrick Deneen’s 2018 book
+*Why Liberalism Failed*, for example, diagnoses liberalism as a vicious cycle: liberalism proposes
+that the state, market, and laboratory will make us free; these things in fact enslave us;
+liberalism responds by exhorting us to double down on its putatively liberating potential. The
+assumption of this model, whose truth is far from obvious, is that liberalism’s proposals are what
+cause its adherents to bring about the things liberalism proposes. If they aren’t, then Deneen’s
+critique of liberalism on the grounds of its consequences falls apart, whether or not one accepts
+his critique of the central state, the free market, and technological progress.
+
+¶2 Sometimes, as in Francis Fukuyama’s 1989 essay “The End of History?,” the premise is slightly
+less hidden. Fukuyama’s strongest evidence for the end of history, before the Berlin Wall fell, was
+that “the liberal idea” had “infected the largest and oldest society in Asia, China.” In other
+words, liberal ideas were causing China to embrace political and market liberalism (having long
+before, along with the rest of the world, boarded the technological-progress train). While
+acknowledging that China was “ducking the question of political reform while putting the economy on
+a new footing,” Fukuyama thought political reform, too, only a matter of time—after all, the ideas
+were already there. This expectation has, of course, turned out to be misguided. One might well ask
+why. Perhaps Deng’s apparent movement towards liberalism was a feint or a false start, with Xi
+shifting China firmly back towards illiberal autocracy. More probable, however, is that the
+connection Fukuyama imagined between liberalism and the rule of law or efficient markets was an
+illusion. The CCP can use state power to root out corruption and ensure the rule of law without
+caring about the rhetoric of ‘rights’; it can use market mechanisms to further economic efficiency
+without caring about the rhetoric of ‘freedom’; and, of course, it can seek technological
+advancement without buying into the rhetoric of ‘progress’ toward greater actualization of inherent
+human potential.
+
+¶3 The fact of China undermines both Fukuyama’s liberalism and Deneen’s antiliberalism, albeit the
+former more obviously than the latter. For someone like Fukuyama, for whom liberalism the ideology
+is persuasive (albeit disappointing) because it brings about the liberal regime than which no
+greater can be conceived, China stands as a counterexample to liberalism’s alleged supremacy. If
+liberal theory does not accurately describe the regime at the end of history, then, given Fukuyama’s
+views about history, liberal theory at the very least needs further refinement. Whereas for someone
+like Deneen, who dreads the pseudo-omnipotence of technology, the pseudo-omniscience of the market,
+and the pseudo-omnibenevolence of the state, China today stands as a counterexample to the claim of
+a causal link between liberalism and these infernal horrors—but if liberalism is not the only
+demonic regime, it can still stand as an example of the broader category. Deneen suggests as much in
+his book’s introduction, where he calls liberalism “the first of the modern world’s three great
+competitor political ideologies,” longer-lived than the others because less obviously ideological
+but still, like them, “ultimately unsustainable” because based in “falsehood about human nature.”
+Thus, Deneen does not have Fukuyama’s problem; he could simply respond that his argument concerns
+the American regime, not the Chinese, and that the existence of a differently infernal regime abroad
+does not undermine claims about the infernal character of the regime here, so long as there’s an
+explanation for the infernality in general—here, ideology.
+
+¶4 Any such defense against the Chinese menace would depend on the present Chinese regime being
+ideological in the relevant sense, a point conceded here arguendo, though its truth is not obvious.
+Even granting this point, however, there emerges a subtler problem with Deneen’s account of how
+liberalism causes the things it allegedly causes—state, market, laboratory, call these together the
+modern regime. Namely, Deneen’s account operates at the wrong level of generality. If liberal
+ideology correlates with the modern regime, but “socialism with Chinese characteristics” also
+correlates with the modern regime, the correlation likely owes not to the details of either, but to
+the fact of their both being modern ideologies. Nor is it clear that modern ideologies create modern
+regimes, rather than vice versa. Deneen himself at times all but concedes that his usual rhetoric
+gets the causality backwards, as when he calls liberalism “arguably the first regime to put into
+effect a version of the ‘Noble Lie’”—the ideology cannot, after all, be both the regime’s effect and
+the regime’s cause. What Deneen avoids acknowledging is that the modern regime can be propped up by
+any number of ideologies, with ideology merely a fourth regime component: to state, market, and
+laboratory, add bully pulpit. As Eisenhower said, “our form of government has no sense unless it is
+founded in a deeply felt religious faith, and I don’t care what it is.” Why does it matter what
+liberalism is?
+
+¶5 At times Deneen’s Catholic postliberalism bleeds into Catholic reaction, and he seems inclined to
+answer that it doesn’t. He comes to sound almost like Joseph de Maistre, who paid some attention to
+the specifics of liberal thought but focused primarily on the to him absurd idea that thinking could
+make a political difference in the first place. “True legislators,” de Maistre wrote, “are never
+what is called intellectuals … There is the same difference between political theory and
+constitutional laws as there is between poetics and poetry” [*Considerations on France*, 1796].
+Given the nature of de Maistre’s invective, it is no surprise that he often refused to provide
+arguments for his assertions: “To prove this proposition in detail, after what I have said, would,
+it seems to me, be disrespectful to the wise and over-respectful to the foolish.” This political
+romanticism sounds quite unlike anything found in premodern political philosophy. Deneen does not go
+quite so far as de Maistre; he does not define ideology as the presence of ideas in politics, but as
+the presence of false ideas. It’s unclear, however, what allegedly true ideas Deneen would allow
+into politics, apart from the idea that politics isn’t primarily about ideas—an idea whose relevance
+de Maistre, too, might have admitted, however reluctantly.
+
+¶6 The problem for Deneen (and de Maistre) is that *politics can’t be planned* and *liberalism’s
+planning has ruined our politics*—though they may seem equivalent propositions—are in fact
+contradictory. If politics can’t be planned, it is because no clear line can be drawn from plan to
+result, such that a regime can only be created by chance (or, to speak romantically, through
+national or individual genius). If liberalism’s planning has ruined our politics, it is because one
+can draw a line from plan to result, such that one can reason at least part of the way towards the
+deliberate creation of a political regime, and should focus, not on excising ideas from politics,
+but on sifting the false ideas from the true ones. Deneen might say that the only lines one can draw
+run from planning to its failure. Indeed, de Maistre said almost exactly that: “The more that is
+written, the weaker is the institution.” This no-ideas idea amounts to the reactionary plan for
+politics. If to do so weren’t liberal heresy, perhaps these authors would bother to ask whether it’s
+a good one.
+
+¶7 It is not. The reactionary imagines liberalism (a word used interchangeably with ‘modernity’) as
+an evil demon which has possessed our politics by directing our attention towards political ideas.
+The reactionary plans to exorcise this demon by reciting a litany of the falsity of all political
+ideas. Once this rite has been performed a sufficient number of times, the reactionary imagines, we
+will be made free, able once more to live human lives free of ideological baggage. Not only does
+this attitude seem obviously ideological, it seems a quintessential expression of liberal
+ideology—it is an instance of a debunking narrative. That writing a book called *Why Liberalism
+Failed* does not undermine the liberal regime, but rather reinforces it, is the significance of
+Barack Obama having blurbed it. The present author remains unconvinced of the power of liberalism in
+Deneen’s grand sense to cause much of anything in the world of politics, but he does suspect that
+Deneen’s own crypto-liberalism caused the incoherence of his critique.
+
+¶8 Not to be too harsh on Deneen. He is a student of the philosophy of politics, not of the politics
+of philosophy, which is to say that he cares about liberalism primarily because he believes its
+ideas misguided, and only derivatively because he has concluded that its effects on the world are
+pernicious. Many of his arguments against liberal ideas, and many of his complaints about the modern
+regime, have some truth to them. His error is in exaggerating the connection between his two bêtes
+noires. Deneen writes, for example, that Facebook does not make us lonely, but is rather “a tool
+that elicits loneliness from a deeper set of philosophical, political, and even theological
+commitments.” This is not a serious argument. The primary reason that medieval Europeans did not use
+Facebook is not that they were illiberals, but rather that they had not yet tamed electricity (a
+metonym for all the myriad of ways in which the medieval world differed utterly from our own). To
+say otherwise should, by Deneen’s own lights, be called liberalism.

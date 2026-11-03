@@ -1,0 +1,308 @@
+# [reach-of-poetry/wiser-and-more-intelligent-than-his-readers] VI. Wiser and More Intelligent Than His Readers
+From: The Reach of Post-Romantic Poetry (2025), by Edkar Marenko
+URL: https://j-e-scriptorium.github.io/reach-of-poetry.html#wiser-and-more-intelligent-than-his-readers
+
+¶1 VI. Wiser and More Intelligent Than His Readers
+
+¶2 In his Foreword to *The Viking Book of Aphorisms* [1962], Wystan Hugh Auden wrote:
+
+¶3 > Aphorisms are essentially an aristocratic genre of writing. The aphorist does not argue or
+> explain, he asserts; and implicit in his assertion is a conviction that he is wiser and more
+> intelligent than his readers. For this reason the aphorist who adopts a folksy style with
+> ‘democratic’ diction and grammar is a cowardly and insufferable hypocrite.
+
+¶4 What for Auden the critic was an astute observation was also, for Auden the citizen-poet, a
+practical dilemma, one faced by every would-be aristocrat in our democratic age: how to establish
+one’s authority without abusing it? The problem echoes through the American half of Auden’s career,
+in both prose and verse.
+
+* * *
+
+¶5 The prose helps us get in view what he means by “aristocratic” and “democratic.” For example,
+Auden writes in his essay “Writing” [*The Dyer’s Hand*, 1962]:
+
+¶6 > Except when used as historical labels, the terms *classical *and *romantic* are misleading
+> terms for two poetic parties, the Aristocratic and the Democratic, which have always existed and
+> to one of which every writer belongs, though he may switch his party allegiance or, on some
+> specific issue, refuse to obey his Party Whip.
+
+¶7 The comparison of poetic tendencies to political ones seems to enjoin the poet to seek something
+like balance. But what kind of balance? The aristocrat would hear in this injunction a call to rise
+above the fray and pass judgment on it, the democrat a call to conform his preferences toward that
+of the median poet—that is, each would seek the balance he already sought anyway. Noticing the
+existence of the poetic parties is all well and good, but does little to guide us in our response to
+it.
+
+¶8 Auden would likely concur in this complaint, and direct our attention to Aristotle: “It is a mark
+of an educated person to look in each area for only that degree of accuracy that the nature of the
+subject permits” [*Nicomachean Ethics*, c. 350 B.C.]. General poetic advice, like general ethical or
+political advice, cannot help but be vague and of limited use. And so Auden’s theoretical
+reflections will have little more to say to us. Only this: a few pages earlier in *The Dyer’s Hand*,
+in response to some lines of the would-be aristocratic Irish poet William Butler Yeats, Auden had
+written that a writer, “who, like all men, has his personal weaknesses and limitations, should be
+aware of them and try his best to keep them out of his work.” Our interest for the remainder of this
+chapter will be, not in Auden’s theoretical musings, but in his practical negotiations with the
+dilemma of poetry’s political self-knowledge. The theme of those negotiations is not that of
+maintaining a balance between “aristocratic” and “democratic” tendencies, but rather—since Auden
+identified the aristocratic party as his own natural home—on avoiding the evil of aristocratic
+arrogance.
+
+¶9 For critics considering Auden’s negotiations on this score “In Memory of W. B. Yeats” [1939] has
+become the touchstone. Its most famous phrase has been taken out of context so often as to become an
+aphorism of its own: “Poetry makes nothing happen.” These words directly challenge the elegized
+poet, for Yeats believed in poetry’s efficacy. For Auden, that belief was no more than an indulgent
+private mythology with dangerous political implications. The Yeatsian poem both describes and
+attempts to enact an imagined social order based in the privileging of imagination itself. Against
+such assertions of poetic rank Auden sets a poetics of nothing, in which the poem accomplishes
+nothing and through this nothing overcomes its poet’s *libido dominandi*, “surviv[ing] | In the
+valley of its saying” where no positive assertion ever sets foot. All of this is well understood,
+and I will not belabor the point that this negative poetics (in the sense of “negative theology”)
+runs throughout the second half of Auden’s career. So let us leap forward two decades, by which
+point the dialectic of negation, the Augustinian attempt to root out every growth of pride even when
+springing up from one’s own humility, had led Auden to a radically different kind of poetry.
+
+¶10 If we take the later Auden at his own word, the difference is this: if “In Memory” sought to
+save the music of poetry by stripping it of content, making it a poem about nothing, then Auden’s
+poems of the 1960s seek to save the significance of poetry by stripping it of its music. Lucy
+McDiarmid intelligently described these late works as incessantly apologizing even before they have
+transgressed, always “haunted by the danger of being loud-voiced and serious” [*Auden’s Apologies
+for Poetry*, 1990]. In place of an assertiveness devoid of any particular assertion, they offer
+quite particular assertions without any enchanting cloak to hide them. Auden understood honest
+poetic communication to be an achievement, and feared that wordplay and metrical effects would
+create an air of affectation rendering its achievement impossible. He attempted to write poetry
+which merely registered its author’s actual thoughts, in the first person singular, tentative and
+ironic without being insincere, devoid of both adulteration and arrogance.
+
+¶11 The poems resulting from Auden’s avowed self-understanding contain no memorable lines clinching
+their argument, nothing remotely aphoristic. Rather, the meandering seems to be the point. Auden
+described his desired style as “drab” [“Reply,” *Kenyon Review*, 1964]. In the drab style, poetic
+qualities emerge only in the cumulative effect of an ever-widening vocabulary, and in the subtle
+modulation across several stanzas of multiple systems of prosodic order. The effect is one of
+endless digression. The author desires to make a statement, but knows that any direct, unequivocal
+assertion will be seen as either a fabrication or a manipulation. He offers, then, a series of
+approximations, allowing the reader to infer the train of thought’s destination, and hoping that he
+can thereby bring about an assertion with performing any unequivocally assertive act. Around this
+time Auden suggested that a poem is like the crossword puzzle [in P. H. Burton, “Difficult Poetry,”
+*The Listener* (5 May 1960)]:
+
+¶12 > One of the elements of poetry is the riddle, that you do not call a spade a spade. It is
+> evident that people enjoy solving riddles, because otherwise crossword puzzles would not have the
+> popularity they have.
+
+¶13 The analogy is apt, but not because a crossword puzzle much resembles a poetic riddle. The
+stakes of each clue are too low, and while solving each clue does make it a little bit easier to
+solve the next one, there is no arch-clue to which all the sub-clues build. The point, rather, is
+that one solves a crossword puzzle at one’s leisure. One feels a similar lack of urgency when
+piecing together the various meanings of Auden’s later poetry. And crossword puzzles, too, are quite
+drab.
+
+¶14 It might help to distinguish here between two poetic qualities, call them condensation and
+compactness. To be condensed, a poem must have every rift loaded with ore; to be compact, the words
+of the poem must be fastened together such that the author’s act of fastening is apparent to the
+reader and so binds reader to author in turn. Auden’s later long poetry, like “Thanksgiving for a
+Habitat,” is often highly condensed, but, as the testimony of many bewildered readers testifies, it
+abandons compactness almost entirely. I admit that I, too, find it difficult to enjoy works
+simultaneously so dense and so fluid; the only appropriate analogy would be to something like
+industrial slag. But the later Auden also wrote great quantities of shorter poetry, poems of five,
+four, even three or two lines, and these are a different matter. Poems of such concision do not seem
+to fit into the digressive poetics toward which the later Auden claimed he aspired. How did Auden
+reconcile himself to what he had speculated would be the inevitably aristocratic character of such
+aphorisms?
+
+* * *
+
+¶15 To answer this question we must turn from Auden’s self-diagnostic prose to the poetry itself.
+
+¶16 One favorite tactic in Auden’s later poetry was deflationary humor, directed against the
+aesthetic aristocracy. Consider Auden’s clerihews, written throughout the fifties and sixties, which
+he published together under the title *Academic Graffiti* [1971]. A clerihew somewhat resembles an
+epigram, but takes itself far less seriously. Its first line must end with the name of its subject,
+and much of the amusement comes from the awkward rhymes that result, as the next line must share the
+same rhyme (the pattern is AABB with irregular meter). Auden’s clerihews often give the obviously
+absurd impression of having pronounced the final word upon their subject. The effect is particularly
+strong when targeting Auden’s fellow poets, as if, with clerihew in hand, we have no need of the
+poetry of the original:
+
+¶17 >     Mallarmé
+>     Had too much to say:
+>     He could never quite
+>     Leave the paper white.
+
+¶18 Whereas
+
+¶19 >     Alexander Pope
+>     Never gave up hope
+>     Of finding a motto
+>     To affix to his Grotto.
+
+¶20 Mallarmé wrote poems that tried to leave off poetry; Pope wrote well-honed heroic couplets, and
+perhaps too many of them. Of course, these clerihews are less subversive than Auden perhaps imagined
+when he began writing them. Peter McDonald remarks of Auden’s late turn to humor that, “far from
+disabling any sense of authority, Auden’s manner of self-deprecation makes the authority all the
+stronger” [*Serious Poetry*, 2002]. The clerihews purport to be self-deprecation by proxy, showing a
+member of the aesthetic aristocracy of poets, novelists, composers, philosophers, undermining that
+aristocracy from within. But given their ultimately assertive nature, we might suspect that these
+poems’ absurd rhymes are too close for comfort to the pseudo-democratic “folksy diction” whose
+hypocrisy Auden avowed deploring. Auden mocks the aristocrats, but he still reserves the right to
+determine the contents of the literary canon.
+
+¶21 Perhaps in recognition of this complication, Auden’s later additions to “Academic Graffiti”
+strive for a more subtle effect. Of particular note are the two limericks that close the sequence.
+Both resemble the clerihews in beginning with the name of a single poet, but they turn their comic
+form to quite different purposes. Consider limerick the first:
+
+¶22 >     T. S. Eliot is quite at a loss
+>     When clubwomen bustle across
+>     At literary teas,
+>     Crying: “What, if you please,
+>     Did you mean by *The Mill on the Floss*?”
+
+¶23 To get the joke, we must first recognize the last line as naming a novel; then recognize the
+novel as written by George Eliot; then recognize the homonymy between Eliot and Eliot. Our ability
+to do these things does not, however, make us members of a privileged set, laughing at the ignorant
+clubwomen. Rather, what stays with us is our moment of bewilderment; like Eliot, we are left at a
+loss. The limerick insists that the very difference between Eliot (T. S.) and Eliot (George) is
+beneath the notice of all but a handful of scribblers. Given the ultimate irrelevance of (either)
+Eliot’s literary output, a clerihew summing it up would not even be worth writing.
+
+¶24 The second, less evasive limerick concerns Yeats. At first it might seem a return to the simpler
+logic of the clerihews, but it ends up attacking aristocratic poetics in unexpected fashion:
+
+¶25 >     To get the Last Poems of Yeats,
+>     You need not mug up on dates;
+>     All a reader requires
+>     Is some knowledge of gyres
+>     And the sort of people he hates.
+
+¶26 “Dates” means historical events, as in the titles of “September 1913” and “Easter 1916.” Yeats’s
+*Last Poems*—a phrase which not only describes the poems of his last years, but names the volume of
+posthumously published poetry—contains no such date-poems, but only an invented mythology of “gyres”
+and a politics of resentment. This may seem pure condemnation, and it comes close. But for Auden,
+the absence of history makes these last poems in a way more honest, laying bare the *libido
+dominandi* of the unrepentant aristocrat. The last line even contains an undertone of dissent: who,
+after all, is “he” in “the sort of people he hates”? Yeats, or the reader himself? On a quick
+reading we assume the former, but the latter is grammatically more plausible. The ambiguity offers
+us a choice: we can read Yeats’s poetry through his biography, in which case it condemns its author,
+but we can also, though it requires some effort, take his poems as an opportunity to scrutinize our
+own latent misanthropies.
+
+¶27 It’s worth comparing these limericks to one of Auden’s last public statements regarding these
+two predecessors. In a 1972 interview with the Paris Review, asked about Eliot’s influence on him,
+Auden responds: “Eliot can have very little direct stylistic influence on other poets, actually”
+[*The Paris Review* 57, 1974]. Eliot’s poetry, great as Auden knew it to be, remains somehow a
+cipher. We might recall here what Eliot himself wrote in “Little Gidding”: “The poetry does not
+matter.” One is not surprised that Auden’s limerick on the subject was rather about how it was not a
+subject at all. On the other hand, Auden had a great deal to say about Yeats:
+
+¶28 > I find it very difficult to be fair to Yeats because he had a bad influence on me. He tempted
+> me into a rhetoric which was, for me, oversimplified. Needless to say, the fault was mine, not
+> his. He was, of course, a very great poet.
+
+¶29 This performative diffidence condemns Yeats far more strongly than does the limerick’s mockery.
+With close attention to the need for a fair assessment, and to the difference between an object and
+one’s perception of it, Auden carefully notes the oversimplified rhetoric with which Yeats
+carelessly ran together all such distinctions. For Yeats as for Eliot, then, the limerick and the
+interview are complementary. In the one, Auden suggests Yeats’s value while affecting to mock him,
+while in the other, he suggests his shortcomings while affecting to withhold judgment. For our
+purposes the difference between the two matters less than the similarity. Both have the compact
+quality of a well-turned epigram, but on inspection turn into something closer to a riddle, whose
+solution is always the necessity of poetic humility.
+
+¶30 Such second thoughts are a valuable weapon in Auden’s war against poetic arrogance. But perhaps
+because they turn on the perceptual shift from obscurity to clarity, they seem more at home in the
+concrete context of the epigram than in the abstract context of the aphorism. Turning from “Academic
+Graffiti” to the haiku and long-lined couplets Auden grouped in his *Collected Poems* under
+self-trivializing titles like “Marginalia” and “Shorts I” and “II,” we find many mentions of
+poetry’s humility but fewer attempts to exemplify it. Consider a couplet from “Shorts II”:
+
+¶31 >     Blessed be all metrical rules that forbid automatic responses,
+>     force us to have second thoughts, free from the fetters of Self.
+
+¶32 Does this couplet itself achieve the second-thinking that it blesses? Or, rather, does it only
+state without argument or explanation a conclusion its author had reached long before sitting down
+to write it? That I must answer the latter does not force me to condemn the lines; certainly they
+are well-turned, with enjoyable alliteration, assonance, and metrical effects, and their insight
+into the nature of meter is non-negligible. But still I must ask: how, by Auden’s own lights, can he
+avoid deeming them to be an excessive display of aristocratic arrogance? A similar dynamic invades a
+typical haiku from “Marginalia”:
+
+¶33 >     True Love enjoys
+>     twenty-twenty vision,
+>     but talks like a myopic.
+
+¶34 These lines concern themselves with the limited scope of true poetry, but far from exemplifying
+myopic speech, they avail themselves of universal generalizations implying a highly exalted vantage
+point. The speaker, without demonstration, asserts knowledge of the truth of love. Both the couplet
+and the haiku purport to solve the problem of poetic pride by formal means, through a patterning of
+language sufficiently impersonal to purify the speech-act of any self-interest. The resulting
+patterns are certainly interesting, but I cannot see how they are thought to result in any such
+purification.
+
+¶35 Admittedly, some internal evidence suggests that Auden would have agreed about the inadequacy of
+a purely formal approach. Even the couplet just quoted offers another response to the charge of
+aristocratic arrogance, incompatible with the formal defense: namely, that it does not assert, but
+rather blesses, the effect of the metrical rules. The haiku, similarly, implies that poetry
+resembles content-free pillow talk. The speech-act performed, both poems… well… assert, is not one
+of assertion but rather of religious or erotic communion. We can already see, however, why this
+solution is no solution at all. The aristocratic implication inheres not in the illocationary act of
+blessing or asserting, but rather in the perlocutionary effect one achieves when the act implies the
+superiority of speaker over audience in wisdom, intelligence, virtue, love, whatever. However wise
+we may think these lines’ blessing, the wisdom is that of the speaker, not of the lines themselves.
+The couplet convinces (if it does convince) only because we know it to have been written by a
+venerable poet who has experienced such second thoughts at other times, writing other lines than
+these, and the haiku convinces (if it does convince) only because we know it to have been written by
+a poet of love, who has shown us the vision and blindness of love in other poems than this one.
+
+¶36 The more successful aphorisms, in terms of their responsiveness to the aristocratic dilemma, do
+not attempt to escape assertion so much as to take it into account. We can recognize some of these
+by the presence of the first person pronoun:
+
+¶37 >     Somebody shouted, I read: *We are ALL of us marvellously gifted!*
+>     Sorry, my love, but I am: You, though, have proved that You ain’t.
+
+¶38 These lines might seem to endorse aristocratic arrogance, but I do not think that this is quite
+what is going on. To my ear, at least, the colloquial “ain’t” pushes these lines over the border of
+righteous indignation into parodic self-contempt. The words “my love” and capitalized first letter
+of “You” also clues us in to the complexities of the situation. The couplet does not assert Auden’s
+poetic gift so much as dramatize his assertion and reveal its shortcomings. Insofar as “my love” and
+the capital-Y “You” are condescending, the couplet reveals a failure of charity; insofar as they are
+not, they insist—not that we *are* all of us marvellously gifted, an assertion Auden would surely
+deny—but that giftedness or not is not the point.
+
+¶39 The personal pronouns in the above couplet are helpful, but not necessary. A similar effect can
+be achieved without their direct use, so long as the act of poetic utterance is implicated. Take the
+following haiku:
+
+¶40 >     Only bad rhetoric
+>     can improve this world:
+>     to true Speech it is deaf.
+
+¶41 The final line’s complaint is such a cliche that I cannot grant its status as true speech, and I
+do not think that Auden intends for us to do so. Perhaps he hopes that its bad rhetoric will do more
+to improve this world than real poetry ever could, or perhaps, and I think more likely, he hopes
+that the compression of bad rhetoric into the haiku form can transform it into something different,
+not quite “true Speech,” but neither deaf to it. In understanding the impulse to utter these lines,
+we understand simultaneously why they cannot be truly uttered. The resulting performative paradox
+stands to the aphorism much as the riddles ending “Academic Graffiti” stand to the epigram. Each
+offers a way of existing, as the later Auden desired, on the border of poetry and prose. And each
+accomplishes this, not through diffusion of poetic tension, as in so many of the later Auden’s
+longer poems, but through concentration, placing pressure not on our ability to determine what is
+said, but on our awareness of the person saying it.
+
+¶42 I will close with the last poem Auden ever wrote, again a haiku, and, at least on the surface,
+one of the most nakedly autobiographical:
+
+¶43 >     He still loves life
+>     but O O O O how he wishes
+>     the Good Lord would take him.
+
+¶44 [*Thank You, Fog*, 1973]. We can, certainly, understand “he” to refer to the historical person
+W. H. Auden, in which case these brief lines are a biblically inflected expression of longing for
+the afterlife. The lines verge on the confessional, and the series of vocatives are saved from being
+mere cries of passion by their hidden conformity to the syllabic laws of the haiku, under which
+adjacent vowels constitute a single syllable for metrical purposes. We can also, however, take this
+haiku in a more impersonal and aphoristic vein. What if “he” refers, not to the person W. H. Auden,
+but to the persona of the poet? The poem then becomes a meditation on how poetry cannot be content
+with its own life, but strives inescapably for its own transcendence. The four times repeated “O” is
+not an instance of the false folksy style, but neither is it an improper arrogation. Auden has here,
+at last, a true aphorism on the limits of aphoristic authority.

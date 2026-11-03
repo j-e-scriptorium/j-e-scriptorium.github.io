@@ -1,0 +1,189 @@
+# [4.6] Two Cheers for Oligarchy
+Hugo Purcell — University of St. Isidore — May 2025
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-4-6
+Foreword gloss: offers a limited defense of exclusive cabals and bloodline management
+
+¶1 That many elite universities preferentially admit “legacies” (i.e., the children of their alumni)
+gives rise to frequent gripes about unfairness. It’s true that legacy admissions are unfair, but not
+in quite the way people expect. They are not sheer discrimination against non-legacies, but rather
+an anti-competitive strategy meant to drive down admission rates and boost yield rates (both
+important for gaming the school-ranking algorithms, and the latter independently desirable since it
+avoids wasted effort).
+
+¶2 A toy example will show how the strategy works. Imagine six students, two of whom are legacies at
+Yale, two at Harvard, two at Princeton. In each pair of students, one is high quality and one low
+quality. All six students apply to all three schools. Each school wants one student, preferably high
+quality; whom will they admit? If each school admits all of the three high quality applicants and
+none of the low quality applicants, then each school will have a 1/2 admission rate and each high
+quality applicant will have three schools to choose from. All three schools can thus expect a yield
+rate of 1/3 (i.e., one of the three students will accept), but with high variance: they may get 2/3,
+or 0/3, or even 3/3. On the other hand, if each school admits only its own high quality legacy,
+their admission rates will be 1/6 and their expected yield rates will be 1/1, with a small chance of
+0/1; after all, each high quality legacy will have only one school to choose from (unless they are
+also, say, admitted to Stanford). Note that no school has any reason to admit the low-quality
+legacies, who are undesirable students.
+
+¶3 This strategy works less well if not every school follows it. If Yale admits only the high
+quality Yale legacy but Princeton and Harvard admit all three high quality applicants, Yale runs a
+big risk of getting 0/1. But the risk is smaller than if Yale had admitted a single high-quality
+student at random, because many students like the idea of attending their parents’ alma mater. And
+so legacies provide a natural Schelling point for this sort of anti-competitive strategy. Each
+school can justify preferencing legacies because it indicates greater desire to attend, without
+making any reference to what other schools are doing, and so all the schools converge on a system
+for allocating students between them.
+
+¶4 Who suffers from the legacy-preferencing strategy I have described? Primarily, high quality
+applicants who are not legacies at any elite university, and so fall through the cracks. But also
+high quality legacies denied the choice of which elite school to attend. Who benefits from the
+legacy-preferencing strategy? Not low-quality legacies, whom schools have no reason to favor (unless
+their parents call the school and promise to donate ten million dollars, a rare occurrence distinct
+from ordinary legacy admissions). The primary beneficiaries of legacy preferences are not the
+legacies, but the schools themselves.
+
+¶5 That this strategy is possible does not prove that elite universities are actually using it. The
+evidence is suggestive, but indeterminate. When I last checked, about 10% of Harvard applicants were
+legacies, and Harvard admitted 33% of legacy applicants and 6% of non-legacy applicants, resulting
+in a 36% legacy student body. The existence of a discrepancy here is not surprising—it would be more
+surprising if none existed, for it would mean that a Harvard legacy had no better understanding of
+his admissions chances than a random student encouraged to apply to Harvard by an over-eager college
+counselor. The interesting question is how Yale and Princeton legacies fare when applying to
+Harvard. They are likely to be of similar caliber, but are they also admitted 33% of the time? If
+elite universities are following the legacy-preferencing strategy, the answer is probably no, though
+I have not seen numbers.
+
+¶6 If I’m right, then the applicants best positioned to challenge legacy admissions as
+discriminatory are—other legacies. After all, to prevail on a discrimination claim would require an
+applicant to prove that he was denied admission for the sole reason that he was not, say, a Harvard
+legacy. Unless we are willing to dictate that admissions committees can only consider objective
+metrics and must follow objective rubrics for determining their relative weight, it will always be
+impossible for an individual applicant to prove that he was denied admission when the committee
+would have admitted an otherwise-identical Harvard legacy. Recourse to statistical trends will be
+necessary. As noted, Harvard legacies and non-legacies are not otherwise identical groups; we should
+expect the former to be higher-quality candidates. But a Yale or Princeton legacy—such an applicant
+could plausibly complain that Harvard had discriminated against him for the color of his parents’
+football jersey.
+
+¶7 If the thought of such a suit for micro-ethnic discrimination strikes the reader as absurd, the
+lesson may be that perfectly competitive markets are not the be-all and end-all of public policy.
+Choice is not always good, and anti-competitive behavior may in some circumstances play a meaningful
+role in boosting in-group cohesion; the world may be better off when elite universities nudge
+Harvard legacies toward Harvard, without a regulator intervening to ensure each high-quality Harvard
+legacy faces a choice between Harvard, Yale, and Princeton. On the other hand, for those convinced
+that Harvard has the right to discriminate against non-legacies, but also in love with capital’s
+ability to melt all that is solid into air, a modest proposal for streamlining academic admissions:
+require each school to base admissions entirely on the resumé of the applicant’s parents. After all,
+given some basic facts about the heritability of personality traits including drive, charisma, and
+intelligence, the caliber of the parents tells you almost all you need to know about the applicant.
+The rest of what admissions committees consider is mostly noise, and worse than noise: when metrics
+like test scores and extracurriculars become goals, immense effort is wasted in achieving them.
+Merit-of-the-parent admissions are the only way to select for merit while abolishing striver
+culture.
+
+* * *
+
+¶8 I do not take the preceding assertions about heritability to be open to reasonable dispute,
+although many are in denial about them. Many believe any discussion of these facts to constitute
+“eugenics,” or at least to be inclined dangerously eugenics-ward. As with “fascism,” more or less
+everyone disavows “eugenics,” but no consensus exists as to why the practice of eugenics is bad.
+Does the evil of eugenics lie in its reliance on forced sterilization, abortion of defective
+fetuses, and the like? In its lack of respect for the mystery of human procreation? In its
+aspiration to dominate human nature? Answers to these questions are surprisingly difficult to pin
+down.
+
+¶9 It does not help matters that the word was not originally intended to name a practice at all, but
+a theory. Coined in 1883 on analogy with “physics,” the study of nature, “eugenics” names the study
+of good genes. (A true-enough sentence; a pedant would observe that the word “gene” did not come
+into circulation until three decades later, but both coinages drew from the Greek *genos*, “birth,”
+and for the same reason.) To be sure, “good” implies an exercise of judgment, but there is little
+doubt that it makes sense to speak of good genes, as it makes sense to speak of good eyes, or good
+circulation. Just as the study of medicine tells us very little about bioethics, the word “eugenics”
+was never well-suited to name the practices we adopt in response to genetic realities. On analogy
+with “economics,” i.e., household management (another art often mistaken for a science), we might
+call the practice in question “eugenomics.” Or, more simply and felicitously, “bloodline
+management.”
+
+¶10 The economics analogy does not entirely resolve the most common worries about bloodline
+management, but it does lower their temperature. Does taking bloodlines seriously imply a commitment
+to state control of the means of reproduction? No more than taking households seriously implies a
+commitment to state control of the means of production. Not all economists are communists.
+Similarly, to allow parental control (via abortion, IVF, etc.) is no more an imperative than to
+allow slavery. Not all economists are so libertarian as to believe contracts of slavery permissible.
+The goal of bloodline management, the begetting of excellent children, is no more necessarily
+dehumanizing than the goal of household management, the arrangement of an environment in which those
+children will flourish. And if a “eugenomic mentality” threatens our ability to see other human
+beings as more than repositories of genetic capital to turn to our own purposes, so too does an
+“economic mentality” threaten almost the same thing. Not, to be sure, an insignificant concern—but
+also not a reason to blind ourselves entirely to practical realities.
+
+¶11 Instead of catastrophizing about the possibility that someone, somewhere, might be taking
+bloodlines seriously, we should approach eugenomics as we do economics—as an arena where prudence
+must act within constraints (thus “ethical”), and where we must consider second-order effects on
+society as a whole (thus also “political”). Calm reflection on eugenomics yields many insights. We
+can, for example, recognize a bloodline-protective legal regime as a kind of oligarchy, and so
+subject to the standard critique of oligarchy: rule by the few, whether distinguished by financials
+or genetics, is a poor proxy for rule by the virtuous. The standard response also applies: proxies
+for virtue are all the eyes of the law can see directly. Or consider the problem of eugenomic
+motives for marriage. The romantic ideal, of course, is that we marry for love of the other person’s
+character. But marriage is a practical partnership as well as a romantic union, and we have long
+acknowledged that other motives play a significant role in clearing the marriage market. Physical
+attraction, most obviously, but also more abstract considerations like economic security. Why not
+consider eugenomic security as well? Imagine a human-capital version of the nineteenth century
+marriage novel: “It is a truth universally acknowledged, that a single man in possession of genes
+for 6′3″ and 130+ IQ sons must be in want of a wife.”
+
+¶12 If eugenomic considerations can color our choice of spouse without entirely reshaping it, the
+same cannot be said for our choice of children. The very prospect of choosing which child to have is
+entirely alien to our cultural experience. At most, we have chosen in what circumstances to have
+one: ideally, with sufficient household resources to support the child, with a spouse whose features
+we would like to see reflected in the child’s face, and with the intention of educating the child
+into virtue. (An intention easier to effectuate if the other two circumstances are also present,
+hence the correlation between plutocracy, eugenocracy, and aristocracy.) The limited extent of our
+control over bloodlines prevents concern for them from drowning out the more personal dimension of
+the parent-child relationship. The newly emerging power to directly decide a child’s genome may well
+alter that relationship in undesirable ways, leading parent to see child as only so much raw
+material to be molded as the sculptor sees fit. Perhaps, then, it will be necessary to mark certain
+eugenomic techniques out of bounds.
+
+¶13 Such delimiting would be primarily a matter of regulating means, not ends—but to set a taboo
+upon certain means is also to say something about the end to which those means are suited. To
+prohibit, for example, usury, is to say: household management is good within bounds, but not when
+the household grows beyond reason by enslaving other households to the task of increasing its
+holdings, with no reference to their own proper good. Similarly, to prohibit IVF is to say:
+bloodline management is good within bounds, but a child is and ought to remain the natural product
+of the natural union of husband and wife. A taboo demarcates the sacred from the profane. Managerial
+practices belong on the profane side of the line.
+
+¶14 Some take the fact that wealth management must be hemmed round with moral limits to mean that
+there is something suspect about its implied goal of endless increase. The worry is not absurd, for
+either financial or genetic wealth. Focusing on the latter, many suspect that the natural limits on
+human life may be in a mysterious way more conducive to human happiness than the limitless world
+biotechnology now seems to promise. What exactly are we worried about—that we will cease to be
+sexually reproducing, tool-making, political, reasoning animals, if our maximum lifespan grows
+beyond 120 years, our maximum healthy height above seven feet, our maximum meaningful social network
+to more than a few hundred persons, or our maximum intelligence beyond what today’s IQ tests can
+measure? To articulate the worry is not, in fact, to refute it. We hardly understand what changes in
+the course of the genetic river kicked off anthropogenesis in the first place.
+
+¶15 Yet if we have hardly any experience with permanently changing human nature, we have copious
+experience with doing so temporarily, in the form of psychoactive drugs—and this experience hardly
+points in the direction of ruling out transhumanation altogether. Rather, it suggests that there is
+little useful to be said about drugs *in general*, beyond the necessity of prudent attention to
+particulars. Indeed, the particularity goes all the way down: we often judge not simply that a given
+drug is in or out of bounds, but that a given drug is permissible only used in a certain way,
+according to certain culturally transmitted scripts. The same will likely apply to any attempt to
+set limits on attempts to breed a better kind of human being. It will have to be done, but cannot be
+done in advance. When Noah invented wine, he immediately found himself accidentally inebriated, and
+it was his children who were obliged to cover up his shame.
+
+¶16 The technological advances of the coming decades will pose new problems, but the fundamental
+dilemma is not itself new. We have not, up until now, chosen our children, but that has not stopped
+us from trying to choose their lives for them. Many of today’s aristocrats (which is to say
+hereditary plutocrats) can trace both their ancestry and their estates back a thousand years, thanks
+to myriad fathers who cared less for their sons than for the abstract proposition: *My son will
+continue the family line, and hold together the family fortune.* But the medieval aristocracy
+eventually gave rise to the mendicant orders. To a mendicant’s vows of poverty, chastity, and
+obedience, the family often objects: *Why won’t you produce, and reproduce, like your father tells
+you?* It’s all one complaint, really: *Why must you devote yourself to a divinity other than that of
+wealth management?* To which the mendicant replies: *Wealth must serve the weal of man, not man that
+of his wealth.*

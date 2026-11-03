@@ -1,0 +1,533 @@
+# [5.2] Brutal Wonder
+Porphyry Pterpsichore — University of St. Isidore — December 2023
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-5-2
+Foreword gloss: appraises Costin Alamariu’s Selective Breeding and the Birth of Philosophy as an
+  endeavor more of race mythology than race science
+
+¶1 Philosophy, Aristotle wrote, begins in wonder: “in the first place at obvious perplexities, and
+then by gradual progression raising questions about the greater matters too, e.g. about the changes
+of the moon and of the sun, about the stars and about the origin of the universe” [*Metaphysics*,
+c.350 BC]. Costin Alamariu offers a version of this origin story in the title of his self-published
+dissertation: *Selective Breeding and the Birth of Philosophy* [2023]. The implied contrast of high
+“breeding” with low “birth” was, one supposes, intentional, though I have not seen anyone else
+notice it.
+
+¶2 Unlike most self-published books, *Selective Breeding* did not drop without a sound into the
+abyss of Amazon’s back catalog—indeed, it sold better than almost all university press offerings,
+climbing at one point to #33 on the site-wide bestseller list. The book’s success is not primarily
+owing to its contents. Alamariu, a Romanian-born Yale political theory PhD turned cosmopolitan
+drifter, has for several years stood accused of authoring the 2018 surprise hit *Bronze Age Mindset*
+(“*BAM*” to its fans) under the nom de plume Bronze Age Pervert (“BAP”), an identity Alamariu and
+BAP both winkingly deny. The bulk of the purchases almost certainly came from the BAP fandom.
+
+¶3 Alamariu’s book has certain themes in common with *BAM*, including warrior aristocracies,
+anti-metaphysical vitalism, and eugenics. But if anyone was hoping for a *BAM* sequel, they were
+likely disappointed. *BAM* styled itself an exhortation; it sought less to convince than to conjure
+in the reader a feeling of violent exhilaration. Indeed, *BAM* is as much talisman as text. Have you
+heard that they read *BAM* in the Trump White House? That it circulates among Silicon Valley
+techbros, and among the handful of non-lisping white male students at T14 law schools? Perhaps you
+have not just heard, you have read—perhaps you have felt a thrilling in the spine at surpassing such
+merely human concerns as guilt and shame as you leafed through the black-red-gold print-on-demand
+paperback on the subway, or in a public park, surrounded by grotesque instances of the very “mere
+life” whose TOTAL ANNIHILATION the words of power hidden on the page before you demand … Perhaps you
+have also read the yellow-and-black sequel in such circumstances …
+
+¶4 That sequel is not another exhortation. Instead, it is something like a conventional scholarly
+monograph, albeit published through an unconventional channel. Dissertations are not, generally
+speaking, light reading. *Selective Breeding* has better style than most, but it is ultimately
+unsurprising that most of the excerpts that made the rounds online came from the newly written
+50-page introduction, which restates the dissertation’s conclusions (if so they can be termed) in
+more polemical form, and connects them to various social and political controversies.
+
+¶5 Is the argument of *Selective Breeding* worth taking seriously? Most academics of my acquaintance
+say “no,” for various reasons, but amounting to Alamariu having bitten off more than he could chew,
+at least without further years of academic apprenticeship. *Selective Breeding* proposes nothing
+less than a grand theory of history, from stone age to present day. The fashion for such theories
+has passed, for understandable reasons: we are in possession today of so many historical facts,
+about so many different times and places, that grand theories can hardly even get off the ground
+unless they approach the analysis of said facts systematically—amassing them in their myriads,
+coding them into a database, running regressions meant to reveal the presence in human affairs not
+of immutable law, but of general tendency. Any stronger claim with any less empirical grounding
+risks the crime of insufficient nuance. As the prolific George Mason economist Tyler Cowen trolled
+[*Marginal Revolution*, Sept. 23, 2023, at 12:43 am]: “Would more adherence to the hypothesis
+testing methods of the economist have done Alamariu some good?”
+
+¶6 On the other hand, “Fuck Nuance” [Healy, 2017]. Sometimes what you really want is a bold,
+ambitious, disruptive, and, yes, probably wrong grand theory of history. Its citations may be
+sparse, sometimes outdated, and altogether insufficient to support its highly controversial claims,
+but I enjoyed reading *Selective Breeding* on the subway. More importantly, while I don’t know that
+I would recommend it to the modal member of the book-buying public, it seems to me a more
+substantial contribution to human understanding than—well, most of the university press monographs
+it outsold (have you looked at a university press catalog recently?). Its contributions are in two
+principal domains: speculative anthropology and literary analysis. (Not, the reader may note,
+philosophy.) It founders on a third: European history.
+
+* * *
+
+¶7 The first chapter of *Selective Breeding* lays out a theory of prehistory which, so far from
+original, has been out of academic fashion for half a century. Alamariu notes the fact but does
+little to explain why he finds the older theories more convincing. How fatal a flaw one believes
+this to be in Alamariu’s argument depends on the quality of one’s faith in scholarly progress. For a
+true believer, it is hard to see how the antiquated theory can be more than science fiction.
+
+¶8 As it happens, I recently read a midcentury science fiction book that relies on the same class of
+theories as *Selective Breeding*, and although Alamariu cites various now-obscure anthropological
+treatises, you can get all the basic ideas from Poul Anderson’s 1965 novel *The Corridors of Time*.
+Anderson’s story begins with a man chosen by a beautiful woman from the future to protect a
+prehistoric fishing village from attack by a race of nomadic sun-worshipping chariot-riding men
+whose captain, of course, is also from the future. The woman and the man turn out to be the archons
+of two rival future civilizations, both of which the protagonist visits (among other tourist
+destinations): on the one hand, a gynocracy of equality, poverty, and stifling conformity, in which
+all but a few are agricultural serfs; on the other, an androcracy of hierarchy, opulence, and
+terrifying violence, in which all but a few are industrial wage slaves. The novel having been
+written during the Cold War, the woman rules the future Eastern Hemisphere and the man the future
+West. Although for most of the novel these two seem the only competitors for the timeline, near the
+end a third faction emerges from the shadows, representing (are you surprised?) a synthesis of the
+two: not female conformity or male violence, but human civilization, or something like that.
+
+¶9 The aesthetic appeal of such an archetypal narrative is obvious. I’m not positioned to assess its
+intellectual defensibility, but I nevertheless note that some of the more common criticisms strike
+me as misplaced.
+
+¶10 The strongest objection, I think, is that primitive sedentary cultures weren’t matriarchies—the
+“primitive longhouse” as a structure dominated by women is just a meme, not a historical reality.
+The best defense of this portion of *Selective Breeding* is that Alamariu himself equivocates
+between “gynocracy” and “gerontocracy,” with rule by the old seen as tantamount to rule by women.
+Not quite because when old men rule their wives in fact rule through them—when Lady Macbeth
+whispered in Macbeth’s ear, he was not particularly old, and she not particularly feminine
+[Shakespeare, c.1606]. My sense is that the phrase “rule by women” is more polemical than
+descriptive: it does not name rule by any particular group, but rather rule (by anyone) in what the
+author deems a womanish manner. Old men are (weak, conniving, consensus-seeking, etc.) the way women
+are (weak, conniving, consensus-seeking, etc.).
+
+¶11 Another common objection disputes the implied narrative of the nomadic conquests. This objection
+fares less well. With one exception (Greece), Alamariu is not deeply committed to any claims about
+what happened in any particular territory, and so there is no need to go into too many details about
+how westward the course of Yamnaya expansion took its way. It is enough to say, generally, that on
+the old theory, the expansion was a violent conquest by pastoral nomads; that, after the Second
+World War, in a reaction against Nazi ideology (“Yamnaya” is more or less a euphemism for “Aryan”),
+fashion shifted towards downplaying the violence with which the nomads integrated into the local
+population; and that recent advances in genetic testing have provided increasing evidence that the
+expansion often involved the genocide sometimes of the entire local population, other times of the
+local male population. The older theory the postwar consensus rejected has, in this respect, been
+substantially vindicated.
+
+¶12 A third objection focuses on the social structure of the nomadic conquerors. Alamariu suggests
+that they were uniquely non-gynocratic, both in the literal sense and in the sense of being willing
+to depart from social consensus in favor of creative violence. He also suggests that they were led
+by bands of young men detached from their families who arrayed themselves around an inspiring
+warrior-king. The first suggestion seems right: though cross-cultural comparison of sex roles is
+tricky, the balance of power among pastoral nomads tilts unusually sharply towards men; it may be an
+exaggeration to say that pastoral nomads treat women like livestock, but they do tend towards
+extreme polygamy and wife-stealing. An economist might hypothesize that in nomad households, where
+women lack any plot of ground to cultivate, the women’s work is more fungible and so each woman has
+less bargaining power. I’m somewhat more skeptical of Alamariu’s second suggestion; at least some of
+his putative examples of war-bands of atomized youth seem to have instead been armed assemblies of
+the male members of a dominant clan. And if this were a review of BAP’s broader political project,
+the validity of the war-band image or lack thereof might be the place to press. But I do not think
+this quibble matters all that much for the argument of *Selective Breeding*, the thesis of which
+focuses not on the worshippers of either the Earth Mother or the Sky Father, but on what happens
+when the two meet.
+
+¶13 *Selective Breeding* would endorse the dichotomy portrayed in *The Corridors of Time*, but would
+deny its synthesis. For Alamariu, the post-conquest world admits two options. Usually, the
+conquerors simply assimilate into the conquered people and so lose their distinctive character
+within a few generations, reverting to the natural condition of mankind, gyno-gerontocracy. But
+sometimes, the conquerors manage to hold themselves aloof, and in so doing transform into something
+new: an aristocracy, defined as a dominant subpopulation that preserves a distinct racial identity
+through unique cultural practices and artificial selection of children. For pastoral nomad
+conquerors, these go together, since the cultural practices in question include both familiarity
+with livestock and willingness to treat women as such. According to Alamariu, this process has
+occurred only a handful of times and places in human history—most significantly in ancient Greece,
+where it gave rise to the Greek *polis*, the subject of Alamariu’s second chapter.
+
+* * *
+
+¶14 The central claim of *Selective Breeding*’s second chapter is that the classical Greek concept
+of *phusis*, “nature,” emerged not from idle wonder but from practical knowledge—that the Greek
+discovery of nature was an intellectual refinement of the stockman’s art. The word *phusis* derives
+from the verb *phuein*, “to grow,” and in Alamariu’s telling means something like the visible
+unfolding of an invisible origin. A plant’s *phusis* is revealed when it fruits or fails to fruit; a
+horse’s when it runs swiftly or slowly; a man’s when he acts like a magnificent Achilles or a vulgar
+Thersites. Alamariu’s *phusis* is not a dead universal—not the nature of the phrase “laws of
+nature,” or even an abstraction like “character”—but something closer to what we mean when we speak
+of someone’s “blood.”
+
+¶15 This argument has a better pedigree than one might think. As early as Giambattista Vico, and
+with greater frequency since Friedrich Nietzsche, some philologically-inclined philosophers have
+proclaimed that reason murders the poetry of language, stripping away the metaphor and leaving only
+abstraction. The classicist Glenn Most once observed that “Heidegger’s Greeks” (as opposed to the
+actual pre-Socratics) do not reason so much as “look at one another, say *phusis*, and nod slowly”
+[2002]. Alamariu’s portrait of his Greeks is in much the same tradition—only instead of the nods
+taking place across a dim hearth-fire at a late-night symposium, Alamariu shows them occurring first
+in the pasture, and then at the panhellenic games.
+
+¶16 Alamariu’s star witness is the poet Pindar, whose odes celebrated victorious athletes by tracing
+each of their victories backward through noble genealogy to founding ancestor or patron god. Far
+from being that which all men share, *phusis* is for Pindar that which differentiates men from one
+another: “Various men have various arts. It is right for a man to follow straight paths, and strive
+according to his *phuai*” [*Nemean 1*, c.475 BC]. *Phusis* appears, is made visible, not so much in
+the resemblance of son to father, as in the resemblance of the son’s deeds to the father’s deeds:
+“By *phuai* the genuine spirit of the fathers stands out in the sons” [*Pythian 8*, c.450 BC]. To
+fail to follow the straight path of one’s *phusis* is to become dragged down into convention, that
+which all men can participate in but which does not last. The various strands come together in a
+potent image of natural aristocracy [*Nemean 3*, c.475 BC]:
+
+¶17 >     The eagle is swift among birds: he swoops down from afar
+>     and suddenly seizes with his talons his blood-stained quarry;
+>     but chattering daws stay closer to the ground.
+
+¶18 The eagle does not learn to be an eagle, but rather its inner *phusis* is revealed in the act of
+flight and the rapturous descent. The daws, who cannot fly so high, try to drown out with
+fashionable babble the sight of the eagle’s striving, but Pindar’s song will not let us forget it.
+*Phusis* for Pindar amounts to a poetic image connoting both origin and constitution, an invisible
+force revealed in physiognomy and deeds of prowess, the bloodline displaying itself in the bloody
+talons. And Pindar’s *phusis*, Alamariu suggests, is the philosopher’s *phusis*, at least in
+philosophy’s beginning.
+
+¶19 Alamariu’s reading of Pindar amounts to a wholesale revision of the standard account of
+philosophy’s origin—though few seem to have noticed, perhaps because he does not do us the favor of
+making the argument entirely explicit. Since Aristotle, philosophy has been understood to begin with
+the ascent of the wondering gaze from the familiar to the cosmic; as a would-be philosopher comes
+into his own he engages in *theoria*, disinterested contemplation, from a broader and broader
+vantage point. In Alamariu’s second chapter wonder moves quite differently, and to a quite different
+end. Those to whom *phusis* is revealed are *thambeo*, struck with amazement (the verb form of
+*thauma*), like Heracles’s stepfather Amphytryon on seeing the infant hero in his cradle strangling
+two serpents [*Nemean I*]:
+
+¶20 >     He stood, possessed by overwhelming astonishment and delight,
+>     For he saw the supernatural courage and power of his son.
+
+¶21 *Thauma* in this account names not disinterested puzzlement ascending to the starry heavens
+above, but rather the surprise we feel at the foal that runs like its sire, at the wrestler whose
+grip recalls his true father’s. What this *thauma* produces is not theory but recognition. At the
+self-disclosure of a living being, we belatedly recognize that we could have anticipated its
+selfhood given what we knew of its parentage. This recognition is true natural philosophy.
+
+¶22 Not being a scholar of ancient Greek, I cannot say how plausible is Alamariu’s poetic philology.
+His argument does, however, face one potential difficulty: while the verb *phuein* means generally
+“to grow,” its most direct nominal derivative (akin to the English “growth”) is *phuton*, meaning
+“plant.” If the Greeks first noticed *phusis* in the orchard rather than the stable, then the
+connection between the discovery of nature and the practices of a pastoral warrior aristocracy is
+severed at the root. Alamariu is aware of the difficulty—he discusses the vegetal uses of the word
+at some length—but his response amounts to insisting that the aristocratic poets’ deployment of the
+word owes more to blood than to sap. This ignores the deeper point. If a breeder who watches a foal
+run and a farmer who watches a vine fruit are struck by the same recognition—like begets like, and
+hidden life declares itself in time—why think it takes a mounted warrior to generalize
+nature-as-hidden-vitality to the human case? After all, the Latin word for “seed” is *semen*.
+
+¶23 I am not entirely sure Alamariu’s response to this question, but I do think that there is more
+to be said in favor of his position. To see it requires first understanding the genre of claim
+Alamariu is making. The argument of *Selective Breeding*’s second chapter is not linguistic—Alamariu
+does not claim that the word *phusis* was used only by stockbreeders. Nor is it straightforwardly
+sociological—he is not merely observing that Pindar happened to be a poet of the aristocracy who
+happened to use the word. Rather, the argument is poetic. It identifies a way of seeing nature, as
+the disclosure in visible deeds of an invisible bloodline, and contends that this way of seeing
+characteristically arises within, and only within, an aristocratic form of life. A brief digression
+away from Alamariu’s book is here warranted, for a reader feeling himself incompetent to assess
+Alamariu’s philological exhibits may nonetheless be persuaded, or at least instructed, by a parallel
+case in a language and tradition he knows better. That case is to hand, in late 19th and early 20th
+c. Anglophone poetry.
+
+* * *
+
+¶24 The nineteenth century reshaped Anglophone culture in numerous ways that moved it closer to
+(Alamariu’s conception of) classical Greece. Not that Alamariu would admit it—like his hero
+Nietzsche, he thinks the English a race of shopkeepers. It is true that England’s was a mercantile
+empire, but it was an empire nevertheless. Imperial nabobs and captains of industry made English the
+language of a conquering aristocracy (in the sociological rather than nominal sense) that both
+dominated the globe and raised itself to heights of inequality never before seen in human history.
+That aristocracy’s self-criticism as often doubled down on its hierarchical character as attacked
+it; consider Thomas Carlyle [*On Heroes and Hero-Worship*, 1840], or Matthew Arnold [*Culture and
+Anarchy*, 1869]. By century’s end Thorstein Veblen could anatomize the Anglophone leisure class as a
+barbarian-type predatory elite [*Theory of the Leisure Class*, 1899].
+
+¶25 Anglophone literature changed accordingly, in much the same manner Alamariu claims for Greek
+poetry—it came (in part through disciplined attention to classical literature) to see nature as
+Pindar had. To be sure, earlier English writers had been nature-loving. But by “nature” they had
+meant a landscape “clad in one green hue,” a repository of “beauteous forms” on which one can
+meditate “mid the din | of towns and cities” to obtain “tranquil restoration” [William Wordsworth,
+“Lines Composed a Few Miles above Tintern Abbey, On Revisiting the Banks of the Wye during a Tour.
+July 13, 1798”]. By mid-century the tone had shifted: nature had become, as Alfred Tennyson put it,
+“red in tooth and claw” [*In Memoriam A.H.H.*, 1850]. Tennyson found the thought disturbing, but
+Charles Darwin—an heir to the Wedgwood pottery fortune, and married to his cousin Emma, another such
+heir—invited his readers to see arising “from the war of nature, from famine and death” a
+progression of “endless forms most beautiful” [*On the Origin of Species*, 1859]. Within a few
+decades, the invitation had been accepted. Gerard Manley Hopkins’s “The Windhover,” for instance,
+caught a glimpse of the high flight and sudden plunge of a falcon down toward its prey, as the
+poet’s heart “stirred” at the “achieve of, the mastery of the thing” [1918 [1877]]:
+
+¶26 >     Brute beauty and valour and act, oh, air, pride, plume, here
+>     Buckle! AND the fire that breaks from thee then, a billion
+>     Times told lovelier, more dangerous, O my chevalier!
+
+¶27 The structure here is that of Pindaric *thauma*, an invisible phusis disclosing itself in a deed
+of savage grace—and note the term “chevalier,” French for a member of a knightly order. Similarly
+drawn to the hawk’s high bloodline was W.B. Yeats, that high-blooded poet of Anglo-Irish stock,
+writing many of his greatest poems from the ramparts of his Anglo-Norman castle; he drew from the
+bird a lesson in aristocratic haughtiness [“The Hawk,” 1916]:
+
+¶28 >     I will not be clapped in a hood
+>     Nor a cage, nor alight upon wrist,
+>     Now I have learnt to be proud
+>     Hovering over the wood
+>     In the broken mist
+>     Or tumbling cloud.
+
+¶29 Or take Robinson Jeffers, an American Nietzschean who had exiled himself from a too-democratic
+republic to the rugged California coast, built his Hawk Tower stone by stone and watched the fight
+of the raptors from its summit. When he must euthanize a wounded bird, he hears its cry as one final
+expression of the natural specimen’s “implacable arrogance,” in striking contrast with the
+chattering crowd [“Hurt Hawks,” 1928]:
+
+¶30 >                                 What fell was relaxed,
+>     Owl-downy, soft feminine feathers; but what
+>     Soared: the fierce rush: the night-herons by the flooded river cried fear at its rising
+>     Before it was quite unsheathed from reality.
+
+¶31 One final example, from the American insurance executive Wallace Stevens: his poem “Some Friends
+from Pascagoula” [1936] recounts a safari among Florida sharecroppers where the poet commands those
+ironically named “friends” to recount to him the “sovereign sight” of a soaring eagle, only to cast
+their speech aside in favor of his own ever-lengthening sentences. The poem ends with a sudden
+violent plunge:
+
+¶32 >     Say how his heavy wings,
+>     Spread on the sun−bronzed air,
+>     Turned tip and tip away,
+>     Down to the sand, the glare
+
+¶33 >     Of the pine trees edging the sand,
+>     Dropping in sovereign rings
+>     Out of his fiery lair.
+>     Speak of the dazzling wings.
+
+¶34 This era’s vision of the “hawk’s deliberate stoop in air” (as Geoffrey Hill ironically
+summarized the theme [“Genesis,” 1953]) is quite far indeed from the green and pleasant landscape of
+a century and a half earlier.
+
+¶35 Which is not to say that this era of Anglophone poetry reproduced Alamariu’s Pindar’s poetics in
+every respect. It did not. Stevens’s masterpiece of cadence evoked the *phusis* of the bird only at
+an ironical remove, as if insisting that the imagination is too all-powerful to engage in such a
+petty thing as natural movement. Jeffers’s expressly inhumanist outlook—he would “sooner, except the
+penalties, kill a man than a hawk”—bitterly rejected the Pindaric premise that human deeds surpass
+in majesty the deeds of lesser beasts who cannot sing their own glory. Yeats’s raptors are not first
+and foremost living birds, but rather—like his famous falcon who “cannot hear the falconer”—images
+“out of Spiritus Mundi” from whence all such symbols are drawn [“The Second Coming,” 1919]. Perhaps
+the furthest removed from Alamariu’s ideal was Hopkins—and not only in that, unlike the other three,
+he never read Nietzsche, *Thus Spake Zarathustra* [1885] not being Englished until 1896, seven years
+after Hopkins’s death. Hopkins was a black-robed Jesuit whose poetry incessantly transmuted the
+vital vision of nature into a sacramental vision of grace, with the most aristocratic blood of all
+being the Messiah’s; the dedication of “The Windhover” is “To Christ our Lord.”
+
+¶36 Yet even Hopkins’s poetics is Pindaric enough to confirm that the raptor’s flight has not led us
+astray. We must remember that the Society of Jesus was a militant order founded by a Basque
+nobleman-soldier, and so effective as to inspire in Hopkins’s contemporary Cecil Rhodes a desire to
+establish an Anglo-Protestant secret society capable of rivaling it. Hopkins’s minor poems speak
+frequently of heredity: he insists, contra Wordsworth, that “The man is father to the child”
+[fragment, c.1865]; prays a newly married couple will have “lissome scions, sweet scions, | Out of
+hallowed bodies bred” [“At the Wedding March,” 1918 [1879]]; remarks hopefully that a boy born “of
+Irish | Mother to an English sire” “Shares their best gifts surely, fall how things will” [“The
+Bugler’s First Communion,” 1918 [1879]]. We must also remember that Hopkins (like Nietzsche) was a
+radically original philologist who saw the dynamism of life and the dynamism of language to be
+radically intertwined. Hopkins’s sense of the drama of biological inheritance is of a piece with his
+broader attitude toward the natural world as an object not of vague sentiment, but of careful
+observation and appreciation given voice through poetic speech. The fullest statement of the vision
+is in “As Kingfishers Catch Fire” [1918 [1877]]:
+
+¶37 >     Each mortal thing does one thing and the same:
+>     Deals out that being indoors each one dwells;
+>     Selves—goes itself; *myself* it speaks and spells,
+>     Crying *Whát I dó is me: for that I came*.
+
+¶38 Not dead universal law, but the hidden declaring itself in time.
+
+* * *
+
+¶39 The comparison of classical Greece to the Anglosphere has in a way supported Alamariu’s argument
+about Pindar—but it also poses a difficulty for *Selective Breeding*’s third and fourth chapters.
+All four of the poets we considered were aristocratic in sensibility, but each found his way to a
+different political stance: Yeats to quasi-fascism, Jeffers to inhumanism, Stevens to an ironic
+quietism, Hopkins to Roman Catholicism. If a shared aesthetic outlook cannot generate a shared
+political philosophy, the attempt to derive one from the poetic vision of *phusis* faces serious
+difficulties. The attempt made in Chapter Three does not overcome them, and does not seem really
+even to try.
+
+¶40 The apparent aim of this chapter is to present a Straussian reading of Plato’s *Gorgias* [c.380
+BC]. Unable to refute the amoral oligarch Callicles, Socrates instead silences him; the esoteric
+reader, Alamariu says, is meant to understand that Plato secretly agrees with him. The mode of
+argument is standard-issue east-coast Straussianism, albeit directed toward a somewhat novel
+conclusion: the typical Straussian line is that the philosopher accommodates tyranny to ensure his
+own freedom to contemplate, while Alamariu says that the philosopher in fact prefers tyranny because
+it preserves the aristocratic breeding-ground from which wonder emerges. But Callicles’s silence in
+the second half of the *Gorgias* is far too thin a reed to support the desired conclusion. The
+reader who has read the *Gorgias* before is unlikely to come away feeling that he has learned
+anything new.
+
+¶41 It is a peculiar choice particularly because Alamariu could have picked any number of other
+Platonic dialogues apparently more suited to his argument. For example, the *Republic*, with its
+famous parable of the metals used to introduce the “noble lie” of human sameness across genetic
+differences [c.375 BC]. Or he could have quoted Aristotle, who talks unabashedly about *eugeneia*,
+“noble birth,” and observes that “sometimes, if the race is good, for a certain period men out of
+the common are born in it, and then it deteriorates” [*Rhetoric*, c.350 BC]. That he does not do so
+suggests that his goal is less to show that philosophers believed in the importance of selective
+breeding, than to show that they did not believe the importance of anything else they said, however
+many words they wasted on other subjects. Alamariu makes Plato a secret adherent of Callicles’s
+haughty silence because he wants to persuade us that the philosopher’s use of reason is itself a
+noble lie, meant to reassure the *hoi polloi* that philosophers have their best interests at heart.
+Really, Alamariu says, philosophers (at least at first) did not believe in the reign of reason at
+all: rather, they believed in ensuring that *phusis* continued to disclose itself wonderfully from
+blood, that the eagle continued to seize its prey. When Aristotle earnestly suggested that the
+wondering gaze should ascend from what Yeats called the “complexities of mire and blood” to “a
+starlit or a moonlit dome” [“Byzantium,” 1932], he thereby proved himself no true-blooded
+philosopher, but instead a low-born fool who mistook the exercise of reason for a deed of valor.
+
+¶42 Such, at least seems to be the intent behind Alamariu’s outlandish interpretation of *Gorgias*.
+That said, I cannot help but think it would have been more straightforward simply to throw Plato and
+Socrates under the bus as well, as Alamariu’s hero Nietzsche has already done.
+
+¶43 Alamariu’s anti-philosophy is harder to argue against than it might appear. Consider, for
+example, his drive-by critique of John Rawls’s “veil of ignorance” [*A Theory of Justice*, 1971]:
+“any idea of ‘accident of birth’ would have seemed absurd” to the ancient Greeks, Alamariu writes,
+“for the simple reason that neither marriages nor births are random or incidental.” It will not do
+to respond that Rawls also knew that births are not random, because the “reason” given is not
+functioning as a premise in a syllogism. Rather, it is akin to the role of “reason” in the sentence:
+“Christian charity will seem absurd to anyone who lifts for the simple reason that weakness is
+pathetic.” The point of such a statement is not that “weakness is pathetic” is uncommon knowledge,
+but rather that the lifter through his lifting has come to understand the pathetic in a certain way,
+to see the foolishness of responding to it with charity rather than disdain. Similarly, the logic of
+the former is that through the practice of selective breeding the ancient Greeks came to understand
+civilization as a project aimed at producing superior specimens, ruling out any suggestion that
+differently-blooded persons are similarly situated. The point could have been put even more
+succinctly: “Do you even lift?” “Do you even selectively breed?”
+
+¶44 Alamariu is, of course, far from the first to say that a particular moral outlook cannot be
+acquired through theory, but only through practice. That thought can be found in Aristotle, or
+Alasdair MacIntyre [*After Virtue*, 1981]. And while *Selective Breeding* is unusual in its
+insistence that we see selective breeding as a moral tradition worth taking seriously, from a
+meta-ethical point of view this insistence is of no particular interest. More striking is Alamariu’s
+refusal to integrate experience and reason. A MacIntyrean eugenicist would articulate the premises
+of the eugenic outlook even while acknowledging that argument alone cannot prove its truth or
+falsity. Alamariu instead insists that the wonder of selective breeding gives birth to a mute
+anti-philosophy. *Phusis* cannot become an object of rational inquiry, but rather must remain a
+mystic force disclosed in the blood. But then, perhaps this sort of nature-worshipping irrationalism
+is not so unusual either.
+
+¶45 Ultimately, what is distinctive about *Selective Breeding* is the combination of the two: a
+mysticism of natural instinct in a forced marriage with a politics of “selective breeding,” which is
+to say, of sovereign reason ruling over the procreative instincts. The reader comes away with a
+vague image of a ruling elite dictating who is to breed with whom the way a horse breeder matches
+studs and mares, but Alamariu does not, in fact, say very much about what the application of reason
+here might look like. One begins to suspect that he is not particularly interested in the question:
+he enjoys the shudder in the spine engendered by talk of a “shudder in the loins” in human matériel
+“mastered by the brute blood of the air” [W.B. Yeats, “Leda and the Swan,” 1924], but is bored by
+the questions to which the study of that matériel actually gives rise. In a word: Alamariu does not
+strike the reader as a particularly skilled practical eugenicist. Selective breeding is, for him,
+less a project than a mood.
+
+* * *
+
+¶46 Alamariu’s fundamentally aesthetic understanding of eugenics has consequences for the story he
+tells about the destiny of philosophy after the demise of classical Greece, which runs roughly as
+follows. Plato, recognizing that philosophy depended on the aristocratic breeding-ground, devised a
+“noble lie” of universal reason to protect that ground from egalitarian resentment. The lie
+succeeded beyond all expectation: it gave rise to Christianity, which taught the equality of souls
+before God and the irrelevance of *phusis* to salvation. Under the sign of the cross, Europe forgot
+the importance of selective breeding. The egalitarian doctrines of the Church undermined the
+aristocratic practices that had produced philosophy in the first place, resulting in a long slow
+degeneration only partly reversed by the advent of the Normans, whom Alamariu recognizes as one of
+the few non-Grecian instances of true aristocracy. Then Nietzsche, seeing the catastrophe, resolved
+to tear away the noble lie and reveal the bloody truth beneath it, so that Europe might save itself
+before its genetic capital was entirely squandered.
+
+¶47 One can see why this myth appeals to the kind of young man who reads *BAM* on the subway, but as
+history it is not very convincing. The first difficulty, although not the deepest, is chronological.
+We have already seen how the late Victorian era was an aristocratic age in at least some meanings of
+the term. It was also an expressly eugenic one: Francis Galton coined the term in 1883 by borrowing
+the Greek word Aristotle had already been using two millennia prior to discuss the fate of
+bloodlines. By the Great War, eugenics enjoyed broad support on both sides of the Atlantic. It can
+hardly be said that until Nietzsche Europe was unaware of the importance of selective breeding.
+Interest in selective breeding also died out later than many realize; Frank Herbert’s *Dune*, for
+example, published the same year as Anderson’s *The Corridors of Time*, is only one of many
+instances of a work of midcentury popular culture to take as its protagonist the product of eugenic
+selection (although unlike Alamariu, Herbert saw selective breeding as a distinctively gynocratic
+project). We can try to save Alamariu’s argument by construing his point to be, not that Europeans
+ignored issues of bloodlines, but rather that they got them wrong: the eugenics movement was
+Darwinian not Nietzschean in origin, bourgeois rather than military in outlook, statistical rather
+than poetic in method. But if aristocracy and selective breeding can be thus divorced, Alamariu
+should have focused less on promoting the latter, and more on defending the former.
+
+¶48 A deeper difficulty—at least in my own view, though here is not the place to defend it, let
+alone to nuance it—is that selective breeding in post-classical Europe predates even the
+late-Victorian eugenics movement. By the time of Galton Europe was (at least on one plausible
+account) over a millennium deep into the greatest programme of selective breeding ever attempted.
+
+¶49 The story goes like this. After the collapse of the Western Roman Empire, the late Roman villa
+evolved into the medieval manor. In the territory bounded roughly by the Loire, the Elbe, and the
+Scottish lowlands, heavy-plow agricultural work was done by dependent cultivators on bipartite
+estates, and households were organized accordingly. Families were nuclear, since the adult laborer,
+rather than the patriarch, was the socially and legally cognizable population unit; being less
+subject to paternal authority, young adults spent their teens and twenties as servants in non-kin
+households; since splitting the holding would leave the pieces too small to pay the manor’s dues,
+inheritances were impartible, and non-inheriting children left for wage labor, Church careers, or
+urban positions; and age at first marriage crept into the mid-to-late twenties for both sexes, with
+ten to twenty percent never marrying at all. For dozens of generations this integrated
+peasant-manor-lord complex operated as a unified cultural system. Meanwhile the Catholic Church,
+inheriting Latin literacy and Roman bureaucratic habits, began to fill the administrative vacuum the
+empire had left. It also began to acccumulate, by steady inflow of donations *pro remedio animae*,
+the better part of the productive land. By the time of the Carolingian synthesis bishops functioned
+as counts, monasteries were fiscal nodes, and the parish system was established throughout Latin
+Christendom. Around the turn of the first millennium, the Church turned its attention in earnest
+toward Christianizing European social norms, through the vehicle of canon law.
+
+¶50 Landing in northwest Europe’s hard soil, the canon law constituted a social glue that worked its
+way into the blood, breeding a distinctive “WEIRD” suite of psychological traits: individualism,
+openness to strangers, analytic cognition, adherence to legal norms [Joseph Henrich, *The WEIRDest
+People in the World*, 2020]. One major innovation was the Church’s ever-more-rigorous ban on cousin
+marriage, which systematically dismantled the clan-based kinship structures that had defined
+European society since the Bronze Age. The project was driven in part by institutional self-interest
+(weakening clans directs wealth and loyalty churchward), but in part by principle: as Augustine
+already correctly understood, exogamy “binds social life more effectively by involving a greater
+number of people” [*The City of God Against the Pagans*, 426]. Another was the Church’s
+insistence—again for primarily theological reasons, though, again, with an eye to institutional
+advantage—that marriage required both spouses’ free consent: as Augustine also understood, a
+marriage is formed “not by the voluptuous links of bodies, but by the voluntary affections of souls”
+[*On Marriage and Concupiscence*, 419]. At first this meant merely that children had a veto on
+parental coercion, and many early Christian martyrs were martyrs for their own virginity in the face
+of the pagan parents’ arrangements otherwise. The consent requirement gradually strengthened into
+something like a positive right of the young to choose their own partners. Free choice reinforced
+the trend toward nuclear households (since patriarchs will not consent to live with in-laws they did
+not choose) and later partnering up (since the young require time to make up their own minds and
+fund their own households).
+
+¶51 This Western European marriage pattern had results Alamariu himself would have to endorse. When
+parents choose their children’s mates, they prioritize economic considerations like dowries and
+social alliances. Leaving the selection to the partners themselves allows the decision to be more
+influenced by natural considerations of brute beauty and valor and act. Yet it is entirely
+understandable why Alamariu does not embrace Christianity as a paradigm case of selective breeding:
+what it bred was not bloody-taloned eagles, but men capable of positive-sum commerce and
+cooperation, creating an environment in which selection could favor the ability to participate in
+complex social institutions rather than the capacity for violence [cf. Gregory Clark, *The Son Also
+Rises*, 2014]. Alamariu would consider these virtues not aristocratic, but bourgeois. On BAP’s
+Xwitter feed, for example, he occasionally suggests that the WEIRD traits resulting from exogamy are
+a weakness, not a strength, and that inbreeding serves to purify the bloodline. But even considering
+the virtues Alamariu values—sexiness, courage, independence—these too belong more to the race
+selectively bred by Christianity than to any other. Or is the BAPist to prefer the product of the
+Indian subcontinent’s caste system, feted by Alamariu (an admitted Indophile) as the most
+historically significant aristocratic breeding program outside classical Greece? I suppose so, but
+the suggestion seems incongruous; most on the Online Right today consider India rather to be a
+paradigm example of a “longhoused” culture.
+
+¶52 Alamariu’s retort, I expect, would be that Western Man possesses these virtues not because of
+Christianity, but despite it. For example, BAP has at times asserted that the European nuclear
+household predated Christianity, suggesting that Christianity inherited rather than developed the
+aristocratic element in European culture. I am skeptical of that claim, though I will concede that
+the science on these issues remains unsettled. For purposes of this review, it suffices to observe
+that *Selective Breeding* does not engage with these difficulties, or do much to acknowledge that
+Alamariu’s views diverge from the mainstream of race science. The book is less interested in race
+science than in race mythology. The sympathetic reader will long remember the thrilling image of the
+conquering horselord matching human bloodlines as he does stallions and mares, and perhaps so it was
+at the dawn of the race. And even if not consciously remembered, the thought that this thrilling
+image is the true birth of philosophy may work its way into the reader’s blood. But the relationship
+between that thrilling birth and the present-day reality of European excellence remains, at best, an
+open question.

@@ -1,0 +1,155 @@
+# [5.6] Against Some Common Notions
+Edkar Marenko — University of St. Isidore — January 2024
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-5-6
+Foreword gloss: considers how to talk about odd philosophical notions
+
+¶1 Having been asked to explain why I refuse to entertain certain common philosophical notions, I
+here set forth briefly my reasons for rejecting four: identity across time, abstract thought,
+natural reason, and dogmatic skepticism. I close by talking about how to talk about odd ideas.
+
+* * *
+
+¶2 Philosophers like to say that a thing at time 1 “is the same as” what they call that same thing
+at time 2. But such samenesses are foreign to ordinary speech, which knows nothing of identity
+across time, instead recognizing only the “was” relation and its counterpart “will be.” These
+relations are plainly not commutative: “A was B” does not imply “B was A.” Which means, further,
+that “A was B” and “A was C” implies neither “B was C” nor “C was B.” Nothing in the grammar of
+“was” (or “will be”) prevents A from standing in the “was” (or “will be”) relation to both B and C,
+where B and C were contemporaneous and nonidentical. Neither would such a scenario imply that A had
+parts, one of which came from or became B, and the other C; the idea that it would only seems
+appealing if we assume the very commutativity we are questioning. Philosophers have taken as
+axiomatic that identity across time is commutative, apparently because in our everyday experience it
+always is. But the axiom is unnecessary, akin to Euclid’s rule that for any given line and a point
+not on it, there exists only one parallel line through it.
+
+¶3 The axiom that identity across time is commutative is often taken as a reason why there can be no
+such thing as fission or fusion of anything worthy the title “thing.” A skeptical philosopher will
+pose a thought experiment, for example, of Alexandra having her brain split in half and transplanted
+into two separate bodies, Alex and Sandra (as some neurosurgeons theorize could be done), and
+triumphantly ask: Which one is the real Alexandra? What answer to the question could be
+non-arbitrary? Does this not prove that the self lacks the kind of thick intertemporal identity we
+care about? But in fact there is nothing to puzzle at, for whether or not the scenario described is
+physically possible, there is no metaphysical contradiction between the propositions “Alex was
+Alexandra,” “Sandra was Alexandra,” and “Alex is not Sandra.” The question is why any philosopher
+ever imagined that there was.
+
+* * *
+
+¶4 A martian anthropologist setting out to understand human cognition need not conclude that we are
+capable of true abstraction. Instead, he might hypothesize that we are capable only of
+generalizations with determined application to a limited set of cases, with the unlimited remainder
+to be filled in as the need arises if at all. Only sometimes is the “how to go on?” question
+answered by facts about the answering human being’s established form of life; other times, it’s
+answered arbitrarily (provisionally, experimentally) by the particular human being who needs to
+decide how to go on in an unexpected situation; never is it answered by an abstract idea to which
+the human being has some occult access. To be sure, a human being deciding how to go on often feels
+that he is simply applying his pre-existing abstraction to an unexpected situation. The martian
+anthropologist would be aware of that feeling (since human beings often describe it), and have some
+hypothesis about it, but not necessarily that the feeling stands for something true about human
+cognition. He might give some evolutionary account of the human tendency to believe itself capable
+of abstraction. For example, that it is conducive to collaborative concept-construction: when we
+reason together, we proceed as if we share access to the same immaterial concepts, whether or not we
+actually do share such access, and this makes our reasoning together more fruitful.
+
+¶5 We are human beings, not anthropologists, but that does not prevent us from adopting the martian
+anthropologist’s perspective on our tendency to believe in our own abstractive powers. The act of
+thinking appears from a first-person perspective to involve something that seems like what we want
+to call abstraction, but it does not take as a practical premise a belief in the possibility of
+abstraction. Abstract thought, or the non-abstract activity we call by that name, is not an action
+like jumping for which it might make sense to say that belief in its possibility is a prerequisite
+to engaging in it. Nor is abstract talk; I can discuss all sorts of fictions with my neighbor,
+including abstract concepts, so long as we agree to play that talking game together.
+
+* * *
+
+¶6 The autistic thomist sets great store in the concept “natural reason.” He devotes enormous energy
+to showing, for example, that what he calls natural reason compels a belief in God, or a belief in
+an individual immortal soul. But, of course, no particular human being stands in the position of the
+“natural reasoner,” and even the auto-thomist reasons from within a tradition. He may assert, for
+example, that Buddhism is contrary to natural reason, by which he seems to mean that he believes he
+could convince an honest Buddhist of the falsity of Buddhism without appeal to revelation—but he has
+no means for sorting out even in his own mind which of his arguments depend on Christian revelation
+and which do not.
+
+¶7 In contrast to the auto-thomist, when Thomas Aquinas set out to identify the dictates of natural
+reason he did so by engaging in dialectic with Jews and Muslims, beginning from the premise that
+such persons were exercising the reasoning faculty competently. Unsurprisingly, the set of
+conclusions he took natural reason to require more or less lined up with the set of conclusions
+Christians, Jews, and Muslims held in common. If his interlocutors had been Hindu or Buddhist, his
+conclusions would have differed accordingly. The natural conclusion (or so I assert, and expect most
+readers will agree) is that we do not have straightforward access to the dictates of natural reason,
+if any exist. Our own attempts to imagine what all human beings must believe (as opposed to our
+determinations about what we ourselves believe) cannot override thousands of years of empirical
+evidence about what natural reason can and cannot do.
+
+* * *
+
+¶8 Non-philosophers are often troubled by skepticism in a way they are not by other odd
+philosophical theories. Samuel Johnson found Berkeley’s skepticism about the external world
+sufficiently outrageous to kick a stone in response to it. But why did he imagine that *kicking*
+would prove anything that merely seeing the stone had not done already? Berkeley’s idealism held
+that the world consists not of minds and mind-independent matter, but of perceptions and the minds
+that perceive them. Johnson’s kick attempted to disprove this by appealing to the stone’s painful
+reality—a reality so visceral it seems to refute any system denying the stone’s independent
+existence. But really, the painful kick offers no evidence beyond what was already evident from the
+feeling of the breeze on the kicker’s skin. The kick only *feels* like more evidence, which feeling
+is exactly what the idealist calls misleading.
+
+¶9 Berkeleyan external-world skepticism is not the only kind of skepticism to which we are tempted
+to respond with painfully futile gestures. When a sci-fi movie character begins to wonder if he is a
+replicant, he will sometimes cut into his own forearm to see if he bleeds. The gesture fails for a
+reason analogous to the failure of Johnson’s kick. A replicant differs from a human being not in its
+chemistry (it is made of flesh and bone the same way we are), but in its history: rather than coming
+about naturally, the replicant has been engineered, and so is aimed at ends other than its own. It
+resembles a clockwork doll with a windup spring, but the spring is merely metaphorical, and no
+amount of peeling back his own skin will tell the investigator whether someone else prearranged his
+flesh to ensure that he would conduct that investigative exercise. A painfully futile gesture cannot
+solve a philosophical conundrum, but sometimes, like a joke, it can dissolve it. And perhaps, when
+in our mind’s eye we watch Johnson cry out in pain after kicking the stone, the next thing we should
+picture is his collapse in helpless laughter onto the grass.
+
+* * *
+
+¶10 Certain notions grip us, and we struggle to know how to respond to them (the notions). Other
+notions do not, but they grip others, and we struggle to know how to respond to them (the others).
+Say I get into a conversation with someone who insists that there is a giant teapot nestled
+somewhere on the other side of the galaxy; or that there is an invisible, intangible leprechaun
+living in his garage; or that the Illuminati run the world. We could ask him for evidence or
+reasons, but these are simply jargon. Simplest to ask: “Why do you say that?” And to be prepared to
+modulate our reply depending on his answer. We cannot anticipate every possible answer, but there is
+no point to pre-determining our reply to a response we doubt any person would ever give.
+
+¶11 The teapot-positor is perhaps the easiest to deal with. If he offers a pseudo-scientific
+explanation based on shared evidence, say, a misapprehension of the meaning of certain seismograph
+charts, he has implicitly agreed that we can evaluate his explanation according to scientific
+criteria, and if we are sufficiently scientifically learned we may be able to rebut it. If instead
+he asserts some form of private knowledge, a sixth sense allowing him to directly perceive the
+teapot, for example, by feeling gravitational waves at immense distances, we can then ask why he
+thinks his sixth sense is sensing something real: either he answers in a way that appeals to shared
+evidence, and we are back in a scientific domain, or he doubles down on the privacy of his
+knowledge, in which case we either leave him there, or follow him into it.
+
+¶12 The leprechaun-whisperer can be more difficult. Say he points to various happenings in the
+garage—a musty smell, a rake falling over—and says that they are expressions of the leprechaun’s
+anger, his offense that you are ignoring it. He compares your refusal to acknowledge the leprechaun
+to a refusal to acknowledge his own personhood; would you ask him to prove that he is not an
+automaton? It would be a mistake to ask him to show us the leprechaun itself, for he has done so: he
+is not asserting private knowledge, but rather is seeing the garage itself as a leprechaun’s face,
+and asking us to do likewise. A better question would be, how does he know that the rake falling
+expresses the leprechaun’s offense, and not, say, its relief at having gone undetected once again?
+If he claims to have learned to understand the leprechaun, as it were to speak its language, he has
+entered the realm of the occult, or, to use a more neutral term, of prosopology. We can follow him
+there to the extent he is able to make the leprechaun’s form of life make sense to us.
+
+¶13 The Illuminati-detective is the hardest of all. He does not ask us to join him in seeing
+something invisible, or in seeing something as an inhuman face, but in seeing someone’s face as a
+lying mask. Once an accusation of lying has been thrown out we have left the realm of evidence and
+entered the realm of credibility. A lie cannot be detected by identifying various bits of evidence
+and evaluating each separately for whether or not it is consistent with the accused liar’s story.
+After all, the liar’s modus operandi is to stick as close to the truth as possible. We must be on
+the lookout for the one glaring inconsistency that will out him, but we are not guaranteed even
+that. When two men go into a locked room and tell different stories about what happened there, we
+have no choice but to trust one or the other (or neither). When his theory has no gaping holes in it
+(as such theories sometimes but not always do), the only possible response to the conspiracy
+theorist is: why should we trust you rather than “them”?

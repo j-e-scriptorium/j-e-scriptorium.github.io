@@ -1,0 +1,182 @@
+# [4.2] The Letter Killeth
+E. Lawrence Hayward — University of St. Isidore — January 2026
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-4-2
+Foreword gloss: considers the letter and the American spirit of the law
+
+¶1 *The Auto-Pen*. An aide comes out from behind closed doors saying he has instructions from the
+President that so-and-so is to be pardoned. But everyone knows the President is more or less non
+compos mentis. Is the pardon valid? Under the late medieval doctrine of “the king’s two bodies” (as
+analyzed in Ernst Kantorowicz’s book of that name [1957]), one might think the answer is yes. In a
+sort of legal fiction, the king qua king was understood to be incapable of imbecility. The king’s
+political body was not a human body, but an infallible abstract node in an organizational chart.
+Section 4 of the 25th Amendment implicitly acknowledges what we might call the doctrine of “the
+president’s two bodies”: only through constitutionally mandated formalities can the “presidential
+authority” node be relabeled so as not to bear the name of a madman or idiot.
+
+¶2 But the two-body doctrine does not always apply. When Charles VI signed the Treaty of Troyes
+naming Henry V heir to the French throne, his episodic madness was no obstacle, and God’s implied
+judgment against the Treaty (delivered through Jeanne d’Arc’s victories) required some other *ratio
+decidendi*—e.g., the inalienability of the crown. But gifts made by Charles VI during his mad
+episodes were regularly contested and regularly revoked, despite bearing the king’s formal
+signature, on the ground that the conniving recipients had taken advantage of his lack of capacity.
+The difference is between acts of the sovereign and acts personal to the king, or, in more modern
+legal language, between public law and private law. Under a private-law framework an incompetent
+principal cannot act, and a purported agent’s act only binds the principal if third parties
+reasonably believe that the agent has the principal’s authorization. Pardons, like gifts, are
+governed by private law, being a matter of conscience. So the incompetent President’s pardon of
+so-and-so is without legal effect, but only because it’s a pardon.
+
+¶3 At least, so a lawyer could plausibly argue. He could do so because the core of the argument is
+an analogy to a past precedent where the facts differ, but the principle doesn’t. The analogy is
+between kings and presidents, a plausible enough comparison; the principle is that the ruler’s
+incapacity to lose capacity applies only to public acts, and not to private ones. The analogy is not
+between pardons and gifts; rather, that both of these are private acts is simply a piece of
+“hornbook law,” a rule taken as a given. There may be good reasons for the rule—indeed, it may be
+overdetermined, there may be so many good reasons it couldn’t really be otherwise—but if so, the
+analogy between pardons and gifts doesn’t reveal them. If that analogy were all we had to go on, the
+argument would fall apart. That is the fate of most analogies about law drawn by non-lawyers.
+
+* * *
+
+¶4 *The Dead Hand*. Such analogies often run into further trouble because the non-lawyer fails to
+understand the nuances of the area of law to which the comparison is drawn. For instance,
+legitimists and indigenists both analogize sovereignty to a property right held by a random scion of
+a once-noble family, or by the impoverished descendants of a once-dominant native tribe. But even
+setting aside the fundamental differences between public and private law, no reasonable legal regime
+honors property rights left dormant for centuries. And while statutes of limitations must be
+promulgated by the sovereign and so cannot be used to identify him, other principles like laches,
+acquiescence, and protection for bona fide transferees are founded in equity, and require no
+lawgiver. The point generalizes beyond problems of untimeliness: the law serves man, not man the
+law, and laws yielding unworkable results will always be bent, if not broken.
+
+¶5 In Walter Scott’s *Waverley* [1814], for instance, the entail, an archaic legal provision,
+restricts inheritance of the Bradwardine estate to male heirs, hence it cannot pass to the Baron
+Bradwardine’s daughter Rose. Out of a romantic idea of not prejudicing the rightful heir, the Baron
+refuses to break the entail through a strawman sale, a mechanism developed by early modern lawyers
+to deal with the practical problems entails caused. When the Baron is adjudged a rebel and stripped
+of his estate and title, the property descends on the heir—who, less romantically inclined,
+immediately sells to a third party. Luckily, the third party is the honorable Colonel Talbot, who
+gifts it back to the now merely “Mr.” Bradwardine to hold in the more modern fee simple. It is as if
+providence had arranged for the rejected strawman sale to happen anyway. Before accepting the
+Colonel’s gift, Bradwardine declares that Talbot has “lawfully and justly acquired” the property,
+thus acknowledging the authority of the regime against which he rebelled. Faced with the choice
+between compromised principles and romantic self-annihilation, Bradwardine follows the same maxim as
+his future son-in-law Edward Waverley: a man must allow himself to be guided by circumstances.
+
+¶6 The legitimism that both Bradwardine and Waverley came to reject can be understood as a
+sentimental attachment to the idea of the Lost Cause, combined with a fantasy of the power of
+explicit legal writings to entirely displace the implicit, customary, and oral. The connection
+between the sentiment and the fantasy is that the memory of the Lost Cause is kept alive primarily
+through writing; if the memory has such spiritual force, surely it has legal force as well? A Lost
+Cause orally transmitted will not result in legitimist fantasy but in populist anarchy, a different
+sort of political problem.
+
+* * *
+
+¶7 *Domesday*. The legitimist’s desire for written law to render further speech irrelevant is not
+the only such fantasy. Another, call it positivism, is the dream that written law can be
+comprehensive, rendering further speech not so much irrelevant as unnecessary. The problem with
+positivism is that the effort to make the written law cover every possible case inevitably generates
+more and more of it, ultimately degenerating into a myriad of arbitrary distinctions only a lawyer
+could find meaningful. An exhaustive regulation detailing, e.g., what counts as negligent conduct,
+or a thousand precedents reasoning through whether particular instances of conduct are negligent,
+reduce the word “negligence” to a scatterplot. Conversely, maintaining space for public disputation
+about the good requires lawyers to accept that “legal obligations should be knowable in advance” and
+“like cases should be treated alike” are not trump cards, but only considerations to be weighed in
+the balance alongside others. A publicly meaningful legal system will necessarily be somewhat
+unpredictable, and somewhat inconsistent.
+
+¶8 That too much written law results in lawlessness is something we had to learn, and probably were
+only in a position to learn after Gutenberg made “too much” a real possibility. Cicero imagined that
+there would be little need for new precedents if people were more aware of those that already
+existed. But the adversarial system plus WestLaw Search has not prevented the creation of new
+precedents, despite ensuring that judges are aware of all existing ones. The analogizing and
+distinguishing of cases has no natural terminus; and, more fundamentally, the world is infinitely
+complex, such that the territory law must govern will never be fully mapped out.
+
+¶9 The standard literary touchstone for the danger of too much written law is Charles Dickens’
+depiction in *Bleak House* [1853] of the interminable Chancery suit Jarndyce v Jarndyce, which began
+as a dispute over a will before roping in a myriad of ancillary issues and dragging on for entire
+lifetimes. Chancery’s reputation for delay was not entirely deserved: its cases took longer because
+Chancery was a court not of law but of equity, which meant (in part) a court dedicated to cases that
+were by their nature particularly complex. In theory, Chancery was suited to decide such cases
+because it could cut through a Gordian knot of legal rules by applying a few equitable principles.
+In practice, concerns that the resulting divisions would be arbitrary led Chancery judges to wield
+their equitable scalpel with extreme caution, only after following up every possible legal argument
+and every possible analogy to a past precedent (a problem magnified by the recent invention of the
+formal written judicial opinion). Jarndyce v Jarndyce and *Bleak House* itself end in a kind of
+apocalypse: not a final decision as to who receives the inheritance, but the revelation that the
+entire disputed estate has been consumed by legal fees.
+
+* * *
+
+¶10 *The Judge’s Ledger*. American law inherited England’s tradition of equitable courts, but the
+American people viewed them with suspicion from the beginning (and books like *Bleak House* surely
+did not calm their fears). The final triumph of the anti-equity movement came in the early twentieth
+century, when the distinction between courts of law and courts of equity was entirely abolished at
+the federal level. The hope was that the new unified system would be dominated by the spirit of law.
+The reality was almost the opposite: equity no longer being restricted to certain types of cases, it
+could interject its complexity everywhere. Hence every dispute was a potential Jarndyce v Jarndyce,
+consuming the disputed res unto the last penny before any decision could be reached.
+
+¶11 The result is not a crippled legal system, but only one of a most peculiar character, perhaps
+best captured by the figure of Judge Holden in Cormac McCarthy’s *Blood Meridian* [1985]. Judge
+Holden—referred to simply as “the judge”—roams about the wilderness selecting objects of interest
+and sketching them into a ledgerbook he carries around with him; when he is done, he destroys the
+objects, leaving his sketches the only record of their existence. The judge also teaches that “War
+is god” because it forces the unity of existence. So, too, does American law. On the one hand,
+American law is a Faustian project to build out a perfect picture of the world, though it takes more
+paper than the world contains, and though it winds up a maze more difficult to navigate than the
+world itself. On the other, it is a Faustian bargain with litigants, who serve as freebooters in
+American law’s total war against the existence of unmapped territory: the map will be filled in to
+identify the exact location of the object of their dispute, but only if the litigants use up the
+value of the object on the search. They can avoid offering this holocaust only by at some point
+abandoning the fight and settling down to a sedentary life with their disappointingly small earnings
+(or, perhaps, emptyhanded, or having lost almost everything they once possessed).
+
+¶12 Rephrased in a less mythic vein: the spirit of American law is to ensure maximal accuracy
+through cripplingly expensive process, while avoiding the expense of that process in almost every
+case by strongly encouraging settlement. This spirit plays out, for instance, in the extraordinarily
+wide scope of discovery in American legal proceedings (often a shock to foreign litigants), and in
+the “American rule” that each side bears its own attorney’s fees (also often a shock). The result is
+that if you seek to act with economic rationality, you will generally walk away not entirely
+satisfied, but with the matter resolved in a way everyone can live with. While if you stand on
+principle, both sides will incur costs disproportionate to the dispute’s economic value, but you
+have the opportunity to win a Pyrrhic victory.
+
+* * *
+
+¶13 *The Long Defeat*. Remarkably, the American legal system takes this approach not only for civil
+disputes, but also for criminal prosecutions. Almost all defendants are guilty of something; hence
+they rarely stand on the principle of their innocence. Instead, they enter plea bargains after
+haggling over sentence length, a basically economic issue: for how long will prison be the
+defendant’s home? Capital punishment, however, is a matter of principle, both from the defendant’s
+point of view, and from the point of view of the system itself, which devotes substantial resources
+to advocating against it (through court-appointed defenders, etc.). The result is that capital cases
+drag on interminably, and the state is prevented from using the death penalty to achieve economic
+goals (e.g., deterring crime, avoiding costs of imprisonment). The costs of legal process are
+designed to ensure that the state will only execute you if it believes that doing so is its own
+reward.
+
+¶14 Which brings us back around to the auto-pen presidential pardons. We have suggested some reasons
+why the pardons might not be valid. But their ultimate validity or lack thereof matters less than
+the fact that their validity is arguable, and so will be argued, and will not be finally decided
+until any potential social benefits of the rescission have been entirely used up in the fight. The
+prosecutor fighting for rescission is engaged in an enterprise not entirely unlike that of the
+law-besotted Jacobite rebels: he fights a long defeat, taking the side of legal simplicity but with
+the inevitable result that the system of the law will grow ever more comprehensive, ever more
+unnavigable, ever more inescapable.
+
+¶15 But either way, he will gain perhaps the glory of the victory, and certainly the glory of having
+fought for it. The glory of victory is comparative, and so zero-sum: the victor proves his
+excellence by surpassing the loser. If we doubled the strength of every man, the quantum of
+victory-glory in the world would not increase. But the glory of the deed is absolute: whatever
+remarkable feats occur along the way to win or loss live on in memory sometimes even after the
+outcome of the game has been forgotten. Our memories may be finite, but that finitude is a fact
+about us, not about glory. In the memory palace of the Father there are many niches.
+
+* * *
+
+¶16 *In memoriam H.T.T., who collected ideas as if they were marbles, and W.H.W., who declined to be
+represented.*

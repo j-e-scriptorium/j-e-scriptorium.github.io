@@ -1,0 +1,172 @@
+# [1.1] Somewhere, USA
+E. Lawrence Hayward — University of St. Isidore — February 2024
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-1-1
+Foreword gloss: reviews Tom Turner’s A History of Somewhere on the literary trope of the fictional
+  place
+
+¶1 Once upon a time, a story could only begin one of two ways: at no particular time in no
+particular place, or in some particular time and place where (at least the audience could believe)
+the events retold might in truth have occurred. Then, one day, a man thought to tell a story—neither
+about nowhere in particular—nor about anywhere in particular—but about somewhere everyone knew was
+never there.
+
+¶2 So might have begun Tom G. Turner’s *A History of Somewhere* [2024], if it were the first kind of
+story. Instead, it is the second kind, telling of particular men who wrote particular books, and how
+over time they developed the trope of the fictional place.
+
+¶3 Like many histories of the English novel, *Somewhere* begins with *Robinson Crusoe* [Defoe,
+1719]. Where in the world was Crusoe’s island? Off the coast of Venezuela, Defoe told us, and
+apparently expected us to believe him, as he expected us to believe that “Robinson Crusoe” was the
+pseudonym of some real-life shipwrecked adventurer. But we don’t. Though many islands are nameless,
+none of them were his. In this Crusoe’s island differs entirely from those of More [*Utopia*, 1516],
+Shakespeare [*The Tempest*, 1611], or even Swift [*Gulliver’s Travels*, 1726]. Theirs were ideal
+islands, reefs of allegory jutting up from a poetic sea. Crusoe’s island, though made up, was made
+up to be real, and his sojourn there to be the sort of thing that could have happened, even though
+it didn’t. Shakespeare-Prospero asked for our applause; Defoe-Crusoe asked also for our credence.
+
+¶4 So Turner argues in his first chapter. I’m half-convinced. Did Defoe really ever expect belief,
+or only suspension of disbelief? Perhaps everyone was in on the joke from the beginning: perhaps
+everyone saw that, by pretending there really was a Crusoe and a Crusoe’s island, they could make
+their world run almost as if it were so, because so little turned on the question. No coincidence, I
+think—though Turner does not mention it—that Defoe was also a notorious bankrupt, as well as a
+lobbyist for bankruptcy reform. He sought to make the law kindlier to “honest” unfortunate
+adventurers (“projectors”) who had promised more than it turned out they could deliver [*An Essay
+Upon Projects*, 1697]. He more or less succeeded [cf. 4 & 5 Ann. c. 4, 1705].
+
+¶5 In any event, the eighteenth-century public soon got used to made-up people. From pseudonymous
+memoirs and travelogues—and, I would add, corporate charters and fractional reserve banks—the
+realist (not to say naturalist) novel was born. For its account of this process Turner’s second
+chapter relies heavily on György Lukács [*Theory of the Novel*, 1916] and Ian Watt [*The Rise of the
+Novel*, 1957]. The difference between the tragic and the realist protagonist can be stated as
+follows: Both belong to some real time and place, but the presence of the realist protagonist in
+that time and place changes nothing about it. The influence runs in only one direction.
+
+¶6 Yet if the realist protagonist’s setting shapes him, it does not entirely determine him (this
+being the difference between realism and naturalism). He becomes exemplary in his struggle for
+individuality. Space for that individuality opens up in the friction of movement between settings,
+between particular times and places. Hence the canonical centrality of the historical novel, which
+Turner asserts (surely in jest) began not with Walter Scott’s *Waverley; or, ’Tis Sixty Years Since*
+[1814], but with Henry Fielding’s *Tom Jones* [1749], published only four years after the 1745
+Jacobite uprising during which both are set. And, I would note, published the same year that
+Fielding as Westminster Chief Magistrate founded London’s first police force, the Bow Street
+Runners.
+
+¶7 Like *Robinson Crusoe*, *Tom Jones* features a made-up place: the Allworthy estate, located at no
+particular somewhere in Somerset. But readers of *Tom Jones* are unlikely to notice, for it matters
+only as the home of the exemplary good country squire. Not much changes on this front as we move
+into the early nineteenth century, whether we focus on the economic histories of Austen or the
+political histories of Scott and Cooper. Lizzy Bennet may visit as a tourist the fictional
+Pemberley, but only to verify the gentility of its owner [*Pride and Prejudice*, 1813]. Natty Bumppo
+may stay a while in the fictional Templeton after meeting Judge Temple in the wilderness, but only
+in order once again to leave it behind, the original departure westward into the sunset [*The
+Pioneers*, 1823].
+
+¶8 All this changes—Turner says—in the 1850s, with a book whose ‘somewhere’ declares itself in the
+title: Anthony Trollope’s *Barchester Towers* [1857]. Curiously, despite the novelty of his claim,
+Turner offers little support for his assertion that Trollope was the first fully to realize the
+fictional place. What about *The Castle of Otranto* [Walpole, 1764], *The Mysteries of Udolpho*
+[Radcliffe, 1794], *Northanger Abbey* [Austen, 1818], or even *The House of the Seven Gables*
+[Hawthorne, 1851] or *Bleak House* [Dickens, 1853]? Perhaps Turner would simply observe that most of
+these eponymous landmarks really do exist. But the better response, I think, would be that they are
+just that—landmarks, great Gothic piles. While the romantic ‘somewhere’ looms over the landscape,
+Trollope’s realist ‘somewhere’ presents a stage on which various would-be protagonists can encounter
+one another. This seems right to me, and I cannot help but observe that Trollope worked in the Post
+Office and introduced the postal box, a device for collecting in one place the outgoing missives of
+everyone in the vicinity. At the same time, I note that Trollope’s purported discovery of the
+fictional place centered on a fictional Gothic pile, and the fictional old cathedral town built up
+around it.
+
+¶9 *Barchester Towers* was not, of course, the first novel set in Barchester. That would be *The
+Warden* [1855], a brief satire of clerical politics concluding with the marriage of the eponymous
+protagonist’s daughter to the reformer John Bold, his erstwhile-antagonist. *Barchester Towers*
+begins by passing almost silently over John Bold’s death, freeing Eleanor Bold (née Harding) to
+serve as the prize in another marriage plot, this time to an ultra-high-church Oxford don. This
+death, Turner argues in his third chapter, constitutes Trollope’s greatest achievement: the
+subordination of primary to secondary character, hence of plot to setting. We return to Barchester,
+not because the action of *The Warden* was unfinished, but because the life of the county we will
+come to know as Barsetshire has not stopped.
+
+¶10 So, in each of the third [*Doctor Thorne*, 1858], fourth [*Framley Parsonage*, 1860], and fifth
+[*The Small House at Allington*, 1862] entries in the series, Trollope takes up the struggles of new
+comic heroes against the increasingly-familiar background of an ever-expanding supporting cast. And
+in the final entry, the first to announce its serial nature in its very title [*The Last Chronicle
+of Barset*, 1867], Trollope brings all of these myriad strands together. A key plot point—the
+difficulty of proving the Reverend Josiah Crawley’s innocence—turns on Eleanor now-Arabin’s absence
+from Barsetshire, she and Doctor Francis Arabin having embarked on a grand tour of Rome and the Holy
+Land. Like Crawley’s supporters, the reader fully believes in the former-protagonist couple’s good
+character, but struggles to recall it precisely from a distance of several volumes.
+
+¶11 The Trollope chapter is undoubtedly the strongest in Turner’s book. It probably will not quite
+convince anyone that Trollope should displace Dickens as the preeminent English novelist of the
+1850s and ’60s, or that *Regina v Crawley* surpasses *Jarndyce v Jarndyce* as the defining
+midcentury fictional case. But for those readers who have not yet had their Trollope phase, perhaps
+this chapter will convince them to begin it.
+
+¶12 The trope of the fictional place now delineated, Turner’s fourth chapter relaxes into a survey
+of ‘somewheres,’ including George Eliot’s *Middlemarch* [1871]; Sherwood Anderson’s *Winesburg,
+Ohio* [1919]; and, most significantly, William Faulkner’s Yoknapatawpha County, introduced in 1929
+[e.g., *The Sound and the Fury*] and subsequently the setting of fourteen novels and numerous short
+stories. In the first two, setting constrains. In the third, setting self-mythologizes—despite its
+origins as a pseudonym for Lafayette County, Mississippi, Faulkner’s fictional county takes on a
+life of its own.
+
+¶13 Finally, in his fifth chapter, Turner looks at two novelists whose approach to the fictional
+place calls the entire trope into question. Thomas Hardy’s Wessex tales lack Trollope’s dense
+background network of secondary characters, and instead establish continuity by repeatedly throwing
+the same thin veil of poetry over southwest England. James Joyce’s books are set in the real-life
+city of Dublin, but turn the use of proper names into a kind of world-making poetry. Here, at the
+pinnacle of the modernist novel, *Somewhere* reaches something like a conclusion. The reader does
+not miss the absence of any sixth chapter dealing with lesser fictional places like Wendell Berry’s
+Port William [e.g., *Nathan Coulter*, 1960].
+
+¶14 Not to say that the reader misses nothing. Just as the first half of Turner’s book avoided the
+question of the gothic romance, the second half avoids the question of non-realist fiction—and this
+seems to me, if not a fault, at least a gap. The fictional world—L. Frank Baum’s Oz [e.g., *The
+Wonderful Wizard of Oz*, 1900], Edgar Rice Burroughs’ Barsoom [e.g., *A Princess of Mars*, 1912],
+Robert E. Howard’s Cimmeria [e.g., “The Phoenix on the Sword,” 1932]—may differ from the fictional
+county, but the relationship between the two is not uninteresting. And what to make of how H.P.
+Lovecraft invented both Miskatonic University in Arkham, Massachusetts [e.g., “Herbert West,
+Reanimator,” 1922], and the non-euclidean island-city of R’lyeh [“The Call of Cthulhu,” 1928]? Or
+how Tolkien invented both the merrie-english Shire [e.g., *The Hobbit*, 1937] and the various elvish
+cities of Middle-earth [e.g., “The Fall of Gondolin,” 1977 [1916]]?
+
+¶15 Separately, we might wonder why Turner’s account of the realist ‘somewhere’ never expands beyond
+the county—the largest sub-sovereign administrative unit. What would he make of Joseph Conrad’s
+Costaguana [*Nostromo*, 1904], or Willie Stark’s not-quite-Louisiana [Warren, *All the King’s Men*,
+1946]? For my own part, I doubt that either of these counts as a real fictional somewhere at all,
+any more than either of these novels counts as a realist novel (they are closer to what we might
+call expressionism). And I suspect that it could not have been otherwise. The realist novel depends
+on our ability to generalize about human action. Its subject matter is lawyerly: marriage contracts,
+inheritance disputes, suits for alienation of affection, accusations of fraud or theft or murder.
+But to ascend from county to state is necessarily to leave behind this generic societal realism for
+particular historical actors. The novel cannot accommodate secession, rebellion, revolution—not, at
+least, as actions to be taken, rather than events to be endured—because they require freedom from
+general laws, while the somewhere-state is understood by its generic resemblance to real-life
+states. For the protagonist to succeed, say, in wrenching Costaguana’s history too far from
+Colombia’s would betray the author’s contract with his readers. Such, at least, is my intuition—but
+all this is admittedly speculative.
+
+¶16 It is interesting to note (though Turner does not) that in law, as in literature, there has
+developed a tradition of the fictional place. Barsetshire may be the best known of the imaginary
+English counties, but British army regulations name the generic county ‘Loamshire’. In the moot
+court at Harvard Law School, and from thence diffused throughout the American legal academy, ‘Ames’
+is the generic state in whose halls of justice the imagined disputes are litigated. The name was
+adopted in 1911, more than halfway through the gradual erasure of the connotation of sovereignty
+attaching to the American word ‘state’. I sometimes wonder if some sort of administrative
+centralization—the diminishing of town-and-surrounding-environs into mere instance of a type—was a
+necessary antecedent to the invention of the fictional place. The specter of 1861 haunting
+Faulkner’s Yoknapatawpha is evidence for this suspicion.
+
+¶17 Here I close with one more complaint about Tom Turner’s otherwise excellent book. In the United
+Kingdom the ancient counties borrowed their borders from historical kingdoms and shires and had
+taken recognizable shape by the time of the Norman Conquest. In the United States, the various
+states’ counties were imposed upon an unimproved landscape in a way putatively inspired by the
+English model, but with borders more longitudinal than historical in origin. Surely the trope of the
+fictional place does not take on precisely the same contours in two places with such different
+generic local histories? And what of the various centralized French Republics, with their
+enlightenment-era Departments, or the variously organized German-speaking lands? Finally, what would
+the story of the trope look like if told from the perspective of the literature—not of some one of
+these nations—but of some generic recently-centralized state, with its own fictional administrative
+habits and constellation of invented literary touchstones? But outside of Borges stories, such
+somewhere-scholarship is rarely written.

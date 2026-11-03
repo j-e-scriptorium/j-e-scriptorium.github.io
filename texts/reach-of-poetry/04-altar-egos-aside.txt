@@ -1,0 +1,572 @@
+# [reach-of-poetry/altar-egos-aside] III. Altar Egos Aside
+From: The Reach of Post-Romantic Poetry (2025), by Edkar Marenko
+URL: https://j-e-scriptorium.github.io/reach-of-poetry.html#altar-egos-aside
+
+¶1 III. Altar Egos Aside
+
+¶2 In the preceding two chapters we have asked whether the poem can judge itself, and whether it can
+judge others. The problem of poetic judgment can be posed a third way: Can poetry judge the poet?
+Which is not to ask, can a poem be autobiographical (of course it can), but rather, does poetry
+summon the poet to judgment? Does any human being have a vocation to poetry, in the religious sense
+of the word “vocation”? A special calling, from some higher power, that determines that trajectory
+of the life of the person called?
+
+¶3 Geoffrey Hill’s essay “A Postscript on Modernist Poetics” [2005] offers an entry point for
+thinking this question through from the perspective of what he calls modernism, and which I would
+prefer to call (for the reasons noted in this book’s Introduction) the tradition of British
+post-romanticism. Hill takes as emblematic of the travails of this tradition the contrast between
+the poet-priest Gerard Manley Hopkins and the poet-magus William Butler Yeats. Hopkins thought his
+true vocation to be to the Society of Jesus, while his poetry was at best irrelevant and at worst
+destructive:
+
+¶4 > I have never wavered in my vocation, but I have not lived up to it. I destroyed the verse I had
+> written when I entered the Society and meant to write no more … it is a question whether I did
+> well to write anything else.
+
+¶5 In keeping with his scruples, Hopkins didn’t write that much else. His post-conversion poetry can
+be fit onto a few dozen pages. Yeats, in contrast, was a liberal Protestant turned syncretistic
+occultist. Yeats believed that poets were called to serve in “the priesthood of an almost forgotten
+faith,” namely, the religion of art. His own long career was a testament to this faith, a record of
+continual reinvention aimed at nothing besides the poetic work. In short, Yeats was the
+quintessential major poet of British post-romanticism, while Hopkins was the quintessential minor
+poet. These are not judgments of poetic merit, but of poetic outlook: poetry was central to Yeats’s
+life, while to Hopkins’s it was eccentric.
+
+* * *
+
+¶6 Hopkins and Yeats’s conceptions of the poetic vocation or lack thereof pose the would-be
+poet-priest a stark alternative—but they are not the only alternatives available. We can also
+imagine a poet who claims for himself the mantle of the priest, but only in a provisional or
+paradoxical sense; and, indeed, can imagine multiple incompatible ways in which such a claim could
+be lodged. The next few pages briefly address the paradoxical sense of poetic vocation mostly
+closely associated with British post-romanticism. The remainder of this chapter then goes on to
+consider a lesser-known alternative.
+
+¶7 The novelist James Joyce abandoned his Irish Catholicism at a young age, but could never quite
+escape the theology he learned in his Jesuit high school. In his quasi-autobiographical novel *A
+Portrait of the Artist as a Young Man *[1914], the young man of the title for a time considers
+joining the priesthood. In one scene, Stephen Daedalus converses with the director of his Jesuit-run
+school:
+
+¶8 > –Have you ever felt that you had a vocation?
+
+¶9 > Stephen parted his lips to answer yes and then withheld the word suddenly. The priest waited
+> for the answer and added:
+
+¶10 > –I mean, have you ever felt within yourself, in your soul, a desire to join the order? Think.
+
+¶11 > –I have sometimes thought of it, said Stephen.
+
+¶12 In the end, Stephen does not join. He perhaps has a vocation, but not to the Catholic
+priesthood: he longs to be, as he later calls himself, “a priest of the eternal imagination,
+transmuting the daily bread of experience into the radiant body of everliving life.” He longs, that
+is, to enact through poetry a kind of aesthetic transubstantiation. To be a poet-priest, as Stephen
+envisions it, does not mean, as it seems to for Yeats, merely wielding cultural authority; Stephen
+longs to be ontologically marked with the power to perform quasi-sacred rituals.
+
+¶13 But as we see in Joyce’s next novel *Ulysses*, no aesthetic ordination is in fact in the
+offing—a fact Stephen already on some level knows, readily admitting to having thought about
+becoming a priest, but hesitating to affirm the word “vocation.” The reason for Stephen’s hesitation
+is not, as some might expect, that a “vocation” implies the existence of a God to do the calling.
+The atheism of Joyce was not like that of (say) Thomas Hardy; it did not reject the existence of the
+divine so much as the legitimacy of the earthly powers who claimed to represent it. But neither was
+Joyce’s atheism merely political, as if he would have accepted the authority of the Roman Catholic
+hierarchy on condition it were rendered less corrupt. Rather, Joyce doubted that the divine was a
+respecter of persons, and doubted the same about the poetic. The Stephen Daedalus of *Portrait*
+again:
+
+¶14 > The personality of the artist, at first a cry or a cadence or a mood and then a fluid and
+> lambent narrative, finally refines itself out of existence, impersonalizes itself, so to speak.
+> The esthetic image in the dramatic form is life purified in and reprojected from the human
+> imagination. The mystery of esthetic, like that of material creation, is accomplished. The artist,
+> like the God of creation, remains within or behind or beyond or above his handiwork, invisible,
+> refined out of existence, indifferent, paring his fingernails.
+
+¶15 Daedalus’s image of fingernail parings plays on more romantic conceits of the poet as a honeybee
+gathering honey or a spider weaving a web, but without the positive valuation implied by those
+images. Unwilling even to assert the implied comparison of the poem to something the poet secretes,
+severs, and discards, he nevertheless insists that nothing about the poem traces back to the poet
+(his status, his psychology) in any meaningful way. As T.S. Eliot puts it in one of his most Joycean
+essays, “Tradition and the Individual Talent” [1919]:
+
+¶16 > The analogy was that of the catalyst. When the two gases previously mentioned are mixed in the
+> presence of a filament of platinum, they form sulphurous acid. This combination takes place only
+> if the platinum is present; nevertheless the newly formed acid contains no trace of platinum, and
+> the platinum itself is apparently unaffected; has remained inert, neutral, and unchanged. The mind
+> of the poet is the shred of platinum.
+
+¶17 The unaffected catalyst, like the fingernail-paring God, is an image for a poet who has not been
+called to his work by any divinity because his work has nothing whatsoever to do with him. Where the
+Roman priest acts *in persona Christi*, turning the wafer into the living flesh of Jesus, the
+Joycean or Eliotic poet acts *in persona nihili*, turning experiences into impersonal life. The
+former personage we are supposed to learn to see differently. The latter we are not supposed to
+notice at all.
+
+¶18 Or, to bring it back to the terms of this chapter—for Joyce and Eliot (before his conversion;
+more on the later Eliot in Chapter V), poetry is *almost *a vocation, but the equation fails in
+suggesting that the poem’s validity has anything at all to do with the identity of the poet. The
+poet is not someone who was specially called; rather, the poet is someone who allowed his self, his
+personality, to fall silent.
+
+* * *
+
+¶19 The problematic of the poetic vocation is taken in a quite different direction by two British
+post-romantics from the generation after Joyce, like Joyce torn between religious commitment and
+poetic aspiration: the painter-poet David Jones and the poet-playwright Wystan Hugh Auden. The two
+shared a sense of the poetic calling, not as a vocation, but as what I will call an avocation
+(though what exactly I mean by that it will take some time to get into view). And while I will not
+address the disagreement directly, this chapter also constitutes a kind of rebuttal to Hill’s
+“Postscript,” which ignored Jones entirely and saw Auden’s flight from seriousness as the downfall
+of British modernism. To the contrary, I respond, for all the problems of Auden’s later poetry
+(explored in Chapter VI), he stood almost alone among post-romantic poets in the seriousness with
+which he approached the problem of the poet’s apparent vocation. Jones—otherwise on a quite
+different aesthetic trajectory—stood alongside him.
+
+¶20 Consider the following passage, from Jones’s “Autobiographical Talk” [1954]:
+
+¶21 > I had decided by about the age of six that when I grew up there was only one thing that I
+> would do. By which I do *not* mean that I was possessed of some special sense of vocation. Not at
+> all. I mean simply that I cannot recall a time when drawing of some sort was not an accustomed
+> activity and one which I supposed I should pursue later in life. For one thing, I was so backward
+> at my lessons that I do not doubt but what I regarded drawing as a counterweight to my deficiency
+> in everything else.
+
+¶22 And compare with Auden’s self-undermining vocational anecdote, which he recalled over and over;
+here is one version, from the unpublished lecture “Phantasy and Reality in Poetry” [VI:713]:
+
+¶23 > Given my passionate interest as a boy in mines, I and my parents naturally assumed that, when
+> I grew up, I would become either a mining engineer or a geologist. So at Public school I studied
+> science and won a scholarship to Oxford in biology. It was not to be. One Sunday in March 1922, I
+> was walking across a field with a schoolfriend, when he asked me if I ever wrote poetry. Good God,
+> no I said. The idea has never occurred to me. Why don’t you he replied, and at that moment I
+> discovered my vocation.
+
+¶24 > When I ask myself why my friend’s suggestion met with such an unexpected response, I now
+> realize that, without knowing it, I had been enjoying the use of poetic language for a long time.
+> I had read the technological prose of my books on mining in a peculiar way. A word like *pyrites*,
+> for example, had not, to me, been simply an indicative sign, it was the Proper Name of a Sacred
+> Being…
+
+¶25 Jones and Auden respond in characteristically different ways to the potential for confusion
+between aesthetic and religious, between the beautiful and the sacred.
+
+¶26 The prickly defensiveness of Jones’ denial is striking. He adopts this tone, in the first place,
+because he takes the religious concept of vocation seriously and does not want anyone to attribute
+to him a vocation he did not believe he possessed. But even this is not quite so simple, for
+“vocation” means different things in Catholic and Protestant contexts, and at the age of six Jones
+was an Evangelical (and, as he tells it, an unusually devout one). In denying that God called him to
+be an artist, Jones simultaneously rejects the purported equation between artist and priest, and
+denies that any calling deserves the name “vocation” but a calling to the priesthood. The final
+sentence’s brief act of self-analysis, wherein Jones attempts to neutralize the thought of an
+artistic vocation by genealogically tracing it to his feeling of ineptitude for other work, hints
+that the thought of an artist-priest was, for the enthusiastically Protestant young Jones, a live
+possibility, and, for the older Catholic convert, a danger to be avoided.
+
+¶27 Auden’s account is comparatively mild, though rife with subtle ironies that call into question
+its apparently straightforward avowal of a poetic vocation. Auden does not reject the word
+“vocation” off the bat because, unlike the Catholic Jones, who associated the word “vocation” with
+the priesthood and religious life, Auden follows the Protestant usage in which one can have a
+vocation to any profession. But his apparent vocation is a strange one, coming not from the
+Christian God, but rather from “a Sacred Being” whose proper name, or one of whose proper names, is
+“pyrites.” The implicit theology seems either poly- or pantheistic, and either way, by the later
+Auden’s lights, idolatrous, if perhaps innocently so. As Auden reports elsewhere, in 1920 he went
+through a period of “religious *Schwärmerei*,” but soon after the anecdote quoted above he
+“discovers he has lost his faith” [V:154]. His mineralogical Sacred Being tempts Auden into poetry
+in part by making him, like Jones, unsuited for other subjects—though Auden’s unsuitability is less
+an ineptitude than a misleading appearance of excellence, in the form of an Oxford scholarship.
+
+¶28 So the stylistic colorings of these anecdotes differ well enough—what, then, is the point of
+juxtaposing them? It is not that Jones and Auden both regretted their pseudo-vocations; to the
+contrary, each placed a certain faith in the *felix culpa*, and the goal of these examinations of
+poetic conscience is not self-recrimination but self-understanding. What both poets share, rather,
+is a sense of the weightiness of their youthful decisions to become poets, combined with a
+skepticism about the propriety of that decision—whether it committed the poet an unwarranted
+assertion of authority—and a feeling that, good or bad, it was taken in ignorance—they became poets
+not knowing what poets were, not consciously intending the arrogation poetry necessarily involved.
+Both Jones and Auden are imagining their poetic calling less as a vocation than as an avocation,
+both in the sense of a distraction and diversion from gainful employment, and in the sense of a
+summons to answer for oneself before a higher court. The answer required by the poetic judge is
+simultaneously ethical, a matter of justifying one’s poems, those apparently aimless actions, and
+theoretical, a matter of explaining what these apparently aimless actions are and are for; and,
+above all, it is poetic, since any answer must be in the form of a poem.
+
+¶29 This imagining of poetry as an avocation permeates Jones and Auden’s later critical writing. It
+helps us, for one thing, to understand the sense in which each poet understands poems to be rituals,
+since for neither poet do these rituals, as they did for Stephen Daedalus (if not for Joyce
+himself), take the place of the Christian liturgy. Auden associates his “sacred beings” with the
+ritual nature of poems in “Making, Knowing, Judging,” his 1956 inaugural lecture as Oxford Professor
+of Poetry [*The Dyer’s Hand*, 1962], the last few pages of which he described as a “literary
+dogmatic psalm.” His central claim runs as follows:
+
+¶30 > The impulse to create a work of art is felt when, in certain persons, the passive awe provoked
+> by sacred beings or events is transformed into a desire to express that awe in a rite of worship
+> or homage, and to be fit homage, this rite must be beautiful. This rite has no magical or
+> idolatrous intention; nothing is expected in return.
+
+¶31 When a late modernist poet says that poetry has something to do with ritual, it is hardly
+surprising, indicating only that they have read Eliot’s footnotes to *The Waste Land*. But the way
+Auden specifies the claim, particularly in the second sentence, is not particularly Eliotic. The
+poet is not positioned as the unmoved mover, but as the one moved. The rite is not magical, which is
+to say it effects nothing, has no use. It is not an act of the calculative intellect, but is what
+Auden elsewhere calls “gratuitous.” Moreover, the rite is not idolatrous, which is to say it is not
+a substitute for monotheistic religion, a distinction Auden elsewhere draws explicitly: “Catharsis
+is properly effected not by works of art, but by religious rites.” The artistic rite may be inspired
+by the sacred, but itself is merely beautiful. It is an act of the “Secondary Imagination.” Such
+Coleridgean terminology is rather alien to the usual language of modernist criticism.
+
+¶32 Similar terms do, however, govern Jones’s essay “Art and Sacrament,” first published a year
+before Auden’s lecture (and written at the same time as Jones’s autobiographical talk). The title,
+to begin with, suggests an analogy between poet and priest—but what does Jones make of that analogy?
+He begins by arguing that “It is the intransitiveness and gratuity in man’s art that is the sign of
+man’s uniqueness,” which is to say in slightly different words what Auden meant by “nothing is
+expected in return.” To be gratuitous is to be superfluous, unnecessary; to be intransitive is to be
+directed at itself as its own end, the way one does not seek happiness for any further purpose but
+just in order to be happy. That these are the “sign” of human uniqueness means, for Jones, that they
+are significant of something, and so are sacraments, which is to say, rites: “man is unavoidably a
+sacramentalist and … his works are sacramental in character.” But this is “sacrament” with a
+lower-case “s,” quite distinct from “the Sacrament” of Christian faith, although analogous to it.
+While religious Sacraments forgive sins and make God really present, artistic sacraments instead
+make present “beauty,” that is, in Jones’s scholastic definition, “a reality which, having been
+seen, has pleased.” Jones defines this achievement of beauty as the purpose of all art: “Poussin
+said … ‘The goal of painting is delight.’ And this is universally true of all art.” Art does nothing
+useful, in a profane or a religious sense, but it constitutes a ritual whose beauty delights.
+
+¶33 At this point in the analysis two questions arise. First, what is the nature of this delightful
+beauty which poetry achieves? Second, what about beauty justifies poetry in the face of its
+inutility for both profane and religious ends? Auden often raises the second question explicitly, as
+in the concluding paragraph of his essay “Writing,” which begins:
+
+¶34 > The condition of mankind is, and always has been, so miserable and depraved that, if anyone
+> were to say to the poet: “For God’s sake stop singing and do something useful like putting on the
+> kettle or fetching bandages,” what just reason could he give for refusing?
+
+¶35 The question draws our attention to the ethical implications of Auden’s uncompromising theory of
+poetry’s uselessness: is not art a pointless distraction? It also alludes to the fact, by now a
+crucial component in Auden’s public persona, of his experience as a Republican volunteer in the
+Spanish Civil War, from which he returned disillusioned with both the militant left and the project
+of politically engaged poetry. But this concluding paragraph continues in a more imaginative vein:
+
+¶36 > But nobody says this. The self-appointed unqualified nurse says: “You are to sing the patient
+> a song which will make him believe that I, and I alone, can cure him. If you can’t or won’t, I
+> shall confiscate your passport and send you to the mines.” And the poor patient in his delirium
+> cries: “Please sing me a song which will give me sweet dreams instead of nightmares. If you
+> succeed, I will give you a penthouse in New York or a ranch in Arizona.”
+
+¶37 Auden insists that poetry not act on either the imperative or the imprecation: as he says
+earlier on the page, the only “ulterior purpose” of poetry, if it can be said to have one at all
+(about which he seems doubtful), is, “by telling the truth, to disenchant and disintoxicate.” His
+ability to imagine these scenes does not tell us anything about Auden’s life or about the nature of
+art in general, but it does tell us something about Auden’s art—namely, that it contains such
+totalitarian nightmares and American sweet dreams. When we think of poetic beauty, Auden wants us to
+think about about how it compels us, in vain, to ask such things of it, and how it then frustrates
+our expectations, remaining insistently only its useless self.
+
+¶38 One gets a similar sense from the end of Jones’s “Art and Sacrament,” in a passage which hovers
+between philosophy, history, poetic expansiveness, and poetic vulnerability. Throughout the essay
+Jones has used the intentionally provocative example of the art of military strategy, a choice which
+places in stark relief Jones’s overarching assertion of art’s inherent independence from moral
+concerns, and also inescapably reminds us that the defining experience of Jones’s life was his time
+in the trenches of the Great War. The reminder is even stronger in Jones’s postscript to the essay,
+titled “The Utile,” where he declares that “The artist in man is the infantryman in man.” Whether
+the artist’s work has a social function, good or evil, is not his concern; he deals only with the
+perfection of the work itself. All the more striking, then, given these disavowals of political
+responsibility, when “Art and Sacrament” concludes by requiring of the would-be contemporary poet
+“that conviction which strips off all defensive armour, so that the sharp contradictions and heavy
+incongruities may at least be felt.” Is the artist in question here still an infantryman? If so, he
+is the disarmed infantryman who has stepped back from the battle, not because he remains
+impersonally aloof from the cultural situation, but because refraining from active engagement allows
+him to suffer the situation more intensely. Like Auden, Jones suggests that poetry has something to
+do with truth, but also that poetry does not achieve this relationship with truth by pursuing any
+particular goal. Rather, poetry makes itself vulnerable so as to feel the sharply contradictory
+purposes we imagine for it.
+
+* * *
+
+¶39 What we find in these vignettes is not a reasoned justification for the poet’s decision to
+refrain from offering practical assistance. Rather, we get a mythical account of the poet’s turn
+from effective tool toward gratuitous artwork, a turn which purports to be in some sense more
+truthful. Art began, for both Jones and Auden, with the first tool-maker who cared about the beauty
+of his tool beyond what was necessary for the tool to perform its mundane task. At most times and in
+most places, however, the gratuitous and the effective can exist in harmony, such that the
+carpenter, the soldier, and the priest are also all artists, in this naive sense. When the
+gratuitous and the effective come apart, as they do, according to Jones and Auden, in modern
+technocracies generally, and specifically in their own experiences of technological warfare, it
+becomes more and more difficult to remain a simple craftsman. The poet must reflect explicitly on
+the choice he faces: to become either no artist at all, or an artist above all else; to abandon
+beauty, or to turn away, unjustifiably, from what is practical. The vignettes just discussed depict
+that moment of turning, and depict it as beautiful not despite, but because of its lack of efficacy.
+
+¶40 The beauty of the poet’s refusal of efficacious action is neither that of formal patterning nor
+that of erotic attraction, but rather that of peaceful vulnerability. It is of crucial importance
+that the activities from which Jones’s and Auden’s poets refrain are not simply humanitarian
+endeavors like building houses and digging wells. Bandages and armor both counteract the violence
+humans inflict on one another by covering up the victim. Neither Jones nor Auden opposes such
+ameliorative endeavors, but both suggest that poetry operates otherwise. The bystander who knows he
+should fetch bandages for the wounded, but nevertheless feels called to sing, or the soldier who
+knows he should protect himself and his comrades, but nevertheless feels called to remove his armor,
+are not described as the moral monsters we might otherwise imagine them to be. We see them as both
+pathetic in their indecision, their uncertainty as to the rectitude of their endeavor, and beautiful
+in their vulnerability, their willingness to expose themselves to judgment. This is not to say that
+Jones’s or Auden’s poetry was confessional in the usual sense—it would be difficult to confuse
+either with, say, Robert Lowell. Both believed that art was not self-expressive, but rather a
+representation of some honorable reality. But for both, the highest such reality which poetry could
+represent while remaining poetry, rather than liturgy, was the human person, and in particular the
+human person’s capacity for such imaginative appreciation. Poetry, unlike carpentry, is the art of
+being human.
+
+¶41 Jones dramatizes poetry’s suspension between carpentry and liturgy in an autobiographical
+anecdote written near the end of his life and published posthumously but dealing with his
+experiences during the Great War [*Dai Greatcoat*, 1980]. This passage is often noted for what it
+says about Jones’s first exposure to Catholicism, and I do not mean to deny its place in his
+conversion narrative. I would suggest, however, that the passage also has much to say about the
+place of the poet *qua* poet even after the conversion of the human being. The setting is on the
+Western Front, but not yet in the trenches; Jones has wandered away from his company and come across
+an apparently abandoned barn which he hopes to dismantle for firewood. He then looks through a crack
+in the wall:
+
+¶42 > But what I saw through the small gap in the wall was not the dim emptiness I had expected but
+> the back of a sacerdos in a gilt-hued planeta, two points of flickering candle-light no doubt lent
+> an extra sense of goldness to the vestment & a golden warmth seemed, by the same agency, to lend
+> the white altar-cloths and the white linen of the celebrant’s alb & amice & maniple (the latter, I
+> notice, has been abandoned, without a word of explanation, by these blasted reformers). You can
+> imagine what a great marvel it was for me to see through that chink in the wall, and kneeling in
+> the hay beneath the improvised *mensa* were a few huddled figures in khaki … I can’t recall at
+> what point of the Mass it was as I looked through that squint-hole and I didn’t think I ought to
+> stay long as it seemed rather like an uninitiated bloke prying on the Mysteries of a Cult. But it
+> made a big impression on me. For one thing I was astonished how close to the Front Line the priest
+> had decided to make the Oblation and I was also impressed to see Old Sweat Mulligan, a somewhat
+> fearsome figure, a real pugilistic, hard-drinking Goidelic Celt, kneeling there in the smokey
+> candlelight. And one strong impression I had … I felt immediately the oneness between the Offerant
+> and those toughs that clustered round him in the dim-lit byre—a thing I had never felt remotely as
+> a Protestant at the Office of Holy Communion in spite of the insistence of Protestant theology on
+> the “priesthood of the laity.”
+
+¶43 Auden, too, in his autobiographical essay “Modern Canterbury Pilgrims” [III:578], places the
+seed of his conversion in a scene involving poet, priest, religious ritual, and, in the background,
+war—although what Auden encounters is rather that ritual’s absence. This scene takes place during
+the Spanish Civil War; as mentioned earlier, Auden had traveled to Spain to help the Communists
+(though they did not have much use for him):
+
+¶44 > On arriving in Barcelona, I found as I walked through the city that all the churches were
+> closed and there was not a priest to be seen. To my astonishment, this discovery left me
+> profoundly shocked and disturbed. The feeling was far too intense to be the result of a mere
+> liberal dislike of intolerance, the notion that it is wrong to stop people from doing what they
+> like, even if it is something silly like going to church. I could not escape acknowledging that,
+> however I had consciously ignored and rejected the Church for sixteen years, the existence of
+> churches and what went on in them had all the time been very important to me. If that was the
+> case, then what then?
+
+¶45 More than the avocational passages discussed earlier, these scenes admirably exemplify Jones and
+Auden’s distinctive prose styles. Jones’ account is full of precise and even pedantic physical
+description and of historical-theological digressions (I have omitted the longest of these). They
+add up to an allegorical argument—the light shining unexpectedly in darkness; the small religious
+congregation united in ritual action while beset on all sides by conditions of war, equated with
+conditions of iconoclasm in the phrase “blasted reform”; the artist gathering material to make his
+own light and excluded from the greater light of the ritual even as he recognizes its significance.
+The highly wrought description highlights the gap between Jones’ experience at the time, which
+lasted only a few moments, and the weight of interpretation he now requires it to bear.
+
+¶46 Auden’s version, in contrast, is not a story of something happening all of a sudden, but a story
+of something *not* happening. To avoid implying that his realization was occasioned by any
+particularly forceful experience, he plays down any hint of violence, not mentioning that at least
+some of the churches were closed because they were destroyed, and the priests were unseen because
+all those not in hiding had been killed. As in Jones, here physical and social suffering are elided
+into one another. Auden’s narrative hews closely to the texture of immediate perception (or lack
+thereof), and for that very reason its meaning remains opaque. He suspends any elaboration on the
+significance of, as he vaguely terms it, “what went on in them.” In Auden’s hands that vague phrase
+takes on an additional weight. We sense that the Christian rituals that “went on in” the churches
+were “very important” to Auden not despite, but because, having ignored and rejected them, he did
+not consciously understand them.
+
+¶47 This perplexed attitude toward ritual points toward the key similarity between these two
+passages, which lies in what we might call their geometry. Both place surprising emphasis on the
+role of the priest, set apart from the congregation but thereby more closely united to them. For
+Jones, it is the *difference* between “the Offerant and those toughs that clustered round him” that
+allows for the “oneness” the rite enacts between them, and potentially Jones also. For Auden, it is
+not the closure of the churches but the specific absence of the priests that forces him to feel
+religious goings-on to be more than merely “people … doing what they like,” and so somehow
+unconsciously “important” even to Auden the unbeliever. Further, both passages place the poet in a
+peculiar position relative to priest and congregation both. The poet stands apart from congregation,
+not because he is before an altar, but because he is outside the church altogether, fascinated by
+but also excluded from the liturgical scene, aimlessly walking around the city or stopping to peek
+through a chink in the wall.
+
+¶48 I take this geometry to lie at the heart of both Jones’s and Auden’s religious conversions, and
+their shared sense of poetic avocation. For Jones, the visible difference between priest and
+congregation reveals the inadequacy of the Protestant doctrine of the “priesthood of the laity,”
+which makes everyone a priest, subjectively speaking, at the cost of not letting anyone be someone
+else’s priest in an objective sense. For Auden, similarly, the visible absence of priests (while the
+remainder of the congregation is, presumably, still invisibly present) reveals that priestly actions
+matter whether or not one thinks about them; one does not have the option of liberally tolerating
+them. These realizations both center on the theological principle noted earlier, in the discussion
+of James Joyce: that the priest acts *in persona Christi. *The priest is able to unite the
+congregation with his liturgical actions because, in a certain theological sense, he not the one
+acting at all. The sacrament derives its power not from him but *ex opere operato Christi—*from
+Christ acting through him.
+
+¶49 These church-porch scenes were pivotal in these poets’ conversions because they suggested new
+ways to understand poetic activity—but in a way we must be careful not to misread. Both Jones and
+Auden thought that poems have a certain objective reality, analogous to the objective reality of a
+sacrament. The analogy is misleading, though, if we ignore that reality’s source. Neither Jones nor
+Auden imagined that the poet could, like the priest, act *in persona Christi*, and so take his
+rightful place on the altar before a subservient congregation. As if to head off any such
+suggestion, Auden went so far as to describe priests as almost the opposite of skilled artists:
+“Like some mass-produced utensil, any priest is interchangeable with any other” [III:204]. Neither,
+however, could the poet simply take his place among the congregation, participating vicariously in
+the priest’s *in-persona-Christi* actions. Such participation would not call for anything besides
+attention. The poets remain on the threshold, not yet entering the church, because the reality of
+poetry resides elsewhere. Auden often attributes this reality to the poetic gift, while Jones uses
+even more romantic language: “By the particular workings of [for example] Hogarth’s genius a reality
+is offered to us.” I take the key words here to be the adjective “particular” and the article “a.”
+Hogarth’s paintings are particular to Hogarth, and represent not the reality already known but a
+reality newly encountered. Unlike the Christ-personating priest (and also unlike the *in persona
+nihili *modernist), the poet who writes *in propria persona* cannot take for granted that the new
+reality of his work will be recognized. Neither can he imagine that its recognition bears the same
+religious significance as does the recognition of sacramental efficacy. Its significance is no more,
+but also no less, than the fact that this particular person is the one who offers it.
+
+* * *
+
+¶50 Each of these scenes of liturgical overhearing, and the earlier scenes of youthful avocation,
+provided a metapoetic image for the relation between the poet’s work and his religious obligations.
+The same could be said about how I have approached these authors’ theoretical writings: what they
+intended as abstract claims about the nature of poetry I have taken for poetic evocations
+demonstrating the value of poetry’s self-limitations. I justify my procedure on the grounds that
+Jones and Auden were—after all—neither historians nor philosophers, but poets. What they principally
+share is not any theoretical claim or autobiographical strategy, but a set of interlocking images
+used to define the poet’s role: the poet as exposed soldier, the poet as private offerant at a
+private side altar. And part of what makes these images worth our attention is how they are not
+confined to theory—which is to say that Jones and Auden shared not only a theological commitment,
+but also, although few have noticed it, an aesthetic. To illustrate that shared poetics, I close
+this chapter, and this half of the book, with a comparison of two works: Jones’s frontispiece to his
+narrative poem *In Parenthesis* [1937; *see *App’x at 138], and Auden’s “In Praise of Limestone”
+[1948; *see *App’x at 143].
+
+¶51 Jones’s frontispiece presents a battlefield scene through a complex layering of watercolor,
+pencil, and ink. The watercolor pays little heed to the figuration, striving instead for subtle
+light effects; most of the page is covered in a shimmering gray, with patches of dull red marking
+the soldier’s blood, hints of blue on horse and buckle and arcing across the sky, and large patches
+of pale white radiating from the crescent moon. In the upper-left, soldiers run and carry large
+objects in a grove of shattered trees; in the foreground, a shovel leans against a twisted fence of
+barbed wire; rats made by a trick of perspective as large as the soldiers scurry to the right of the
+wire through a tangle of nets; above them, a line of soldiers marches into another grove, separated
+from the first by a distant village; in the sky above, moon and stars hang in the night sky.
+Center-stage and far larger than life than stands a half-nude soldier, leg bleeding, enmeshed in the
+wire, arms awkwardly akimbo. Unlike the other cartoonish figures, he is depicted with some
+realism—except that his genitals are less a representation than an ideogram, simultaneously a
+minuscule weapon and a vulnerable point; they take the place of his gun, which is nowhere to be
+seen. Ink has been applied sparingly, to reinforce certain outlines, mostly on the platoon in the
+background, in places around the coat worn by the central figure but nowhere on the margin of his
+bare flesh. His clothing has been half-stripped from him, stranding him between bare humanity and
+armed soldiery. As soldier, he exists separate from the landscape; as man, he blends into it, and it
+blends into him, such that the viewer must linger over both if she is to discern one from the other.
+
+¶52 In so lingering, the viewer notices that figure and ground also share a common shape: his arms,
+one silvered by the moonlight and the other dark under his coat, look like limbs of the two closest
+trees, one dark, one light, whose severed boughs are like hands clutching the sky. He becomes one
+with the no-man’s-land Jones described in his Preface to *In Parenthesis* as full of “sharp contours
+and unformed voids” [x]. But with the shovel that stands in the dirt beside him, he becomes one who
+digs trenches into that land, shaping the entrenched culture, the “intimate, continuing domestic
+life of small contingents of men [ix]. Many elements of the picture—the rats, the moonlight, the
+blue horse—can be fully interpreted only in light of the specifics of that culture, as conveyed
+through the private symbol-world of that book. But it is difficult to miss that he digs into, makes
+himself at home in, covers himself with the very earth which is in turn remade in the image of the
+soldier. Only a single patch of land, on the right edge of the page, is devoid of any mark of human
+habitation, and it is toward this patch that the line of soldiers seems to march, bringing form to
+the unformed.
+
+¶53 In being a maker, an artist, as well as in being a wounded soldier sensually displayed, the
+central figure of the frontispiece takes on an autobiographical character. We can sense this even if
+we do not know that the figure’s visage somewhat resembles that of Jones himself, or that Jones,
+too, was wounded in the leg. I do not mean that the frontispiece is a self-portrait, but rather that
+the wounded soldier gives the impression of standing to the world around him much as the Jonesian
+artist stands to his artwork. At the same time, extending his arms in the shape of a T, the soldier
+appears one who has been crucified. As Jones later insisted, this does not mean that the soldier
+dies for the sins of the world. Rather, he suffers in the act of contributing to (though not
+founding) the community of private soldiers, and the observer sees his still suffering to be the
+unexpected epitome of the frenetic activity surrounding him. Half-naked, fragile genitalia sensually
+displayed, he exhibits himself as an example not of any moral ideal but simply of human being in the
+world. He suffers but his face is not a mask of suffering; rather it seems inscrutable, as if,
+looking on nothing at all, he contemplates his own pain, and how it reshapes him just as it reshapes
+the moonlit landscape around him.
+
+¶54 Turning from the *In Parenthesis *frontispiece to Auden’s “In Praise of Limestone,” we find
+another work identifying its creator with a landscape of suffering and erotic mutability, and the
+effort to carve out a human habitation therein. To compare these works is not to deny their
+differences—the frontispiece depicts harsh battlefield conditions, while for the poem the greatest
+suffering comes in listening to bad opera. But their common concerns must equally be acknowledged.
+Jones’s frontispiece shows the soldiers moving out of what he saw as almost cozy domestic trenches
+into the violently estranging no-man’s-land. Auden’s poem, likewise, pivots on the contrast between
+the seedy inconstancy of those “accustomed to a stone that responds” and the incomprehensible
+inhumanity of those from “granite wastes,” “clays and gravels,” and “oceanic whisper,” whose
+personalities recall those which Auden had in previous works held responsible for the horrors of
+modern war.
+
+¶55 Auden sees the same impulses that would lead to war in the limestone landscape’s “band of
+rivals” who each suffer from the “child’s wish | To receive more attention than his brothers.” But
+like the soldiers in their warren of traverses and dugouts, these figures are saved from
+annihilation by limestone’s “secret system of caves and conduits”: space in a brutally
+disproportionate world for a home proportionate to humanity, a “region | Of short distances and
+definite spaces.” Both Jones and Auden concern themselves with finding a provisional home within the
+violence of history, refusing to deny that home’s provisional character:
+
+¶56 >     They were right, my dear, all those voices were right
+>     And still are; this land is not the sweet home that it looks,
+>     Nor its peace the historical calm of a site
+>     Where something was settled once and for all:
+
+¶57 The home is fashioned out of the mutable earth, which becomes a picture of human nature, the
+proper body of “we, the inconstant ones,” whose faults can be acknowledged and perhaps reformed.
+This makes the poem less an exercise in the pathetic fallacy, the coloring of an object by the
+crises internal to some subject, than an attempt to place geology, anthropology, and theology into
+analogical relationships.
+
+¶58 The final verse paragraph makes the goal of such an analogical outlook explicit: “it disturbs
+our rights,” which is to say our complacencies regarding what counts as a properly human life. The
+land offers an image of what that life could look like through “These modifications of matter into |
+Innocent athletes and gesticulating fountains,” marble statues which suggest how “The blessed will
+not care what angle they are regarded from, | Having nothing to hide.” These statues play a similar
+role to Jones’s half-nude soldier, a sign simultaneously of the holy and the naively sensual. The
+first verse paragraph, finding this lack of shame nothing to be ashamed of, suggests the Freudian
+angle more forcefully:
+
+¶59 >     What could be more like Mother or a fitter background
+>     For her son, for the nude young male who lounges
+>     Against a rock displaying his dildo, never doubting
+>     That for all his faults he is loved; whose works are but
+>     Extensions of his power to charm?
+
+¶60 What is the relationship between this narcissistic son and the consciousness of the poet? If the
+statue simply were Auden, just as if the soldier simply were Jones, then the self-revelation would
+be mere narcissism. Instead, as with the soldier, the nude statue is not quite a confessional
+self-portrait, but nevertheless comes to signify the poet’s act of self-revelation. What the statue
+displays is not any particular subject, but human nature.
+
+¶61 This universality extends to the confession of guilt appearing unexpectedly near the end of the
+poem. After the opening “we,” the poem speaks for the most part in an impersonally conversational
+key conformed to a barely perceptible syllabic meter (a rhythm than runs gently beneath the
+surface). Near the end, however, the poem unexpectedly announces an intimacy of “I” with “you”: “I,
+too, am reproached, for what | And how much you know.” Though the context suggests the guilt is
+sexual, no specific accusation is made. The content of the reproach matters less than its source:
+not the people around the poet (whose accusations the poet could easily shrug off), but “this land”
+itself:
+
+¶62 >     It has a worldly duty which in spite of itself
+>     It does not neglect, but calls into question
+>     All the Great Powers assume; it disturbs our rights.
+
+¶63 The land, that is, the poet’s own sensual self, has communicated a self-reproach, albeit without
+making any report. The poem ends with an appeal to forgiveness, one which not only depends on a
+four-fold repetition of the singular first-person pronoun but which also stations that pronoun
+against a term even more intimate than the earlier “you”:
+
+¶64 >     Dear, I know nothing of
+>     Either, but when I try to imagine a faultless love
+>     Or the life to come, what I hear is the murmur
+>     Of underground streams, what I see is a limestone landscape.
+
+¶65 If the reader accepts this rhetorical intimacy, taking herself to be “Dear,” then she at the
+same time accepts that she is made of the same modifiable matter as the speaker, who begins the poem
+by summoning “we, the inconstant ones.” In effect, Auden addresses first and foremost the very
+landscape he has found to represent his own flesh, and only secondarily all others who can find
+their own flesh also in that flawed landscape.

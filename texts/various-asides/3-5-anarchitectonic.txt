@@ -1,0 +1,237 @@
+# [3.5] Anarchitectonic
+Lyzander Keretzky — University of St. Isidore — August 2023
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-3-5
+Foreword gloss: argues for a hero-worshipping arbitrariness as the cure for what ails the modern
+  multiversity
+
+¶1 *The Complexiversity*. The architectonic sciences of previous ages named what they took to be
+fundamental. Knowledge of God (theology); reasoned desire (philosophy). But “interdisciplinarity”
+names itself after the sheer fact that it holds other sciences together; the highest object of our
+thought, it seems, is hope that the various particular sciences can ultimately be synthesized. When
+interdisciplinarity represents itself it looks like a dreamcatcher, “physics” “chemistry” “biology”
+“medicine” “engineering” “economics” wrapped around its edge, the chords of greater and lesser width
+symbolizing the number of papers touching on both of the disciplines connected.
+
+¶2 “Interdisciplinarity,” of course, governs only the sciences. What were once called the humanities
+answer now instead to the architectonics of “intersectionality”: intersected man possesses no self
+apart from the venn diagram of his various identities, “sex” “race” “gender” “class” “ability”
+“veteran status.” The resulting selfless-portrait looks not unlike the interdisciplinary
+dreamcatcher.
+
+¶3 Any antagonism between the two is only superficial. The science of interdisciplinarity reveals
+the empty truth of Complexity; the art of intersectionality reveals how to live within that
+emptiness. The relationship between them is something like that between philosophy and law, or
+between speculative and pastoral theology. In theory, theory has the upper hand, but in practice,
+practice rules. Hence, inspired by passing internet controversies about 2+2=4 being an anti-trans
+dogwhistle, mathematics professors will spend class time controversializing the obvious point that
+if you redefine two, addition, or equality, it can equal something else. (For example, 2+2=1 mod 3.)
+
+* * *
+
+¶4 *Newman’s Empire*. To see why interdisciplinarity bows down to intersectionality we must trace
+the complexiversity back to the Christian university, with its own productive tension between
+speculative and practical theology. The ancient world had no universities because ancient law wasn’t
+philosophical—philosophy mandated only the fact of civic order, not its content. Instead, the
+ancient world had academies, devoted to the thought of a single philosopher, at which a studious
+gentleman might retire for a time from civic life. It was the university of medieval Christendom
+that first brought together rival intellectual factions under one roof.
+
+¶5 Through that act of juxtaposition the university transformed rival factions into rival
+disciplines. Each discipline sought better to define its respective project by modeling itself on
+theology, just as the professions—lawyers, physicians, professors—modeled themselves on the
+priesthood. The project of the university then became the keeping of the peace between the
+disciplines, a task requiring a symphony of theory and practice. John Henry Newman (theologian,
+philosopher, historian, poet, novelist, educator) put it as follows, in the lectures collected in
+*The Idea of a University* [1852-1858]:
+
+¶6 > What an empire is in political history, such is a University in the sphere of philosophy and
+> research. It is, as I have said, the high protecting power of all knowledge and science, of fact
+> and principle, of inquiry and discovery, of experiment and speculation; it maps out the territory
+> of the intellect, and sees that the boundaries of each province are religiously respected, and
+> that there is neither encroachment nor surrender on any side.
+
+¶7 Of course, as Newman recognizes, a university acts through its members:
+
+¶8 > Its several professors are like the ministers of various political powers at one court or
+> conference. They represent their respective sciences, and attend to the private interests of those
+> sciences respectively; and, should dispute arise between those sciences, they are the persons to
+> talk over and arrange it, without risk of extravagant pretensions on any side, of angry collision,
+> or of popular commotion.
+
+¶9 The disciplines can’t simply ignore one another, but at the same time they must be reluctant to
+interfere into one another’s affairs. When the empire of intellect succeeds in keeping the peace:
+
+¶10 > A liberal philosophy becomes the habit of minds thus exercised; a breadth and spaciousness of
+> thought, in which lines, seemingly parallel, may converge at leisure, and principles, recognized
+> as incommensurable, may be safely antagonistic.
+
+¶11 A liberal education produces, not virtuous men, exactly, but what Newman calls gentlemen. A
+gentleman has “a cultivated intellect, a delicate taste, a candid, equitable, dispassionate mind, a
+noble and courteous bearing in the conduct of life;—these are the connatural qualities of a large
+knowledge.” Elsewhere, Newman says that “it is almost a definition of a gentleman to say he is one
+who never inflicts pain.” Importantly, although these qualities of a gentleman are desirable,
+
+¶12 > They are no guarantee for sanctity or even for conscientiousness, they may attach to the man
+> of the world, to the profligate, to the heartless,—pleasant, alas, and attractive as he shows when
+> decked out in them. Taken by themselves, they do but seem to be what they are not; they look like
+> virtue at a distance, but they are detected by close observers …
+
+¶13 Newman’s gentleman appears to possess the fullness of virtue but remains in need of religious
+instruction. Similarly, the university appears autonomous but in fact must be subordinated to a
+pastoral mission in order practically to justify its pursuit of knowledge for its own sake. When it
+abandons its pastoral mission—when it degenerates from the Christian university into the liberal
+university—it is already on the path to the complexiversity’s emptiness.
+
+* * *
+
+¶14 *The Victim*. Almost a century after Newman, Wystan Hugh Auden (poet, playwright, public
+intellectual) penned a highly Newmanian lament for the state of the modern university, and gave it
+the highly Newmanian title “Under Which Lyre: A Reactionary Tract for the Times” [1946]. Delivered
+at Harvard University just as the military-industrial-research complex was shifting from hot to cold
+war, this poem takes up Newman’s metaphor of a struggle for intellectual territory:
+
+¶15 >     Let Ares doze, that other war
+>     Is instantly declared once more
+>        ’Twixt those who follow
+>     Precocious Hermes all the way
+>     And those who without qualms obey
+>         Pompous Apollo.
+
+¶16 “Hermes” and “Apollo” here name what Auden saw as the rival factions of his era:
+
+¶17 >     The sons of Hermes love to play
+>     And only do their best when they
+>         Are told they oughtn’t;
+>     Apollo’s children never shrink
+>     From boring jobs but have to think
+>         Their work important.
+
+¶18 The triumph of Apollo, Auden fears, will mean the university’s demise:
+
+¶19 >     And when he occupies a college,
+>     Truth is replaced by Useful Knowledge;
+>         He pays particular
+>     Attention to Commercial Thought,
+>     Public Relations, Hygiene, Sport,
+>         In his curricula.
+
+¶20 Recognizing the ascendancy of the Apollonians, Auden recommends that the Hermetics adopt
+guerrilla tactics:
+
+¶21 >     Thou shalt not answer questionnaires
+>     Or quizzes upon World-Affairs,
+>        Nor with compliance
+>     Take any test. Thou shalt not sit
+>     With statisticians nor commit
+>        A social science.
+
+¶22 It is tempting, reading this poem, to side with the Hermetics—and to be sure, that is where
+Auden’s sympathies lie. But, a better reading is that both Hermetics and Apollonians are in the grip
+of an illusion only religious revelation can dissolve. The illusion is that they differ more than
+they resemble one another. Auden’s 1955 poem “Vespers” narrates the bursting of his own hermetic
+bubble, in a chance encounter between himself and an Apollonian (though he now renames the dichotomy
+as between nostalgic Arcadian and revolutionary Utopian). Each instinctively hates the other, but it
+is this hatred that reveals to them their similarity,
+
+¶23 >     forcing us both, for a fraction of a second, to remember our victim (but for him I could forget the blood, but for me he could forget the innocence)
+>     on whose immolation (call him Abel, Remus, whom you will, it is one Sin Offering) arcadias, utopias, our dear old bag of a democracy, are alike founded:
+>     For without a cement of blood (it must be human, it must be innocent) no secular wall will safely stand.
+
+¶24 Which is to say that Auden’s account of the academic rivalry of Hermes and Apollo is Girardian
+avant la lettre. René Girard (another polymath; his work touched on literature, psychology,
+anthropology, theology) didn’t write much about university politics, but his thought is highly
+relevant to them—not his often-caricatured concept of mimetic desire, but rather his account of how
+mimetic desire fits into salvation history [e.g., *Things Hidden Since the Foundation of the World*,
+1978]. That account proceeds in four stages:
+
+¶25 (a) *Mimetic desire and conflict*. When Alice desires what Beatrice possesses, it’s (often) not
+really about whatever material good is in dispute, but about Alice’s desire to take Beatrice’s
+place. Conflict between them is inevitable, irresoluble, and takes the form of Alice coming to
+resemble Beatrice.
+
+¶26 (b) *The scapegoat mechanism*. As mimetic conflict spreads through a society, rendering everyone
+increasingly indistinguishable, social order can be restored by singling out a scapegoat, someone to
+blame for the conflict, and sacrificing them. This sacrifice restores a sense of sacred boundaries,
+and so social order—and this restoration is taken to confirm the scapegoat’s alleged guilt.
+
+¶27 (c) *Christian revelation*. The gospel, among other things, reveals to us that the victim was no
+more responsible for the mimetic contagion than anyone else, and thus that the scapegoat mechanism
+is based on lies. Once this is understood, the mechanism stops working; people still engage in
+scapegoating, but it is increasingly ineffective, and traditional hierarchies become increasingly
+untenable.
+
+¶28 (d) *Anti-Christianity*. Once the scapegoat mechanism can no longer function, an attempt is made
+to restore social order through a new religion, the worship of victimhood. As Girard puts it in *I
+See Satan Fall Like Lightning* [1999], what emerges is a totalitarianism which “takes over and
+‘radicalizes’ the [Christian] concern for victims in order to paganize it.” Unfortunately, this
+aping of Christianity doesn’t bring peace, but sparks a new conflict over whose victimhood will be
+recognized. When victims are worshipped, the claim to victimhood becomes a kind of aggression.
+
+¶29 A Girardian genealogy of the complexiversity would look something like the following. Having
+excluded religion and revelation, the liberal university at first produced gentlemen, that is, men
+who, having acquired a large knowledge of science and literature, sought never to inflict pain. This
+desire to avoid giving pain extended to the drawing of boundaries between the disciplines, in effect
+a mimetic conflict. But the liberal university slowly lost sight of what made the complacency of
+such gentlemen desirable. Today it produces not gentlemen, but on the one hand utilitarian
+scientists who seek to minimize the occurrence of pain by whatever means necessary, and on the other
+anarchic litterateurs who seek through irresponsible play to demonstrate their sensitivity for the
+wounds of the world. These seem opposed, but phenomena like D.E.I. mathematics show their deeper
+agreement. Lacking what Newman called “religious respect” for the boundaries between the
+disciplines, the pain-reducing sciences voluntarily abnegate themselves in order to honor the claims
+of victimhood studies.
+
+* * *
+
+¶30 *The College of the Whale*. Once religious respect is gone, it can’t easily be regained. Where
+can the university go from here? Well—a professor of my acquaintance once dreamed of founding a
+college whose curriculum centered on Herman Melville’s *Moby-Dick; or, The Whale*. The reading list
+for each course would begin the same way; after all, the book contains within itself not only all of
+American literature and history, but also philosophy, biology, geography, and more.
+
+¶31 The most natural senior project to assign at such a college would be the drafting of an
+additional chapter of *Moby-Dick*. Not that there is room for such a chapter, or that the book is in
+any way incomplete, but (despite the premise of this imagined college) we must acknowledge that many
+facts about whales have been discovered in recent years that would have been the perfect topic for a
+new chapter to go somewhere between 55 and 105, had Melville known of them. One student might write
+about how whales speak to one another, and raise the speculative theory that it was men who taught
+the whales to speak, by hunting them. Another might write about how the largest whale arteries are
+broad enough for a man to swim in. Another could compare whale-fall—when a whale’s corpse falls to
+the ocean floor and sustains for decades a whole city of fish, crabs, and the like—to the death of
+God and the flourishing of artistic modernism.
+
+¶32 The College of the Whale might be only the first of a whole consortium. I have known other
+scholars who would dream of doing the same with Plato’s *Republic*, Dante’s *Divina Commedia*, or
+Goethe’s *Faust*. When enough colleges had come into being, they could launch a graduate program.
+Its qualifying exams could take as their subject the set of the various colleges’ foundational
+books, with a student’s dissertation required to be on some book other than these. Apart from the
+founding members, only persons having received doctorates from the graduate program would be
+eligible to start new colleges in the consortium. Eventually the consortium would be sufficiently
+large that the graduate program would be impossible to complete, and no further graduate students
+could be admitted. Soon thereafter, the set of consortium members would be deemed closed.
+
+¶33 So long as colleges in the consortium were limited to sufficiently universal works, there would
+be no defect in the depth or breadth of any consortium student’s education. A student at the College
+of the Whale, for example, would know *Moby-Dick* better than almost any English major at an
+ordinary college, and would at the same time know more of medicine than the average classics major,
+more of Greek than the average biology major, and so on. And so long as all the colleges in the
+consortium shared a city, which is to say, so long as the consortium developed into a university, no
+consortium student would have a false picture of the centrality of his own college’s chosen
+perspective. Each student would know that he had read *Moby-Dick*, or the *Divina Commedia*, or
+*Faust*, not because it is the one book all men must study, but because it is the book chosen for
+study by the particular community the student joined. Such contingency is unavoidable, since there
+can be no universal volume any more than there can be a universal language—each attempt is simply
+another particular volume or particular language clamoring for attention.
+
+¶34 What a consortium education wouldn’t provide—and this is the point—is a sense for generally
+accepted disciplinary boundaries. A consortium student would have only a notional understanding of
+what ordinary academic institutions mean by labels like “English,” “classics,” “biology.” The task
+of translating ordinary interdepartmental politics into consortium terminology would be difficult,
+if not necessarily impossible (factor analysis might reveal, for example, that Melville tilts toward
+politics, Goethe toward science, Dante toward theology). Whenever consortium members reentered the
+ordinary academic world, they would feel themselves in it, but not of it, and its line-drawing would
+seem to them as arbitrary as the lines on a map seem to the cosmopolitans churned out by ordinary
+universities. In time they would learn that the lines are less arbitrary than they seem. That
+experience might make them more willing to take seriously the same proposition about ordinary
+political boundaries. It is in some such roundabout way, if at all, that we can recover proper
+understanding of the empire of the intellect.

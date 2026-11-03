@@ -1,0 +1,183 @@
+# [1.2] Knowing Falsehoods
+Tom G. Turner — University of St. Isidore — February 2026
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-1-2
+Foreword gloss: repays the favor by reviewing Law Hayward’s Science Mythology
+
+¶1 E. Lawrence Hayward’s new book *Science Mythology* [2025] does not call itself a history of
+science fiction, and indeed avoids the term entirely. Instead, it purports to study the mythology of
+science, and how that mythology developed from the end of the nineteenth to the late twentieth
+century. By “science,” Hayward means how we come to know useful things about the world; by
+“mythology,” the stories we tell ourselves about how things work, to reassure ourselves that they
+usually do work and to admit to ourselves that sometimes they don’t.
+
+¶2 Hayward refuses to begin at a typical beginning, like Mary Shelley’s *Frankenstein* [1818]. The
+mythology of science proper, he argues, does not begin until the emergence—not of the “natural
+philosopher”—but of the “scientist,” the protagonist of the scientific enterprise, first named
+around 1840 and (if we trust Google N-Grams) only widely known around the fin de siècle, roughly
+coinciding with the first part of Hayward’s book. The second part roughly tracks the term’s rapid
+ascendancy between 1900 and 1960, which period also saw popular adoption of words for all the
+various species of scientist, e.g., “physicist,” “biologist,” “linguist.” And the third part
+considers the scientist in the sixties and seventies, when science’s stock was about to fall.
+Hayward’s thesis is that these three periods marked three epochs in our myths about what science is.
+
+¶3 The first epoch is that of “amateur science,” meaning non-professionalized science but not only
+that. An amateur acts from love. Plato’s Aristophanes taught us that for us, love is the longing of
+the part for the whole; Plato’s Socrates’s Diotima then taught that the highest love is love of
+knowledge [*Symposium*, c.375 BC]. For this latter teaching to be for us requires also that we
+ourselves be part of knowledge. Hayward begins the myth of amateur science with E.A. Abbott’s
+*Flatland* [1884], which Hayward associates with what he calls an allotrope of amateur science,
+deductive science. The method of *Flatland* is to rebuild the entire world along Euclidean lines.
+First, from the postulate that our hero is “A. Square,” Abbott derives a satirical Victorian world
+of working-class triangles, gentleman squares and pentagons, hexagonal minor nobility, etc., with
+women as line segments whose rear ends sway rhythmically to alert others to their invisible
+sharpness. Then, Abbott shows how a previously unknown axiom, in the form of a spherical angel, can
+descend out of the blue with news of a third dimension. The unstated Pythagorean corollary, Hayward
+argues, is that we human beings are also mathematical objects, only we are too complex to see it, as
+the visiting Sphere later resists the possibility of a Hypersphere.
+
+¶4 I do not, I must say, think Hayward is right to call *Flatland* Pythagorean. Rather, Abbott is
+Platonist, recognizing not an identity but an analogy between mathematics and metaphysics, and
+indeed Christian Platonist, believing that for our knowledge to rise up the chain of being requires
+outside help, and a bit of humility. And yet, quite plausibly for a turn-of-the-century Anglican
+clergyman, Abbott is impressively committed to social-darwinian worldbuilding. The combination is
+generative. Abbott lays out in detail how the mass of isosceles triangles lack a sufficiently broad
+brain-angle to engage in abstract thought, then through the generations gradually widen, become
+equilateral, gain sides, and thus rise in intellectual capacity while falling in both fertility and
+capacity for violence. “How perfect a proof of the natural fitness and, I may almost say, the divine
+origin of the aristocratic constitution of the States of Flatland!” But the Sphere appears first not
+to a pseudo-circular priest but to a square solicitor, as Christ came in the form of a carpenter’s
+son.
+
+¶5 The protagonist of H.G. Wells’s *The Time Machine* [1895] is also a gentleman scholar, and a
+discoverer of new dimensions. In Hayward’s telling, *The Time Machine* exemplifies a second
+allotrope of amateur science: experimental science, science developing across physical rather than
+logical time. *Flatland* pictures a rational Euclidean world, only for the plot to turn on a
+revelatory experience; the Time Traveler spends his time striving to acquire knowledge, only to make
+the great discovery that time itself is an illusion. The world’s temporal order is really
+architectural, the natural-history exhibits in the ruined Palace of Green Porcelain the same no
+matter in what order the Traveler wanders through them.
+
+¶6 Hayward asserts, and I know no reason to doubt him, that Wells here invents that peculiar species
+of narrative irony in which the protagonist explores an alien world, only for him and the reader to
+realize in tandem that it is all too familiar. But unlike later iterations, Hayward points out,
+Wells’s Time Traveler has no moment of shocked recognition; rather, he takes innumerable
+observations, makes predictions based on them, and waits for the data to bear them out: “My museum
+hypothesis was confirmed.” The Traveler is a scientist after the Darwinian rather than Galilean
+model. His science is too complex to be reduced to formulae; even his enclosed laboratory
+experiments open out, along a newly discovered direction, onto field studies.
+
+¶7 But the Traveler is a particular and not very accurate version of the Darwinian scientist, one
+whose experimental movement through the world occurs in solitude. Hayward’s third chapter turns to a
+novel more attuned to how Darwin’s voluminous correspondence linked him to proto-scientists across
+the globe, and finds in it a third allotrope of amateur science: library science. Bram Stoker’s
+*Dracula* [1897] is a case file of various characters’ contemporaneous memoranda, in formats ranging
+from phonograph to telegraph to carbon copy; the book’s climax comes when two characters collate and
+cross-reference until they finally understand their situation. The reader believes that he has
+understood that situation sooner, but it turns out that reader and protagonists understand it at the
+same time, i.e., immediately after reading the documents constituting the first half of the book.
+
+¶8 As Hayward remarks, this supernatural element should not lead us to doubt that the understanding
+qualifies as science, given that efforts to develop a science of the spiritual remained widely
+popular (if not quite scientifically defensible) well into the early twentieth century. Professor
+Van Helsing specializes in those efforts, and so is not an amateur in the word’s usual sense.
+Neither, for that matter, are the doctor John Seward, the solicitor Jonathan Harker, or even the
+cowboy Quincey Morris. Only Arthur Holmwood, Lord Godalming, has no profession, and his primary
+contributions are monetary rather than intellectual. The flirtatious Lucy selects Arthur as her
+fiancé from among the three rival suitors, a choice Hayward sees as the reason she succumbs to the
+aristocratic superstition of the novel’s antagonist. Mina, more restrained, teaches herself
+shorthand so that “when we are married I shall be able to be useful to Jonathan.” Library science,
+Hayward concludes, can defeat the powers of evil only if we find ourselves useful wives (or marry
+our secretaries).
+
+¶9 Though Hayward does not remark on it, each of these first three books is a love story: the
+through-line of *Flatland* is A. Square’s tense relationship with his one-dimensional wife; the
+melancholy of *The Time Machine* is heightened by the Traveler’s brief affair with a sexually
+available native of the future; and *Dracula* revolves around two love polygons,
+Lucy-John-Quincey-Arthur-Count and Mina-Jonathan-Count. Love stories, as I have observed elsewhere,
+do not generally admit of sequelae. But each of these books has myriad continuations, albeit not
+written by the original author, and albeit the only ones worth reading are Dionys Burger’s
+*Sphereland: A Fantasy About Curved Spaces and an Expanding Universe* [1957] and Gene Wolfe’s
+“Suzanne Delage” [1980]. Hayward would say, I think, that most continuations fail because they
+abandon the original’s amateur science in favor of a later myth: science that goes of itself,
+without need for a beloved. The second part of Hayward’s book explores automatic science’s two
+allotropes, race science and computer science.
+
+¶10 Hayward traces the myth of race science through Edgar Rice Burroughs to H.P. Lovecraft and
+Robert E. Howard. “Race science” is not social darwinism, exactly, and indeed takes issue with
+social darwinism, though not for the usual reason. Burroughs’s *A Princess of Mars* [1912] critiques
+the Tharks not for applying principles of selection to rational animals, but for subordinating
+individual to societal fitness. Hayward reads Lovecraft’s “At the Mountains of Madness” [1931] to
+concur in this equation of social darwinism with socialism, and says that Howard’s stories are so
+resolutely individualist that they hardly allow the prospect of central planning to come into view.
+John Carter and Conan [e.g., “The Scarlet Citadel,” 1933] do not fight for humanity, but for
+themselves; Lovecraft’s heroes hardly fight at all, instead striving to understand the darkness
+roiling around them, and perishing in the attempt, having observed the race too closely to run it
+well. The myth (and pun) of race science is that true understanding is a byproduct of living: John
+Carter masters xenoanthropology by conquering Barsoom; Conan masters prehistory by conquering
+Aquilonia. These invented place-names are among the myth’s stylistic notes. “Race” runs in the
+blood, but also the tongue. To invent a language is to invent a people who speak it, and vice versa,
+and both must be traced to their roots.
+
+¶11 Hayward gestures at one point in this chapter toward the adventure fiction of H. Rider Haggard
+and Rudyard Kipling, and I see his point: while they hewed closer to reality, these antecedents
+shared the pulp writers’ interest in knowledge gained through adventure. My one complaint is that
+Hayward makes no mention of J.R.R. Tolkien (from whom I paraphrased the first clause of the last
+sentence of the previous paragraph). The Legendarium [e.g., “The Tale of Tinúviel,” 1977 [1917]]
+shares the concern of the Cthulhu Mythos and the Conan Cycle for the individual’s relation to his
+philological-biological lineage. And its sprawl further supports Hayward’s thesis that the myth of
+race science admits no natural stopping point; there can always be another cosmic horror, another
+snake cult, another fucking elf. But Tolkien’s appreciation for hierarchy might prompt some
+revisions to Hayward’s thesis that the myth of race science tends toward egoism.
+
+¶12 The myth of computer science, Hayward explains in his fifth chapter, is also endlessly iterative
+(hence also an allotrope of automatic science). But it iterates differently, by permutation rather
+than metamorphosis. Hayward illustrates these permutations by discussing almost as many authors here
+as in the rest of the book put together, including several only an aficionado of the “Golden Age of
+Science Fiction” would bother with. Yet Hayward cannot bring himself to consider this age golden,
+and indeed seems to find its basic premises faulty. He begins with three 1941 tales, Robert
+Heinlein’s “Universe,” Isaac Asimov’s “Nightfall,” and Theodore Sturgeon’s “Microcosmic God.” The
+first recasts the Galilean credo—“Nevertheless, it still moves!”—as the basically random discovery
+of a youth wandering around what he finds to be a generation starship. The second highlights the
+role of chance in the very possibility of Galilean insight; in a six-star solar system, one would
+see the stars so rarely that the epoch-defining titular event would drive one mad. In the third, a
+mad scientist speedruns the evolution of intelligent life so as to steal his creations’ inventions.
+In Hayward’s telling, this trilogy presents in miniature the project of the SF short story, which
+amounted to a kind of Mad-Libs: spool out X scientific principle in Y context with a Z hero, dash in
+some W sentiment so it’s not too autistic, and see if the result holds water.
+
+¶13 Yet Hayward still finds in these stories moments of greatness. He is particularly enthusiastic
+about Cordwainer Smith’s “Scanners Live in Vain” [1950], where the void of space can only be borne
+by a special class of men who have surgically inserted a regulator between brain and body. He spends
+perhaps too many words attacking Tom Godwin’s “The Cold Equations” [1954], which plays out in more
+hamhanded fashion the same psychopathy of space. The chapter closes with Arthur C. Clarke’s “The
+Nine Billion Names of God” [1953] and Asimov (again)’s “The Last Question” [1956], in which the
+theme of computation becomes explicit. The point of computers, these authors agree, is to bring the
+world (and thus the task of making sense of it) to an end, a project they accomplish by attempting
+every possible combination.
+
+¶14 So much for automatic science. The third part of Hayward’s book looks at three novels from the
+end of the Long 1960s: Philip K. Dick’s *Do Androids Dream of Electric Sheep?* [1968], Ursula K. Le
+Guin’s *The Left Hand of Darkness* [1969], and Gene Wolfe’s *The Fifth Head of Cerberus* [1972]. We
+might have expected Hayward to title this part “human science,” given that all three books feature
+anthropologists as their main characters. Instead, he names the myth of this epoch “alien science,”
+in the sense, I suppose, of Rimbaud’s “Je est un autre.” If he were writing a literary history,
+Hayward might have observed that it is with these and similar authors that literary modernism first
+eddied into the stream of science fiction (Dick read Kafka; Le Guin, Woolf; Wolfe, Proust). Since he
+isn’t, he instead argues that the novels of this period turn inward out of a sense of exhaustion:
+the turbine of automatic science had brought humanity to the moon, but we still did not know what it
+meant to be human. The three “alien science” chapters spin out three different allotropes: *Do
+Androids Dream* dramatizes “soul science,” in that the hero Deckard comes to doubt how he can know
+that he has one; *Left Hand* explores “sex science,” with Genly Ai experiencing a Tiresian moment of
+ambisexual knowing, only for the moment to pass and be forgotten; the three novellas of *Fifth Head*
+approach “self science” from three distinct angles, tending to suggest that selfhood requires some
+inarticulable synthesis.
+
+¶15 Hayward’s readings of Dick, Le Guin, and Wolfe are persuasive, though by the later chapters of a
+book such as *Science Mythology* one begins to fear that literary criticism is not immune to the
+temptation of automatic science. For purposes of this review there is no need for further summary;
+the reader interested in knowing more is advised to read first the novels under discussion, and then
+Hayward’s account of them. I will close by observing, as Hayward does not, that all three titles
+consist of the word “of” between two phrases of uncertain referent. “Of” always rhymes with “love.”
+We thus return again to the dominant note of science mythology, the part’s obscure longing to
+understand the whole.

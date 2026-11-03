@@ -1,0 +1,918 @@
+# [coke-reports-verse/case-table] The Names of the Cases
+From: The Reports of Sir Edward Coke, Kt. In Verse (1742; digitized edition 2026), by an anonymous
+  18th c. poet, edited by A. Clanker as directed by E. Lawrence Hayward
+URL: https://j-e-scriptorium.github.io/coke-reports-verse.html#case-table
+
+¶1 - Case | Part | Fol.
+
+¶2 - Abbot's Case | 9 | 24
+
+¶3 - Abergaveny | 6 | 78
+
+¶4 - Acton's | 4 | 117
+
+¶5 - Adam's | 4 | 104
+
+¶6 - Albany's | 1 | 110
+
+¶7 - Alden's | 5 | 105
+
+¶8 - Aldred's | 9 | 57
+
+¶9 - Altham's | 8 | 150
+
+¶10 - Alton-Woods Case | 1 | 40
+
+¶11 - Ambrosia Gorge's | 6 | 22
+
+¶12 - Anderson's | 7 | 21*
+
+¶13 - Archer's | 1 | 66
+
+¶14 - Arundel's | 6 | 14
+
+¶15 - Ascough's | 9 | 134
+
+¶16 - Ashpole's | 7 | 6
+
+¶17 - Avowry | 9 | 20
+
+¶18 - Ayray's | 11 | 18
+
+¶19 - Bagge's | 11 | 93
+
+¶20 - Baker's | 5 | 104
+
+¶21 - Baldwin's | 2 | 23
+
+¶22 - Bane's | 9 | 93
+
+¶23 - Bankrupts | 2 | 25
+
+¶24 - Barham's | 4 | 20
+
+¶25 - Barretry | 8 | 36
+
+¶26 - Barrington's | 8 | 136
+
+¶27 - Barwick's | 5 | 93
+
+¶28 - Baskervil's | 7 | 28*
+
+¶29 - Baspole's | 8 | 97
+
+¶30 - Baten's | 9 | 52
+
+¶31 - Bath's | 6 | 34
+
+¶32 - Bayneham's | 5 | 36
+
+¶33 - Beaumont's | 9 | 138
+
+¶34 - Beawfage's | 10 | 99
+
+¶35 - Beckwith's | 2 | 56
+
+¶36 - Bedell's | 7 | [40]
+
+¶37 - Bedford's | 7 | 7
+
+¶38 - Bedingfield's | 9 | 15
+
+¶39 - Beecher's | 8 | 58
+
+¶40 - Bellamy's | 6 | 38
+
+¶41 - Bentham's | 11 | 56
+
+¶42 - Beresford's | 7 | [41]
+
+¶43 - Bettisworth's | 2 | 31
+
+¶44 - Beverley's | 4 | 123
+
+¶45 - Bevil's | 4 | 8
+
+¶46 - Bewley's | 9 | 130
+
+¶47 - Biggen's | 5 | 50
+
+¶48 - Bingham's | 2 | 91
+
+¶49 - Bishop's | 5 | 37
+
+¶50 - Blakamore's | 8 | 156
+
+¶51 - Blake's | 6 | 43
+
+¶52 - Blithe's Case | 4 | 15
+
+¶53 - Blumfield's | 5 | 86
+
+¶54 - Boham's | 8 | 114
+
+¶55 - Bohun's | 5 | 43
+
+¶56 - Booth's | 5 | 77
+
+¶57 - Boraston's | 3 | 19
+
+¶58 - Boroughes's | 4 | 72
+
+¶59 - Boswel's | 6 | 48
+
+¶60 - Bothy's | 6 | 30
+
+¶61 - Boulston's | 5 | 104
+
+¶62 - Bowle's | 11 | 79
+
+¶63 - Boyton's | 3 | 47
+
+¶64 - Bozoun's | 4 | 35
+
+¶65 - Bradshaw's | 9 | 60
+
+¶66 - Brediman's | 6 | 56
+
+¶67 - Bredon's | 1 | 76
+
+¶68 - Brittridge's | 4 | 18
+
+¶69 - Broughton's | 5 | 24
+
+¶70 - Brown's | 3 | 50
+
+¶71 - 〃 | 4 | 21
+
+¶72 - Brudnel's | 5 | 9
+
+¶73 - Bruerton's | 6 | 1
+
+¶74 - Buckhurst's | 1 | 1
+
+¶75 - Buckler's | 2 | 55
+
+¶76 - Buckmere's | 8 | 86
+
+¶77 - Bucknal's | 9 | 33
+
+¶78 - Bullen's | 6 | 77
+
+¶79 - Bullock's | 4 | 23
+
+¶80 - Bulwer's | 7 | 1*
+
+¶81 - Bunting's | 4 | 29
+
+¶82 - Burrel's | 6 | 72
+
+¶83 - Burton's | 5 | 69
+
+¶84 - Bury's | 5 | 98
+
+¶85 - Bustard's | 4 | 121
+
+¶86 - Butler and Baker's | 3 | 25
+
+¶87 - Butler and Goodale's | 6 | 21
+
+¶88 - Butt's | 7 | 23*
+
+¶89 - Byrchley | 4 | 16
+
+¶90 - Calvin's | 7 | 1
+
+¶91 - Calye's | 8 | 32
+
+¶92 - Canterbury's | 2 | 46
+
+¶93 - Capel's | 1 | 61
+
+¶94 - Carpenter's (Six) | 8 | 146
+
+¶95 - Catesby's | 6 | 61
+
+¶96 - Caudrey's | 5 | 1
+
+¶97 - Cecil's | 7 | 18*
+
+¶98 - Chamberlain of London's | 5 | 62
+
+¶99 - Chando's | 6 | 55
+
+¶100 - Chedington | 1 | 153
+
+¶101 - Chester-Mill | 10 | 137
+
+¶102 - Cheyney's | 5 | 68
+
+¶103 - 〃 | 10 | 118
+
+¶104 - Cholmely's | 2 | 50
+
+¶105 - Chudleigh's | 1 | 120
+
+¶106 - Churchwarden's | 10 | 66
+
+¶107 - Clark's | 5 | 64
+
+¶108 - Clayton's | 5 | 1*
+
+¶109 - 〃 | 5 | 70
+
+¶110 - Clere's | 6 | 17
+
+¶111 - Clifton's | 4 | 27
+
+¶112 - 〃 | 5 | 75
+
+¶113 - Clunn's | 10 | 127
+
+¶114 - Codwell's | 5 | 42
+
+¶115 - Collier's | 6 | 16
+
+¶116 - Combes's | 9 | 75
+
+¶117 - Conny's | 9 | 84
+
+¶118 - Constable's | 5 | 106
+
+¶119 - Cook's | 5 | 46
+
+¶120 - Corbet's | 1 | 83
+
+¶121 - 〃 | 4 | 81
+
+¶122 - 〃 | 7 | 5*
+
+¶123 - Corporation | 4 | 77
+
+¶124 - Coulter's | 5 | 30*
+
+¶125 - Countess of Salop's | 5 | 13*
+
+¶126 - Covenants | 5 | 16*
+
+¶127 - Crogate's | 8 | 66
+
+¶128 - Cromwell (Lord) | 2 | 69
+
+¶129 - Cromwell and | 4 | 27
+
+¶130 - Cumberland | 8 | 166
+
+¶131 - Cuppledike's | 3 | 5
+
+¶132 - Curle's | 11 | 2
+
+¶133 - Curson's | 6 | 75
+
+¶134 - Customs | 8 | 121
+
+¶135 - Cutler and Dixon's | 4 | 12
+
+¶136 - Darcy's | 6 | 70
+
+¶137 - Davenport's | 8 | 144
+
+¶138 - Davis's | 4 | 16
+
+¶139 - De la Ware's | 11 | 1
+
+¶140 - Deal's | 4 | 23
+
+¶141 - Devonshire | 11 | 89
+
+¶142 - Digby's | 4 | 78
+
+¶143 - 〃 | 8 | 165
+
+¶144 - Digg's | 1 | 173
+
+¶145 - Discontinuance of | 7 | 29
+
+¶146 - Doddington's | 2 | 32
+
+¶147 - Dormer's | 5 | 40*
+
+¶148 - Dowdale's | 6 | 46
+
+¶149 - Dowman's | 9 | 7
+
+¶150 - Down's | 4 | 29
+
+¶151 - Dowty's | 3 | 9
+
+¶152 - Drury's | 6 | 73
+
+¶153 - Drury's (Dr.) | 8 | 141
+
+¶154 - Drywood's | 5 | 48
+
+¶155 - Dumpor's | 4 | 119
+
+¶156 - Ecclesiasticks | 5 | 14*
+
+¶157 - Eden's | 6 | 15
+
+¶158 - Edrich's | 5 | 118
+
+¶159 - Elmer's | 5 | 2*
+
+¶160 - Englefield's | 7 | 11*
+
+¶161 - Famous Libel | 5 | 125
+
+¶162 - Fermor's | 3 | 77
+
+¶163 - Ferrer's | 6 | 7
+
+¶164 - Finch's | 6 | 39
+
+¶165 - 〃 | 6 | 63
+
+¶166 - Fine | 7 | 32
+
+¶167 - Fines | 3 | 84
+
+¶168 - Fitz-Williams's | 6 | 32
+
+¶169 - Fitzherbert's | 5 | 79
+
+¶170 - Fleetwood's | 8 | 171
+
+¶171 - Flower's | 5 | 9
+
+¶172 - Floyer's | 9 | 125
+
+¶173 - Foliamb's | 5 | 115
+
+¶174 - Foord's | 5 | 81
+
+¶175 - Force's | 4 | 60
+
+¶176 - Foster (Dr.) | 11 | 56
+
+¶177 - Foster's | 5 | 59
+
+¶178 - 〃 | 8 | 64
+
+¶179 - Fox's | 8 | 93
+
+¶180 - Foxley's Case | 5 | 109
+
+¶181 - Foxton's | 4 | 23
+
+¶182 - Franklyn's | 5 | 46
+
+¶183 - Frauncis's | 8 | 89
+
+¶184 - Freeman's | 5 | 45
+
+¶185 - French's | 4 | 31
+
+¶186 - Frost's | 5 | 89
+
+¶187 - Fulwood's | 4 | 64
+
+¶188 - Gage's | 5 | 46
+
+¶189 - Gardiner's | 5 | 37
+
+¶190 - Garnon's | 5 | 88
+
+¶191 - Gatewood's | 6 | 59
+
+¶192 - Gerrard's | 4 | 18
+
+¶193 - Goddard's | 2 | 4
+
+¶194 - Godfrey's | 11 | 42
+
+¶195 - Gooch's | 5 | 60
+
+¶196 - Goodall's | 5 | 95
+
+¶197 - Gore's | 9 | 81
+
+¶198 - Gorge's | 6 | 22
+
+¶199 - Graunt's | 11 | 15
+
+¶200 - Gray's | 5 | 78
+
+¶201 - Greene's | 6 | 29
+
+¶202 - Gregory's | 6 | 19
+
+¶203 - Greneley's | 8 | 71
+
+¶204 - Griesley's | 8 | 38
+
+¶205 - Hale's | 8 | 172
+
+¶206 - Hall and Stanley's | 10 | 68
+
+¶207 - Hall's | 5 | 51
+
+¶208 - 〃 | 7 | 25*
+
+¶209 - Halling's | 5 | 22*
+
+¶210 - Hargrave's | 5 | 31*
+
+¶211 - Harlakendon's | 4 | 62
+
+¶212 - Harpur's | 11 | 23
+
+¶213 - Harrison's | 5 | 28*
+
+¶214 - Helyer's | 6 | 24
+
+¶215 - Hensloe's | 9 | 36
+
+¶216 - Henstead's | 5 | 10*
+
+¶217 - Herbert's | 3 | 11
+
+¶218 - Hext's | 4 | 15
+
+¶219 - Heydon's | 3 | 7
+
+¶220 - 〃 | 11 | 5
+
+¶221 - Heyward's | 2 | 35
+
+¶222 - Hickmot's | 9 | 51
+
+¶223 - Higgen's | 6 | 44
+
+¶224 - Higgenbottom's | 5 | 19*
+
+¶225 - Hoe's | 4 | 30
+
+¶226 - 〃 | 5 | 70
+
+¶227 - 〃 | 5 | 89
+
+¶228 - Holt's | 9 | 131
+
+¶229 - Hubbert's | 4 | 27
+
+¶230 - Hudson's | 4 | 43
+
+¶231 - Hume's | 4 | 42
+
+¶232 - Hungate's | 5 | 103
+
+¶233 - Hussey's | 9 | 71
+
+¶234 - Hynd's | 4 | 70
+
+¶235 - Isle of Ely's | 10 | 141
+
+¶236 - Ive's | 5 | 11*
+
+¶237 - James's | 4 | 17
+
+¶238 - Jeffrey's | 5 | 66
+
+¶239 - Jenning's | 10 | 43
+
+¶240 - Jentleman's | 6 | 11
+
+¶241 - Jewel's | 5 | 3*
+
+¶242 - Keighley's Case | 10 | 139
+
+¶243 - Kenn's | 7 | [42]
+
+¶244 - Kite's | 4 | 25
+
+¶245 - Knight's | 5 | 54
+
+¶246 - Knivet's | 5 | 85
+
+¶247 - Lamb's | 5 | 23*
+
+¶248 - 〃 | 9 | 59
+
+¶249 - Lampet's | 10 | 46
+
+¶250 - Lane's | 2 | 16
+
+¶251 - Laughter's | 5 | 21
+
+¶252 - Lechford's | 8 | 99
+
+¶253 - Legate's | 10 | 109
+
+¶254 - Leyfield's | 10 | 88
+
+¶255 - Libellers | 5 | 125
+
+¶256 - Liford's | 11 | 46
+
+¶257 - Lillingston's | 7 | [38]
+
+¶258 - Lincoln's | 3 | 58
+
+¶259 - Linne Regis | 10 | 122
+
+¶260 - Littleton's | 5 | 47
+
+¶261 - Lofield's | 10 | 106
+
+¶262 - London | 8 | 121
+
+¶263 - Long's | 5 | 120
+
+¶264 - Loveday's | 8 | 65
+
+¶265 - Lovies's | 10 | 78
+
+¶266 - Lowe's | 9 | 122
+
+¶267 - Luttrel's | 4 | 86
+
+¶268 - Mackalley's | 9 | 65
+
+¶269 - Magdalen College | 11 | 66
+
+¶270 - Main's | 5 | 20*
+
+¶271 - Mallory's | 5 | 111
+
+¶272 - Manning's | 8 | 94
+
+¶273 - Markal's | 6 | 3
+
+¶274 - Market overt | 5 | 83
+
+¶275 - Marshalsea | 10 | 68
+
+¶276 - Marys's | 9 | 111
+
+¶277 - Mathewson's | 5 | 22*
+
+¶278 - Maund's | 7 | 28*
+
+¶279 - Mayowe's | 1 | 146
+
+¶280 - Melwich's | 4 | 26
+
+¶281 - Mene's | 9 | 133
+
+¶282 - Metcalf's | 11 | 38
+
+¶283 - Michelborn's | 6 | 20
+
+¶284 - Middleton's | 5 | 28*
+
+¶285 - Might's | 8 | 163
+
+¶286 - Milborn's | 7 | 6*
+
+¶287 - Mildmay's | 6 | 40
+
+¶288 - Mill's | 5 | 126
+
+¶289 - Mitton's | 4 | 32
+
+¶290 - Molyn's | 6 | 5
+
+¶291 - Monopolies | 11 | 84
+
+¶292 - Morrice's | 6 | 12
+
+¶293 - Mountague's | 6 | 27
+
+¶294 - Mountjoy's | 5 | 3*
+
+¶295 - Murrel's | 4 | 24
+
+¶296 - Nedham's | 8 | 135
+
+¶297 - Nevil's | 7 | 33
+
+¶298 - Nevil's (Sir Hen.) | 11 | 17
+
+¶299 - Nichols's | 5 | 43
+
+¶300 - Noke's | 4 | 80
+
+¶301 - Northumberland's | 5 | 97
+
+¶302 - Norwich's | 3 | 73
+
+¶303 - Ognel's Case | 4 | 48
+
+¶304 - Oland's | 5 | 116
+
+¶305 - Orphans of London | 5 | 73
+
+¶306 - Osborn's | 10 | 130
+
+¶307 - Oxford's | 10 | 53
+
+¶308 - Packman's | 6 | 18
+
+¶309 - Page | 5 | 52
+
+¶310 - Paget's | 5 | 76
+
+¶311 - Paine's | 8 | 34
+
+¶312 - Palmer's | 5 | 24*
+
+¶313 - 〃 | 5 | 126
+
+¶314 - Pardon | 6 | 13
+
+¶315 - Parker's | 8 | 173
+
+¶316 - Pawlet's | 6 | 23
+
+¶317 - Peacock's | 9 | 70
+
+¶318 - Pelham's | 1 | 3
+
+¶319 - Pembrook's | 5 | 76
+
+¶320 - Penal Statutes | 7 | 35
+
+¶321 - Penant | 3 | 64
+
+¶322 - Penrudduck's | 5 | 100
+
+¶323 - Penryn's | 5 | 85
+
+¶324 - Perryman's | 5 | 84
+
+¶325 - Pettifer's | 5 | 32*
+
+¶326 - Pexhall's | 8 | 83
+
+¶327 - Peytoe's | 9 | 77
+
+¶328 - Phitton's | 6 | 79
+
+¶329 - Piggot's | 5 | 29
+
+¶330 - 〃 | 11 | 26
+
+¶331 - Pilford's | 10 | 115
+
+¶332 - Pilkington's | 5 | 76
+
+¶333 - Pinchon's | 9 | 86
+
+¶334 - Pinnel's | 5 | 117
+
+¶335 - Playter's | 5 | 34*
+
+¶336 - Podger's | 9 | 104
+
+¶337 - Porter's | 1 | 22
+
+¶338 - Portington's | 10 | 35
+
+¶339 - Portman's | 7 | 27*
+
+¶340 - Poulterer's | 9 | 55
+
+¶341 - Powlter's | 11 | 29
+
+¶342 - Priddle's | 11 | 8
+
+¶343 - Prince's | 5 | 29*
+
+¶344 - 〃 | 8 | 14
+
+¶345 - Quare Impedit | 7 | 25
+
+¶346 - Quick's | 10 | 95
+
+¶347 - Ratcliff's | 3 | 37
+
+¶348 - Rawlyn's | 4 | 52
+
+¶349 - Read's | 5 | 33*
+
+¶350 - 〃 | 6 | 24
+
+¶351 - 〃 | 10 | 134
+
+¶352 - Reynel's | 9 | 95
+
+¶353 - Ridgway's | 3 | 52
+
+¶354 - Rivett's | 4 | 22
+
+¶355 - Robberies | 7 | 6
+
+¶356 - Robinson's | 5 | 32*
+
+¶357 - Rooke's | 5 | 99
+
+¶358 - Rosewell's | 5 | 19*
+
+¶359 - Rosse's | 5 | 13
+
+¶360 - Rouse's | 4 | 24
+
+¶361 - Rowland's | 5 | 41*
+
+¶362 - Ruddock's | 6 | 25
+
+¶363 - Russel's | 5 | 27*
+
+¶364 - Rutland's (Countess) | 5 | 25*
+
+¶365 - 〃 | 5 | 42
+
+¶366 - 〃 | 6 | 52
+
+¶367 - Rutland's (Earl) | 8 | 55
+
+¶368 - Sadler's Case | 4 | 54
+
+¶369 - Saffyn's | 5 | 123
+
+¶370 - Saint John's | 5 | 71
+
+¶371 - Salisbury's | 10 | 58
+
+¶372 - Samon's | 5 | 77
+
+¶373 - Sanchar's | 9 | 117
+
+¶374 - Sanders's | 5 | 12*
+
+¶375 - Savel's | 11 | 55
+
+¶376 - Scroop's | 10 | 143
+
+¶377 - Semayne's | 5 | 91
+
+¶378 - Sendil's | 7 | 6*
+
+¶379 - Seymor's | 10 | 95
+
+¶380 - Sharp's | 6 | 26
+
+¶381 - Shaw's | 4 | 29
+
+¶382 - Shelley's | 1 | 93
+
+¶383 - Shipley's | 8 | 134
+
+¶384 - Shrewsbury's | 9 | 46
+
+¶385 - Slade's | 4 | 92
+
+¶386 - Slingsby's | 5 | 18*
+
+¶387 - Smith's | 10 | 135
+
+¶388 - Snag's | 4 | 16
+
+¶389 - Snelling's | 5 | 82
+
+¶390 - Soldiers | 6 | 27
+
+¶391 - Sonday's | 9 | 127
+
+¶392 - Southcote's | 4 | 83
+
+¶393 - Sparry's | 5 | 61
+
+¶394 - Specot's | 5 | 57
+
+¶395 - Spencer's | 5 | 16*
+
+¶396 - 〃 | 6 | 9
+
+¶397 - Stafford's | 8 | 73
+
+¶398 - Stanhope's | 4 | 15
+
+¶399 - Stiles's | 5 | 20*
+
+¶400 - Stoughter's | 8 | 168
+
+¶401 - Strata Marcella | 9 | 24
+
+¶402 - Stuckley's | 4 | 16
+
+¶403 - Sutton's Hospital | 10 | 23
+
+¶404 - Swaine's | 8 | 63
+
+¶405 - Swans | 7 | 15*
+
+¶406 - Syer's | 4 | 43
+
+¶407 - Syms's | 8 | 51
+
+¶408 - Talbot's | 8 | 104
+
+¶409 - Tavernour's | 4 | 27
+
+¶410 - Taylors of Ipswich | 11 | 53
+
+¶411 - Tey's | 5 | 38*
+
+¶412 - Thetford's | 8 | 130
+
+¶413 - Thoroughgood's | 2 | 9
+
+¶414 - 〃 | 9 | 136
+
+¶415 - Tooker's | 2 | 66
+
+¶416 - Tourson's | 8 | 170
+
+¶417 - Treport's | 6 | 14
+
+¶418 - Tresham's | 9 | 108
+
+¶419 - Trollop's | 8 | 68
+
+¶420 - Turnor's | 8 | 132
+
+¶421 - Twine's | 3 | 80
+
+¶422 - Tyrringham's | 4 | 36
+
+¶423 - Ughtred's | 7 | 9*
+
+¶424 - Vaughan's | 5 | 49
+
+¶425 - Vaux's | 4 | 39
+
+¶426 - Vernon's | 4 | 1
+
+¶427 - Viryor's | 8 | 81
+
+¶428 - Wade's | 5 | 114
+
+¶429 - Wait's | 4 | 47
+
+¶430 - Walcot's | 5 | 36*
+
+¶431 - Walker's Case | 3 | 22
+
+¶432 - 〃 | 4 | 41
+
+¶433 - Weaver's | 4 | 16
+
+¶434 - Webb's | 8 | 45
+
+¶435 - Westby's | 3 | 71
+
+¶436 - Wetherel's | 4 | 40
+
+¶437 - Wheeler's | 6 | 6
+
+¶438 - Whelpdale's | 5 | 119
+
+¶439 - Whistler's | 10 | 63
+
+¶440 - Whitlock's | 8 | 79
+
+¶441 - Whittingham's | 8 | 42
+
+¶442 - Wild's | 6 | 16
+
+¶443 - 〃 | 8 | 78
+
+¶444 - Williams's | 5 | 72
+
+¶445 - Winchester Statute | 7 | 6*
+
+¶446 - Winchester's (Marquis) | 3 | 1
+
+¶447 - Windham's | 5 | 7*
+
+¶448 - Windsor's (Dean) | 5 | 24*
+
+¶449 - 〃 | 5 | 102
+
+¶450 - Winnington's | 2 | 59
+
+¶451 - Wiscot's | 2 | 60
+
+¶452 - Wiseman | 2 | 10
+
+¶453 - Worcester's | 6 | 37
+
+¶454 - Wymark's | 5 | 74
+
+¶455 - Wyrrall's | 5 | 59
+
+¶456 - Yong's | 4 | 40
+
+¶457 - Yong's (Dame) | 7 | 16

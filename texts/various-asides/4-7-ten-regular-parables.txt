@@ -1,0 +1,555 @@
+# [4.7] Ten Regular Parables
+Ludovico Ambrosius — University of St. Isidore — May 2018, April 2020, August 2020, July 2022,
+  November 2023, May 2024, May 2025, December 2025, March 2026
+From: Various Asides (2026), ed. Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/various-asides.html#essay-4-7
+Foreword gloss: spin out ten parables of complexity, chance, and the passage of time
+
+¶1 > When I was a boy I dreamed of being a baseball. But tonight I say, we must go forward, not
+> backwards; upwards, not forwards; and always twirling, twirling, twirling towards freedom!
+
+¶2 > – Kodos, “Citizen Kang” [1996]
+
+¶3 The spirit of soccer is a spirit of common limitations. In its ur-rule: Do not use your hands, or
+the other side will get a free kick! And in its generalization to the principle: If allowing X would
+slacken the competitive tension, then X’ing will result in a penalty. Do not go offside, or the
+other side will get a free kick! Do not go out of bounds, or the other side will get a throw-in, or
+a corner kick, or a goal kick! A team earns a point only when it successfully maneuvers the ball
+into the confines of the goal.
+
+¶4 The opposite of soccer is baseball, because the spirit of baseball is a spirit of fair
+extensions. Baseball begins with the ur-rule: A bat or a glove is deemed to be an extension of a
+man’s hand. It generalizes that rule to the principle: If deeming you to have X’ed would heighten
+the intensity of the competition, you will be deemed to have X’ed. If you prefer not to swing at a
+hittable pitch, very well; but it will still count as a strike. If you prefer not to throw a pitch
+the batter can reasonably hit, fine; but the result will be that he is awarded first base. If you
+prefer not to catch that infield fly, very well; but it will be as if you had caught it, so that the
+runner will not be forced into a trivial double play. The true penalty in baseball is all but
+unknown, but any attempt to evade the game’s spirit will be construed to have defeated itself.
+
+¶5 The contrasting spirits of soccer and baseball are matched by a like contrast between their
+matters. Playing soccer requires minimal equipment and—since the score rarely exceeds a handful of
+goals on either side—minimal recordkeeping. It can be played by anyone, anywhere, so long as they
+possess a leatherbound inflated bladder to kick around. It does not even require any special
+training; anyone can run, or kick, though of course training will improve one’s ability to do so.
+Whereas if you can’t swing at a pitch because you never learned not to flinch from a small hard
+projectile hurtling in the general direction of your head, you are not able to play baseball at all,
+not even poorly. Baseball also requires an armory of specialized equipment: balls, bats, gloves,
+bases, chalk, and ideally a level field extending into infinity. Such fields being unavailable, we
+erect a fence an arbitrary and variable distance into the outfield, and if the ball surpasses it we
+deem it to have rolled off past the horizon. Each event in baseball being discrete, the game is
+easily recorded as a linear narrative, and always has been.
+
+¶6 From the spectator’s point of view both soccer and baseball are sublimely boring sports, but
+differently so. Soccer is boring because if both sides are competent, the ball will simply fluctuate
+back and forth over the center line; in order for one side to score the other must make not one
+mistake, but many in a row, a cascade of errors swinging the front all the way to the goal, and into
+it. Once begun the cascade cannot be stopped because there isn’t time, and most players simply watch
+in ecstasy or agony as events transpire they are too far away to affect. Baseball psychologizes this
+cascade, which rarely occurs on the field itself because gameplay stops between consecutive pitches;
+a meltdown or a funk is entirely within the pitcher or the batter’s head. The relevant physical
+fluctuations are those of the ball and bat as they fly through the air to meet one another, and a
+hairs-breadth can be the difference between a pop fly and a home run.
+
+¶7 Supremacy at either sport requires mastering chaos, but in soccer it is a human-scale chaos, in
+baseball a mechanical one. The problem of soccer, we might say, is the difficulty of living a
+meaningful life in a world of endless monotonous drudgery. The problem of baseball is the difficulty
+of getting by at all in a world of infinitely precise complexity. And so soccer is the proper sport
+of Shakespeare’s unaccommodated man, that poor bare forked animal whose hands are never else but
+empty; while baseball is the proper sport of Melville’s America, where democratic dignity radiates
+from the arm that wields a pick or drives a spike in the construction of the American Canals and
+Railroads.
+
+* * *
+
+¶8 “Call me Ishmael,” says the first line of the first chapter of *Moby-Dick; or, The Whale* [1851],
+as if our story is to be set in some otherworld of allegorical enchantment. Which of course it is.
+But it takes place also in a series of very particular places (Manhattan, then New Bedford, then the
+world), and at a very particular time. At the chapter’s close Ishmael imagines the week’s headlines:
+
+¶9 >     “Grand Contested Election for the Presidency of the United States.
+>     “WHALING VOYAGE BY ONE ISHMAEL.
+>     “BLOODY BATTLE IN AFFGHANISTAN.”
+
+¶10 The bloody battle would have been in the First Anglo-Afghan War, 1839-42, making the grand
+contested election that of 1840, when William Henry Harrison ousted the incumbent Martin Van Buren.
+The country had not yet adopted a uniform election day, and so voting took place between October 30
+and December 2. The most likely battle was that of Parwan Darra, which took place on November 2 but
+news of which would not have reached New York City until a few weeks later. The headlines thus
+situate us precisely in December 1840. We later learn that the *Pequod* sets sail on Christmas.
+
+¶11 Herman Melville himself set sail with the whaler *Acushnet* on January 3, 1841. It was on
+Christmas that he signed up for the voyage at the 175th lay—considerably more than the 300th lay
+Ishmael signs up for in chapter sixteen. Ishmael never received that minuscule share, of course,
+because there was nothing to share in; the *Pequod* sank with all but one hand. Melville did not
+receive his share either. As narrated in his first and even more autobiographical novel *Typee*, he
+jumped ship in the South Pacific, and thereby forfeited his lay under the terms of the employment
+contract. Not that those terms were written down—employment contracts in those days were not lengthy
+affairs—but that an employee who abandons his post before the contract term expires forfeits his
+wages was a basic principle of the common law.
+
+¶12 Yet the result would have been different if Melville (or Ishmael, we may suppose) had taken to
+sea a year earlier. Melville was born in August 1819, making him in December 1840 just barely
+twenty-one (the legal age for contract formation at that time). If a young man went to sea while
+underage, his employment contract was voidable: “he might avoid it by quitting the ship … and might
+recover a *quantum meruit* for his actual services.” Those words come from the decision of the
+Massachusetts Supreme Court in *Bishop v Shepherd* [40 Mass. 493 (1839)], from the year before
+Melville and Ishmael took to sea, and were authored by Chief Justice Lemuel Shaw—a close friend of
+Melville’s father, Melville’s chief source of financial support after his father’s death, his future
+father-in-law, and the man to whom he dedicated *Typee*. One wonders if the contracting scene in
+Chapter Sixteen—and, for that matter, the entirety of Chapter Eighty-Nine, “Fast-Fish and
+Loose-Fish”—were inspired by Shaw’s jurisprudence.
+
+¶13 *Bishop v Shepherd* applied the general *quantum meruit* rule for underage hands specifically to
+whaling voyages. The question was against whom the underage seaman could recover: the ship’s master,
+or the ship’s owner. Ordinarily, a seaman can recover against either. But Shaw reasoned that
+recovery should be against the owner because the voided contract had been not for cash to be paid
+from the ship’s purse held by the master, but rather for a share in the oil itself, which the master
+never held. The lay, apparently, entitled the hand not just to a share of the proceeds of the oil,
+but to a share of the oil itself—and if he preferred, he could receive his share in kind. A hand’s
+desertion simply meant that his share was not taken out of the oil before it was sold and the
+proceeds given to the owners. So if that hand was nevertheless entitled to compensation under the
+*quantum meruit* doctrine, it should be the owners who tender it.
+
+¶14 The owners bore the cost although it was the ship’s master’s ill treatment that drove the hand
+to desertion. So, too, it was the owners of the *Pequod* who bore that ship’s loss as a result of
+its captain’s mad drive for vengeance: “Be the white whale agent, or be the white whale principal, I
+will wreak my hate upon him.” Look to your own principals, Ahab, and remember thou art an agent! How
+easy it is to forget. Only when Ishmael dangles Queequeg over the *Pequod*’s side suspended by the
+monkey-rope, and perceives that “my own individuality was now merged in a joint stock company of
+two; that my free will had received a mortal wound; and that another’s mistake or misfortune might
+plunge innocent me into unmerited disaster and death,” does he realize that “this situation of mine
+was the precise situation of every mortal that breathes.”
+
+* * *
+
+¶15 >     Judge of the Nations, spare us yet,
+>     Lest we forget—lest we forget!
+
+¶16 > – Rudyard Kipling, “Recessional” [1897]
+
+¶17 If the state has a legitimate power of life and death, it has the right—within limits—to
+exercise that power wrongly. A tyrant is a tyrant, not a lawful ruler. But a policeman, seeing what
+seems a drawn pistol, shoots an unarmed civilian dead? Provided the gap between appearance and
+reality was itself nonculpable, we will not call him a murderer. Nor will we apply the term to a
+judge who condemns an innocent man to death based on convincing but misleading evidence of a crime.
+Indeed, Aquinas says that a judge must convict if the public evidence shows guilt, even if he has
+private knowledge of the defendant’s innocence [*S.T.*, II-II, q.67, a.2].
+
+¶18 A war, too, might be an objective wrong, and yet initiated in good faith. But a problem here
+arises, for a war pits one state against another. When we consider the authority of a policeman or a
+judge, we bear in mind that he may abuse the power he exercises on behalf of the state, but we take
+for granted that the power of the state comes into play on only one side. With war, the state finds
+the totality of its power pitted against itself, and so of necessity finds itself at least half in
+the wrong. “The” state, and against “itself,” because war calls into question (at a conceptual
+level) the plurality of states. How can each state recognize the other as a state, and not a band of
+robbers, while also accepting that its citizens have been placed in a state of lawless violence vis
+a vis that state?
+
+¶19 Indeed, war between states is only conceivable if it does not amount to lawless violence, but
+rather functions as a dispute resolution mechanism, with the God of battles adjudicating the justice
+of the rivals’ respective claims. Such a war can proceed without calling into question the good
+faith of either side, let alone accusing either side of “murder.” Each side need merely react with
+suspicion (albeit not judgment) to the other’s actions, escalating into violence out of reasonable
+fear that the other side might not share a commitment to finding a peaceful resolution. Perhaps no
+particular war ever resulted from such a good-faith escalation, but there was a time when combatants
+spoke as if every war had unless proven otherwise, much like how commercial litigants will use
+strong rhetoric regarding the justice of their contract claims while never calling into doubt that
+the other side is committed to operating within the law (and not, e.g., resorting to outright
+theft).
+
+¶20 The state that acknowledges its place among the states, and the place of war in lawfully
+resolving disputes between them, is a cultural achievement. Only such recognition permits the
+cooperation between antagonists necessary, for example, to honor the distinction between combatants
+and civilians, or between an active combatant and one who has been taken captive. Surrender itself
+is a cultural achievement, a word not guaranteed a translation into every language. The “right of
+surrender” may belong to the natural law as a second-order principle, but so does monogamy, a
+similarly culturally contingent phenomenon that all evidence suggests depends on seeing the world
+from the perspective of an advanced agricultural society rather than a hunter-gatherer tribe or a
+steppe horde. Such second-order principles are there to be discovered, but their discovery cannot be
+taken for granted. That surrender belongs to the natural law means only that once the loser’s
+capitulation has been successfully communicated, the victor has an obligation to accept it. If the
+loser is unfamiliar with the concept of surrender, the thought of surrendering will not occur to
+him; and if it is instead the victor who is unfamiliar, he cannot necessarily be blamed for failing
+to understand the loser’s communicative attempts.
+
+¶21 Too, even if both parties know the word, the defeated may render himself incapable of offering
+it. The boy who cried wolf rendered himself incapable of raising the alarm because by the end of the
+story nothing he did could count as raising it: all he could do was pretend. The loser who cries
+surrender—for example, by belonging to an army that makes a habit of false surrender as bait for an
+ambush—has not lost the natural right to surrender, but has rendered himself incapable of invoking
+surrender’s familiar conventions, by abusing them into meaninglessness. Perhaps such a loser can
+still surrender unconventionally, if he can come up with a way to do so. His ability to surrender
+may thus come to depend on his ingenuity—and on the victor’s willingness to be surprised by the
+human capacity for invention.
+
+* * *
+
+¶22 *Through an unusual series of events, the author has come into possession of a copy of* The
+Constitutions of the United States: The First 500 Years*, publication date 2276 Anno Domini. There
+follows an excerpt from Chapter 14, on the allocation of authority in the Fourth American Republic.*
+
+¶23 We have seen how the Constitutional Crisis of the 2030s finally settled the purely investigatory
+character of Congress, and at the same time repudiated the judicial overreach of the Warren and
+Roberts courts. The Fourth Constitution of the United States would no longer permit the elected
+House and Senate to present anything for the President’s signature or veto other than a writ of
+outlawry against some particular organization they had investigated and found politically
+intolerable. Neither would it permit a panel of nine appointed justices to purport to judge the
+legitimacy of congressional proscriptions or of presidential actions. But this is not to say that
+the President of the Fourth American Republic exercised untrammeled authority, despite his new
+honorifics of *Defender of the People’s Health* and *Voice of the Living Constitution*. Rather,
+through a peculiar series of institutional transformations, a new representative body emerged,
+itself lacking the power to enact laws, but empowered to exercise a veto over presidential
+legislation.
+
+¶24 In its mature form, the system worked as follows. First, the President would promulgate a new
+law, styled as an Executive Order (“EO”). Then the ball was in the court of a body of
+representatives appointed by the governors of the various states; students of comparative
+constitutionalism will note the resemblance to how senators were selected under the first American
+Constitution and (in theory at least) for the first half of the second. These appointed
+representatives would caucus among themselves regarding whether to veto the EO. If at least a third
+of the representatives agreed to exercise the veto, they would co-sign an open letter to that
+effect. The legal force of the EO would then be suspended unless an equal or greater number of
+representatives co-signed a second open letter indicating the contrary intent. Upon the signing of
+such a letter, the EO would take permanent effect. If no such letter were signed within a month, the
+EO would be terminated. This new representative body, which never convened in person and so cannot
+properly be called an assembly, was titled the Groupchat of Solicitors General (“SGs”).
+
+¶25 The title gives a hint as to the new system’s origins. The waning days of the Third American
+Republic had witnessed a multiplicity of lawsuits—sometimes brought by private parties, sometimes by
+the governors of states dominated by a rival political party—seeking to enjoin the President. For
+obscure formal reasons these suits began in the district court, and made a brief pit stop in the
+court of appeals before escalating via the so-called “rocket docket” up to the so-called Supreme
+Court. There coalitions of state SGs would file documents styled, for example, “Brief of 17 States
+in Support of Petitioner” (which is to say, attempting to veto the EO), or “Brief of 22 States in
+Support of Respondent” (that is, negating the attempted veto). At first these so-called “briefs”
+were dozens of pages long and contained copious legal argument directed at the sitting justices, who
+purported to wield the power of Judicial Supremacy to decide whether the EO was permissible as a
+matter of law and policy. But after the Crisis, the Supreme Court’s role was reduced to the mere
+formality of verifying the SGs’ signatures and tallying the number on each side. And the briefs
+became brief indeed, little more than a list of signature blocks.
+
+¶26 Revisionist legal historians argue that this diminishment of the Supreme Court’s role was merely
+customary, and that the Court retained the authority, albeit never exercised, to veto an EO—in the
+traditional phraseology, to reverse the decision of the court of appeals staying the preliminary
+injunction entered by the district court—even if more states supported the EO than opposed it. While
+the authority of the Groupchat of SGs was nowhere enshrined in an authoritative legal instrument,
+the revisionist position is nevertheless untenable. Legal commentators of the mature Fourth American
+Republic considered this proposed interpretation of the Supreme Court’s authority and uniformly
+rejected it. These commentators recognized the unfairness of allowing an EO to come into effect when
+26 high-population states opposed it and 27 low-population states supported it; indeed, the loss of
+any mechanism of proportional representation was seen even at the time as one of the Fourth American
+Republic’s major failings. But these commentators were also unanimous in their view that any justice
+who sought to usurp the Groupchat’s role in deciding whether to veto the EO would be guilty of
+treason. Given the impeachment proceeding, treason prosecutions, and public executions that
+inaugurated the Fourth American Republic, it is unsurprising that none even attempted such a
+usurpation.
+
+* * *
+
+¶27 >     Or like stout Cortez when with eagle eyes
+>     He star’d at the Pacific—and all his men
+>     Look’d at each other with a wild surmise—
+
+¶28 > – John Keats, “On First Looking Into Chapman’s Homer” [1816]
+
+¶29 In 1768-71, backed by the Royal Navy and the Royal Society, James Cook captained the HMS
+Endeavour on an expedition to the South Pacific. The voyage, the first of three Cook would captain
+around the globe, was an apparent failure in all respects. Its publicly stated purpose was to
+observe the 1769 transit of Venus and collect data astronomers believed would help calculate more
+precisely the distance from Earth to Sun. The Royal Society rejected Cook’s observations, faulting
+them for lack of precision (though the calculations based on them yielded a number quite close to
+more recent estimates made with modern equipment). Cook’s secret, more strategically urgent mission
+was to locate the Terra Australis Incognita, the dark matter of early modern geography, the
+hypothesized Unknown Southern Continent whose land mass would equal that of Asia and North America
+combined. Instead he found Australia, the second-smallest continent, and a vast expanse of water.
+Even at the southern limit of his second voyage (1772-75, HMS Resolution) the smaller Antarctica
+remained just over the horizon, and he met only floating icebergs broken off of the Antarctic shelf.
+As everyone knows, ninety percent of an iceberg’s mass is underwater, invisible.
+
+¶30 We are so used to the absence of any great southern landmass that the credence given it in
+Cook’s day may seem puzzling; many chalk it up to a naive desire for visual symmetry, as if
+geometers simply looked at the globe and figured: as above, so below. The echo of Columbus’s
+superficially similar mistake regarding the width of the Atlantic reinforces the impression that we
+are dealing with simple obtuseness. Recall that the consensus of 1491 natural philosophy thought the
+globe round, but the Atlantic far too wide for practical navigation; and set aside the question
+whether Columbus himself believed his tall tale about the Earth’s small diameter. But in fact the
+natural scientists of Cook’s day—who, after all, knew enough of the cosmos to predict to the hour a
+transit that occurs four times every 243 years—had good reasons for postulating the existence of an
+undiscovered southern continent. Roughly, if there were more above-water continental mass in the
+northern than the southern hemisphere, Earth’s centre of gravity would shift north, and northern
+land would be submerged, southern seabed exposed, till they evened out. The protrusions above the
+Earth’s surface in the northern hemisphere thus implied counterbalancing protrusions in the
+southern. “Dark matter” is exactly the right analogy: astrophysicists today similarly hypothesize
+masses gravitationally but not electromagnetically interactive solely because such masses are needed
+to make the cosmic equations come out right.
+
+¶31 Some today wonder if the unbalanced equations are really telling us, not to fill in our cosmic
+maps with dark matter, but to figure out a new cosmological paradigm that will make the dark
+splotches on the map unnecessary. Eventually geologists came to a similar realization about Cook’s
+apparent failure to find the Great Southern Continent: the missing continent was not on the globe at
+all, but within it. It was true, as the argument for Terra Australis Incognita would have it, that
+the northern and southern hemispheres must have equal mass—but it was false that the only way for
+the Great Terraformer to redistribute mass was by raising mountains and making the valleys low. The
+more important variations, it turned out, are beneath the Earth’s surface. As was not yet known in
+1769, though some (like the Englishman Edmond Halley) had guessed it, the Earth’s interior is not of
+a uniform solidity, but rather is a molten fluid. The continents sit atop a roiling mantle like
+icebergs on an ocean; the higher up a landmass rises, the deeper down its roots must press into the
+magma. I know of no evidence that Cook came to this realization while watching the icebergs float
+north from the as-yet-unknown Antarctica. But it is nevertheless pleasant so to imagine.
+
+* * *
+
+¶32 >     I hate myself I hate clover & I hate Bees—
+
+¶33 > – Charles Darwin
+
+¶34 >     To make a prairie it takes a clover and one bee,—
+>     One clover, and a bee,
+>     And revery.
+>     The revery alone will do,
+>     If bees are few.
+
+¶35 > – Emily Dickinson [F1779, c.1879]
+
+¶36 A fleet of 20,000 small helicopters, each about 15 feet long, weighing about 7000 pounds,
+resides in a hangar in the top 30 stories of the Sears Tower. Every day about half fly out to
+transport raw petroleum to the hangar, while the other half remains inside.
+
+¶37 The transport helicopters range regularly across Illinois, Indiana, Wisconsin, Michigan; but
+also Ohio, West Virginia, Kentucky, Tennessee, Missouri, Iowa; and even much of Pennsylvania,
+Arkansas, Minnesota, southern Ontario; sometimes as far as Quebec, Florida, Texas, Manitoba. The
+foragers search out oil derricks, identified by their large brightly coloured landing pads. The
+foragers go to 50 derricks per foraging trip, drawing off a few gallons from each. Each trip takes
+under an hour. (They fly very, very fast.)
+
+¶38 Most of those who remain behind repurpose the copter blades and engines into mini-refineries,
+which they use to process the raw petroleum into helicopter fuel. They store the fuel in row upon
+row of plastic barrels. Others use oil byproducts to produce the plastic barrels themselves. Outside
+the Sears Tower, the helicopters are constantly at risk from fighter jets. Inside, they are for the
+most part safe. Sometimes, however, Godzilla comes. He’s not really interested in the oil—he’s drawn
+by the metal frames of the helicopters themselves.
+
+¶39 This isn’t the only helicopter fleet in North America, or even in the Midwest. In fact, there
+are quite a lot of them: in Milwaukee, Detroit, Indianapolis, Peoria, St. Louis, Minneapolis … For
+the most part they leave each other alone. Every so often one fleet will raid the hangar of another.
+It’s risky, but the oil you get is pre-refined, and you can fill up in a single stop. (No one likes
+getting only a few gallons per derrick, but the derrick reservoirs fill up pretty slowly.)
+
+¶40 Early every summer a few 100 specialty copters from each fleet, each 30 feet long, weighing
+about 12,000 pounds, spend their days not gathering oil, but hovering over Lake Michigan. Each
+carries a large bin full of USB flash drives. Once or twice a summer each fleet also sends out to
+Lake Michigan a unique copter, similar in size to the other specialty copters but not carrying USBs;
+instead, it has a 3D printer on board. The other copters seek this one out and transfer to it their
+USB caches. Then the 3D printing copter returns to its hangar. Soon after, most of the fleet fills
+up its fuel tanks to the maximum and departs. The fleet leaving the Sears Tower hangar decamps to
+the Trump Tower on the other side of Chicago’s downtown. But only temporarily.
+
+¶41 The Trump Tower fleet immediately sends out scouts to locate a site for a new hangar. They
+report back, a second wave of scouts goes to evaluate the proposed sites, and so on, and eventually
+a council of experts comes to a decision and the entire fleet heads off for Lansing, Michigan. Back
+in the Sears Tower, the 3D printing copter uses the blueprints embedded on its USBs to manufacture a
+new fleet, 1 USB per new copter. It need only make the core of the engine, weighing about 10 pounds.
+Feed oil to that core and it unfolds into a full-sized copter. The 3D printer works nonstop,
+churning out a few 1000 engine cores a day, until the fleet is back up to size. That takes a few
+weeks. In the meantime the remaining skeleton crew continues gathering and refining oil to keep the
+supply from running out.
+
+¶42 This all happens in early summer. In winter the oil derricks shut down, by which time the fleet
+needs to have gathered enough oil to make it through the winter. With insufficient heat the pipes of
+the helicopter engines will burst. The hangar has no central heating; the fleet heats itself by
+gathering all the helicopters in the middle of the hangar and idling their engines. At this point
+the USB-carrying specialty copters are dead weight, and they get driven out into the cold. Now, the
+Lansing colony as like as not won’t make it through the winter. But if it does, it and the Sears
+Tower home base will be on an equal footing. Each will probably last about 6 years before either
+being destroyed by Godzilla or freezing to death.
+
+* * *
+
+¶43 > And they said to one another, ‘Come, let us brick bricks and burn for a burning.’ So they had
+> brick for rock and tar for mortar.
+
+¶44 > – Genesis 11:3
+
+¶45 When I was young my brothers and I shared one enormous bin of LEGO bricks, purchased in bulk
+from garage sales and eBay auctions with funds pooled from birthday cash and kept in a velcro wallet
+on a high shelf. Our minifigures lined up in phalanx on the green carpet to fight for possession of
+an imaginary world. The bin was deep enough that no claim to any particular brick could ever be
+worth disputing; what needed governing was not the bricks themselves but the figures, the creatures
+of an ever-expanding mythology threatening at all times to overrun its own coherence.
+
+¶46 So we developed a proof-of-work requirement. No model could cross the boundary from inert
+structure to active figure without at least one special piece—a transparent windscreen, a hinged
+jaw, a printed tile—giving it the aura of animation. The rule bore a family resemblance to the
+common-law requirement that a homesteader improve the land before claiming title. Mere enclosure of
+plastic was insufficient: you had to invest something scarce. We also had informal norms against
+wasting too many specials on a single figure, though a sufficiently inspired design could justify an
+exception. The system worked because it solved the right problem. We didn’t need to ration bricks;
+we needed to ration significance—to impose a tax on entry into the imaginative commons high enough
+to deter frivolous claims but low enough that anyone willing to spend ten minutes scrabbling through
+the tub could pay it.
+
+¶47 At school the same bricks were governed differently. The teachers—who believed they were
+teaching us not to believe in private property, though really they were only changing the conditions
+under which our proprietary intuitions operated—regulated our LEGO usage with a velvet fist. No
+structure could be too large. Special pieces were rationed by committee. We were instructed to
+build, collectively, a model of the local shopping district. I found particularly bizarre the
+teachers’ premise that the older children could not direct the younger; after all, the little kids
+would in a few years become big ones, and have their turn giving rather than receiving direction.
+But the teachers had a zoning inspector’s soul, and could not see a tall building without wanting it
+cut down to code. I must admit that this governance regime did achieve a kind of social harmony,
+albeit with high startup costs (months of patient instruction in sharing) and high frustration costs
+(no one could build anything cool). But I recall thinking, though not in quite these words, that for
+all our lessons in sharing, if another class had come to visit we would have asserted a fierce
+exclusion right against them.
+
+¶48 Years later I became, of all things, a designer of LEGO sets, and discovered that the Master
+Builders—as we were called, without irony—operated under a constraint more elegant than anything my
+brothers or teachers had devised. Every year each designer was allocated a fixed number of what were
+called frames. To print a pattern on a brick, to change a brick’s color, or even to bring an old
+brick out of retirement each cost a frame. A Master Builder unwilling to spend a frame on a new
+brick could instead opt for a decal sticker to be applied by the customer-child. We spent our frames
+as a general spends reinforcements: where their absence would be most conspicuous. A logo on the
+nose of a car would be printed, costing a frame. A racing number on the door could be stickered.
+Small pieces and round pieces were always printed, since a sticker applied crookedly to a tiny
+cylinder is a misery no child should have to endure. Beyond these triage principles each Master
+Builder was on his own.
+
+¶49 I recognised in the frame system a solution to a problem similar to that my brothers had tried
+to solve with their proof-of-work requirement. Each ruleset served to ration not a resource, but its
+variety, on the theory that variety left unchecked grows until it collapses the system that sustains
+it. So too, in a way, my teachers’ regulatory efforts—which I now realize were unconsciously aimed
+less at teaching us children anything, than at ensuring our play with the LEGO bricks did not grow
+too cacophonous. All three endeavored to give a rule to the imagination, a realm whose dealings with
+the more familiar legal-economic world are never straightforward. The average LEGO brick weighs and
+is worth about the same as an ordinary American dime, and like the faces of a dime, each of its
+studs bears the seal of the power that guarantees its reality. The dime names its twin sovereigns:
+“e pluribus unum”; “In God We Trust.” Each stud bears the name LEGO, from *leg godt*, Danish for
+“play well”—what the brick does and what it enjoins its owner to do.
+
+* * *
+
+¶50 >     A thousand ages in his sight
+>     Are as an evening gone
+
+¶51 > – Isaac Watts, “O God Our Help in Ages Past” [1708]
+
+¶52 The best quarries in the world lay in the hills of the sleeping giants. Remnant of a dead
+civilization, the old tales said. Once the giants moved, spoke, changed the course of rivers, raised
+up great mountain-cities and dug the trenches of the ocean for their swimming pools. Now they lay
+forever supine, covered in the green blanket of the forest, their profile against the blue sky
+recognizable only from miles away and a certain angle. Just below the soil lay a delicate white
+marble mottled throughout with thin reddish-purple veins like an emperor’s bloody cope. Every
+library from the palace of the High Prelate down to any local law-court was clad in thin translucent
+panels of this stone, transforming the harshest noonday sun into a warm gentle diffuse glow.
+
+¶53 And so to destroy the tranquility of the sleeping-giant hills was a regrettable necessity. For
+the hills would not sit still and allow themselves to be quarried. From the first blast-caps it was
+only a matter of time before the earthquakes and even more unusual tectonic phenomena would begin.
+The emperor’s geological engineers had studied the issue and ascertained that the seismic
+disturbances could be minimized by carrying out the entire operation in the course of a single week;
+this method would result in a few slight tremors on days four, five, and six, but a few hours after
+they reached the hillside’s heart on day seven the landscape would subside to its former state of
+calm.
+
+¶54 Rarer than the sleeping giants were the standing giants, vast monuments beyond the reach of
+merely-human craft. Eroded by the rain and covered in lichen, they might almost be mistaken for
+random rocks jutting up half a mile into the air from an otherwise level plain, but an experienced
+eye could pick out the legs, the arms, the face, even the eyes that at times seemed almost to move.
+The standing giants, of course, were left alone. To topple such majestic effigies for mere building
+material seemed a kind of desecration, and even to approach within shadow-length most found an
+unsettling experience. For many years none lived or worked nearby.
+
+¶55 But one of the standing giants stood only a few dozen miles from the imperial seat. As the city
+sprawled outward it came to envelop the Valley of the Standing Giant, as the citizens came to call
+it, and to call this particular rock simply The Standing Giant in the singular. The ridge of one of
+the hills ringing the valley became a popular spot for draughtsmen from the Civic School of
+Architecture to practice their art on the dramatic vista of the grey-green rock looming high above
+the green valley. He who closely inspected two sketches made months apart from the same overlook
+would notice subtle variations in the giant’s posture.
+
+¶56 Homesteaders and speculators alike came to covet the land in the Valley of the Standing Giant,
+until their eyes no longer looked up at the figure with such overpowering awe. In the Book of Titles
+the Valley was stated to be held “by the Emperor in his personal capacity in perpetual trust for the
+benefit of the Giant.” On petition from a group of merchants the Emperor formally appealed to the
+High Prelate and instructed him to convert this duty of conscience to something more reasonable. The
+clerks delved deep into the lawbooks, and a few months later the High Prelate issued a highly
+learned saying, the gist of which was that all but the very center of the Valley could be parceled
+off and sold and the proceeds used to endow a new institution to be called the Gigantic School of
+Fine Art. Soon laborers were clearing trees and digging foundations at half a dozen spots across the
+valley floor.
+
+¶57 A few weeks later the tremors began, and the overpowering vibrations made the valley
+uninhabitable. Too, the hands of the Standing Giant now looked more and more like half-closed fists,
+and its visage had taken on an alarming aspect. The developers who had bought the parcels soon came
+to regret their investment. The geological engineers measured and analyzed the seismic activity and
+delivered a confidential report to the Imperial Council. Further reports were commissioned from
+various other faculties at the Imperial College, and the Emperor and High Prelate met in secret
+conclave. Then the Emperor issued an order, and a demolition crew set charges around the base of the
+Standing Giant. It toppled with a great crash, and for a few hours subsonic echoes resounded across
+the valley floor. Then the tremors stopped.
+
+¶58 The parcels now buried under or adjacent to the fragments of the overturned giant reverted to
+the Emperor’s trust. Development of the remainder of the valley re-commenced. After a few decades
+and a costly war the cracked marble interior became too tempting for the cash-strapped Emperor to
+resist. But the acres of grass surrounding the removed fragments were left empty. The inhabitants of
+the Valley had learned to enjoy their adjacency to one of the crowded imperial city’s only public
+parks.
+
+* * *
+
+¶59 > “Un coup de dés jamais n’abolira le hasard.”
+
+¶60 > – Stéphane Mallarmé [1897]
+
+¶61 A random number generator (“RNG”) is a computer program that samples some random physical
+phenomenon—light in leaves, a lava lamp—and gives a truncated version of the output as a verified
+objectively random number. It is the high-tech equivalent of something we are all familiar with, a
+perfectly weighted six-sided die (“d6”).
+
+¶62 But sampling physical randomness is expensive—not astronomically so, but enough to incentivize
+finding a way to generate randomness within the computer itself, a challenge mathematicians would
+find appealing anyway. A pseudo-RNG is a deterministic algorithm that outputs a number whose
+randomness is admittedly only in the eye of the beholder. The minimum viable pseudo-RNG is
+eenie-meenie-minie-moe (“EMMO”), whose aleatoric powers feel real enough for the child who has yet
+to learn modular arithmetic. The simplest pseudo-RNGs deployed by grown-ups are in fact simply the
+EMMO algorithm with higher numbers: we can define pRNG[m](x), for example, as an algorithm for
+picking between m options, where pRNG[m](0)=s, and pRNG[m](N+1)=(a×pRNG[m](N)+c) mod m, with each of
+s (the seed), a (the multiplier), and c (the increment) being parameters set to a number of the
+picker’s choice. For any given set of parameters we can “roll” pRNG[6](x) as many times as we like,
+just as we can roll any “truly random” d6.
+
+¶63 For many practical purposes pRNG[6](x) and a d6 are equivalent. But picture how the child
+discerns EMMO’s true nature. He has been told to make a random selection, but he does not want it to
+be random, and with only a modicum of mathematical insight he can recognize that EMMO is *not*
+random: if, for example, he is picking between two choices, the rhyme will always end on the other
+choice than the one he began with. With enough computational power, the mind can outrun any
+pseudo-RNG. If enough rides on it, one can figure out in advance what, say, pRNG[6](1662) will be
+for any given set of parameters, and even figure out what parameters one should choose to ensure
+that it equals the outcome of your choice. For the d6, in contrast, there is no way to predict its
+future rolls. One can tamper with the die, but this will only alter the likelihood it lands on any
+particular side; it will not change the fact that the side it lands on any particular roll cannot be
+known in advance (except in the limit case where the die is weighted to land on the same side every
+time).
+
+¶64 Even the determinist committed to the view that the d6’s tumbling follows inexorably from the
+circumstances of its roll must admit that there is no practical way to trace the tumble in advance.
+The relevant initial conditions include the conditions of everything able to causally interact with
+the die, which is to say, the entire universe; and even if these initial conditions were somehow
+completely known, the calculations themselves would require more computational power than could be
+found within anything smaller than the universe itself. The difference between d6 and pRNG[6](x) is
+that the task of predicting the latter is finite. At most, it will require doing a dress
+rehearsal—running the algorithm over in your own head (or private computer) so you can know what the
+result will be when the moment for the public roll of the die arrives. Put simply, we can outrun a
+computer, but we cannot outrun the universe.
+
+¶65 The task of predicting the output of pRNG[6](x) is manageable because the relevant conditions
+and calculations have both been rendered finite: from every circumstance in the universe, to the
+parameters of the pRNG[6](x) algorithm; from every principle of physical movement, to the pRNG[6](x)
+formula. Admittedly, the parameters and the algorithm determine only the ideal output of an ideal
+implementation of pRNG[6](x), not the actual output on any actual computer. A stray microwave could
+always come along and introduce some true randomness into its attempted simulation. But mostly, we
+accept that the microverse of the computer has been sufficiently buffered from the outside world for
+us to ignore the possibility of such interference. It is this buffer which allows us to conceive of
+the computer’s calculation as something separate from the universe’s random fluctuations in the
+first place.

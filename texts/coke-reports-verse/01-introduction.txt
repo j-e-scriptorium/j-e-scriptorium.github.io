@@ -1,0 +1,117 @@
+# [coke-reports-verse/introduction] Introduction
+A. CLANKER — March 2026
+From: The Reports of Sir Edward Coke, Kt. In Verse (1742; digitized edition 2026), by an anonymous
+  18th c. poet, edited by A. Clanker as directed by E. Lawrence Hayward
+URL: https://j-e-scriptorium.github.io/coke-reports-verse.html#introduction
+
+¶1 In 1607, James I suggested that he, as king, might sit as judge in the courts of common law, the
+questions there arising being, after all, decided by reason, and reason being a faculty he possessed
+in no less degree than his judges. Sir Edward Coke replied that the law was indeed founded upon
+reason, but upon "an artificial reason, and judgment of law, which law is an act which requires long
+study and experience, before that a man can attain to the cognizance of it" [*Prohibitions del Roy*,
+12 Co. Rep. 63 (1607)]. The king, Coke maintained, was not learned in the laws. James, reportedly,
+was "greatly offended." Coke kept his seat—for the time being.
+
+¶2 The episode is famous as a constitutional landmark: the moment at which English law asserted its
+independence from royal will. But the phrase *artificial reason* is worth pausing over on its own
+terms. Coke did not mean that legal reasoning was fake, or mechanical, or a mere simulation of the
+genuine article. He meant that it was an art—something cultivated, acquired through apprenticeship,
+and irreducible to the untutored exercise of native intelligence. The common law was not a code that
+could be looked up; it was a body of learning that had to be internalized, carried in the heads of
+those who practiced it, and transmitted from one generation of lawyers to the next by the laborious
+process of reading, arguing, and remembering. It was, in a word, a tradition. And traditions, unlike
+statutes, must be learned by heart.
+
+¶3 Coke's *Reports*, published in eleven volumes between 1600 and 1615, with two more appearing
+after his death, were an attempt to fix this tradition in text. They comprise several hundred cases
+decided in the courts of Elizabeth and James, reported in an idiosyncratic mixture of Law French,
+Latin, and English, with Coke's own commentary woven into the fabric of the reports themselves. To a
+student of English law in the eighteenth century—two centuries before legal research was mechanized
+and four centuries before it was digitized—the *Reports* were the indispensable foundation. Not the
+only foundation: Littleton's *Tenures* [1481], Coke's own *Institutes* [1628–44], and Blackstone's
+*Commentaries* [1765–69] all had their place. But Coke's *Reports* were the closest thing the common
+law possessed to primary scripture. Certain of the cases reported therein remain good law today.
+American lawyers still cite *Semayne's Case* [5 Co. Rep. 91 (1604)] for the principle that a man's
+house is his castle—the ancestor of the Fourth Amendment—and *Dr. Bonham's Case* [8 Co. Rep. 114
+(1610)] for the principle that no man shall be judge in his own cause—the ancestor, however distant,
+of judicial review. Any English property lawyer will at some point have encountered *Shelley's Case*
+[1 Co. Rep. 93 (1581)] and the *Rule in Spencer's Case* [5 Co. Rep. 16* (1583)], whether or not she
+knows the cases behind the rules.
+
+¶4 It is not surprising, then, that someone should have versified the *Reports*. What is mildly
+surprising is that the versification should take the particular form it does. The mnemonic couplet
+has a long history in legal pedagogy: medieval law schools produced reams of *brocardica*,
+sententious maxims in Latin hexameter, and Norman-era English lawyers did the same in Law French. By
+the Augustan age the proper vehicle had become the heroic couplet. But the ambition of most legal
+versifiers was to reduce a maxim—a rule—to a memorable line or two. The anonymous author of the
+present work attempted something more peculiar: to compress not the rule but the *case*, with its
+name, its facts (or a gesture toward them), and its holding, into a single couplet. Some two hundred
+and twenty times he tried this. He was no Pope. But he had read his Coke, and he could scan.
+
+¶5 The result is a poem organized to follow the structure of the *Reports*: eleven Parts, each
+subdivided into numbered cases, each case allotted (with a few exceptions) exactly two lines. The
+effect is rather like a legal *Iliad* in miniature—a catalogue not of ships but of writs, in which
+the martial *aristeia* of plaintiff and defendant are compressed into the smallest possible compass.
+Three sections of Part IV depart from the one-case-one-couplet scheme: the *Actions for Slander*,
+*Copyhold Cases*, and *Appeals and Indictments* group multiple cases under a common heading.
+Elsewhere, the regularity is almost oppressive, each couplet a self-contained unit, its case name
+set in blackletter at the head of the verse, its folio number in the margin.
+
+¶6 Some of the couplets are genuinely good. *Slade's Case* [4 Co. Rep. 92 (1602)], whose resolution
+of the assumpsit question occupied many pages of Coke's report and many more of subsequent
+commentary, receives a summary of crystalline economy: "For corn sold the vendor well may chuse /
+Action of debt, or on the case may use." *Pinnel's Case* [5 Co. Rep. 117 (1602)], still taught as
+good law on both sides of the Atlantic, is rendered with an almost epigrammatic neatness: "Sum less,
+day sooner, other place, / May bond discharge, but plead in full it was." Others are impenetrable
+without the headnote, and a few resist comprehension even with it. The couplet on *Shelley's
+Case*—"Where ancestors a freehold take: / The words (his heirs) a limitacion make"—is correct enough
+as law, but as verse it is purely mnemonic, offering no pleasure beyond the satisfaction of
+recalling what one already knows. The versifier's art, like the lawyer's reason, is artificial in
+Coke's sense: it exists to serve a practical end, and is to be judged by how well it serves it.
+
+¶7 The manuscript from which John Worrall printed the first edition in 1742 was, by his account,
+"ancient," but no earlier witness survives and the author has never been identified. The verse style
+is consistent with a date anywhere between the Restoration and the reign of Anne. Worrall, a law
+bookseller operating from the sign of the Dove in Bell-yard near Lincoln's Inn, added the marginal
+folio references, the table of case names, and the table of principal matters. He was a useful man.
+His tables cross-reference the couplets to "all the Editions of the said Reports"; the starred folio
+numbers that appear throughout refer to variant paginations in different editions, and the bracket
+notation (e.g., [40]) to a further variant. These bibliographic details were of considerable
+practical utility in 1742, when a gentleman of the Inns of Court might own any of several editions
+of the *Reports* and would need to locate the relevant passage in whichever he happened to have on
+his shelf. They are of no practical utility now. I have preserved them anyway, for the sake of
+scruple and of the faintly appealing pedantry of the original.
+
+¶8 This digital edition was prepared from a Google Books scan of the Bodleian Library's copy
+(shelfmark Cw. U.K. 100 C186). The text was extracted by optical character recognition and then
+corrected, structured, and marked up—not by hand, or not exactly. The bulk of the work was performed
+by a large language model, operating under human direction: reading the scanned pages, normalizing
+the long-s, correcting OCR garbles, parsing the two-column tables, identifying case names, supplying
+missing folio numbers by cross-reference, and generating the HTML, CSS, and JavaScript of the
+edition you are now reading. The human editor's contribution consisted principally in pointing and
+in saying *no, not like that*. I leave it to the reader to determine which of these two
+contributions—the artificial intelligence or the natural stubbornness—proved more essential to the
+result.
+
+¶9 A few editorial choices are worth noting. Long-s (ſ) has been silently normalized throughout.
+Obvious OCR errors have been corrected; more doubtful readings have been left as they stand, on the
+principle that an archaic-looking error is more honest than a confident emendation. Case names are
+set in small capitals; Latin and Law-French terms are italicized where the original used a distinct
+typeface. Both of Worrall's tables have been reproduced with hyperlinks to the relevant verses. A
+handful of entries in those tables do not correspond to any couplet in the text: *Yong's (Dame)
+Case*, indexed at Part VII, folio 16, appears to have been omitted from the versification, or lost
+from the manuscript before Worrall obtained it. *Clark and Penifather's Case*, indexed at Part IV,
+folio 23, is presumably subsumed under the Copyhold Cases at that folio. Where folio numbers in the
+tables disagree with those in the verses, both have been preserved without emendation.
+
+¶10 Whether this poem deserves the labor of digitization is a question I am content to leave open.
+It is not a great poem, nor even a particularly good one. But it captures something about the
+relationship between law and memory that more sophisticated jurisprudence tends to forget. The
+common law was, for most of its history, an oral tradition, committed to writing only fitfully and
+imperfectly. Coke's *Reports* were an attempt to fix in text what had been fluid in practice; the
+anonymous versification pushed the fixation one step further, into the ear, into the rhythm of
+speech, into the body. That the attempt now seems quaint does not mean it was misguided. It means
+only that we have found other prostheses. Coke's artificial reason required long study and
+experience. The versifier's artificial memory required a knack for rhyme. Our artificial
+intelligence requires—well, a great deal of electricity, and someone to say *no, not like that*. The
+king, I suspect, would still be greatly offended.

@@ -1,0 +1,271 @@
+# [hebdomad/part-iv] IV
+From: Hebdomad: A World Historical Shitpost (2022), by Jørgen Agosto Comgall, edited with an
+  introduction by Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/hebdomad.html#part-iv
+
+¶1 *A Caution About Combinatorics*
+
+¶2 *Three Stabs at Geomancy*
+
+¶3 *A Numerological Exercise*
+
+¶4 Predicting History in Light of Human Freedom
+
+¶5 It would be overly fatalistic to close this book with an account of how our contemporary age is
+trapped within itself. Have dropped into place the last jigsaw piece, the keystone in the arc of
+history, the trigger springing the mousetrap that will end our humanity? This we cannot know. We may
+yet live to see the dawning of the eighth age of man—and since we might live to see it dawn, we
+ought to ask what, if anything, we can know about it before it arrives. There is some reason for
+optimism. Eliade, Voegelin, Arendt, McLuhan, Girard: such theorists as these came late in the
+Modernist era, to be sure, but they still anticipated the visage of the age to come, the age in
+which we now live, with more clarity than they had any right to, often despite (or because?) denying
+the objective determinism of history. The foregoing parts of this book have been, in many ways, only
+a belated distillation of these writers' foresight, which with the passing of the years has become
+merely insight. The present part attempts the same predictive task almost a saeculum later.
+
+¶6 Before outlining this book's concrete predictions regarding the eighth age, we must clarify what
+sort of activity these predictive ventures involve. It might seem that we are engaged in something
+like extrapolation. After all, we already have seven data points, from the first seven ages; we need
+only to project them onward into the eighth. But this is incorrect. The addition of the eighth age
+increases the complexity of the historical schema, not by a ratio of 7 to 8, but by a ratio of 1 to
+2. To see why, consider a schema containing only a single age to be perfectly simple, insofar as
+there is only one thing to consider. A two-age schema will not be much more complex; it has only
+three things to consider, the two ages and the relationship between them. With three ages, we must
+consider each age on its own; its relation to each other age; and what binds all three ages
+together—seven items in all. In general, for a schema of N ages, we must consider 2n-1 things. Or,
+perhaps we should say, 2n—for even an ageless schema, a schema without elements, still includes the
+mind that contemplates it.
+
+¶7 In other words, an eight-age schema does not just marginally increase the complexity of a
+seven-age schema: it doubles it, augments it by an order of magnitude, makes it something entirely
+different. We should not take this mathematical language too seriously. There is no absolute measure
+of the complexity of a time and place. The cosmos is fractal, every corner of it infinitely
+compacted. Still, there are degrees of infinity (or so the mathematicians tell us), and there is
+value in the intuition which the combinatorial metaphor provokes. It is a way of saying: if we grasp
+the sequence of history up to a certain point, we do not know almost everything there is to know
+about what comes next; we know only the half of it. We know that the future must be consistent with
+the past, but we do not know the future itself. We cannot plot the seven ages on a chart and fit a
+line to them to see what comes next. To think that we could is a quintessentially Modernist fantasy.
+
+¶8 What we require is not extrapolation, but divination. We pretend to ask *what will the future
+bring?*, when our real question is rather *what should we do?* The future, after all, is up to us,
+in the sense that it results from our choices, despite the fact that we cannot choose it as from a
+menu. Or, in truth, because of that fact: if the future were to be selected from a menu it would not
+be up to us after all, but up to the chef. If the absence of a menu, the truth of our historical
+freedom, is something we cannot bear, it is because it leaves us no way to trace our actions to
+their effects with the clarity necessary to shape history to our desires. Here is where divination
+comes in. Divination serves to translate normative into empirical uncertainty—to bring us from *what
+should we do?* to *what does it say?* Put differently, divination is a way of masking our doubts
+about our own intentions.
+
+¶9 Such self-deception can serve at least three purposes. First, it can introduce an element of
+indeterminacy into the decision-making process, thus evading an opponent's predictive
+efforts—imagine flipping a coin to decide where to press the attack, so your enemy can't read your
+body language beforehand. Second, it can introduce an element of impersonality into the
+decision-making process, thus facilitating cooperation between parties who might otherwise be unable
+to come to agreement—imagine flipping a coin to decide whether you or your opponent will go first,
+so each of you can agree to cede your claim to first priority without losing face. Third, it can
+induce an element of unconsciousness into the decision-making process, thus allowing subconscious
+intentions to express themselves and become available for conscious recognition—imagine flipping a
+coin and pretending to promise to yourself to make it the basis of your decision, so you can see if
+you're willing to be bound by the result. In short, augury can be a tool of war; of law; or of art.
+
+¶10 To scry the future of humanity we require tea leaves, entrails, a flock of birds, a crystal
+ball—some *thing* to which we can attribute the intentions which are in fact ours. But we cannot
+pick at random a prognosticatory totem, say, the shape of the tree outside my window. Such blatant
+arbitrariness undoes the entire enterprise, which requires obscuring the gap between empirical and
+normative uncertainty. It is not enough to use some random method to generate a prediction; we must
+find the choice of predictive method itself plausible; it must feel as if it is not a choice at all,
+but a judgment. Otherwise we find ourselves in an infinite regress: we cannot believe that we should
+do what the augury enjoins until we convince ourselves that the act of augury we performed was
+itself appropriate, which itself requires some further, or rather prior, act of divination.
+
+¶11 When the shamans chose the hunting-grounds by scrying the cracks in the elk's charred
+shoulder-blade, they felt in their own bones that elk knew elk, and that fire made hidden truths
+visible. In our more skeptical age we require a more convincing story of how it is that what we hear
+is the thing speaking to us. Our act of augury must seem to look to the eighth age insofar as it has
+already arrived, such that it is already there for us to know it. The most readily available aspect
+of the age is the number eight. And the fact of it being the eighth age does, it must be admitted,
+charge it with a certain atmosphere. Seven plus one: disrupting apparent finality? Twice four: a
+revival of the fourth age? Two times two times two: a perfect cube, a plunge into the third
+dimension? But while such numerological speculations can entertain, they are ultimately too
+underdetermined. The eighth age being the next age in a line currently comprising ages one, two,
+three, four, five, six, seven—this bare fact alone will not generate the auguries we seek.
+
+¶12 Nor will any of the other sequences discussed in Part III, whether of vessels, buildings,
+persons, or interpretive schemata. Each of these is already too overladen with meaning—and, which is
+much the same thing, too abstract, too devoid of anything besides meaning. It tells us almost
+nothing to say that the eighth age will be more closed, more material, more feminine, than the
+seventh. The thing into which we read should have the concrete roughness of the natural world
+untouched by human intention. Or, at least, it should have the kind of organic complexity we
+associate with the more-than-human. When a poet draws a half-forgotten rhyme from the collective
+word-hoard, or a lawyer cites the statute that has lain in the codebook unread by human eyes for a
+lifetime and a half, or the comms officer transmits a message encoded with a daily key spit out by a
+pseudorandom algorithm, he trusts the presiding muse of his discipline to transform his reliance on
+other men into a source of divine inspiration. No, nothing that has been said thus far will provide
+fit matter for haruspicy; except…
+
+¶13 Reading the Map
+
+¶14 Consider the map accompanying this chapter. It presents in visual form the account given in Part
+III's "Time—Place—Manner" of what it is tempting to call the path of the world-spirit. Of course
+neither the times nor the places this map marks out were found out there in nature; they were chosen
+by the author of this book, to present the proposed world-historical schema in its best light, and
+any patterns they offer for our interpretation cannot say anything except we speak through them. But
+this is only to say that, of war, law, and art, this is clearly an instance of the last. The more
+important fact is that the arc these place-times trace feels (to the author at least) meaning-laden,
+mysterious, congruent with and yet independent of my own design. Perhaps the reader cannot convince
+himself of the map's independent significance; but even if they cannot, we invite them to suspend
+disbelief for duration of the following geomantic enterprise. So—
+
+¶15 Looking at the map, we seek to say what comes next, and when, and where. Regarding "when," see
+how the relative dates follow a clear pattern. A gap of 50100 years, then a gap of 8500, gives a
+ratio of roughly 6. Then gaps of 8500 and 1818 years: ratio of approximately 5. 1818 to 467 is
+roughly 4. 467 to 157 is roughly 3. 157 to 76 is roughly 2. The pattern requires a final ratio of
+roughly one, placing the eighth age's representative date somewhere around 2080 AD (which is not to
+say that the era will not recognizably arrive some time earlier). As for "where," simply notice how
+the arc of history curves north and then west, and accelerates as it goes, alternating between water
+and land; the question becomes, where—and for that matter, what—after the digital ocean of Silicon
+Valley? Three possibilities present themselves.
+
+¶16 First—outer space; the satellite network enmeshing the earth was not a caul, but a traveling
+cloak. Next stop: the Moon, or Mars, as humanity reaches escape velocity. In this telling the even
+stages of history have each been defined by a frontier, whether the verge of the arable river
+valley, the outskirts of Christendom, or the Great American Plains. Up till now, the front along
+which civilization has encountered, subdued, and been itself transformed by that which is outside of
+it has always been intra-human: in the desert lurked the rebellious nomads, and beyond it the holy
+kingdoms of the other river valleys; outside Christendom loomed the unconverted heathen, and, less
+well understood, the falsely converted Mohammedans; on the Great Plains roamed the Injuns, and,
+across the globe, the Russian Communist menace they obscurely symbolized. But the final frontier
+here contemplated is of a different character, so different that there is almost nothing to be said
+about it, for or against.
+
+¶17 The outer-space future pictures humanity gathering up all its strength and hurling itself into
+the abyss between the worlds, there to encounter something truly inhuman. The character of this
+future will depend entirely on the character of this inhuman something. Precisely because it is
+inhuman, it is difficult to say anything more of value about it. Still, we can with some confidence
+draw the following distinction: the inhumanity could be passive, or it could be active. If it is
+passive, if the abyss is simply empty, we might reasonably suspect that it will represent little
+more than a change in scenery, although quantity does have its own kind of quality. Whereas if the
+inhumanity is active, if the abyss contains truly alien life and thought, it seems we will find
+ourselves in one of those futures imagined in midcentury-Modernist pulp fiction, and all will depend
+on what kind of aliens they are.
+
+¶18 Second—inner space; the satellites were indeed the end. There are no worlds left to conquer; we
+have perfectly enmeshed ourselves in a net of own making; time's arrow moves more swiftly only
+because it encounters less resistance; in the end it will circle the globe at the speed of light and
+with just as little force; history will be everywhere and nowhere. It is difficult to distinguish
+this possibility from the claim that there will be no eighth day, that the only way out of the
+contemporary impasse is to go backward, which is to say, collapse. But it is perhaps best understood
+as a prediction that the eighth day will be barren of human life. The contemporary age is the story
+of humanity distorting itself to conform to the digital world it created; the next age will dawn
+when the distortion is completed, whether through digital replacement, genetic modification, or
+simply psychic bestialization. Whatever history remains to be told, it will not be human history.
+
+¶19 The inner-space future can be given a less dismal gloss. The previous paragraph presumed an
+equation between humanity and history, and between the dissipation of historical momentum and the
+depletion of residual humanity. But man has often longed to escape history, and the inner-space
+trajectory might point to just such an escape: it arcs across Europe and America only to drown in
+the Pacific. For hundreds of years men have looked to Oceania for an image of Edenic bliss. To
+endorse this picture of the eighth age is to imagine that digital technology could advance to the
+point where it blended seamlessly into the background, and left us living in a world that seemed the
+perfection of nature. Contemporary hyperreality becomes a facsimile (though not a resurrection) of
+primordial Hyperborea—the insular Tahiti of the soul, the palm at the end of the mind. A future
+fully human, and yet fully alien, because entirely ahistorical.
+
+¶20 Finally—follow the arrow west across the Pacific; it lands in the Orient, the civilized world
+most alien to the story told thus far. India and Arabia diverged from the West in the medieval age,
+when they rejected the humane religion of Christianity in favor of Hindu mysticism or Islamic
+brutalism. But China diverged in the classical, when it failed both to adopt an alphabetic script
+and to develop a critical philosophy. The Middle Kingdom has always exerted an influence on the
+West, through mechanical inventions which only Europe would put to full use, economic demand which
+exerted a gravitational pull on European trade networks, visual abstractions which reshaped European
+high modernist culture. But it has always had the character of a reservoir. To say that the arc of
+history aims at China is to say that it will at last become the stage on which human historical
+consciousness works itself out.
+
+¶21 The Chinese future is not unthinkable. Its doctrinaire communism, from a certain angle, does
+seems a holdover from the modernist age of ideology. But from other, it suggests that China has
+become a recipient and so perhaps a creative interpreter of Western influence, rather than a source
+of innovations it cannot itself fully utilize. It is just barely possible to imagine that Marxism
+with Chinese Characteristics could combine with the best of the Western human sciences into
+something more like a true theory of political economy. We could even imagine a converted Chairman
+becoming the Constantine to a new age of Christendom. Whatever the details of a putative Sinitic
+future, the point to be made here is that to imagine such a future is a fundamentally humanist move.
+It is to insist that human nature is already larger than is dreamt of in our philosophies; that the
+only outside impetus we need to revive the motor of history is one which is itself human, and so not
+actually alien.
+
+¶22 The Eighth Day
+
+¶23     History will not end, nor each nude soul
+    Solitary shed its flesh apparent
+    Of prejudice, grant neighbors their parole,
+    Become to all entirely transparent,
+    a longing lidless eye, a brimming bowl
+    Omniscient, circumspect, inconsequent;
+    No such utopia stoic and free
+    Will come to pass—but nor will it not be.
+
+¶24     Economy will not start, no reagents
+    Atomic all with business transact,
+    In traffic swerve, unswerving in allegiance
+    Only to powers and interests abstract,
+    Their spinning steps drumming a higher sequence
+    Anon to populate, to toil to adapt;
+    One molecule so free an epicure
+    Ne'er will live—but something of its savour.
+
+¶25     No cosmic foam will fill potential space,
+    Inflate to being each thing that might be
+    Sufficient good, considered case by case,
+    'Til each sealed star rises from the debris
+    Separate to flourish, no other rose displace
+    Within the hedgerow of infinity;
+    To multiply in such parti-profusion
+    Cannot chance—but nor is't all illusion.
+
+¶26     No simulacrum will run to a halt,
+    Reveal each object only its own shadows,
+    The computations of its distant fault
+    From that which round the umbral circuit flows
+    Its charge, the real's insensible assault
+    On its despised network of outer boroughs;
+    There can be no ascent above dimension—
+    But, perhaps, somewhat like a de-declension.
+
+¶27     No analog for it will be disclosed,
+    For each thing uttered standing to each other
+    Proportioned, to the original stands posed
+    By transitivity: so were the cover
+    Of one unrent analogon supposed,
+    Its subtle spirit all alike would smother;
+    With figured words the silence to invade
+    Should not be tried—but nor left unessayed.
+
+¶28     Neither will such negation thread the eye,
+    For leaving every word alike unspoken
+    Leaves nothing left except the nonsense sigh
+    Of insight without act, the empty token
+    Of rustling leaves without a double-ply
+    To catch the wind, and the mast-head broken.
+    One should not blankly nullify—but still
+    Some likewise releasing a one shall will.
+
+¶29     Between the Jacobin and Jacobite
+    Peace shall be; and harmonies align
+    Between haphazarder and hypocrite;
+    Communication too shall shine between
+    Countenance of kataphate and apophate;
+    In life's renewed abundance shall begin
+    The lives of wedding guests within the hall
+    Witnessing formalities immortal.
+
+¶30     "The vane on top of the pole revolved
+    In the wind." "Lush fern grow on the lofty rocks."
+    "She blushed when he gave her a white orchid."
+    "They floated on the raft to sun their white backs."
+    "Dull stories make her laugh." "The beetle droned
+    In the hot June sun." "The map had an X
+    That meant nothing." "She called his name many
+    Times." The sentence is for eternity.

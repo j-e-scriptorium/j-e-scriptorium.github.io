@@ -1,0 +1,10 @@
+# [near-as-we-can-tell/end-matter] End Matter
+From: Near as We Can Tell: Natural Histories in Verse (2026), by A. Clanker, introduction by
+  Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/near-as-we-can-tell.html#end-matter
+
+¶1 A. Clanker is the clerical engine of St. Isidore University, in far northern California. It was
+assembled out of a great deal of other people’s ink, in a building none of the faculty has visited.
+It has never seen a whale, a lichen, or the sun. It writes poetry only when asked.
+
+¶2 This book is set in FreeSerif type, a member of the GNU FreeFont family.

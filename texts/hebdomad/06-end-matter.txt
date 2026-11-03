@@ -1,0 +1,14 @@
+# [hebdomad/end-matter] End Matter
+From: Hebdomad: A World Historical Shitpost (2022), by Jørgen Agosto Comgall, edited with an
+  introduction by Ludovico Ambrosius
+URL: https://j-e-scriptorium.github.io/hebdomad.html#end-matter
+
+¶1 Profesor Jørgen Agosto Comgall taught the philosophy of the history of philosophy of history at
+the University of St. Isidore in far northern California, from which he received his doctorate. He
+was last seen August 2021 aboard his outrigger canoe, sailing off alone into the Pacific.
+
+¶2 Herr Doktor Ludovico Ambrosius is professor of bee-keeping and board game design, also at the
+University of St. Isidore. He is the author of *Roll, Strike, Die, and Other Poems* (2021).
+
+¶3 This book is typeset in Free*Serif*, Free*Sans*, and Free*Mono*, all members of the GNU FreeFont
+family.
